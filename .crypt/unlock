@@ -1,0 +1,19 @@
+#!/bin/sh
+# Unlock a fresh clone: decrypt the git-crypt key with your GPG key, then
+# point the filters at the text armor and re-checkout everything.
+set -eu
+cd "$(git rev-parse --show-toplevel)"
+
+git-crypt unlock "$@" 2>/dev/null || true
+if [ ! -f "$(git rev-parse --git-dir)/git-crypt/keys/default" ]; then
+	echo "unlock failed: no git-crypt key for any of your GPG keys" >&2
+	exit 1
+fi
+git config filter.git-crypt.clean    '"$(git rev-parse --show-toplevel)/.crypt/armor" clean'
+git config filter.git-crypt.smudge   '"$(git rev-parse --show-toplevel)/.crypt/armor" smudge'
+git config filter.git-crypt.required true
+git config diff.git-crypt.textconv   '"$(git rev-parse --show-toplevel)/.crypt/armor" diff'
+
+git ls-files -z | xargs -0 rm -f
+git checkout -- .
+echo "unlocked"

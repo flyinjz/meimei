@@ -1,0 +1,8 @@
+# Everything is encrypted with git-crypt except the files listed below.
+* filter=git-crypt diff=git-crypt
+.gitattributes !filter !diff
+.gitignore !filter !diff
+README.md !filter !diff
+LICENSE !filter !diff
+KEYS/** !filter !diff
+.crypt/** !filter !diff

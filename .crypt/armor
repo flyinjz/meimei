@@ -1,0 +1,43 @@
+#!/bin/sh
+# Text armor for git-crypt. Encryption is git-crypt's own (AES-256-CTR,
+# HMAC-SHA1 synthetic IV); this only encodes the ciphertext as base64 so
+# files are readable text on the host instead of binary blobs.
+#
+#   armor clean          plaintext  -> armored ciphertext   (stdin -> stdout)
+#   armor smudge         armored    -> plaintext
+#   armor diff <file>    armored file -> plaintext (for git diff textconv)
+set -eu
+
+HEADER='-----BEGIN MEIMEI ENCRYPTED FILE-----'
+FOOTER='-----END MEIMEI ENCRYPTED FILE-----'
+
+dearmor() {
+	# Pass anything that isn't armored straight through (raw git-crypt or plaintext).
+	tmp=$(mktemp)
+	trap 'rm -f "$tmp"' EXIT
+	cat > "$tmp"
+	if [ "$(head -n 1 "$tmp")" = "$HEADER" ]; then
+		sed -e '1d' -e '$d' "$tmp" | openssl base64 -d
+	else
+		cat "$tmp"
+	fi
+}
+
+case "${1:-}" in
+	clean)
+		printf '%s\n' "$HEADER"
+		git-crypt clean | openssl base64 -e
+		printf '%s\n' "$FOOTER"
+		;;
+	smudge)
+		dearmor | git-crypt smudge
+		;;
+	diff)
+		# git also hands textconv the plaintext working copy; keep that quiet.
+		dearmor < "$2" | git-crypt smudge 2>/dev/null
+		;;
+	*)
+		echo "usage: armor clean|smudge|diff <file>" >&2
+		exit 2
+		;;
+esac
