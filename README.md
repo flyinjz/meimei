@@ -1,10 +1,10 @@
-# meimei
+# i2s
 
 A music player. The source in this repository is encrypted. Commit history is public.
 
 ## Encryption
 
-Every file except `README.md`, `.gitattributes`, `.gitignore`, `.crypt/`, `.git-crypt/` and `KEYS/` is encrypted with [git-crypt](https://github.com/AGWA/git-crypt) before it leaves the author's machine. The ciphertext is then base64-armored by [`.crypt/armor`](.crypt/armor), so on GitHub each file reads as a block of text between `BEGIN/END MEIMEI ENCRYPTED FILE` markers.
+Every file except `README.md`, `.gitattributes`, `.gitignore`, `.crypt/`, `.git-crypt/` and `KEYS/` is encrypted with [git-crypt](https://github.com/AGWA/git-crypt) before it leaves the author's machine. The ciphertext is then base64-armored by [`.crypt/armor`](.crypt/armor), so on GitHub each file reads as a block of text between `BEGIN/END I2S ENCRYPTED FILE` markers.
 
 - Cipher: AES-256-CTR with an HMAC-SHA1 synthetic IV, from git-crypt. The armor only changes the encoding. It adds no security and removes none.
 - The symmetric key exists only on authorised machines. The copies in `.git-crypt/keys/` are wrapped to the authorised GPG keys.

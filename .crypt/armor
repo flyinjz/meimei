@@ -8,15 +8,18 @@
 #   armor diff <file>    armored file -> plaintext (for git diff textconv)
 set -eu
 
-HEADER='-----BEGIN MEIMEI ENCRYPTED FILE-----'
-FOOTER='-----END MEIMEI ENCRYPTED FILE-----'
+HEADER='-----BEGIN I2S ENCRYPTED FILE-----'
+FOOTER='-----END I2S ENCRYPTED FILE-----'
+# Files written before the rename carry this marker; still read them.
+OLD_HEADER='-----BEGIN MEIMEI ENCRYPTED FILE-----'
 
 dearmor() {
 	# Pass anything that isn't armored straight through (raw git-crypt or plaintext).
 	tmp=$(mktemp)
 	trap 'rm -f "$tmp"' EXIT
 	cat > "$tmp"
-	if [ "$(head -n 1 "$tmp")" = "$HEADER" ]; then
+	first=$(head -n 1 "$tmp")
+	if [ "$first" = "$HEADER" ] || [ "$first" = "$OLD_HEADER" ]; then
 		sed -e '1d' -e '$d' "$tmp" | openssl base64 -d
 	else
 		cat "$tmp"
