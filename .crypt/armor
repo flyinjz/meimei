@@ -29,7 +29,8 @@ dearmor() {
 case "${1:-}" in
 	clean)
 		printf '%s\n' "$HEADER"
-		git-crypt clean | openssl base64 -e
+		# Some openssl builds (Git for Windows) end lines with CRLF; armor is LF only.
+		git-crypt clean | openssl base64 -e | tr -d '\r'
 		printf '%s\n' "$FOOTER"
 		;;
 	smudge)
