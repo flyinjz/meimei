@@ -9,8 +9,7 @@ Every file except `README.md`, `.gitattributes`, `.gitignore`, `.crypt/`, `.git-
 - Cipher: AES-256-CTR with an HMAC-SHA1 synthetic IV, from git-crypt. The armor only changes the encoding. It adds no security and removes none.
 - The symmetric key exists only on authorised machines. The copies in `.git-crypt/keys/` are wrapped to the authorised GPG keys.
 - GitHub stores and serves ciphertext only. Without a key, a clone contains only the armored text.
-- File names are random and meaningless; the real layout is kept off the repository.
-- Visible in plaintext: the opaque file names, approximate file sizes, commit messages, authors and timestamps.
+- Visible in plaintext: file and folder names, approximate file sizes, commit messages, authors and timestamps.
 - Encryption is deterministic: identical plaintext gives identical ciphertext, so unchanged files can be spotted.
 
 ## Signing
