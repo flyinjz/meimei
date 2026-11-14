@@ -15,7 +15,7 @@ import Foundation
 // On macOS this file compiles into the app too; nothing there calls it.
 
 /// Bumped whenever a function's meaning or a JSON shape changes.
-let coreInterfaceVersion = 3
+let coreInterfaceVersion = 4
 
 private func duplicate(_ s: String) -> UnsafeMutablePointer<CChar>? {
     #if os(Windows)
@@ -107,7 +107,9 @@ public func i2s_history_open(_ dir: UnsafePointer<CChar>?,
 @_cdecl("i2s_history_close")
 public func i2s_history_close(_ h: OpaquePointer?) {
     guard let h else { return }
-    Unmanaged<HistoryHandle>.fromOpaque(UnsafeRawPointer(h)).release()
+    let handle = Unmanaged<HistoryHandle>.fromOpaque(UnsafeRawPointer(h))
+    handle.takeUnretainedValue().log.close()
+    handle.release()
 }
 
 /// What reading the history found:
@@ -606,4 +608,207 @@ public func i2s_library_albums_json(_ h: OpaquePointer?) -> UnsafeMutablePointer
         if let p = a.artworkFilePath { o["artworkFilePath"] = p }
         return o
     })
+}
+
+// MARK: Library changes (interface 4)
+
+/// Adds tracks read from files (library.json track shape). Tracks whose file
+/// is already in the library are skipped; the library stays in library
+/// order, and tracks without a cover take their album's. Returns how many
+/// were added, or -1 + *error.
+@_cdecl("i2s_library_add_tracks_json")
+public func i2s_library_add_tracks_json(_ h: OpaquePointer?, _ tracksJSON: UnsafePointer<CChar>?,
+                                        _ errorOut: UnsafeMutablePointer<UnsafeMutablePointer<CChar>?>?) -> Int32 {
+    guard let l = library(h), let text = string(tracksJSON) else { fail("no library or tracks", errorOut); return -1 }
+    let incoming: [Track]
+    do { incoming = try JSONDecoder().decode([Track].self, from: Data(text.utf8)) }
+    catch { fail("tracks can't be read: \(decodingProblem(error))", errorOut); return -1 }
+    var known = Set(l.tracks.map(\.filePath))
+    var added = 0
+    for t in incoming where known.insert(t.filePath).inserted {
+        l.tracks.append(t)
+        added += 1
+    }
+    guard added > 0 else { return 0 }
+    // Tracks without art inherit the cover of another track on their album.
+    var cover: [String: String] = [:]
+    for t in l.tracks { if let p = t.artworkFilePath, cover[t.albumKey] == nil { cover[t.albumKey] = p } }
+    for i in l.tracks.indices where l.tracks[i].artworkFilePath == nil {
+        if let p = cover[l.tracks[i].albumKey] { l.tracks[i].artworkFilePath = p }
+    }
+    l.tracks.sort(by: Track.libraryOrder)
+    l.rebuild()
+    return Int32(added)
+}
+
+/// The file paths already in the library (JSON array), so a scan reads only new files.
+@_cdecl("i2s_library_file_paths_json")
+public func i2s_library_file_paths_json(_ h: OpaquePointer?) -> UnsafeMutablePointer<CChar>? {
+    library(h).flatMap { encoded($0.tracks.map(\.filePath)) }
+}
+
+private func ids(_ p: UnsafePointer<CChar>?) -> Set<UUID> {
+    guard let s = string(p), let list = try? JSONDecoder().decode([String].self, from: Data(s.utf8)) else { return [] }
+    return Set(list.compactMap(UUID.init(uuidString:)))
+}
+
+/// Likes or unlikes tracks (JSON array of ids).
+@_cdecl("i2s_library_set_liked")
+public func i2s_library_set_liked(_ h: OpaquePointer?, _ idsJSON: UnsafePointer<CChar>?, _ liked: Int32) {
+    guard let l = library(h) else { return }
+    for id in ids(idsJSON) { if let i = l.index[id] { l.tracks[i].liked = liked != 0 } }
+}
+
+/// A listen was sealed into the history: one more play, last played at
+/// `at` (seconds since 1970).
+@_cdecl("i2s_library_record_play")
+public func i2s_library_record_play(_ h: OpaquePointer?, _ id: UnsafePointer<CChar>?, _ at: Double) {
+    guard let l = library(h), let s = string(id), let uuid = UUID(uuidString: s), let i = l.index[uuid] else { return }
+    let date = Date(timeIntervalSince1970: at)
+    l.tracks[i].playCount += 1
+    l.tracks[i].lastPlayedAt = max(l.tracks[i].lastPlayedAt ?? date, date)
+}
+
+/// Removes tracks from the library and every playlist (files are untouched).
+@_cdecl("i2s_library_remove_tracks")
+public func i2s_library_remove_tracks(_ h: OpaquePointer?, _ idsJSON: UnsafePointer<CChar>?) {
+    guard let l = library(h) else { return }
+    let gone = ids(idsJSON)
+    guard !gone.isEmpty else { return }
+    for i in l.playlists.indices { l.playlists[i].trackIDs.removeAll { gone.contains($0) } }
+    l.tracks.removeAll { gone.contains($0.id) }
+    l.rebuild()
+}
+
+/// The app's starter smart playlists (Hi-Res, Recently Added, Unplayed),
+/// added once on first launch when missing.
+@_cdecl("i2s_library_seed_starter_playlists")
+public func i2s_library_seed_starter_playlists(_ h: OpaquePointer?) {
+    guard let l = library(h) else { return }
+    let starters: [(String, [SmartRule], SmartOrder)] = [
+        ("Hi-Res", [SmartRule(field: .hiRes, op: .isTrue)], .library),
+        ("Recently Added", [SmartRule(field: .addedDaysAgo, op: .lte, value: "30")], .recentlyAdded),
+        ("Unplayed", [SmartRule(field: .playCount, op: .equals, value: "0")], .library)
+    ]
+    for (name, rules, order) in starters where !l.playlists.contains(where: { $0.isSmart && $0.name == name }) {
+        l.playlists.append(Playlist(name: name, isSmart: true, rules: rules, isBuiltIn: true, smartOrder: order))
+    }
+}
+
+/// Playlist changes, as the Mac's LibraryStore makes them. `op_json`:
+/// {"op":"create","name","trackIDs"} (returns the new id),
+/// {"op":"rename","id","name"}, {"op":"delete","id"},
+/// {"op":"add","id","trackIDs"} (manual only, no duplicates),
+/// {"op":"remove","id","trackIDs"}, {"op":"move","id","trackIDs","index"}.
+/// Returns the playlist id, or NULL + *error.
+@_cdecl("i2s_library_playlist_edit_json")
+public func i2s_library_playlist_edit_json(_ h: OpaquePointer?, _ opJSON: UnsafePointer<CChar>?,
+                                           _ errorOut: UnsafeMutablePointer<UnsafeMutablePointer<CChar>?>?) -> UnsafeMutablePointer<CChar>? {
+    guard let l = library(h), let s = string(opJSON),
+          let o = (try? JSONSerialization.jsonObject(with: Data(s.utf8))) as? [String: Any],
+          let op = o["op"] as? String else { fail("no library or operation", errorOut); return nil }
+    let trackIDs = ((o["trackIDs"] as? [String]) ?? []).compactMap(UUID.init(uuidString:))
+    if op == "create" {
+        let name = ((o["name"] as? String) ?? "").trimmingCharacters(in: .whitespacesAndNewlines)
+        let p = Playlist(name: name.isEmpty ? "New Playlist" : name, trackIDs: trackIDs)
+        l.playlists.append(p)
+        return cString(p.id.uuidString)
+    }
+    guard let idText = o["id"] as? String, let id = UUID(uuidString: idText),
+          let i = l.playlists.firstIndex(where: { $0.id == id }) else { fail("no such playlist", errorOut); return nil }
+    switch op {
+    case "rename":
+        let name = ((o["name"] as? String) ?? "").trimmingCharacters(in: .whitespacesAndNewlines)
+        if !name.isEmpty { l.playlists[i].name = name }
+    case "delete":
+        l.playlists.remove(at: i)
+    case "add":
+        guard !l.playlists[i].isSmart else { break }
+        var existing = Set(l.playlists[i].trackIDs)
+        for t in trackIDs where existing.insert(t).inserted { l.playlists[i].trackIDs.append(t) }
+    case "remove":
+        let gone = Set(trackIDs)
+        l.playlists[i].trackIDs.removeAll { gone.contains($0) }
+    case "move":
+        let index = (o["index"] as? Int) ?? 0
+        let moving = Set(trackIDs)
+        let list = l.playlists[i].trackIDs
+        let before = list.prefix(index).filter { !moving.contains($0) }
+        let after = list.dropFirst(index).filter { !moving.contains($0) }
+        l.playlists[i].trackIDs = Array(before) + list.filter { moving.contains($0) } + Array(after)
+    default:
+        fail("unknown operation \(op)", errorOut); return nil
+    }
+    return cString(id.uuidString)
+}
+
+/// Writes library.json (atomically). 0 = ok, else 1 + *error.
+@_cdecl("i2s_library_save")
+public func i2s_library_save(_ h: OpaquePointer?, _ path: UnsafePointer<CChar>?,
+                             _ errorOut: UnsafeMutablePointer<UnsafeMutablePointer<CChar>?>?) -> Int32 {
+    guard let l = library(h), let p = string(path) else { fail("no library or path", errorOut); return 1 }
+    do {
+        try LibraryFile(tracks: l.tracks, playlists: l.playlists).encoded().write(to: URL(fileURLWithPath: p), options: .atomic)
+        return 0
+    } catch {
+        fail("library file can't be written: \(error.localizedDescription)", errorOut); return 1
+    }
+}
+
+/// The table's rows for a source: like `i2s_library_view_json`, then grouped
+/// (`group_by`: "none", "album", "albumArtist", "genre", "year"). A JSON
+/// array of `{"t": index, "s": stripe}` for tracks and
+/// `{"h": title, "d": detail}` for group headers.
+@_cdecl("i2s_library_rows_json")
+public func i2s_library_rows_json(_ h: OpaquePointer?, _ sourceKey: UnsafePointer<CChar>?, _ filterText: UnsafePointer<CChar>?,
+                                  _ sortKey: UnsafePointer<CChar>?, _ ascending: Int32, _ groupBy: UnsafePointer<CChar>?,
+                                  _ errorOut: UnsafeMutablePointer<UnsafeMutablePointer<CChar>?>?) -> UnsafeMutablePointer<CChar>? {
+    guard let l = library(h) else { fail("no library", errorOut); return nil }
+    guard let source = LibrarySource(key: string(sourceKey) ?? "all") else { fail("unknown source", errorOut); return nil }
+    var list = LibraryRules.base(for: source, tracks: l.tracks,
+                                 playlist: { id in l.playlists.first { $0.id == id } }, contents: l.contents)
+    let words = LibraryRules.searchWords(string(filterText) ?? "")
+    if !words.isEmpty {
+        list = list.filter { t in
+            let hay = l.index[t.id].map { l.haystack[$0] } ?? LibraryRules.searchHaystack(t)
+            return words.allSatisfy { hay.contains($0) }
+        }
+    }
+    if let key = string(sortKey), !key.isEmpty { list = TrackSort.sorted(list, key: key, ascending: ascending != 0) }
+    let mode = TableGroupMode(rawValue: string(groupBy) ?? "none") ?? .none
+    return json(LibraryRow.build(from: list, groupBy: mode).map { row -> [String: Any] in
+        switch row {
+        case .header(let title, let detail): return ["h": title, "d": detail]
+        case .track(let t, let stripe): return ["t": l.index[t.id] ?? -1, "s": stripe ? 1 : 0]
+        }
+    })
+}
+
+/// Records a listen of a library track: `heard` seconds of audible time
+/// between `started_at` and `ended_at` (seconds since 1970). Builds the
+/// listen the app's way (track key, display artist, this device) and seals
+/// it. Returns 0 when recorded, 2 when it wasn't long enough to count, or 1
+/// with *error.
+@_cdecl("i2s_history_record_track")
+public func i2s_history_record_track(_ h: OpaquePointer?, _ lib: OpaquePointer?, _ trackID: UnsafePointer<CChar>?,
+                                     _ startedAt: Double, _ endedAt: Double, _ heard: Double,
+                                     _ errorOut: UnsafeMutablePointer<UnsafeMutablePointer<CChar>?>?) -> Int32 {
+    guard let log = handle(h)?.log, let l = library(lib) else { fail("no history or library", errorOut); return 1 }
+    guard let s = string(trackID), let id = UUID(uuidString: s), let i = l.index[id] else { fail("no such track", errorOut); return 1 }
+    let t = l.tracks[i]
+    guard ListenRules.counts(heard: heard, duration: t.duration) else { return 2 }
+    let listen = Listen(id: UUID(), trackID: t.id, trackKey: Listen.key(for: t), title: t.title,
+                        artist: t.displayArtist, album: t.album, albumArtist: t.albumArtist,
+                        trackDuration: t.duration, startedAt: Date(timeIntervalSince1970: startedAt),
+                        endedAt: Date(timeIntervalSince1970: endedAt), heardSeconds: heard, device: log.identity.device)
+    do {
+        try log.append(listen)
+        l.tracks[i].playCount += 1
+        l.tracks[i].lastPlayedAt = max(l.tracks[i].lastPlayedAt ?? listen.endedAt, listen.endedAt)
+        return 0
+    } catch ListenLog.Failure.implausible(let why) {
+        fail("not recorded: \(why)", errorOut); return 1
+    } catch {
+        fail("not recorded: \(error)", errorOut); return 1
+    }
 }

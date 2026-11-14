@@ -25,7 +25,7 @@ extern "C" {
 
 void  i2s_free(char *p);
 
-/* {"interface": 3, "history": "I2SH 1"} */
+/* {"interface": 4, "history": "I2SH 1"} */
 char *i2s_core_version(void);
 
 /* Runs the core's checks in scratch_dir, printing each result to stdout.
@@ -61,6 +61,14 @@ int32_t i2s_history_append_json(i2s_history *h, const char *listen_json, char **
 /* 1 if hearing `heard` seconds of a `duration`-second track is a listen
    (half the track or 4 minutes; tracks of 30 s or more), else 0. */
 int32_t i2s_listen_counts(double heard, double duration);
+
+/* Records a listen of a library track (interface 4): `heard` audible seconds
+   between started_at and ended_at (seconds since 1970). The core builds the
+   listen (track key, artist, this device), seals it and counts the play in
+   the library. 0 = recorded, 2 = too short to count, 1 = error (*error). */
+typedef struct i2s_library i2s_library;
+int32_t i2s_history_record_track(i2s_history *h, i2s_library *l, const char *track_id,
+                                 double started_at, double ended_at, double heard, char **error);
 
 /* ---- Profile ---- */
 
@@ -167,6 +175,34 @@ char   *i2s_library_view_json(i2s_library *l, const char *source_key, const char
                               const char *sort_key, int32_t ascending, char **error);
 /* [{"key","title","artist","year","artworkFilePath","trackCount","duration"}] */
 char   *i2s_library_albums_json(i2s_library *l);
+
+/* ---- Library changes (interface 4) ---- */
+
+/* Adds tracks read from files (library.json track shape, JSON array); files
+   already in the library are skipped; library order kept; tracks without a
+   cover take their album's. Returns the number added, or -1 + *error. */
+int32_t i2s_library_add_tracks_json(i2s_library *l, const char *tracks_json, char **error);
+/* JSON array of the file paths already in the library. */
+char   *i2s_library_file_paths_json(i2s_library *l);
+/* ids_json: JSON array of track ids. */
+void    i2s_library_set_liked(i2s_library *l, const char *ids_json, int32_t liked);
+/* One more play for a track, last played at `at` (seconds since 1970). */
+void    i2s_library_record_play(i2s_library *l, const char *track_id, double at);
+/* Removes tracks from the library and every playlist (files untouched). */
+void    i2s_library_remove_tracks(i2s_library *l, const char *ids_json);
+/* Adds the starter smart playlists (Hi-Res, Recently Added, Unplayed) if missing. */
+void    i2s_library_seed_starter_playlists(i2s_library *l);
+/* Playlist changes: {"op":"create","name","trackIDs"}, {"op":"rename","id","name"},
+   {"op":"delete","id"}, {"op":"add"|"remove","id","trackIDs"},
+   {"op":"move","id","trackIDs","index"}. Returns the playlist id or NULL + *error. */
+char   *i2s_library_playlist_edit_json(i2s_library *l, const char *op_json, char **error);
+/* Writes library.json atomically. 0 = ok, else 1 + *error. */
+int32_t i2s_library_save(i2s_library *l, const char *path, char **error);
+/* The table's rows: the view (as i2s_library_view_json) grouped by group_by
+   ("none","album","albumArtist","genre","year"):
+   [{"t":index,"s":stripe} | {"h":title,"d":detail}]. */
+char   *i2s_library_rows_json(i2s_library *l, const char *source_key, const char *filter_text,
+                              const char *sort_key, int32_t ascending, const char *group_by, char **error);
 
 #ifdef __cplusplus
 }
