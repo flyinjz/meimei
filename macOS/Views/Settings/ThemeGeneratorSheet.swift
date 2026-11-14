@@ -1,196 +1,207 @@
------BEGIN I2S ENCRYPTED FILE-----
-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
------END I2S ENCRYPTED FILE-----
+import SwiftUI
+
+/// The "generate a theme" prompt: at least 8 colors in, a live preview of
+/// the theme they make, and a name. Opened from the themes list.
+struct ThemeGeneratorSheet: View {
+    @ObservedObject var theme: ThemeManager
+    var skin: Skin
+    var onDone: () -> Void
+
+    @ObservedObject private var saved = SavedColors.shared
+    @State private var name = "Generated"
+    @State private var colors: [UInt32]
+    @State private var selected = 0
+    @State private var mode: ThemeGenerator.Mode = .dark
+    @State private var pasted = ""
+
+    private static let maxColors = 16
+
+    init(theme: ThemeManager, skin: Skin, onDone: @escaping () -> Void) {
+        self.theme = theme
+        self.skin = skin
+        self.onDone = onDone
+        let saved = SavedColors.shared.colors
+        _colors = State(initialValue: saved.count >= ThemeGenerator.minimumColors
+            ? Array(saved.prefix(Self.maxColors))
+            : [skin.bgVoid, skin.bgPanel, skin.bgRaised, skin.hairline,
+               skin.textTertiary, skin.textSecondary, skin.textPrimary, skin.accent].map { $0.toHex() })
+    }
+
+    private var distinct: Int { Set(colors).count }
+    private var generated: CustomTheme? { ThemeGenerator.generate(name: name, colors: colors, mode: mode) }
+
+    var body: some View {
+        VStack(spacing: 0) {
+            DialogHeader(title: "Generate a theme",
+                         subtitle: "At least 8 colors. The darkest become backgrounds, the lightest text, the most vivid the accent.",
+                         skin: skin)
+            HStack(alignment: .top, spacing: 16) {
+                VStack(alignment: .leading, spacing: 12) {
+                    slots
+                    CustomColorPickerPanel(hex: Binding(get: { colors[selected] }, set: { colors[selected] = $0 }), skin: skin)
+                        .id(selected)
+                    sources
+                }
+                .frame(width: 300)
+                VStack(alignment: .leading, spacing: 12) {
+                    Text("name").font(AppFont.ui(10)).foregroundStyle(skin.textTertiary)
+                    DialogTextField(placeholder: "Theme name", text: $name, skin: skin)
+                    Text("mode").font(AppFont.ui(10)).foregroundStyle(skin.textTertiary)
+                    SettingsSegmented(options: ThemeGenerator.Mode.allCases, selection: $mode, label: \.label, skin: skin)
+                    Text("preview").font(AppFont.ui(10)).foregroundStyle(skin.textTertiary)
+                    if let generated {
+                        ThemePreview(theme: generated)
+                    } else {
+                        Text("Add \(ThemeGenerator.minimumColors - distinct) more different color\(ThemeGenerator.minimumColors - distinct == 1 ? "" : "s").")
+                            .font(AppFont.ui(11)).foregroundStyle(skin.textTertiary)
+                            .frame(maxWidth: .infinity, minHeight: 180)
+                            .overlay(Rectangle().strokeBorder(skin.textPrimary.opacity(0.14), style: StrokeStyle(lineWidth: 1, dash: [3, 3])))
+                    }
+                    Spacer(minLength: 0)
+                }
+                .frame(width: 260)
+            }
+            .padding(.horizontal, 18)
+            HStack {
+                Text("[\(distinct) color\(distinct == 1 ? "" : "s")]").font(AppFont.ui(11)).foregroundStyle(skin.textTertiary)
+                Spacer()
+                DialogButton(title: "Cancel", skin: skin, action: onDone)
+                DialogButton(title: "Create theme", prominent: true, enabled: generated != nil, skin: skin) {
+                    guard let generated else { return }
+                    let trimmed = name.trimmingCharacters(in: .whitespaces)
+                    let id = theme.createTheme(named: trimmed.isEmpty ? "Generated" : trimmed, basedOn: generated)
+                    theme.setActive(id)
+                    onDone()
+                }
+            }
+            .padding(18)
+        }
+        .frame(width: 612)
+        .glassSheet(skin)
+        .preferredColorScheme(.dark)
+    }
+
+    // MARK: Slots
+
+    private var slots: some View {
+        VStack(alignment: .leading, spacing: 6) {
+            Text("colors").font(AppFont.ui(10)).foregroundStyle(skin.textTertiary)
+            LazyVGrid(columns: Array(repeating: GridItem(.fixed(30), spacing: 6), count: 8), alignment: .leading, spacing: 6) {
+                ForEach(colors.indices, id: \.self) { i in
+                    Button { selected = i } label: {
+                        Color(hex: colors[i])
+                            .frame(width: 30, height: 30)
+                            .overlay(Rectangle().strokeBorder(i == selected ? skin.accent : skin.textPrimary.opacity(0.22),
+                                                              lineWidth: i == selected ? 2 : 1))
+                    }
+                    .buttonStyle(PressDipStyle())
+                    .help("#" + colors[i].hexString + (colors.count > ThemeGenerator.minimumColors ? " · right-click to remove" : ""))
+                    .appContextMenu {
+                        MenuContent(title: "#" + colors[i].hexString, entries: [
+                            .action("Remove", glyph: "trash", destructive: true,
+                                    enabled: colors.count > ThemeGenerator.minimumColors) { remove(i) },
+                        ])
+                    }
+                }
+                if colors.count < Self.maxColors {
+                    Button {
+                        colors.append(colors[selected])
+                        selected = colors.count - 1
+                    } label: {
+                        Glyph("plus", size: 11)
+                            .foregroundStyle(skin.textSecondary)
+                            .frame(width: 30, height: 30)
+                            .overlay(Rectangle().strokeBorder(skin.textPrimary.opacity(0.22), style: StrokeStyle(lineWidth: 1, dash: [3, 3])))
+                    }
+                    .buttonStyle(PressDipStyle())
+                    .help("Add a color (up to \(Self.maxColors))")
+                }
+            }
+        }
+    }
+
+    private var sources: some View {
+        VStack(alignment: .leading, spacing: 6) {
+            Text("or fill from").font(AppFont.ui(10)).foregroundStyle(skin.textTertiary)
+            HStack(spacing: 6) {
+                DialogTextField(placeholder: "Paste hex codes…", text: $pasted, skin: skin)
+                    .onSubmit(applyPasted)
+                DialogButton(title: "Use", skin: skin, action: applyPasted)
+            }
+            DialogButton(title: "Saved colors (\(saved.colors.count))", enabled: !saved.colors.isEmpty, skin: skin) {
+                fill(saved.colors)
+            }
+        }
+    }
+
+    private func applyPasted() {
+        fill(ThemeGenerator.parseHexList(pasted))
+        pasted = ""
+    }
+
+    private func fill(_ list: [UInt32]) {
+        guard !list.isEmpty else { return }
+        var unique: [UInt32] = []
+        for c in list where !unique.contains(c) { unique.append(c) }
+        // Fewer than eight keep the current ones after them.
+        let padded = unique + colors.filter { !unique.contains($0) }
+        colors = Array(padded.prefix(Self.maxColors))
+        selected = 0
+    }
+
+    private func remove(_ i: Int) {
+        guard colors.count > ThemeGenerator.minimumColors else { return }
+        colors.remove(at: i)
+        selected = min(selected, colors.count - 1)
+    }
+}
+
+/// A miniature window in a theme's colors: a panel, rows, text levels, and
+/// an accent button.
+private struct ThemePreview: View {
+    var theme: CustomTheme
+
+    var body: some View {
+        let s = theme.makeSkin()
+        VStack(alignment: .leading, spacing: 0) {
+            HStack {
+                Text("library").font(AppFont.ui(9.5)).foregroundStyle(s.textTertiary)
+                Spacer()
+                Text("Play")
+                    .font(AppFont.ui(10, weight: .semibold))
+                    .foregroundStyle(s.textOnAccent)
+                    .padding(.horizontal, 8).frame(height: 18)
+                    .background(s.accent)
+            }
+            .padding(8)
+            .background(s.bgPanel)
+            Rectangle().fill(s.hairline).frame(height: 1)
+            row("Track title", "Artist", s.bgRow, s)
+            row("Selected track", "Artist", s.selection, s)
+            row("Another track", "Artist", s.bgRowAlt, s)
+            HStack(spacing: 6) {
+                Rectangle().fill(s.accent).frame(width: 40, height: 3)
+                Rectangle().fill(s.accentDim).frame(width: 60, height: 3)
+                Spacer()
+                Text("2:55").font(AppFont.ui(9.5)).foregroundStyle(s.textTertiary)
+            }
+            .padding(8)
+            .background(s.bgRaised)
+        }
+        .padding(8)
+        .background(s.bgVoid)
+        .overlay(Rectangle().strokeBorder(s.hairline, lineWidth: 1))
+    }
+
+    private func row(_ title: String, _ artist: String, _ bg: Color, _ s: Skin) -> some View {
+        HStack {
+            Text(title).foregroundStyle(s.textPrimary)
+            Spacer()
+            Text(artist).foregroundStyle(s.textSecondary)
+        }
+        .font(AppFont.ui(10.5))
+        .padding(.horizontal, 8)
+        .frame(height: 22)
+        .background(bg)
+    }
+}

@@ -1,162 +1,182 @@
------BEGIN I2S ENCRYPTED FILE-----
-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
-dMxloKZexlD9XR3tB5NtmT89VqYf2jwsFlg=
------END I2S ENCRYPTED FILE-----
+import Foundation
+
+// MARK: - Colours with alpha
+
+/// An sRGB colour with opacity, components 0…1. What every surface and text
+/// level resolves to, on every platform.
+struct RGBA: Codable, Equatable {
+    var r: Double, g: Double, b: Double, a: Double
+
+    init(r: Double, g: Double, b: Double, a: Double = 1) { self.r = r; self.g = g; self.b = b; self.a = a }
+
+    init(hex: UInt32, alpha: Double = 1) {
+        r = Double((hex >> 16) & 0xFF) / 255
+        g = Double((hex >> 8) & 0xFF) / 255
+        b = Double(hex & 0xFF) / 255
+        a = alpha
+    }
+
+    static let white = RGBA(r: 1, g: 1, b: 1)
+    static let black = RGBA(r: 0, g: 0, b: 0)
+    static let clear = RGBA(r: 0, g: 0, b: 0, a: 0)
+
+    /// The same colour at `opacity` times its alpha.
+    func opacity(_ opacity: Double) -> RGBA { RGBA(r: r, g: g, b: b, a: a * opacity) }
+
+    /// WCAG relative luminance of a 24-bit colour.
+    static func luminance(_ hex: UInt32) -> Double {
+        let c = RGBA(hex: hex)
+        func lin(_ v: Double) -> Double { v <= 0.03928 ? v / 12.92 : pow((v + 0.055) / 1.055, 2.4) }
+        return 0.2126 * lin(c.r) + 0.7152 * lin(c.g) + 0.0722 * lin(c.b)
+    }
+}
+
+extension GrayTone {
+    /// The tone's gray at `white` as a colour.
+    func color(_ white: Double) -> RGBA { let c = rgb(white); return RGBA(r: c.red, g: c.green, b: c.blue) }
+}
+
+// MARK: - The skin every view draws with
+
+/// The theme after the design tokens and settings are applied: a monochrome
+/// tonal scale for every surface and text level, hue only from the accent,
+/// and the glass and corner-tick values.
+struct StyledSkin: Equatable {
+    var bgVoid, bgPanel, bgRow, bgRowAlt, bgRaised, hairline: RGBA
+    var textPrimary, textSecondary, textTertiary, textOnAccent: RGBA
+    var accent, accentDim, accentGlow: RGBA
+    var lcdOn, lcdOff, lcdBackground: RGBA
+    var selection, hover: RGBA
+    /// Surfaces are glass panes over the backdrop rather than fills.
+    var isGlass: Bool
+    /// Panels and the table stay translucent so the backdrop shows through.
+    var allowsBackdropBleed: Bool
+    var panelOpacity: Double
+    var borderWidth: Double
+    var showTicks: Bool
+    var tickLength: Double
+    /// The window backdrop actually shown.
+    var backdrop: BackdropStyle
+    /// Whether the accent colours came from the design tokens rather than the theme.
+    var accentOverridden: Bool
+}
+
+enum SkinRules {
+    /// The live cover theme's skin id: its surfaces are always glass and its backdrop the cover.
+    static let liveCoverID = "from-cover-live"
+
+    /// The skin to draw with. `accent`, `accentDim`, `accentGlow` and
+    /// `textOnAccent` are the theme's own (or the live cover's); `skinID`
+    /// is `liveCoverID` for the live cover theme.
+    static func styled(accent: RGBA, accentDim: RGBA, accentGlow: RGBA, textOnAccent: RGBA, skinID: String,
+                       tokens: DesignTokens, settings: AppSettingsData) -> StyledSkin {
+        var accent = accent, accentDim = accentDim, accentGlow = accentGlow, textOnAccent = textOnAccent
+        if let hex = tokens.accent {
+            accent = RGBA(hex: hex)
+            accentDim = RGBA(hex: hex).opacity(0.45)
+            accentGlow = RGBA(hex: hex)
+            textOnAccent = RGBA.luminance(hex) > 0.55 ? RGBA.black.opacity(0.85) : .white
+        }
+        let tone = tokens.tone
+        let ink = tone.color(0.92)
+        let glass = settings.surfaceStyle == .glass || skinID == liveCoverID
+        return StyledSkin(
+            bgVoid: tone.color(0.04),
+            bgPanel: glass ? .clear : tone.color(0.07),
+            bgRow: glass ? .clear : tone.color(0.055),
+            bgRowAlt: RGBA.white.opacity(0.025),
+            bgRaised: RGBA.white.opacity(0.05),
+            hairline: RGBA.white.opacity(0.14 * settings.hairlineOpacity),
+            textPrimary: ink,
+            textSecondary: ink.opacity(0.62),
+            textTertiary: ink.opacity(0.4),
+            textOnAccent: textOnAccent,
+            accent: accent, accentDim: accentDim, accentGlow: accentGlow,
+            lcdOn: ink,
+            lcdOff: RGBA.white.opacity(0.12),
+            lcdBackground: RGBA.black.opacity(0.3),
+            selection: accent.opacity(0.18),
+            hover: RGBA.white.opacity(0.05),
+            isGlass: glass,
+            allowsBackdropBleed: glass,
+            panelOpacity: tokens.panelOpacity,
+            borderWidth: tokens.borderWidth,
+            showTicks: tokens.cornerTicks,
+            tickLength: tokens.tickLength,
+            backdrop: effectiveBackdrop(skinID: skinID, settings: settings),
+            accentOverridden: tokens.accent != nil
+        )
+    }
+
+    /// The live cover theme always sits on the blurred cover.
+    static func effectiveBackdrop(skinID: String, settings: AppSettingsData) -> BackdropStyle {
+        skinID == liveCoverID ? .artwork : settings.backdropStyle
+    }
+}
+
+// MARK: - Stored themes
+
+enum ThemeLibrary {
+    /// The stored theme list as the app uses it: the starter themes when
+    /// nothing is stored; otherwise the stored themes with catalog themes the
+    /// user doesn't have yet added (by stable id), and catalog grouping
+    /// restored on the ones they do, colours untouched.
+    static func merged(_ stored: [CustomTheme]) -> [CustomTheme] {
+        guard !stored.isEmpty else { return CustomTheme.starterThemes }
+        let catalog = Dictionary(uniqueKeysWithValues: CustomTheme.starterThemes.map { ($0.id, $0) })
+        var result = stored
+        for i in result.indices {
+            guard let canned = catalog[result[i].id] else { continue }
+            if result[i].category == "Custom" { result[i].category = canned.category }
+            result[i].isAlbumReactive = canned.isAlbumReactive
+        }
+        let have = Set(result.map(\.id))
+        return result + CustomTheme.starterThemes.filter { !have.contains($0.id) }
+    }
+
+    /// The stored active theme if it's in the list, else the first theme.
+    static func activeID(stored raw: String?, in themes: [CustomTheme]) -> UUID {
+        if let raw, let id = UUID(uuidString: raw), themes.contains(where: { $0.id == id }) { return id }
+        return themes.first?.id ?? CustomTheme.fallback.id
+    }
+}
+
+// MARK: - Customize state
+
+/// Everything customize mode stores, in its stored shape.
+struct CustomizeState: Codable, Equatable {
+    var styles: [CustomElement: ElementStyle] = [:]
+    var layout: PaneLayout = .standard
+    var tokens = DesignTokens()
+    var workspaces: [Workspace] = []
+    var activeWorkspaceID: UUID?
+
+    /// Reads stored state; anything unreadable gives the defaults. The layout is normalised.
+    static func read(_ data: Data?) -> CustomizeState {
+        var state = data.flatMap { try? JSONDecoder().decode(CustomizeState.self, from: $0) } ?? CustomizeState()
+        state.layout.normalize()
+        return state
+    }
+}
+
+// MARK: - Font faces
+
+/// Text weights as layout asks for them, before choosing a face.
+enum FaceWeight: String, CaseIterable {
+    case ultraLight, thin, light, regular, medium, semibold, bold, heavy, black
+}
+
+extension AppFontFamily {
+    /// Text below this size draws in the regular face, not the light one.
+    static let regularBelow = 11.0
+
+    /// The bundled face to draw `weight` at `size`: bold for bold and
+    /// heavier, regular for medium and semibold (and small text), light otherwise.
+    func face(size: Double, weight: FaceWeight) -> String {
+        switch weight {
+        case .bold, .heavy, .black: return faces.bold
+        case .medium, .semibold: return faces.regular
+        default: return size < Self.regularBelow ? faces.regular : faces.light
+        }
+    }
+}

@@ -1,54 +1,60 @@
------BEGIN I2S ENCRYPTED FILE-----
-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
-Sy94z/A=
------END I2S ENCRYPTED FILE-----
+import Foundation
+import RavenTunnelC
+
+/// Swift face of Raven Tunnel, the WireGuard tunnel in the Go archive. One
+/// tunnel at a time; Raven reaches it as a SOCKS5 proxy on loopback.
+enum RavenTunnel {
+    struct Summary: Equatable {
+        var endpoint: String
+        var address: String
+    }
+
+    /// Validates a wg-quick config without starting anything.
+    static func describe(_ config: String) -> Result<Summary, TunnelError> {
+        var err: UnsafeMutablePointer<CChar>?
+        let out = config.withCString { RavenTunnelDescribe(UnsafeMutablePointer(mutating: $0), &err) }
+        if let out {
+            defer { RavenTunnelFree(out) }
+            let parts = String(cString: out).split(separator: "|", maxSplits: 1).map(String.init)
+            return .success(Summary(endpoint: parts.first ?? "", address: parts.count > 1 ? parts[1] : ""))
+        }
+        return .failure(TunnelError(take(err) ?? "Invalid configuration."))
+    }
+
+    /// Starts the tunnel; returns the loopback SOCKS5 port.
+    static func start(_ config: String, user: String, password: String) -> Result<UInt16, TunnelError> {
+        var err: UnsafeMutablePointer<CChar>?
+        let port = config.withCString { c in
+            user.withCString { u in
+                password.withCString { p in
+                    RavenTunnelStart(UnsafeMutablePointer(mutating: c), UnsafeMutablePointer(mutating: u),
+                                     UnsafeMutablePointer(mutating: p), &err)
+                }
+            }
+        }
+        if port > 0 { return .success(UInt16(port)) }
+        return .failure(TunnelError(take(err) ?? "The tunnel did not start."))
+    }
+
+    static func stop() { RavenTunnelStop() }
+
+    /// The latest WireGuard handshake, or nil before the first one.
+    static var lastHandshake: Date? {
+        let t = RavenTunnelLastHandshake()
+        return t > 0 ? Date(timeIntervalSince1970: TimeInterval(t)) : nil
+    }
+
+    /// Two WireGuard peers on loopback, traffic through the SOCKS5 endpoint. nil on success.
+    static func selfTest() -> String? { take(RavenTunnelSelfTest()) }
+
+    private static func take(_ p: UnsafeMutablePointer<CChar>?) -> String? {
+        guard let p else { return nil }
+        defer { RavenTunnelFree(p) }
+        return String(cString: p)
+    }
+
+    struct TunnelError: Error, Equatable {
+        let message: String
+        init(_ message: String) { self.message = message }
+    }
+}

@@ -1,81 +1,121 @@
------BEGIN I2S ENCRYPTED FILE-----
-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
------END I2S ENCRYPTED FILE-----
+import SwiftUI
+
+/// Shared chrome for sheets: settings, Get Info, duplicates, playlist editor.
+/// One button and field style so prompts don't fall back to stock macOS controls.
+
+struct DialogHeader: View {
+    var title: String
+    var subtitle: String? = nil
+    var skin: Skin
+
+    var body: some View {
+        VStack(alignment: .leading, spacing: 3) {
+            Text(title)
+                .font(AppFont.ui(15, weight: .semibold))
+                .foregroundStyle(skin.textPrimary)
+            if let subtitle {
+                Text(subtitle)
+                    .font(AppFont.ui(11.5))
+                    .foregroundStyle(skin.textTertiary)
+            }
+        }
+        .frame(maxWidth: .infinity, alignment: .leading)
+        .padding(.horizontal, 18)
+        .padding(.top, 18)
+        .padding(.bottom, 12)
+    }
+}
+
+struct DialogButton: View {
+    var title: String
+    var prominent: Bool = false
+    var enabled: Bool = true
+    var skin: Skin
+    var action: () -> Void
+
+    var body: some View {
+        Button(title, action: action)
+            .buttonStyle(PillButtonStyle(skin: skin, prominent: prominent))
+            .disabled(!enabled)
+    }
+}
+
+struct DialogTextField: View {
+    var placeholder: String = ""
+    @Binding var text: String
+    var skin: Skin
+
+    var body: some View {
+        TextField(placeholder, text: $text)
+            .textFieldStyle(.plain)
+            .font(AppFont.ui(12))
+            .foregroundStyle(skin.textPrimary)
+            .padding(.horizontal, 11)
+            .frame(height: 28)
+            .background(Rectangle().fill(skin.textPrimary.opacity(0.07)))
+            .overlay(Rectangle().strokeBorder(Color.white.opacity(0.06), lineWidth: 0.5))
+    }
+}
+
+struct DialogMenu<T: Hashable>: View {
+    var options: [T]
+    @Binding var selection: T
+    var label: (T) -> String
+    var skin: Skin
+
+    var body: some View {
+        MenuButton(content: {
+            MenuContent(entries: options.map { option in
+                .action(label(option), checked: option == selection) { selection = option }
+            })
+        }) {
+            HStack(spacing: 6) {
+                Text(label(selection))
+                    .lineLimit(1)
+                Spacer(minLength: 4)
+                Glyph("chevron.up.chevron.down", size: 8)
+                    .foregroundStyle(skin.textTertiary)
+            }
+            .font(AppFont.ui(11))
+            .foregroundStyle(skin.textPrimary)
+            .padding(.horizontal, 11)
+            .frame(height: 26)
+            .frame(maxWidth: .infinity, alignment: .leading)
+            .background(Rectangle().fill(skin.textPrimary.opacity(0.07)))
+            .contentShape(Rectangle())
+        }
+        .buttonStyle(.plain)
+        .fixedSize(horizontal: false, vertical: true)
+    }
+}
+
+struct ConfirmDialog: View {
+    var title: String
+    var message: String
+    var confirmTitle: String
+    var skin: Skin
+    var onConfirm: () -> Void
+    var onCancel: () -> Void
+
+    var body: some View {
+        VStack(alignment: .leading, spacing: 0) {
+            DialogHeader(title: title, skin: skin)
+            Text(message)
+                .font(AppFont.ui(12.5))
+                .foregroundStyle(skin.textSecondary)
+                .fixedSize(horizontal: false, vertical: true)
+                .padding(.horizontal, 18)
+                .padding(.bottom, 18)
+            HStack {
+                Spacer()
+                DialogButton(title: "Cancel", skin: skin, action: onCancel)
+                DialogButton(title: confirmTitle, prominent: true, skin: skin, action: onConfirm)
+            }
+            .padding(.horizontal, 18)
+            .padding(.bottom, 16)
+        }
+        .frame(width: 420)
+        .glassSheet(skin)
+        .preferredColorScheme(.dark)
+    }
+}

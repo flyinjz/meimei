@@ -1,64 +1,68 @@
------BEGIN I2S ENCRYPTED FILE-----
-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
------END I2S ENCRYPTED FILE-----
+import SwiftUI
+import AppKit
+
+/// A pane's share of a stack's flexible height. 0 means "my own height".
+struct PaneWeight: LayoutValueKey {
+    static let defaultValue: Double = 1
+}
+
+/// A vertical stack where weight-0 children (a now-playing panel, split
+/// handles) take their natural height and the rest divide what's left in
+/// proportion to their weights. A natural-height pane never takes more
+/// than `intrinsicShare` of the stack while flexible panes share it.
+struct WeightedStack: Layout {
+    var intrinsicShare: CGFloat = 0.6
+
+    func sizeThatFits(proposal: ProposedViewSize, subviews: Subviews, cache: inout ()) -> CGSize {
+        proposal.replacingUnspecifiedDimensions()
+    }
+
+    func placeSubviews(in bounds: CGRect, proposal: ProposedViewSize, subviews: Subviews, cache: inout ()) {
+        let width = bounds.width
+        var heights = [CGFloat](repeating: 0, count: subviews.count)
+        var fixed: CGFloat = 0
+        let totalWeight = subviews.reduce(0) { $0 + $1[PaneWeight.self] }
+        let cap = totalWeight > 0 ? bounds.height * intrinsicShare : bounds.height
+        for (i, sv) in subviews.enumerated() where sv[PaneWeight.self] == 0 {
+            let natural = sv.sizeThatFits(ProposedViewSize(width: width, height: nil)).height
+            // Handles are tiny; panes are capped so they can't crowd out the rest.
+            heights[i] = natural > 40 ? sv.sizeThatFits(ProposedViewSize(width: width, height: min(natural, cap))).height : natural
+            fixed += heights[i]
+        }
+        let flexible = max(0, bounds.height - fixed)
+        var y = bounds.minY
+        for (i, sv) in subviews.enumerated() {
+            let w = sv[PaneWeight.self]
+            let h = w == 0 ? heights[i] : (totalWeight > 0 ? flexible * CGFloat(w / totalWeight) : 0)
+            sv.place(at: CGPoint(x: bounds.minX, y: y), proposal: ProposedViewSize(width: width, height: h))
+            y += h
+        }
+    }
+}
+
+/// The gap between stacked panes, which drags to rebalance them.
+struct StackSplitHandle: View {
+    var enabled: Bool
+    /// Called with the vertical drag distance since the drag began.
+    var onDrag: (CGFloat) -> Void
+    var onEnd: () -> Void
+
+    @State private var hovering = false
+
+    var body: some View {
+        Color.clear
+            .frame(height: Corners.inset)
+            .frame(maxWidth: .infinity)
+            .contentShape(Rectangle().inset(by: -3))
+            .onHover { inside in
+                guard enabled else { return }
+                if inside, !hovering { NSCursor.resizeUpDown.push() }
+                if !inside, hovering { NSCursor.pop() }
+                hovering = inside
+            }
+            .gesture(DragGesture(minimumDistance: 1, coordinateSpace: .global)
+                .onChanged { if enabled { onDrag($0.translation.height) } }
+                .onEnded { _ in if enabled { onEnd() } })
+            .layoutValue(key: PaneWeight.self, value: 0)
+    }
+}

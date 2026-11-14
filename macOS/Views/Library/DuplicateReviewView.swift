@@ -1,132 +1,163 @@
------BEGIN I2S ENCRYPTED FILE-----
-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
------END I2S ENCRYPTED FILE-----
+import SwiftUI
+import AppKit
+
+/// Reviews tracks and albums that look like duplicates. Removal only
+/// affects the library; files on disk are never touched.
+struct DuplicateReviewView: View {
+    @ObservedObject var library: LibraryStore
+    var skin: Skin
+    var onDismiss: () -> Void
+
+    @State private var keep: Set<UUID> = []
+
+    private var groupCount: Int { library.pendingDuplicates.count }
+    private var copyCount: Int { library.pendingDuplicates.reduce(0) { $0 + $1.tracks.count } }
+
+    var body: some View {
+        VStack(spacing: 0) {
+            header
+            Hairline(color: skin.hairline)
+            ScrollView {
+                VStack(alignment: .leading, spacing: 14) {
+                    Text("Your library has the same song or album more than once, and every copy's file is still on disk. Tick the copies to keep; the rest leave the library. No files are deleted. Copies whose files are gone are handled in Library → Missing, not here.")
+                        .font(AppFont.ui(11.5))
+                        .foregroundStyle(skin.textSecondary)
+                        .fixedSize(horizontal: false, vertical: true)
+
+                    ForEach(library.pendingDuplicates) { group in
+                        groupCard(group)
+                    }
+                }
+                .padding(18)
+            }
+            Hairline(color: skin.hairline)
+            footer
+        }
+        .frame(width: 620, height: 540)
+        .glassSheet(skin)
+        .preferredColorScheme(.dark)
+        .onAppear {
+            var initial: Set<UUID> = []
+            for group in library.pendingDuplicates {
+                if let first = group.tracks.first { initial.insert(first.id) }
+            }
+            keep = initial
+        }
+    }
+
+    private var header: some View {
+        DialogHeader(
+            title: "The same music is in your library more than once",
+            subtitle: "\(groupCount) song\(groupCount == 1 ? "" : "s") or album\(groupCount == 1 ? "" : "s") with extra copies · \(copyCount) files in all",
+            skin: skin
+        )
+    }
+
+    private var footer: some View {
+        HStack(spacing: 8) {
+            DialogButton(title: "Keep Every Copy", skin: skin) {
+                library.dismissDuplicatesKeepingAll()
+                onDismiss()
+            }
+            Spacer()
+            DialogButton(title: "Ask Later", skin: skin) {
+                library.deferDuplicates()
+                onDismiss()
+            }
+            DialogButton(title: "Keep Ticked, Remove Rest", prominent: true, enabled: !keep.isEmpty, skin: skin) {
+                library.resolveDuplicates(keeping: keep)
+                onDismiss()
+            }
+        }
+        .padding(.horizontal, 18)
+        .padding(.vertical, 12)
+        .background(skin.bgRaised)
+    }
+
+    private func groupCard(_ group: DuplicateGroup) -> some View {
+        VStack(alignment: .leading, spacing: 0) {
+            HStack(spacing: 8) {
+                Text(group.kind == .albums ? "Album" : "TRACK")
+                    .font(AppFont.ui(9, weight: .semibold))
+                    .foregroundStyle(skin.textTertiary)
+                Text(group.title)
+                    .font(AppFont.ui(12.5, weight: .semibold))
+                    .foregroundStyle(skin.textPrimary)
+                    .lineLimit(1)
+                Spacer()
+                Text(group.subtitle)
+                    .font(AppFont.ui(11))
+                    .foregroundStyle(skin.textTertiary)
+            }
+            .padding(.horizontal, 12)
+            .padding(.vertical, 9)
+            .background(skin.bgVoid.opacity(0.35))
+
+            ForEach(Array(group.tracks.enumerated()), id: \.element.id) { index, track in
+                if index > 0 { Hairline(color: skin.hairline) }
+                row(track, in: group)
+            }
+        }
+        .clipShape(Rectangle())
+        .overlay(
+            Rectangle()
+                .strokeBorder(skin.hairline, lineWidth: 1)
+        )
+    }
+
+    private func row(_ track: Track, in group: DuplicateGroup) -> some View {
+        let selected = keep.contains(track.id)
+        return Button {
+            toggle(track.id, in: group)
+        } label: {
+            HStack(spacing: 10) {
+                Glyph(selected ? "checkmark.circle.fill" : "circle", size: 14)
+                    .foregroundStyle(selected ? skin.accent : skin.textTertiary)
+
+                ArtworkView(path: track.artworkFilePath, size: 32, skin: skin)
+                    .clipShape(Rectangle())
+
+                VStack(alignment: .leading, spacing: 2) {
+                    Text(track.title)
+                        .font(AppFont.ui(12.5))
+                        .foregroundStyle(skin.textPrimary)
+                        .lineLimit(1)
+                    Text(location(for: track))
+                        .font(AppFont.ui(10.5))
+                        .foregroundStyle(skin.textTertiary)
+                        .lineLimit(1)
+                }
+                Spacer()
+                VStack(alignment: .trailing, spacing: 2) {
+                    Text(track.fileFormat)
+                        .font(AppFont.ui(10.5, weight: .medium))
+                        .foregroundStyle(skin.textSecondary)
+                    Text(track.formattedDuration)
+                        .font(AppFont.ui(10.5))
+                        .foregroundStyle(skin.textTertiary)
+                }
+            }
+            .padding(.horizontal, 12)
+            .padding(.vertical, 8)
+            .background(Rectangle().fill(selected ? skin.hover.opacity(0.55) : Color.clear))
+            .padding(.horizontal, 4)
+        }
+        .buttonStyle(.plain)
+    }
+
+    private func location(for track: Track) -> String {
+        let folder = track.url.deletingLastPathComponent().lastPathComponent
+        return "\(folder)/\(track.url.lastPathComponent)"
+    }
+
+    private func toggle(_ id: UUID, in group: DuplicateGroup) {
+        if keep.contains(id) {
+            let others = group.tracks.map(\.id).filter { $0 != id }
+            if others.contains(where: { keep.contains($0) }) {
+                keep.remove(id)
+            }
+        } else {
+            keep.insert(id)
+        }
+    }
+}

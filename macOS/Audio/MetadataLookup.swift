@@ -1,163 +1,168 @@
------BEGIN I2S ENCRYPTED FILE-----
-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
------END I2S ENCRYPTED FILE-----
+import Foundation
+import AppKit
+
+/// Looks up covers (iTunes Search) and lyrics (lrclib) on request from Get Info.
+enum MetadataLookup {
+    struct Hit {
+        var artworkURL: URL?
+        var title: String?
+        var artist: String?
+        var album: String?
+        var genre: String?
+        var year: Int?
+    }
+
+    private static let session: URLSession = {
+        let config = URLSessionConfiguration.ephemeral
+        config.timeoutIntervalForRequest = 12
+        config.httpAdditionalHeaders = [
+            "User-Agent": "i2s/0.2 (macOS music player)"
+        ]
+        return URLSession(configuration: config)
+    }()
+
+    static func fetchArtwork(for track: Track) async -> Data? {
+        if let url = try? await searchITunesAlbum(track), let data = await downloadImage(url) { return data }
+        if let hit = try? await searchITunesSong(track), let url = hit.artworkURL, let data = await downloadImage(url) {
+            return data
+        }
+        return nil
+    }
+
+    static func fetchLyrics(for track: Track) async -> String? {
+        if let lrc = try? await lrclibGet(track), !lrc.isEmpty { return lrc }
+        if let lrc = try? await lrclibSearch(track), !lrc.isEmpty { return lrc }
+        return nil
+    }
+
+    private static func downloadImage(_ url: URL) async -> Data? {
+        guard let (data, response) = try? await session.data(from: url),
+              let http = response as? HTTPURLResponse, http.statusCode == 200,
+              NSImage(data: data) != nil else { return nil }
+        return data
+    }
+
+    // MARK: iTunes Search
+
+    private static func searchITunesAlbum(_ track: Track) async throws -> URL? {
+        let artist = track.albumArtist.isEmpty ? track.artist : track.albumArtist
+        let album = track.album.isEmpty ? track.title : track.album
+        guard let url = query("https://itunes.apple.com/search",
+                              ["term": "\(artist) \(album)", "media": "music", "entity": "album", "limit": "8"]) else {
+            return nil
+        }
+        let (data, _) = try await session.data(from: url)
+        guard let json = try JSONSerialization.jsonObject(with: data) as? [String: Any],
+              let results = json["results"] as? [[String: Any]], !results.isEmpty else {
+            return nil
+        }
+        let needleAlbum = normalize(album)
+        let needleArtist = normalize(artist)
+        let best = results.max { a, b in
+            albumScore(a, album: needleAlbum, artist: needleArtist) < albumScore(b, album: needleAlbum, artist: needleArtist)
+        }
+        guard let best, albumScore(best, album: needleAlbum, artist: needleArtist) >= 3,
+              let raw = best["artworkUrl100"] as? String else { return nil }
+        return URL(string: raw.replacingOccurrences(of: "100x100bb", with: "600x600bb"))
+    }
+
+    private static func searchITunesSong(_ track: Track) async throws -> Hit? {
+        guard let url = query("https://itunes.apple.com/search",
+                              ["term": "\(track.artist) \(track.title)", "media": "music", "entity": "song", "limit": "8"]) else {
+            return nil
+        }
+        let (data, _) = try await session.data(from: url)
+        guard let json = try JSONSerialization.jsonObject(with: data) as? [String: Any],
+              let results = json["results"] as? [[String: Any]], !results.isEmpty else {
+            return nil
+        }
+        let needleTitle = normalize(track.title)
+        let needleArtist = normalize(track.artist)
+        let best = results.max { a, b in
+            score(a, title: needleTitle, artist: needleArtist) < score(b, title: needleTitle, artist: needleArtist)
+        }
+        guard let best, score(best, title: needleTitle, artist: needleArtist) >= 5 else { return nil }
+
+        var artwork: URL?
+        if let raw = best["artworkUrl100"] as? String {
+            artwork = URL(string: raw.replacingOccurrences(of: "100x100bb", with: "600x600bb"))
+        }
+        var year: Int?
+        if let date = best["releaseDate"] as? String { year = Int(date.prefix(4)) }
+        return Hit(
+            artworkURL: artwork,
+            title: best["trackName"] as? String,
+            artist: best["artistName"] as? String,
+            album: best["collectionName"] as? String,
+            genre: best["primaryGenreName"] as? String,
+            year: year
+        )
+    }
+
+    private static func albumScore(_ row: [String: Any], album: String, artist: String) -> Int {
+        let t = normalize(row["collectionName"] as? String ?? "")
+        let a = normalize(row["artistName"] as? String ?? "")
+        var s = 0
+        if t == album { s += 4 }
+        else if t.contains(album) || album.contains(t) { s += 2 }
+        if a == artist { s += 3 }
+        else if a.contains(artist) || artist.contains(a) { s += 1 }
+        return s
+    }
+
+    private static func score(_ row: [String: Any], title: String, artist: String) -> Int {
+        let t = normalize(row["trackName"] as? String ?? "")
+        let a = normalize(row["artistName"] as? String ?? "")
+        var s = 0
+        if t == title { s += 4 }
+        else if t.contains(title) || title.contains(t) { s += 2 }
+        if a == artist { s += 3 }
+        else if a.contains(artist) || artist.contains(a) { s += 1 }
+        return s
+    }
+
+    // MARK: lrclib
+
+    private static func lrclibGet(_ track: Track) async throws -> String? {
+        var params = ["artist_name": track.artist, "track_name": track.title]
+        if !track.album.isEmpty { params["album_name"] = track.album }
+        if track.duration > 0 { params["duration"] = String(Int(track.duration.rounded())) }
+        guard let url = query("https://lrclib.net/api/get", params) else { return nil }
+        let (data, response) = try await session.data(from: url)
+        guard let http = response as? HTTPURLResponse, http.statusCode == 200 else { return nil }
+        return lyrics(from: data)
+    }
+
+    private static func lrclibSearch(_ track: Track) async throws -> String? {
+        guard let url = query("https://lrclib.net/api/search", ["artist_name": track.artist, "track_name": track.title]) else {
+            return nil
+        }
+        let (data, response) = try await session.data(from: url)
+        guard let http = response as? HTTPURLResponse, http.statusCode == 200,
+              let rows = try JSONSerialization.jsonObject(with: data) as? [[String: Any]],
+              let first = rows.first else { return nil }
+        if let synced = first["syncedLyrics"] as? String, synced.contains("[") { return synced }
+        return first["plainLyrics"] as? String
+    }
+
+    private static func lyrics(from data: Data) -> String? {
+        guard let json = try? JSONSerialization.jsonObject(with: data) as? [String: Any] else { return nil }
+        if let synced = json["syncedLyrics"] as? String, synced.contains("[") { return synced }
+        return json["plainLyrics"] as? String
+    }
+
+    /// Builds a URL with properly escaped query items ("&" and "+" in names included).
+    private static func query(_ base: String, _ params: [String: String]) -> URL? {
+        guard var components = URLComponents(string: base) else { return nil }
+        components.queryItems = params.sorted { $0.key < $1.key }.map { URLQueryItem(name: $0.key, value: $0.value) }
+        let encoded = components.percentEncodedQuery?.replacingOccurrences(of: "+", with: "%2B")
+        components.percentEncodedQuery = encoded
+        return components.url
+    }
+
+    private static func normalize(_ raw: String) -> String {
+        raw.lowercased()
+            .trimmingCharacters(in: .whitespacesAndNewlines)
+            .replacingOccurrences(of: "’", with: "'")
+    }
+}

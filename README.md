@@ -1,16 +1,6 @@
 # i2s
 
-A music player. The source in this repository is encrypted. Commit history is public.
-
-## Encryption
-
-Every file except `README.md`, `.gitattributes`, `.gitignore`, `.crypt/`, `.git-crypt/` and `KEYS/` is encrypted with [git-crypt](https://github.com/AGWA/git-crypt) before it leaves the author's machine. The ciphertext is then base64-armored by [`.crypt/armor`](.crypt/armor), so on GitHub each file reads as a block of text between `BEGIN/END I2S ENCRYPTED FILE` markers.
-
-- Cipher: AES-256-CTR with an HMAC-SHA1 synthetic IV, from git-crypt. The armor only changes the encoding. It adds no security and removes none.
-- The symmetric key exists only on authorised machines. The copies in `.git-crypt/keys/` are wrapped to the authorised GPG keys.
-- GitHub stores and serves ciphertext only. Without a key, a clone contains only the armored text.
-- Visible in plaintext: file and folder names, approximate file sizes, commit messages, authors and timestamps.
-- Encryption is deterministic: identical plaintext gives identical ciphertext, so unchanged files can be spotted.
+A music player for macOS, with a Windows port in progress. Earlier commits (up to 2026-11-14) hold the source encrypted with git-crypt; from then on it is plain text.
 
 ## Signing
 
@@ -51,11 +41,3 @@ bJ9U8lLNrSUO
 ```
 
 </details>
-
-## Access
-
-To unlock a clone, you need git-crypt, OpenSSL and a GPG key that has been added as a collaborator:
-
-```sh
-.crypt/unlock
-```

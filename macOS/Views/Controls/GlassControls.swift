@@ -1,413 +1,514 @@
------BEGIN I2S ENCRYPTED FILE-----
-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
-XbsFUlB7e4fA2OEgxY9zgOno74J24IQ=
------END I2S ENCRYPTED FILE-----
+import SwiftUI
+import AppKit
+
+// MARK: - Pill button
+
+/// A rectangular button with a 1px border that brightens under the
+/// pointer, accent-filled when prominent or active. The app's one shape for
+/// labeled actions.
+struct PillButtonStyle: ButtonStyle {
+    var skin: Skin
+    var prominent = false
+    var isActive = false
+    var compact = false
+
+    func makeBody(configuration: Configuration) -> some View {
+        Pill(configuration: configuration, style: self)
+    }
+
+    private struct Pill: View {
+        let configuration: Configuration
+        let style: PillButtonStyle
+        @ObservedObject private var settings = AppSession.shared.settings
+        @State private var hovering = false
+        @Environment(\.isEnabled) private var isEnabled
+        @Environment(\.buttonContentOverride) private var contentOverride
+
+        var body: some View {
+            let skin = style.skin
+            let d = settings.data
+            let accent = style.isActive || (style.prominent && d.buttonAccentPrimary)
+            let look = ButtonLook(fill: d.buttonFill, accent: accent, hovering: hovering, skin: skin)
+            configuration.label
+                .labelStyle(ButtonContentLabelStyle(content: contentOverride ?? d.buttonContent))
+                .font(AppFont.ui((style.compact ? 11 : 12) + d.buttonSize.delta / 3, weight: accent ? .semibold : .regular))
+                .foregroundStyle(look.foreground)
+                .padding(.horizontal, d.buttonFill == .text ? 4 : (style.compact ? 8 : 11))
+                .frame(height: (style.compact ? 22 : 26) + d.buttonSize.delta)
+                .background(look.background)
+                .overlay(Rectangle().strokeBorder(look.border, lineWidth: 1))
+                .contentShape(Rectangle())
+                .offset(y: configuration.isPressed ? 1 : 0)
+                .opacity(isEnabled ? 1 : 0.4)
+                .animation(.easeOut(duration: 0.12), value: hovering)
+                .animation(.easeOut(duration: 0.08), value: configuration.isPressed)
+                .onHover { hovering = $0 }
+        }
+    }
+}
+
+/// Colors for a button in the chosen fill: solid fills the accent ones,
+/// outline draws only the frame, text only draws neither.
+struct ButtonLook {
+    var fill: ButtonFill
+    var accent: Bool
+    var hovering: Bool
+    var skin: Skin
+
+    var foreground: Color {
+        switch (fill, accent) {
+        case (.solid, true): return skin.textOnAccent
+        case (_, true): return skin.accent
+        default: return hovering ? skin.textPrimary : skin.textSecondary
+        }
+    }
+
+    var background: Color {
+        switch fill {
+        case .solid: return accent ? skin.accent.opacity(hovering ? 1 : 0.9) : skin.textPrimary.opacity(hovering ? 0.08 : 0.02)
+        case .outline: return hovering ? (accent ? skin.accent : skin.textPrimary).opacity(0.08) : .clear
+        case .text: return .clear
+        }
+    }
+
+    var border: Color {
+        switch fill {
+        case .solid: return accent ? skin.accent : skin.textPrimary.opacity(hovering ? 0.55 : 0.22)
+        case .outline: return accent ? skin.accent.opacity(hovering ? 1 : 0.8) : skin.textPrimary.opacity(hovering ? 0.55 : 0.28)
+        case .text: return .clear
+        }
+    }
+}
+
+private struct ButtonContentOverrideKey: EnvironmentKey {
+    static let defaultValue: ButtonContent? = nil
+}
+
+extension EnvironmentValues {
+    /// Forces what labeled buttons show, e.g. icons only where space is short.
+    var buttonContentOverride: ButtonContent? {
+        get { self[ButtonContentOverrideKey.self] }
+        set { self[ButtonContentOverrideKey.self] = newValue }
+    }
+}
+
+/// Icon and title close together, or just one of them, per the setting.
+struct ButtonContentLabelStyle: LabelStyle {
+    var content: ButtonContent
+
+    func makeBody(configuration: Configuration) -> some View {
+        switch content {
+        case .iconAndText:
+            HStack(spacing: 5) {
+                configuration.icon.font(AppFont.ui(10, weight: .semibold))
+                configuration.title
+            }
+        case .text: configuration.title
+        case .icon: configuration.icon
+        }
+    }
+}
+
+/// A square icon button with the same treatment as `PillButtonStyle`.
+struct IconButton: View {
+    var icon: String
+    var size: CGFloat = 26
+    var isActive = false
+    var help: String = ""
+    var skin: Skin
+    var action: () -> Void
+    @State private var hovering = false
+
+    @ObservedObject private var settings = AppSession.shared.settings
+
+    var body: some View {
+        let look = ButtonLook(fill: settings.data.buttonFill, accent: isActive, hovering: hovering, skin: skin)
+        Button(action: action) {
+                Glyph(icon, size: size * 0.42)
+                    .foregroundStyle(look.foreground)
+                    .frame(width: size, height: size)
+                    .background(look.background)
+                    .overlay(Rectangle().strokeBorder(look.border, lineWidth: 1))
+                    .contentShape(Rectangle())
+        }
+        .buttonStyle(PressDipStyle())
+        .onHover { hovering = $0 }
+        .help(help)
+        .animation(.easeOut(duration: 0.12), value: hovering)
+    }
+}
+
+// MARK: - Knob
+
+/// A rotary control in the DAW style: drag up/down (⇧ for fine), scroll,
+/// double-click to reset. A 270° arc shows the value; bipolar knobs fill
+/// from the center.
+struct Knob: View {
+    @Binding var value: Double
+    var range: ClosedRange<Double>
+    var defaultValue: Double
+    /// Logarithmic travel (frequency, Q).
+    var logarithmic = false
+    var bipolar = false
+    var size: CGFloat = 44
+    var tint: Color
+    var skin: Skin
+    var onBegin: () -> Void = {}
+
+    @State private var dragStart: Double?
+    @State private var hovering = false
+
+    private var fraction: Double {
+        if logarithmic {
+            return log(value / range.lowerBound) / log(range.upperBound / range.lowerBound)
+        }
+        return (value - range.lowerBound) / (range.upperBound - range.lowerBound)
+    }
+
+    private func value(at f: Double) -> Double {
+        let f = min(1, max(0, f))
+        if logarithmic { return range.lowerBound * pow(range.upperBound / range.lowerBound, f) }
+        return range.lowerBound + f * (range.upperBound - range.lowerBound)
+    }
+
+    var body: some View {
+        let sweep = 0.75
+        let f = min(1, max(0, fraction))
+        let zero = bipolar ? 0.5 : 0
+        ZStack {
+            Circle()
+                .trim(from: 0, to: sweep)
+                .stroke(skin.textPrimary.opacity(0.1), style: StrokeStyle(lineWidth: 3, lineCap: .round))
+                .rotationEffect(.degrees(135))
+            Circle()
+                .trim(from: min(zero, f) * sweep, to: max(zero, f) * sweep)
+                .stroke(tint, style: StrokeStyle(lineWidth: 3, lineCap: .round))
+                .rotationEffect(.degrees(135))
+            Circle()
+                .fill(skin.textPrimary.opacity(hovering ? 0.11 : 0.07))
+                .padding(size * 0.18)
+            Rectangle()
+                .fill(skin.textPrimary)
+                .frame(width: 2, height: size * 0.16)
+                .offset(y: -size * 0.2)
+                .rotationEffect(.degrees(-135 + 270 * f))
+        }
+        .frame(width: size, height: size)
+        .contentShape(Circle())
+        .onHover { hovering = $0 }
+        .gesture(
+            DragGesture(minimumDistance: 1)
+                .onChanged { g in
+                    if dragStart == nil { dragStart = f; onBegin() }
+                    let fine = NSEvent.modifierFlags.contains(.shift) ? 0.2 : 1
+                    value = self.value(at: (dragStart ?? f) - Double(g.translation.height) / 180 * fine)
+                }
+                .onEnded { _ in dragStart = nil }
+        )
+        .onTapGesture(count: 2) { onBegin(); value = defaultValue }
+        .background(ScrollCatcher { delta in
+            if dragStart == nil { onBegin() }
+            value = self.value(at: f + delta / 400)
+            return true
+        })
+        .animation(.easeOut(duration: 0.08), value: f)
+    }
+}
+
+// MARK: - Editable value
+
+/// A value readout that turns into a text field on click. Return commits,
+/// Escape cancels; the parser returns nil to reject input.
+struct EditableValue: View {
+    var text: String
+    var skin: Skin
+    var width: CGFloat = 64
+    var parse: (String) -> Double?
+    var commit: (Double) -> Void
+
+    @State private var editing = false
+    @State private var draft = ""
+    @FocusState private var focused: Bool
+
+    var body: some View {
+        Group {
+            if editing {
+                TextField("", text: $draft)
+                    .textFieldStyle(.plain)
+                    .multilineTextAlignment(.center)
+                    .focused($focused)
+                    .onSubmit {
+                        if let v = parse(draft) { commit(v) }
+                        editing = false
+                    }
+                    .onExitCommand { editing = false }
+                    .onChange(of: focused) { f in if !f { editing = false } }
+            } else {
+                Text(text)
+                    .onTapGesture {
+                        draft = text.components(separatedBy: " ").first ?? text
+                        editing = true
+                        DispatchQueue.main.async { focused = true }
+                    }
+            }
+        }
+        .font(AppFont.ui(11, weight: .medium))
+        .foregroundStyle(skin.textPrimary)
+        .frame(width: width, height: 20)
+        .background(Rectangle().fill(skin.textPrimary.opacity(editing ? 0.12 : 0.05)))
+        .help("Click to type a value")
+    }
+}
+
+// MARK: - Scroll wheel
+
+/// Reports vertical scroll-wheel deltas over its area (SwiftUI has no
+/// scroll-wheel gesture on macOS). Lets clicks and drags pass through, and
+/// passes the scroll on too unless `onScroll` returns true (handled).
+struct ScrollCatcher: NSViewRepresentable {
+    var onScroll: (Double) -> Bool
+
+    func makeNSView(context: Context) -> CatcherView {
+        let v = CatcherView()
+        v.onScroll = onScroll
+        return v
+    }
+
+    func updateNSView(_ nsView: CatcherView, context: Context) { nsView.onScroll = onScroll }
+
+    final class CatcherView: NSView {
+        var onScroll: ((Double) -> Bool)?
+        private var monitor: Any?
+
+        override func viewDidMoveToWindow() {
+            super.viewDidMoveToWindow()
+            if let monitor { NSEvent.removeMonitor(monitor); self.monitor = nil }
+            guard window != nil else { return }
+            // A local monitor sees the wheel even though SwiftUI's hit
+            // testing sends the event to the hosting view, not this one.
+            monitor = NSEvent.addLocalMonitorForEvents(matching: .scrollWheel) { [weak self] event in
+                guard let self, let window = self.window, event.window === window else { return event }
+                let p = self.convert(event.locationInWindow, from: nil)
+                guard self.bounds.contains(p) else { return event }
+                let dy = event.hasPreciseScrollingDeltas ? event.scrollingDeltaY : event.scrollingDeltaY * 8
+                return self.onScroll?(Double(dy)) == true ? nil : event
+            }
+        }
+
+        override func removeFromSuperview() {
+            if let monitor { NSEvent.removeMonitor(monitor) }
+            monitor = nil
+            super.removeFromSuperview()
+        }
+
+        override func hitTest(_ point: NSPoint) -> NSView? { nil }
+    }
+}
+
+// MARK: - Progress
+
+/// The app's progress line: a thin solid line. A determinate bar glides
+/// between updates over the time since the last one, so it moves
+/// continuously instead of jumping; an indeterminate one runs a solid
+/// segment along the track that stretches as it speeds up and shortens as
+/// it slows, then starts again. Square ends, no gradient, no glow.
+///
+/// Drawn with Core Animation, so it moves at the display's rate on the
+/// render server even while the main thread is busy.
+struct CapsuleProgress: View {
+    var fraction: Double?
+    var skin: Skin
+    /// The fill; ink by default.
+    var tint: Color? = nil
+
+    var body: some View {
+        let fill = tint ?? skin.textPrimary.opacity(0.85)
+        let track = skin.textPrimary.opacity(0.1)
+        if GlassRendering.forceFallback {
+            // Offscreen snapshots can't draw layers: a still frame.
+            GeometryReader { geo in
+                ZStack(alignment: .leading) {
+                    Rectangle().fill(track)
+                    Rectangle().fill(fill)
+                        .frame(width: geo.size.width * (fraction.map { CGFloat(min(1, max(0, $0))) } ?? 0.28))
+                        .offset(x: fraction == nil ? geo.size.width * 0.36 : 0)
+                }
+            }
+        } else {
+            ProgressLayer(fraction: fraction.map { min(1, max(0, $0)) }, track: NSColor(track), fill: NSColor(fill))
+        }
+    }
+}
+
+private struct ProgressLayer: NSViewRepresentable {
+    var fraction: Double?
+    var track: NSColor
+    var fill: NSColor
+
+    func makeNSView(context: Context) -> BarView { BarView() }
+
+    func updateNSView(_ view: BarView, context: Context) {
+        view.update(fraction: fraction, track: track, fill: fill)
+    }
+
+    final class BarView: NSView {
+        private let bar = CALayer()
+        private let runner = CALayer()
+        private var fraction: Double?
+        private var lastUpdate: CFTimeInterval = 0
+        private var laidOutWidth: CGFloat = -1
+
+        override init(frame: NSRect) {
+            super.init(frame: frame)
+            wantsLayer = true
+            layer?.masksToBounds = true
+            let still: [String: CAAction] = ["bounds": NSNull(), "position": NSNull(), "backgroundColor": NSNull(),
+                                             "hidden": NSNull(), "frame": NSNull()]
+            layer?.actions = still
+            for l in [bar, runner] { l.actions = still; l.anchorPoint = .zero }
+            layer?.addSublayer(bar)
+            layer?.addSublayer(runner)
+        }
+
+        required init?(coder: NSCoder) { fatalError() }
+
+        override var isFlipped: Bool { true }
+        override func hitTest(_ point: NSPoint) -> NSView? { nil }
+
+        override func viewDidChangeBackingProperties() {
+            super.viewDidChangeBackingProperties()
+            let scale = window?.backingScaleFactor ?? 2
+            for l in [layer, bar, runner] { l?.contentsScale = scale }
+        }
+
+        override func viewDidMoveToWindow() {
+            super.viewDidMoveToWindow()
+            // Layers can drop repeating animations while off screen.
+            laidOutWidth = -1
+            needsLayout = true
+        }
+
+        func update(fraction new: Double?, track: NSColor, fill: NSColor) {
+            CATransaction.begin()
+            CATransaction.setDisableActions(true)
+            layer?.backgroundColor = track.cgColor
+            bar.backgroundColor = fill.cgColor
+            runner.backgroundColor = fill.cgColor
+            CATransaction.commit()
+
+            let old = fraction
+            fraction = new
+            if (old == nil) != (new == nil) { laidOutWidth = -1; needsLayout = true }
+            guard let new, let old, new != old else { return }
+            let now = CACurrentMediaTime()
+            let since = now - lastUpdate
+            lastUpdate = now
+            let width = bounds.width * CGFloat(new)
+            let from = bar.presentation()?.bounds.width ?? bar.bounds.width
+            CATransaction.begin()
+            CATransaction.setDisableActions(true)
+            bar.bounds.size.width = width
+            CATransaction.commit()
+            // Going back (a restart) or the first move after a pause: no glide.
+            guard new > old, since < 2 else { return }
+            let glide = CABasicAnimation(keyPath: "bounds.size.width")
+            glide.fromValue = from
+            glide.toValue = width
+            glide.duration = min(0.6, max(0.15, since))
+            // Eases out so consecutive glides join without a visible stop.
+            glide.timingFunction = CAMediaTimingFunction(controlPoints: 0.25, 0.1, 0.4, 1)
+            bar.add(glide, forKey: "glide")
+        }
+
+        override func layout() {
+            super.layout()
+            let size = bounds.size
+            CATransaction.begin()
+            CATransaction.setDisableActions(true)
+            if let fraction {
+                runner.isHidden = true
+                runner.removeAllAnimations()
+                bar.isHidden = false
+                bar.position = .zero
+                bar.bounds = CGRect(x: 0, y: 0, width: size.width * CGFloat(fraction), height: size.height)
+            } else {
+                bar.isHidden = true
+                runner.isHidden = false
+                runner.position = CGPoint(x: -size.width, y: 0)
+                runner.bounds = CGRect(x: 0, y: 0, width: 0, height: size.height)
+                if laidOutWidth != size.width || runner.animation(forKey: "run") == nil {
+                    laidOutWidth = size.width
+                    runner.add(Self.run(width: size.width), forKey: "run")
+                }
+            }
+            CATransaction.commit()
+        }
+
+        /// A segment that enters from the left short, stretches to about a
+        /// third of the track mid-run, and leaves on the right short again.
+        private static func run(width w: CGFloat) -> CAAnimation {
+            let ease = CAMediaTimingFunction(controlPoints: 0.45, 0, 0.25, 1)
+            let x = CAKeyframeAnimation(keyPath: "position.x")
+            x.values = [-w * 0.08, w * 0.12, w * 0.62, w]
+            x.keyTimes = [0, 0.3, 0.75, 1]
+            x.timingFunctions = [ease, ease, ease]
+            let len = CAKeyframeAnimation(keyPath: "bounds.size.width")
+            len.values = [w * 0.08, w * 0.34, w * 0.26, w * 0.04]
+            len.keyTimes = [0, 0.3, 0.75, 1]
+            len.timingFunctions = [ease, ease, ease]
+            let group = CAAnimationGroup()
+            group.animations = [x, len]
+            group.duration = 1.6
+            group.repeatCount = .infinity
+            group.isRemovedOnCompletion = false
+            return group
+        }
+    }
+}
+
+/// A button, styled like any other, that pops up a menu under itself.
+/// Use instead of SwiftUI's `Menu` wherever the button should keep the
+/// app's look.
+struct PopUpMenuButton<Label: View>: View {
+    struct Item {
+        var title: String
+        var checked = false
+        var action: () -> Void
+    }
+
+    var items: [Item]
+    @ViewBuilder var label: Label
+    @State private var anchor = MenuAnchor()
+
+    var body: some View {
+        Button { anchor.popUp(items) } label: { label }
+            .background(MenuAnchorView(anchor: anchor))
+    }
+
+    /// Holds the AppKit view the menu opens under.
+    final class MenuAnchor {
+        weak var view: NSView?
+
+        @MainActor func popUp(_ items: [Item]) {
+            guard let view, let window = view.window else { return }
+            let rect = window.convertToScreen(view.convert(view.bounds, to: nil))
+            AppMenu.shared.present(MenuContent(entries: items.map { item in
+                .action(item.title, checked: item.checked, item.action)
+            }), below: rect)
+        }
+    }
+
+    private struct MenuAnchorView: NSViewRepresentable {
+        let anchor: MenuAnchor
+        func makeNSView(context: Context) -> NSView {
+            let v = FlippedView()
+            anchor.view = v
+            return v
+        }
+        func updateNSView(_ nsView: NSView, context: Context) { anchor.view = nsView }
+    }
+
+    private final class FlippedView: NSView {
+        override var isFlipped: Bool { true }
+    }
+}

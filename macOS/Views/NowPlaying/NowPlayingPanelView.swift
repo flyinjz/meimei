@@ -1,137 +1,156 @@
------BEGIN I2S ENCRYPTED FILE-----
-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
-1K7cAXaSRpo=
------END I2S ENCRYPTED FILE-----
+import SwiftUI
+
+/// The cover-art panel. The art is the largest square that fits the
+/// panel's width and height (up to `artworkSize`), so the panel can sit in
+/// any column and be resized like the others.
+struct NowPlayingPanelView: View {
+    @ObservedObject var player: PlayerController
+    @ObservedObject private var library = AppSession.shared.library
+    var skin: Skin
+    var artworkSize: CGFloat
+    var showFormatStrip = true
+    var showSubtitle = true
+
+    private var track: Track? { player.currentTrack }
+
+    var body: some View {
+        panel.appContextMenu { track.map { MenuContent.track($0) } ?? MenuContent(entries: []) }
+    }
+
+    private var panel: some View {
+        ArtworkFitLayout(maxSide: min(artworkSize - 24, Self.maxArtwork)) {
+            GeometryReader { geo in
+                ArtworkView(path: track?.artworkFilePath, size: max(1, geo.size.width), skin: skin, placeholder: "waveform")
+            }
+                .clipShape(Rectangle())
+                .shadow(color: .black.opacity(0.35), radius: 12, y: 6)
+                .contentShape(Rectangle())
+                .onTapGesture {
+                    if let track { library.albumKey = track.albumKey }
+                }
+                .help(track == nil ? "" : "Show album")
+
+            VStack(alignment: .leading, spacing: 0) {
+            HStack(alignment: .top, spacing: 6) {
+                VStack(alignment: .leading, spacing: 2) {
+                    Text(track?.title ?? "Nothing playing")
+                        .textRole(.nowPlayingTitle, size: 13, weight: .semibold, color: skin.textPrimary)
+                        .lineLimit(1)
+                    Text(track?.artist ?? "Pick something from your library")
+                        .textRole(.nowPlayingArtist, size: 11.5, color: skin.textSecondary)
+                        .lineLimit(1)
+                    if showSubtitle, let subtitle {
+                        Text(subtitle)
+                            .textRole(.nowPlayingDetails, size: 10.5, color: skin.textTertiary)
+                            .lineLimit(1)
+                    }
+                }
+                Spacer(minLength: 0)
+                if let track {
+                    LikeButton(liked: track.liked, skin: skin) {
+                        library.setLiked([track.id], !track.liked)
+                    }
+                }
+            }
+            .padding(.horizontal, 12)
+            .padding(.top, 9)
+            .padding(.bottom, showFormatStrip ? 6 : 10)
+
+            if showFormatStrip, let track {
+                FormatStrip(track: track, skin: skin)
+                    .padding(.horizontal, 12)
+                    .padding(.bottom, 10)
+            }
+            }
+        }
+    }
+
+    /// Past this the cover only gets blurrier and pushes everything else away.
+    static let maxArtwork: CGFloat = 520
+
+    private var subtitle: String? {
+        guard let track else { return nil }
+        let parts = [track.album, track.year.map(String.init)].compactMap { $0 }.filter { !$0.isEmpty }
+        return parts.isEmpty ? nil : parts.joined(separator: " · ")
+    }
+}
+
+/// Codec and resolution as one quiet line; Hi-Res in the accent.
+private struct FormatStrip: View {
+    var track: Track
+    var skin: Skin
+
+    var body: some View {
+        HStack(spacing: 6) {
+            Text(details)
+                .foregroundStyle(skin.textTertiary)
+            if track.isHiRes {
+                HStack(spacing: 3) {
+                    Glyph("badge.hires", size: 8)
+                    Text("Hi-Res")
+                }
+                .foregroundStyle(skin.accent.opacity(0.75))
+            }
+            Spacer(minLength: 0)
+            if track.playCount > 0 {
+                Text(track.playCount == 1 ? "1 play" : "\(track.playCount) plays")
+                    .foregroundStyle(skin.textTertiary)
+            }
+        }
+        .textRole(.nowPlayingDetails, size: 10.5, weight: .medium, color: skin.textTertiary)
+        .lineLimit(1)
+    }
+
+    private var details: String {
+        if track.isLossless {
+            return "\(track.fileFormat) · \(track.bitDepth)-bit · \(Track.format(sampleRate: track.sampleRate))"
+        }
+        return track.estimatedBitrateKbps > 0 ? "\(track.fileFormat) · \(track.estimatedBitrateKbps) kbps" : track.fileFormat
+    }
+}
+
+struct LikeButton: View {
+    var liked: Bool
+    var skin: Skin
+    var action: () -> Void
+
+    var body: some View {
+        Button(action: action) {
+            Glyph(liked ? "heart.fill" : "heart", size: 12)
+                .frame(width: 22, height: 22)
+        }
+        .buttonStyle(GlyphButtonStyle(skin: skin, isActive: liked))
+        .foregroundStyle(liked ? skin.accent : skin.textTertiary)
+        .help(liked ? "Unlike" : "Like")
+    }
+}
+
+/// Lays out the cover over the details: the cover is the largest square
+/// that fits the width and leaves room for the details below; any spare
+/// height goes under the details.
+private struct ArtworkFitLayout: Layout {
+    var maxSide: CGFloat
+    var padding: CGFloat = 12
+
+    private func side(width: CGFloat, height: CGFloat?, info: CGFloat) -> CGFloat {
+        var side = min(width - padding * 2, maxSide)
+        if let height, height.isFinite { side = min(side, height - padding - info) }
+        return max(48, side.rounded(.down))
+    }
+
+    func sizeThatFits(proposal: ProposedViewSize, subviews: Subviews, cache: inout ()) -> CGSize {
+        let width = proposal.width.map { $0.isFinite ? $0 : 260 } ?? 260
+        let info = subviews[1].sizeThatFits(ProposedViewSize(width: width, height: nil)).height
+        if let h = proposal.height, h.isFinite { return CGSize(width: width, height: h) }
+        return CGSize(width: width, height: padding + side(width: width, height: nil, info: info) + info)
+    }
+
+    func placeSubviews(in bounds: CGRect, proposal: ProposedViewSize, subviews: Subviews, cache: inout ()) {
+        let info = subviews[1].sizeThatFits(ProposedViewSize(width: bounds.width, height: nil)).height
+        let s = side(width: bounds.width, height: bounds.height, info: info)
+        subviews[0].place(at: CGPoint(x: bounds.midX - s / 2, y: bounds.minY + padding),
+                          proposal: ProposedViewSize(width: s, height: s))
+        subviews[1].place(at: CGPoint(x: bounds.minX, y: bounds.minY + padding + s),
+                          proposal: ProposedViewSize(width: bounds.width, height: info))
+    }
+}

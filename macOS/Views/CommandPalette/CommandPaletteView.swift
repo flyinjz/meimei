@@ -1,363 +1,412 @@
------BEGIN I2S ENCRYPTED FILE-----
-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
-ZVxY9LBEE3RyDoDu8zQ5YXmgU/Ra8CZvEiEADw==
------END I2S ENCRYPTED FILE-----
+import SwiftUI
+import AppKit
+
+/// Commands the palette hands back to the window to perform.
+enum PaletteCommand {
+    case settings, equalizer, addMusic, miniPlayer, getInfo, newPlaylist, goToCurrent, library
+}
+
+/// Spotlight-style search over songs, albums, artists, and commands.
+struct CommandPaletteView: View {
+    @ObservedObject var library: LibraryStore
+    @ObservedObject var player: PlayerController
+    var skin: Skin
+    var onDismiss: () -> Void
+    var onOpenAlbum: (AlbumGroup) -> Void
+    var onCommand: (PaletteCommand) -> Void
+
+    @State private var query = ""
+    @State private var results: [PaletteItem] = []
+    @State private var highlight = 0
+    @State private var index: PaletteIndex?
+    @FocusState private var fieldFocused: Bool
+
+    var body: some View {
+        ZStack(alignment: .top) {
+            // The window recedes behind the palette.
+            Color.black.opacity(0.35)
+                .ignoresSafeArea()
+                .onTapGesture(perform: onDismiss)
+
+            VStack(spacing: 0) {
+                searchField
+                resultList
+                footer
+            }
+            .frame(width: 580)
+            .clipShape(Rectangle())
+            .modifier(PaletteSurface(skin: skin))
+            .shadow(color: .black.opacity(0.6), radius: 40, y: 18)
+            .padding(.top, 72)
+        }
+        .onAppear {
+            index = PaletteIndex(library: library)
+            refresh()
+            DispatchQueue.main.async { fieldFocused = true }
+        }
+        .onChange(of: query) { _ in refresh() }
+        .background(PaletteKeyCatcher(
+            onUp: { move(-1) },
+            onDown: { move(1) },
+            onReturn: { run(highlight) },
+            onEscape: onDismiss
+        ))
+    }
+
+    private var searchField: some View {
+        HStack(spacing: 10) {
+            Glyph("magnifyingglass", size: 13)
+                .foregroundStyle(skin.accent)
+            TextField("Songs, albums, artists, commands", text: $query)
+                .textFieldStyle(.plain)
+                .font(AppFont.ui(14))
+                .foregroundStyle(skin.textPrimary)
+                .focused($fieldFocused)
+            if !query.isEmpty {
+                Button { query = "" } label: {
+                    Glyph("xmark.circle.fill", size: 12)
+                        .foregroundStyle(skin.textTertiary)
+                }
+                .buttonStyle(.plain)
+            }
+        }
+        .padding(.horizontal, 14)
+        .padding(.vertical, 12)
+        .background(skin.textPrimary.opacity(0.05))
+    }
+
+    private var footer: some View {
+        HStack(spacing: 14) {
+            hint("↑↓", "move")
+            hint("↩", "open")
+            hint("esc", "close")
+            Spacer()
+            Text("\(results.count) results")
+                .font(AppFont.ui(10))
+                .foregroundStyle(skin.textTertiary)
+        }
+        .padding(.horizontal, 14)
+        .padding(.vertical, 7)
+        .background(skin.textPrimary.opacity(0.04))
+    }
+
+    private func hint(_ key: String, _ label: String) -> some View {
+        HStack(spacing: 4) {
+            Text(key)
+                .font(AppFont.ui(9.5, weight: .semibold))
+                .foregroundStyle(skin.textSecondary)
+                .padding(.horizontal, 4)
+                .padding(.vertical, 1)
+                .background(Rectangle().fill(Color.white.opacity(0.08)))
+            Text(label)
+                .font(AppFont.ui(10))
+                .foregroundStyle(skin.textTertiary)
+        }
+    }
+
+    private var resultList: some View {
+        ScrollViewReader { proxy in
+            ScrollView {
+                LazyVStack(alignment: .leading, spacing: 0) {
+                    ForEach(Array(results.enumerated()), id: \.element.id) { offset, item in
+                        if offset == 0 || results[offset - 1].section != item.section {
+                            Text(item.section.rawValue)
+                                .font(AppFont.ui(9, weight: .bold))
+                                .foregroundStyle(skin.textTertiary)
+                                .padding(.horizontal, 14)
+                                .padding(.top, offset == 0 ? 6 : 12)
+                                .padding(.bottom, 3)
+                        }
+                        row(item, lit: offset == highlight)
+                            .id(item.id)
+                            .onTapGesture { run(offset) }
+                            .onHover { if $0 { highlight = offset } }
+                    }
+                }
+                .padding(.bottom, 6)
+            }
+            .onChange(of: highlight) { value in
+                guard results.indices.contains(value) else { return }
+                proxy.scrollTo(results[value].id)
+            }
+        }
+        .frame(height: results.isEmpty ? 90 : min(400, CGFloat(results.count) * 40 + 40))
+        .overlay {
+            if results.isEmpty {
+                Text("No matches for \u{201C}\(query)\u{201D}")
+                    .font(AppFont.ui(12))
+                    .foregroundStyle(skin.textTertiary)
+            }
+        }
+    }
+
+    private func row(_ item: PaletteItem, lit: Bool) -> some View {
+        HStack(spacing: 10) {
+            Group {
+                switch item.thumbnail {
+                case .symbol(let name):
+                    Glyph(name, size: 11)
+                        .foregroundStyle(lit ? skin.accent : skin.textSecondary)
+                        .frame(width: 26, height: 26)
+                        .background(Rectangle().fill(skin.bgVoid.opacity(0.6)))
+                case .cover(let path, let round):
+                    ArtworkView(path: path, size: 26, skin: skin, placeholder: round ? "person.fill" : "music.note")
+                        .clipShape(Rectangle())
+                }
+            }
+            VStack(alignment: .leading, spacing: 1) {
+                Text(item.title)
+                    .font(AppFont.ui(12.5, weight: lit ? .semibold : .regular))
+                    .foregroundStyle(skin.textPrimary)
+                    .lineLimit(1)
+                if let subtitle = item.subtitle {
+                    Text(subtitle)
+                        .font(AppFont.ui(10.5))
+                        .foregroundStyle(skin.textTertiary)
+                        .lineLimit(1)
+                }
+            }
+            Spacer(minLength: 8)
+            if let shortcut = item.shortcut {
+                Text(shortcut)
+                    .font(AppFont.ui(10, weight: .medium))
+                    .foregroundStyle(skin.textTertiary)
+            }
+        }
+        .padding(.horizontal, 10)
+        .padding(.vertical, 5)
+        .background(
+            Rectangle()
+                .fill(lit ? skin.selection.opacity(0.55) : .clear)
+        )
+        .padding(.horizontal, 4)
+        .contentShape(Rectangle())
+    }
+
+    private func refresh() {
+        guard let index else { return }
+        results = index.search(query, player: player, library: library, onOpenAlbum: onOpenAlbum, onCommand: onCommand)
+        highlight = 0
+    }
+
+    private func move(_ delta: Int) {
+        guard !results.isEmpty else { return }
+        highlight = min(results.count - 1, max(0, highlight + delta))
+    }
+
+    private func run(_ offset: Int) {
+        guard results.indices.contains(offset) else { return }
+        let item = results[offset]
+        onDismiss()
+        item.run()
+    }
+}
+
+/// The palette's surface: frosted glass, whatever the window's skin.
+private struct PaletteSurface: ViewModifier {
+    var skin: Skin
+
+    /// The glass windows' frosted glass over the window behind it, dark
+    /// enough that results read clearly over anything, with a hairline.
+    func body(content: Content) -> some View {
+        content
+            .background(InWindowGlass(tint: 0.42))
+            .overlay(alignment: .top) { Rectangle().fill(Color.white.opacity(0.07)).frame(height: 1).padding(.horizontal, 1) }
+            .overlay(Rectangle().strokeBorder(Color.white.opacity(0.14), lineWidth: 1))
+            .fuiCorners(skin)
+    }
+}
+
+// MARK: - Search model
+
+struct PaletteItem: Identifiable {
+    enum Section: String { case commands = "Commands", artists = "Artists", albums = "Albums", songs = "Songs" }
+    enum Thumbnail { case symbol(String), cover(String?, round: Bool) }
+
+    let id: String
+    let section: Section
+    let title: String
+    let subtitle: String?
+    var shortcut: String? = nil
+    let thumbnail: Thumbnail
+    let run: () -> Void
+}
+
+/// Normalized search keys, built once when the palette opens.
+@MainActor
+private struct PaletteIndex {
+    struct Artist { let name: String; let key: String; let tracks: [Track]; let albumCount: Int; let cover: String? }
+    struct Album { let album: AlbumGroup; let title: String; let artist: String }
+    struct Song { let track: Track; let title: String; let artist: String; let album: String }
+
+    let artists: [Artist]
+    let albums: [Album]
+    let songs: [Song]
+
+    init(library: LibraryStore) {
+        var byArtist: [String: (name: String, tracks: [Track], albums: Set<String>)] = [:]
+        var songs: [Song] = []
+        songs.reserveCapacity(library.tracks.count)
+        for t in library.tracks {
+            let key = Self.normalize(t.artist)
+            songs.append(Song(track: t, title: Self.normalize(t.title), artist: key, album: Self.normalize(t.album)))
+            guard !key.isEmpty else { continue }
+            byArtist[key, default: (t.artist, [], [])].tracks.append(t)
+            byArtist[key]?.albums.insert(t.albumKey)
+        }
+        artists = byArtist.map { key, value in
+            Artist(name: value.name, key: key, tracks: value.tracks, albumCount: value.albums.count,
+                   cover: value.tracks.first { $0.artworkFilePath != nil }?.artworkFilePath)
+        }
+        albums = library.albumGroups.map { Album(album: $0, title: Self.normalize($0.title), artist: Self.normalize($0.artist)) }
+        self.songs = songs
+    }
+
+    static func normalize(_ s: String) -> String {
+        s.folding(options: [.caseInsensitive, .diacriticInsensitive, .widthInsensitive], locale: nil)
+    }
+
+    /// 100 exact, 88 prefix, 74 word prefix, 48 substring, 0 no match.
+    static func score(_ haystack: String, _ needle: String) -> Int {
+        guard !needle.isEmpty, !haystack.isEmpty else { return 0 }
+        if haystack == needle { return 100 }
+        if haystack.hasPrefix(needle) { return 88 }
+        if haystack.range(of: " " + needle) != nil { return 74 }
+        if haystack.contains(needle) { return 48 }
+        return 0
+    }
+
+    func search(_ raw: String, player: PlayerController, library: LibraryStore,
+                onOpenAlbum: @escaping (AlbumGroup) -> Void, onCommand: @escaping (PaletteCommand) -> Void) -> [PaletteItem] {
+        let q = Self.normalize(raw.trimmingCharacters(in: .whitespacesAndNewlines))
+        let commands = Self.commands(player: player, onCommand: onCommand)
+        guard !q.isEmpty else { return commands }
+
+        let matchedCommands = commands.filter { Self.score(Self.normalize($0.title), q) > 0 }
+
+        let artistHits = artists
+            .map { ($0, Self.score($0.key, q)) }
+            .filter { $0.1 > 0 }
+            .sorted { $0.1 != $1.1 ? $0.1 > $1.1 : $0.0.tracks.count > $1.0.tracks.count }
+            .prefix(5)
+        let rankedArtists = artistHits.map { artist, _ in
+                PaletteItem(
+                    id: "artist:" + artist.key, section: .artists, title: artist.name,
+                    subtitle: "Artist · \(artist.albumCount) albums · \(artist.tracks.count) songs",
+                    thumbnail: .cover(artist.cover, round: true),
+                    run: { player.play(artist.tracks.sorted(by: Track.libraryOrder)) }
+                )
+            }
+
+        let albumHits = albums
+            .map { ($0, max(Self.score($0.title, q), Self.score($0.artist, q) / 2)) }
+            .filter { $0.1 > 0 }
+            .sorted { $0.1 > $1.1 }
+            .prefix(8)
+        let rankedAlbums = albumHits.map { entry, _ in
+                PaletteItem(
+                    id: "album:" + entry.album.key, section: .albums, title: entry.album.title,
+                    subtitle: "Album · \(entry.album.artist)" + (entry.album.year.map { " · \($0)" } ?? ""),
+                    thumbnail: .cover(entry.album.artworkFilePath, round: false),
+                    run: { onOpenAlbum(entry.album) }
+                )
+            }
+
+        let songHits = songs
+            .map { ($0, max(Self.score($0.title, q), Self.score($0.artist, q) / 2, Self.score($0.album, q) / 2)) }
+            .filter { $0.1 > 0 }
+            .sorted { $0.1 > $1.1 }
+            .prefix(12)
+        let rankedSongs = songHits.map { song, _ in
+                PaletteItem(
+                    id: "song:" + song.track.id.uuidString, section: .songs, title: song.track.title,
+                    subtitle: "\(song.track.artist) · \(song.track.album) · \(song.track.formattedDuration)",
+                    thumbnail: .cover(song.track.artworkFilePath, round: false),
+                    run: { player.play(track: song.track, within: library.tracks(inAlbum: song.track.albumKey)) }
+                )
+            }
+
+        // Whichever kind matched best leads; artists win ties ("radiohead"
+        // should surface the artist before one of their songs).
+        let groups: [(score: Int, items: [PaletteItem])] = [
+            ((artistHits.first?.1 ?? 0) + 1, rankedArtists),
+            (albumHits.first?.1 ?? 0, rankedAlbums),
+            (songHits.first?.1 ?? 0, rankedSongs)
+        ]
+        return groups.sorted { $0.score > $1.score }.flatMap(\.items) + matchedCommands
+    }
+
+    static func commands(player: PlayerController, onCommand: @escaping (PaletteCommand) -> Void) -> [PaletteItem] {
+        func item(_ id: String, _ icon: String, _ title: String, _ shortcut: String? = nil, _ run: @escaping () -> Void) -> PaletteItem {
+            PaletteItem(id: "cmd:" + id, section: .commands, title: title, subtitle: nil, shortcut: shortcut, thumbnail: .symbol(icon), run: run)
+        }
+        let playing = player.engine.isPlaying
+        return [
+            item("play", playing ? "pause.fill" : "play.fill", playing ? "Pause" : "Play", "Space") { player.togglePlayPause() },
+            item("next", "forward.fill", "Next Track", "⌘→") { player.next() },
+            item("previous", "backward.fill", "Previous Track", "⌘←") { player.previous() },
+            item("shuffle", "shuffle", player.shuffle ? "Turn Shuffle Off" : "Turn Shuffle On", "⌥⌘S") { player.shuffle.toggle() },
+            item("repeat", "repeat", "Repeat: \(player.repeatMode.next.rawValue.capitalized)", "⌥⌘R") { player.repeatMode = player.repeatMode.next },
+            item("current", "scope", "Go to Current Track") { onCommand(.goToCurrent) },
+            item("info", "info.circle", "Get Info for Selection") { onCommand(.getInfo) },
+            item("playlist", "music.note.list", "New Playlist…", "⌘N") { onCommand(.newPlaylist) },
+            item("add", "folder.badge.plus", "Add Music…", "⌘O") { onCommand(.addMusic) },
+            item("eq", "slider.vertical.3", "Equalizer", "⌥⌘E") { onCommand(.equalizer) },
+            item("mini", "pip", "Mini Player", "⇧⌘M") { onCommand(.miniPlayer) },
+            item("library", "music.note.house", "Library: folders and scanning", "⇧⌘L") { onCommand(.library) },
+            item("settings", "gearshape", "Settings", "⌘,") { onCommand(.settings) }
+        ]
+    }
+}
+
+/// Arrow keys, Return, and Escape while the palette is open, even with the
+/// search field focused.
+private struct PaletteKeyCatcher: NSViewRepresentable {
+    var onUp: () -> Void
+    var onDown: () -> Void
+    var onReturn: () -> Void
+    var onEscape: () -> Void
+
+    func makeNSView(context: Context) -> NSView {
+        context.coordinator.install()
+        return NSView()
+    }
+
+    func updateNSView(_ nsView: NSView, context: Context) {
+        context.coordinator.handlers = (onUp, onDown, onReturn, onEscape)
+    }
+
+    static func dismantleNSView(_ nsView: NSView, coordinator: Coordinator) {
+        coordinator.remove()
+    }
+
+    func makeCoordinator() -> Coordinator { Coordinator(handlers: (onUp, onDown, onReturn, onEscape)) }
+
+    final class Coordinator {
+        var handlers: (up: () -> Void, down: () -> Void, enter: () -> Void, escape: () -> Void)
+        private var monitor: Any?
+
+        init(handlers: (() -> Void, () -> Void, () -> Void, () -> Void)) {
+            self.handlers = handlers
+        }
+
+        func install() {
+            guard monitor == nil else { return }
+            monitor = NSEvent.addLocalMonitorForEvents(matching: .keyDown) { [weak self] event in
+                guard let self else { return event }
+                switch event.keyCode {
+                case 126: self.handlers.up(); return nil
+                case 125: self.handlers.down(); return nil
+                case 36, 76: self.handlers.enter(); return nil
+                case 53: self.handlers.escape(); return nil
+                default: return event
+                }
+            }
+        }
+
+        func remove() {
+            if let monitor { NSEvent.removeMonitor(monitor) }
+            monitor = nil
+        }
+    }
+}

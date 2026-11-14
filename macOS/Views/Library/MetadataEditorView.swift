@@ -1,272 +1,330 @@
------BEGIN I2S ENCRYPTED FILE-----
-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
-hjPLeTHGS8WyHu2/lBmKPX4=
------END I2S ENCRYPTED FILE-----
+import SwiftUI
+import AppKit
+import UniformTypeIdentifiers
+
+/// Get Info: edit tags, replace the cover, fetch art or lyrics, and save to
+/// the library and (optionally) into the file itself.
+struct MetadataEditorView: View {
+    @ObservedObject var library: LibraryStore
+    var lyrics: LyricsStore
+    var skin: Skin
+    var trackID: UUID
+    var onDismiss: () -> Void
+
+    @State private var title = ""
+    @State private var artist = ""
+    @State private var album = ""
+    @State private var albumArtist = ""
+    @State private var genre = ""
+    @State private var composer = ""
+    @State private var year = ""
+    @State private var trackNumber = ""
+    @State private var discNumber = ""
+    @State private var newArtwork: (image: NSImage, jpeg: Data)?
+    @State private var lyricsDraft = ""
+    @State private var originalLyrics = ""
+    @State private var status = ""
+    @State private var isWorking = false
+    @State private var writeToFile = true
+
+    private var track: Track? { library.track(id: trackID) }
+    private var canWriteFile: Bool { track.map { MetadataWriter.canWrite($0.url) } ?? false }
+
+    var body: some View {
+        VStack(spacing: 0) {
+            DialogHeader(title: track?.title ?? "Get Info", subtitle: track.map(technicalLine), skin: skin)
+            Hairline(color: skin.hairline)
+            HStack(alignment: .top, spacing: 20) {
+                artworkColumn
+                fieldsColumn
+            }
+            .padding(18)
+            Hairline(color: skin.hairline)
+            footer
+        }
+        .frame(width: 660)
+        .glassSheet(skin)
+        .preferredColorScheme(.dark)
+        .onAppear(perform: load)
+    }
+
+    private func technicalLine(_ t: Track) -> String {
+        "\(t.fileFormat) · \(t.qualitySummary) · \(t.formattedDuration) · \(t.playCount) plays"
+    }
+
+    // MARK: Artwork
+
+    private var artworkColumn: some View {
+        VStack(alignment: .leading, spacing: 10) {
+            ZStack {
+                if let newArtwork {
+                    Image(nsImage: newArtwork.image).resizable().aspectRatio(contentMode: .fill)
+                } else {
+                    ArtworkView(path: track?.artworkFilePath, size: 190, skin: skin, placeholder: "photo")
+                }
+            }
+            .frame(width: 190, height: 190)
+            .clipShape(Rectangle())
+            .overlay(Rectangle().strokeBorder(skin.hairline, lineWidth: 1))
+            .onDrop(of: [.image, .fileURL], isTargeted: nil, perform: loadDroppedArtwork)
+            .help("Drop an image to replace the cover")
+
+            HStack(spacing: 6) {
+                HeaderButton(title: "Choose…", icon: "photo", skin: skin, action: pickArtwork)
+                HeaderButton(title: "Find Online", icon: "magnifyingglass", skin: skin) {
+                    Task { await fetchArtwork() }
+                }
+                .disabled(isWorking || !AppSession.shared.settings.data.onlineLookups)
+                .help(AppSession.shared.settings.data.onlineLookups ? "The best match from your sources (Library → Metadata has the full search)"
+                      : "Online lookups are off (Library → Metadata)")
+            }
+            if newArtwork != nil {
+                Text("The new cover applies to every track on this album.")
+                    .font(AppFont.ui(10))
+                    .foregroundStyle(skin.textTertiary)
+                    .fixedSize(horizontal: false, vertical: true)
+            }
+            Spacer(minLength: 0)
+            if let track {
+                Text(track.filePath)
+                    .font(AppFont.ui(9.5))
+                    .foregroundStyle(skin.textTertiary)
+                    .lineLimit(3)
+                    .truncationMode(.middle)
+                    .textSelection(.enabled)
+                    .onTapGesture(count: 2) { NSWorkspace.shared.activateFileViewerSelecting([track.url]) }
+                    .help("Double-click to show in Finder")
+            }
+        }
+        .frame(width: 190)
+    }
+
+    // MARK: Fields
+
+    private var fieldsColumn: some View {
+        VStack(spacing: 8) {
+            field("Title", $title)
+            HStack(spacing: 8) {
+                field("Artist", $artist)
+                field("Album Artist", $albumArtist)
+            }
+            field("Album", $album)
+            HStack(spacing: 8) {
+                field("Genre", $genre)
+                field("Composer", $composer)
+            }
+            HStack(spacing: 8) {
+                field("Year", $year).frame(width: 80)
+                field("Track", $trackNumber).frame(width: 64)
+                field("Disc", $discNumber).frame(width: 64)
+                Spacer()
+            }
+            VStack(alignment: .leading, spacing: 4) {
+                HStack {
+                    label("Lyrics")
+                    Spacer()
+                    Button("Find Online") { Task { await fetchLyrics() } }
+                        .disabled(!AppSession.shared.settings.data.onlineLookups)
+                        .buttonStyle(.plain)
+                        .font(AppFont.ui(10.5, weight: .semibold))
+                        .foregroundStyle(skin.accent)
+                        .disabled(isWorking)
+                }
+                TextEditor(text: $lyricsDraft)
+                    .font(AppFont.ui(11))
+                    .scrollContentBackground(.hidden)
+                    .foregroundStyle(skin.textPrimary)
+                    .padding(6)
+                    .frame(height: 120)
+                    .background(Rectangle().fill(skin.bgVoid.opacity(0.7)))
+                    .overlay(Rectangle().strokeBorder(skin.hairline, lineWidth: 1))
+            }
+        }
+        .frame(maxWidth: .infinity, alignment: .leading)
+    }
+
+    private func label(_ text: String) -> some View {
+        Text(text)
+            .font(AppFont.ui(9, weight: .bold))
+            .foregroundStyle(skin.textTertiary)
+    }
+
+    private func field(_ name: String, _ text: Binding<String>) -> some View {
+        VStack(alignment: .leading, spacing: 3) {
+            label(name)
+            DialogTextField(text: text, skin: skin)
+        }
+    }
+
+    // MARK: Footer
+
+    private var footer: some View {
+        HStack(spacing: 10) {
+            SettingsToggleSwitch(isOn: $writeToFile, skin: skin)
+                .disabled(!canWriteFile)
+                .opacity(canWriteFile ? 1 : 0.4)
+            Text(canWriteFile ? "Also write tags to the file" : "Tags for this format are saved to the library only")
+                .font(AppFont.ui(11.5))
+                .foregroundStyle(skin.textSecondary)
+            if isWorking { ProgressView().controlSize(.small) }
+            if !status.isEmpty {
+                Text(status)
+                    .font(AppFont.ui(10.5))
+                    .foregroundStyle(skin.textTertiary)
+                    .lineLimit(2)
+            }
+            Spacer()
+            DialogButton(title: "Cancel", skin: skin, action: onDismiss)
+                .keyboardShortcut(.cancelAction)
+            DialogButton(title: "Save", prominent: true, enabled: !isWorking, skin: skin, action: save)
+                .keyboardShortcut(.defaultAction)
+        }
+        .padding(.horizontal, 16)
+        .padding(.vertical, 12)
+        .background(skin.bgRaised)
+    }
+
+    // MARK: Load / save
+
+    private func load() {
+        guard let track else { return }
+        title = track.title
+        artist = track.artist
+        album = track.album
+        albumArtist = track.albumArtist
+        genre = track.genre
+        composer = track.composer
+        year = track.year.map(String.init) ?? ""
+        trackNumber = track.trackNumber.map(String.init) ?? ""
+        discNumber = track.discNumber.map(String.init) ?? ""
+        originalLyrics = LyricsStore.readText(LyricsStore.lrcURL(for: track)) ?? ""
+        lyricsDraft = originalLyrics
+        writeToFile = canWriteFile
+    }
+
+    private func edited(_ base: Track) -> Track {
+        var t = base
+        func clean(_ s: String) -> String { s.trimmingCharacters(in: .whitespacesAndNewlines) }
+        t.title = clean(title).isEmpty ? base.title : clean(title)
+        t.artist = clean(artist)
+        t.album = clean(album)
+        t.albumArtist = clean(albumArtist).isEmpty ? t.artist : clean(albumArtist)
+        t.genre = clean(genre).isEmpty ? "Unknown" : clean(genre)
+        t.composer = clean(composer)
+        t.year = Int(clean(year))
+        t.trackNumber = Int(clean(trackNumber))
+        t.discNumber = Int(clean(discNumber))
+        return t
+    }
+
+    private func save() {
+        guard let original = track else { return }
+        var updated = edited(original)
+        if let newArtwork, let path = library.storeArtwork(newArtwork.jpeg) {
+            updated.artworkFilePath = path
+        }
+        library.replaceTrack(updated)
+        if let path = updated.artworkFilePath, newArtwork != nil {
+            library.applyArtworkToAlbum(updated.albumKey, path: path)
+        }
+        if lyricsDraft != originalLyrics {
+            lyrics.save(lyricsDraft, for: updated)
+        }
+
+        guard writeToFile, canWriteFile else {
+            onDismiss()
+            return
+        }
+        isWorking = true
+        status = "Writing tags…"
+        let fields = MetadataWriter.Fields(updated)
+        let artwork = newArtwork?.jpeg
+        let url = updated.url
+        Task {
+            do {
+                try await Task.detached(priority: .userInitiated) {
+                    try await MetadataWriter.write(fields, artworkJPEG: artwork, to: url)
+                }.value
+                isWorking = false
+                onDismiss()
+            } catch {
+                isWorking = false
+                status = "Saved to the library. \(error.localizedDescription)"
+            }
+        }
+    }
+
+    // MARK: Artwork sources
+
+    private func setArtwork(from data: Data) {
+        guard let jpeg = ArtworkStore.normalizedJPEG(from: data), let image = NSImage(data: jpeg) else {
+            status = "That image couldn't be read."
+            return
+        }
+        newArtwork = (image, jpeg)
+        status = ""
+    }
+
+    private func fetchArtwork() async {
+        guard let track else { return }
+        isWorking = true
+        status = "Looking up the cover…"
+        defer { isWorking = false }
+        // The closest album from the enabled sources, then the old song search.
+        let e = edited(track)
+        let sources = AppSession.shared.settings.data.metadataSources
+        let best = await OnlineMetadata.albums(artist: e.albumArtist.isEmpty ? e.artist : e.albumArtist,
+                                               album: e.album.isEmpty ? e.title : e.album, sources: sources).first?.cover
+        var found: Data?
+        if let best { found = await OnlineMetadata.image(best.full) }
+        if found == nil, sources.contains(.appleMusic) { found = await MetadataLookup.fetchArtwork(for: e) }
+        if let data = found {
+            setArtwork(from: data)
+            status = "Found a cover. Save to apply it."
+        } else {
+            status = "No matching cover found."
+        }
+    }
+
+    private func fetchLyrics() async {
+        guard let track else { return }
+        isWorking = true
+        status = "Looking up lyrics…"
+        defer { isWorking = false }
+        let settings = AppSession.shared.settings.data
+        switch await LyricsLookup.fetch(edited(track), sources: settings.lyricsSources, syncedOnly: settings.lyricsSyncedOnly) {
+        case .found(let text, let source):
+            lyricsDraft = text
+            status = (LyricsState.of(text) == .synced ? "Found synced lyrics" : "Found lyrics (not synced)") + " on \(source.label)."
+        case .notFound:
+            status = "No lyrics found."
+        case .unavailable(let why):
+            status = "Couldn't search: \(why)."
+        }
+    }
+
+    private func pickArtwork() {
+        let panel = NSOpenPanel()
+        panel.allowedContentTypes = [.image]
+        panel.allowsMultipleSelection = false
+        if panel.runModal() == .OK, let url = panel.url, let data = try? Data(contentsOf: url) {
+            setArtwork(from: data)
+        }
+    }
+
+    private func loadDroppedArtwork(_ providers: [NSItemProvider]) -> Bool {
+        guard let provider = providers.first else { return false }
+        if provider.hasItemConformingToTypeIdentifier(UTType.fileURL.identifier) {
+            _ = provider.loadObject(ofClass: URL.self) { url, _ in
+                guard let url, let data = try? Data(contentsOf: url) else { return }
+                DispatchQueue.main.async { setArtwork(from: data) }
+            }
+            return true
+        }
+        provider.loadDataRepresentation(forTypeIdentifier: UTType.image.identifier) { data, _ in
+            guard let data else { return }
+            DispatchQueue.main.async { setArtwork(from: data) }
+        }
+        return true
+    }
+}

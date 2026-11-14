@@ -1,82 +1,88 @@
------BEGIN I2S ENCRYPTED FILE-----
-AEdJVENSWVBUAALnNSa2Ot2AZzNRbLzeOKiB3B/Xp/0H9jusqghkOQ5XDT/9nko/
-btdc/+TKrIDRhgPSOLtlYgzjkbwbcwmCNNw5dft3E8SeUHcd0HkxKXnejqharfAh
-O9E69IurYxBsWzsZjVqWaePXpRR2dgu92Q5V3Pg/eMhy+2rQikOCi+p9WRTbtq4+
-Dw/f+QVSyVlfLdyK8MDxTOcUIOMEIpK7nYcN+cy4XvccEtJ2RZjxTWNS4mjrAUT1
-a6ikw10IWu67m5jLuOI2GRdh5lht3BuMrnzKkiClI93ai4RzJNjYy0jvoOiJv6CS
-hld9EWd9tatbzyt/F40fK6wayrWfzYS2PVp10aqlZZZ2Z+gHkRYHoHLwBzWqc2KV
-Kxl5VQ/uDrYCYuRkFw5LpZhioNicUik4n59O5f1RetcKu2pbvtvTxdAGZXUWxoeW
-yaexf26Xuv4B7UsqqPwU5DLOKWcbBpofLZHOIH7WtuJw63shr2h7FlWXnA0xKGo2
-+v1uxfrP4aHytKZAjB6slY0LwJuyCk6MWBSIc9yKp3PNDPQTT96JPqsxPW9LFuD0
-gwTtWgcfFhI6+0SEhfYHiej16nf5Uw8sqssW92EaK3GEBKzq6w9gQVgfSAJcIuD0
-m9hytFjAc5lkZT4qntggLhyOGQ8AfbsIkok1thPcJ2DvGp2SF+msqMpWAKFilp5n
-ITmJezfHTgE6GixF+WHGQPDCW6mFsJoCKGk0S1zk9mw9Il4Jm4pFIgU+v5B+O6qo
-pxHodPi9nb9IATsLVsCndSNm/2vte631Ev1F8t/e/FeNJaNF/SW9JX9gd3nuLYm+
-34JlZDr5g0d8F51174bJiLVWFFoW9B8S64j2i5ivSOvnnkD36sjTggv2g+HpngIi
-lRcLfUWZWeCO5bWeQQxxk+CKSScnlaG8Qery/xozCITzzO7Dbo/29vWlCYrP+G/a
-qY14aViQ2ef1nhrSO8WW0gG7rqv5a8ZPQQh9uq2WrkYrYo0p/VKeAmsXoRs55CoH
-ssBhm2FfxZFS3nvvXU+dYO35e/fl2GnSZ6kuzeU+ZKHtgsjqoKTQmYyU1JoDwgFQ
-kNW7ECCFa9ro+3Li6IQregoBxk8b49JvElJlF1PYU+nkkyWzNOCHhIMcFgnfcOKL
-EzzrZbSS3kE/GuPvrX6XOwPmW4OcngsmAvwEJiTy5c34kCpqat57BSFl2Wa8jMKA
-J5QsDWnXoRS93V+hOHkg99QKIoiKB1Ai/B6RpMi3Vq5lf0CmIZv1L5gsH+blMLGc
-z6dA8rIHECCI2P0oG+IHEZkJg1EvjwdC3Z5YZl0pyKRaGEutRkKK2aGxyJNkoowj
-rzKvoj1G2Lc1ajFLkrC5IZ3QjRi4pqywMbqH2kG9EUW5BIsHJBeWd4e5pGBmeQrG
-MNgJKPz7xWxV/bi7M/Yowa9d7nK75VOVhrw5TPlfiPyCwY/6Y+WoScVHgkifxhM0
-MVGOdQaegb+EZLK/pTmtctIM+LBUwB26NUjl5Qeg/BkBXbZ0TFtD8EHJkle8FthT
-791WJQIvfRxdV7jf4aFPPf/xD/r8akw98Ol4T/aMwOa1S4oOOjvcNvD40g4D8I/1
-5diMRp8289k5Esjtr4ZjSwdkAoRqoy6ohRA546ow749XPJFuOF/QM8yqY2XzfpnU
-AObSUr+xxEml3g5E8PDkUAOwurSjOZWi9SYQmqUnrwv879qIu+vyIaoErbp88TU2
-E+csORxXSDru7Vug9l/2fd8DtWsbHINwrDHgVz/eBq1JbXMi4JDjnbc0Dgz94xXS
-XHq/x5T11Fs1P60msjgZg9h/gZR5aAElzOsE0nMWxT90qeLHf5Ifoy6yomHBtM8Q
-sfVio7Z5KFzEi2YLVbLDlIg0eirEqxmIZm1DA7ETinxoE6eUFvi1jtGvn22nmYde
-Qj+MflINlABITtv1psnoxwAl/9BW5Edj0UYMlIw8bRhlCQ4ErLw3M/XShTR1X9mH
-qA0flSYiyIw6BDNjkovj61iJ+lAblC/4Ua/vj+zr50YJUO4F0T1Syf/RybidYmcQ
-RfWeiWMwKMWyx10vL2TVzPawrImHsAOFzPkU/wuOdt5hcuPp/69lszVZ36QibizT
-Gw1iNtHqvTRq1Z0XD9MNTvShgW1i1IHEIuPhHJ6fYd6LD9WyAR1QeQNll7nFBozi
-cQTnLGdleMdDvkG1Oui+I1vzt4ARyGt3JEh3eI7fDqR2LSF0+l2bYHBpXrm5ZaOZ
-ZAR01pvFgRFwsdzoEGe/kEziOceA0hyNsgfOwmAUOcN6vkB+TVENUEbLvHtppRX1
-IjA3SPT7m8dOj+O8MZObXQhoYD19MFSzxULao+quNmP7SLGy2K1RiQ4UActajqQN
-O4zmAp9hRBKrSkuvfNCbeS5jVWYMh1yHxX0u9Yuvhxm6i/Bsd8cx5oP+cUNkIC0/
-wrrtl6kB2yL4NjYU3yMzFddJeHS/9Y3VCtIJ+Y4T/WJwdBvW3lyyBc4IVixob29o
-h8mNQz3EvNec4Azq17ssRLY/DGFwvBgwegRMDozmqdhZxcCKM/UoD/MajEc2su3K
-WeyXCUzwm4i6owiV++vBcYUla+KgnHrRlhokStkMS1mc6zT3/Wd8mJ0OxBdcKeVX
-Gu5RhqUpWrLu9W/1FME9BDvle0b0pdj0CQ6526Pt18m0wmDSn2V9kAZxQBw7wqLI
-Wvc3wnsEaHmG9zd2N4wiPv9F1iFHgKD4+ZTq2KfUrLynY3dqLywRnuMF8ike0B8/
-J+TQxPW8AvDobBhDaqkPpDZ+cdRHIw6JB0hiQkO2+DQqVmIuzJpu4fAyRZKER7iT
-aPnggk7H+mvCGiV/8G+SJUOaSQxL6W/BL1DqxmFaH7RxSUyNh5YuaWKqMbNO7I29
-jfpwa1sPJLuX728I2hf6kGDLCD5SPhjTXR+3VEagDcwa6XFMmysMZFAAc+XUpQpQ
-5Fj8OImkZZ7XejSgRlBsyT52s7DX5H5GHybOdJ/xHudR8wUIFEpWHJsts2bFi8v9
-fDWgdveUTOxi0zBIDVJlsLWG9/xHQD0zWigjxo9G//ao0W1k5gebakHdKDSL5pwu
-kiTgYmZAiSLswXGf5QYjeJ/HsxxFRR3RrSq+MZakGIULEs7UkvorhkExXr0kBMPF
-VVSh3ZjJA4532kiI0ztzpunjoq9dFRB59zpdNyJxi/iBEVypn8iM/pZ/KPbVe4fA
-tkPafKPMVGA+ZJth95Nu/xaCx2X92ohjJ184/b+vgLpIN6klRngY655e2Xwp1AH1
-+MrtbNqQZqr5JwB1RDkbYXSllejSjexLjqY2fVxL62aIiy5kN5RDn0BQ5J8aq66h
-SPD5psyML5Bzhh1rvfNtXbUb4NDQ5viVv+lnZrjA2UFYqt1Cnbc1ixm0NugpHH1X
-gy1vsuOSDk213wEOIGKeIwX4awm8zAvLUX4hRaZbb94uwRwReilONAkSDUKCeVpF
-Av3liXs6e21JYxebAVyPDSVpyz60YVNOhLX3P3ePU3MRQvWZrwbQlhM3Q9X/8rOV
-TE0NmRThi1AoWQpXkBQpxVn/1DYy18+mxTIB2XYf9Rv4PT1W7KFOl/xb2eJNXzH0
-z8+AG8kMaqOqRiMUmqFVqbFTJvkDEoW5guY02stju5Q6q6sahA1ctcvrFteeNUda
-iVv8tOrh8Yj+kE5Xh0QVvRi3JdO1mPuw6eya4pxCeigWpe6vGGtGLNlWcjsr3NiG
-GfaYMpOeOpFVeI0KQ0lggd0SM9Qy1kJxXqSpRgOZFDy/4IlW0u89WXEFNY215Gcx
-zObVYJfnUIVuGiAQUJpBbP/WXpylcsYOmFPCog/7R7lGyV8+vu9pBIQDLSIoH19k
-sO7jVg8xqSTCYjuu1NPxJWRuY2zBlYVkUuuj21XwefcNDlUvXmGc1/vyHygFikEB
-eLmzIQJ2QQFQ9Ke/t7fBQMna7uMFaUkqVhhaGNqgQ1CLhZoaUA3mmja9+mc+m5sb
-at1vM5MFwaW/+a5CPVmSmN7ylTjbfltMQutsJQkj3DP3SCwrihxUmye+jjrYvIVw
-St/fIzyg1r2+mnRJlnJxNd/fZvkuK8hpUul/4MEMBT9WXr6wknW6IVhK2mQNddQf
-jCnGZ4pE7zqVEY/aNfHcFftJp70XLe16P2VFrlbSi90V2vutUgm3k5NzgrKXr5eI
-fLxsjxGmEFic4J9qugb8eMgy2cQhY1QPrzxmQD2AWq+WYEHA9hanO7VUvqDzcX9H
-V+zA+or+/2PDiy2/bIZh4DX1R8p2kiEI5uCYK1EFx9/m7c6iw2O0woNiFSIbqxLg
-0yI59Cqaof7oqNfM9a2PuFNF4MBHoB0blvR281COdotCoFJFdicJjIOnLedz7Exz
-Xir3pI4bTtFkJ8zh1WfXnNPiRHkQ9wnnmIXMBBUW+q5yOsoiqefFzzyrf2UaDQvs
-F7vUUBqEkJ+v/sTXnEcV4JQfdoylenkdka3C1oJltWcWkduTHUgJfe3ciQMwZptM
-Af28lATEQ6BPgG9LdfRZoCfPC6GDZv6bpqM24UfRSKKCF6xg39t6+idqlARei8Ui
-tY1KFJP1jAJR9s1Ktij7SYyUtK08zMRcDGhb7YMLaWLLht8B/AeE3DcvOScbKbtl
-urtho5I6DQofkPxUzhVATBN4FykdAfubD/LONWmN665QOPEuI7W9HMb9jxwaq3gx
-7DaSooOdsQerKYaELdOiMYjqxTGriAg4jiEfg6xybkqC3QmVTy/twQKGUo2ViRqk
-xByDN3nilJjesLkCl1VGgAOueHAEWv5AQEcK8FyT8WaUuf/MvupulLf6gbZXZfjk
-E1LlsAkNdwZTVjmarjfoeJ6KkgMmWDTAk6Z8THriELKy6TX25pT3WSpvEsm7gQYf
-/zX7y5UrIMguj0iJULg2lm6m75ZB1qxi+ydX06hhAIKfxYyGLQr7gYHi6pGipbLh
-miL4csYEAhpk4ue3bFl71WNlKdqV+ttDa9jyH4d1EkFILhOy+Rcs+h+Dalz3ilpR
-GSm1duopD3NiFnQOPz7KCiPrmLPZk5uuWwDmPI5+mKUJmEKEYq/uCt5NmTXe3V+t
-muGpJVpLhDXUFhKBR355mC94YCIlRdkbLUNvsMd4K/72fVyVhH8gQW627H07uJVG
------END I2S ENCRYPTED FILE-----
+import SwiftUI
+
+/// A compact companion window: cover, title, seek bar, and transport.
+struct MiniPlayerView: View {
+    @ObservedObject private var player = AppSession.shared.player
+    @ObservedObject private var engine = AppSession.shared.player.engine
+    @ObservedObject private var theme = AppSession.shared.theme
+    @ObservedObject private var settings = AppSession.shared.settings
+
+    private var skin: Skin { settings.styled(theme.skin) }
+    private var track: Track? { player.currentTrack }
+
+    var body: some View {
+        HStack(spacing: 12) {
+            // Meimei's window controls, or room for the platform's.
+            if settings.data.systemWindowFrame {
+                Color.clear.frame(width: 52, height: 1)
+            } else {
+                WindowControls(skin: skin, canZoom: false).frame(width: 52)
+            }
+
+            ArtworkView(path: track?.artworkFilePath, size: 62, skin: skin, placeholder: "waveform")
+                .clipShape(Rectangle())
+                .overlay(Rectangle().strokeBorder(skin.hairline, lineWidth: 1))
+
+            VStack(alignment: .leading, spacing: 5) {
+                VStack(alignment: .leading, spacing: 1) {
+                    Text(track?.title ?? "Nothing playing")
+                        .textRole(.miniTitle, size: 13, weight: .semibold, color: skin.textPrimary)
+                        .lineLimit(1)
+                    Text(track?.artist ?? "i2s")
+                        .textRole(.miniArtist, size: 11, color: skin.textSecondary)
+                        .lineLimit(1)
+                }
+                MiniSeekBar(player: player, clock: engine.clock, skin: skin, style: settings.data.sliderStyle,
+                            monospaced: settings.data.useMonospacedNumbers)
+            }
+
+            HStack(spacing: 4) {
+                TransportButton(icon: "backward.fill", size: 24, iconSize: 10, skin: skin) { player.previous() }
+                PlayPauseButton(isPlaying: engine.isPlaying, size: 30, skin: skin) { player.togglePlayPause() }
+                TransportButton(icon: "forward.fill", size: 24, iconSize: 10, skin: skin) { player.next() }
+            }
+        }
+        .padding(.leading, 10)
+        .padding(.trailing, 14)
+        .padding(.vertical, 12)
+        .frame(width: 480, height: 88)
+        .font(AppFont.ui(12))
+        .background {
+            WindowBackdrop(style: settings.effectiveBackdrop(for: skin), skin: skin, artwork: theme.artworkImage,
+                           glassTint: settings.data.glassTintStrength)
+        }
+        .background(WindowDragArea())
+        .background(WindowChromeGuard(transparent: settings.effectiveBackdrop(for: skin) == .translucent))
+    }
+}
+
+private struct MiniSeekBar: View {
+    @ObservedObject var player: PlayerController
+    @ObservedObject var clock: PlaybackClock
+    var skin: Skin
+    var style: SliderStyleOption
+    var monospaced: Bool
+
+    @State private var seeking: Double?
+
+    var body: some View {
+        HStack(spacing: 6) {
+            TimeLabel(text: Track.format(seconds: seeking ?? clock.currentTime), size: 9.5, color: skin.lcdOn, monospaced: monospaced)
+            MinimalSlider(
+                value: Binding(get: { seeking ?? clock.currentTime }, set: { seeking = $0 }),
+                range: 0...max(clock.duration, 0.01),
+                onEditingChanged: { editing in
+                    if !editing, let target = seeking {
+                        player.seek(to: target)
+                        seeking = nil
+                    }
+                },
+                skin: skin,
+                trackHeight: 3,
+                style: style
+            )
+            .frame(height: 12)
+            TimeLabel(text: Track.format(seconds: clock.duration), size: 9.5, color: skin.textTertiary, monospaced: monospaced)
+        }
+    }
+}

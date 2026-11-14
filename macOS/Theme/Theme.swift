@@ -1,244 +1,311 @@
------BEGIN I2S ENCRYPTED FILE-----
-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
------END I2S ENCRYPTED FILE-----
+import SwiftUI
+import AppKit
+
+/// The resolved colors (and corner scale) every view draws with.
+struct Skin: Identifiable, Equatable {
+    var id: String
+    var name: String
+
+    // Surfaces, darkest to lightest
+    var bgVoid: Color        // window background
+    var bgPanel: Color       // side panels
+    var bgRow: Color         // table rows
+    var bgRowAlt: Color      // alternating rows
+    var bgRaised: Color      // bars, headers, cards
+    var hairline: Color      // 1px dividers
+
+    var textPrimary: Color
+    var textSecondary: Color
+    var textTertiary: Color
+    var textOnAccent: Color
+
+    var accent: Color
+    var accentDim: Color
+    var accentGlow: Color
+
+    var lcdOn: Color
+    var lcdOff: Color
+    var lcdBackground: Color
+
+    var selection: Color
+    var hover: Color
+
+    /// Panels and the table stay translucent so a blurred cover can show
+    /// through (the live "From Cover" theme).
+    var allowsBackdropBleed: Bool = false
+
+    /// Surfaces are glass panes over the backdrop rather than flat fills.
+    var isGlass: Bool = false
+    /// Color the glass is tinted with (the theme's panel color); nil for clear glass.
+    var glassTint: Color? = nil
+
+    // Design tokens (see `DesignTokens`), filled in by `AppSettings.styled`.
+    var panelOpacity: Double = 0.46
+    var borderWidth: CGFloat = 1
+    var showTicks = true
+    var tickLength: CGFloat = 7
+    /// The content layer's veil in glass mode; nil means `panelOpacity` + 0.16.
+    var contentOpacity: Double? = nil
+
+
+    /// A surface color, or clear when the cover backdrop should show through.
+    func surface(_ color: Color) -> Color { allowsBackdropBleed ? .clear : color }
+
+    static let voidBlack = Skin(palette: .voidBlack)
+
+    static let terminalAmber = Skin(palette: .terminalAmber)
+
+    static let coldSteelCyan = Skin(palette: .coldSteelCyan)
+
+    static let bloodChrome = Skin(palette: .bloodChrome)
+
+}
+
+extension CustomTheme {
+    /// The runtime colors for this theme.
+    func makeSkin() -> Skin {
+        Skin(
+            id: id.uuidString, name: name,
+            bgVoid: Color(hex: bgVoid), bgPanel: Color(hex: bgPanel),
+            bgRow: Color(hex: bgRow), bgRowAlt: Color(hex: bgRowAlt),
+            bgRaised: Color(hex: bgRaised), hairline: Color(hex: hairline),
+            textPrimary: Color(hex: textPrimary), textSecondary: Color(hex: textSecondary),
+            textTertiary: Color(hex: textTertiary), textOnAccent: Color(hex: textOnAccent),
+            accent: Color(hex: accent), accentDim: Color(hex: accentDim), accentGlow: Color(hex: accentGlow),
+            lcdOn: Color(hex: lcdOn), lcdOff: Color(hex: lcdOff), lcdBackground: Color(hex: lcdBackground),
+            selection: Color(hex: selection), hover: Color(hex: hover),
+            allowsBackdropBleed: isAlbumReactive
+        )
+    }
+
+    init(id: UUID, name: String, from skin: Skin) {
+        self.id = id
+        self.name = name
+        self.bgVoid = skin.bgVoid.toHex()
+        self.bgPanel = skin.bgPanel.toHex()
+        self.bgRow = skin.bgRow.toHex()
+        self.bgRowAlt = skin.bgRowAlt.toHex()
+        self.bgRaised = skin.bgRaised.toHex()
+        self.hairline = skin.hairline.toHex()
+        self.textPrimary = skin.textPrimary.toHex()
+        self.textSecondary = skin.textSecondary.toHex()
+        self.textTertiary = skin.textTertiary.toHex()
+        self.textOnAccent = skin.textOnAccent.toHex()
+        self.accent = skin.accent.toHex()
+        self.accentDim = skin.accentDim.toHex()
+        self.accentGlow = skin.accentGlow.toHex()
+        self.selection = skin.selection.toHex()
+        self.hover = skin.hover.toHex()
+        self.lcdOn = skin.lcdOn.toHex()
+        self.lcdOff = skin.lcdOff.toHex()
+        self.lcdBackground = skin.lcdBackground.toHex()
+        self.category = "Custom"
+        self.isAlbumReactive = skin.allowsBackdropBleed
+    }
+
+}
+
+/// The user's theme library (create, duplicate, rename, recolor, delete),
+/// the active theme, and the live palette for the "From Cover" theme.
+@MainActor
+final class ThemeManager: ObservableObject {
+    @Published private(set) var themes: [CustomTheme] {
+        didSet {
+            DefaultsStore.save(themes, key: Self.themesKey)
+            resolveSkin()
+        }
+    }
+    @Published private(set) var activeThemeID: UUID {
+        didSet {
+            UserDefaults.standard.set(activeThemeID.uuidString, forKey: Self.activeThemeKey)
+            resolveSkin()
+            ingestArtwork(at: artworkPath, force: true)
+        }
+    }
+
+    /// The colors every view renders with. Resolved once per change.
+    @Published private(set) var skin: Skin = Skin.voidBlack
+
+    /// The blurred cover for the Album Art backdrop, rendered once per
+    /// track; nil when no backdrop needs it.
+    @Published private(set) var artworkImage: NSImage?
+    private var derivedSkin: Skin? {
+        didSet { resolveSkin() }
+    }
+    private var artworkPath: String?
+    private var ingestGeneration = 0
+
+    /// Set when the Album Art backdrop is chosen, so the blurred cover is
+    /// prepared under any theme, not just From Cover.
+    var artworkBackdropEnabled = false {
+        didSet {
+            if artworkBackdropEnabled != oldValue { ingestArtwork(at: artworkPath, force: true) }
+        }
+    }
+
+    private var needsArtwork: Bool { isAlbumReactive || artworkBackdropEnabled }
+
+    private static let themesKey = "com.meimei.player.themes.v1"
+    private static let activeThemeKey = "com.meimei.player.activeThemeID.v1"
+
+    var activeTheme: CustomTheme? { themes.first { $0.id == activeThemeID } }
+    var isAlbumReactive: Bool { activeTheme?.isAlbumReactive == true }
+
+    init() {
+        let stored = DefaultsStore.load([CustomTheme].self, key: Self.themesKey) ?? []
+        let loaded = ThemeLibrary.merged(stored)
+        themes = loaded
+        activeThemeID = ThemeLibrary.activeID(stored: UserDefaults.standard.string(forKey: Self.activeThemeKey), in: loaded)
+        resolveSkin()
+    }
+
+    private func resolveSkin() {
+        let resolved: Skin
+        if isAlbumReactive {
+            resolved = derivedSkin ?? AlbumColorExtractor.fallbackSkin
+        } else {
+            resolved = (activeTheme ?? themes.first ?? CustomTheme.fallback).makeSkin()
+        }
+        if resolved != skin { skin = resolved }
+    }
+
+
+    func setActive(_ id: UUID) {
+        guard id != activeThemeID, themes.contains(where: { $0.id == id }) else { return }
+        activeThemeID = id
+    }
+
+    /// Feeds the playing track's cover to the live theme. Sampling runs off
+    /// the main thread; a newer cover always wins over an older one.
+    func ingestArtwork(at path: String?, force: Bool = false) {
+        guard force || path != artworkPath else { return }
+        artworkPath = path
+        guard needsArtwork else {
+            artworkImage = nil
+            derivedSkin = nil
+            return
+        }
+        ingestGeneration += 1
+        let generation = ingestGeneration
+        guard let path else {
+            artworkImage = nil
+            derivedSkin = nil
+            return
+        }
+        Task.detached(priority: .userInitiated) { [weak self] in
+            let image = ArtworkCache.shared.image(path, pixels: 256)
+            let sampled = image.map(AlbumColorExtractor.makeSkin(from:))
+            let backdrop = image.flatMap(BackdropBlur.render)
+            await self?.applyIngested(image: backdrop, skin: sampled, generation: generation)
+        }
+    }
+
+    private func applyIngested(image: NSImage?, skin sampled: Skin?, generation: Int) {
+        guard generation == ingestGeneration, needsArtwork else { return }
+        artworkImage = image
+        derivedSkin = sampled
+    }
+
+    /// Creates a theme from `base` (default: the active one) and returns its
+    /// id. Copying the live cover theme snapshots its current palette.
+    @discardableResult
+    func createTheme(named name: String, basedOn base: CustomTheme? = nil) -> UUID {
+        var new = base ?? activeTheme ?? CustomTheme.starterThemes[0]
+        if new.isAlbumReactive {
+            if let derivedSkin { new = CustomTheme(id: UUID(), name: name, from: derivedSkin) }
+            new.isAlbumReactive = false
+        }
+        new.category = "Custom"
+        new.id = UUID()
+        new.name = name
+        themes.append(new)
+        return new.id
+    }
+
+    @discardableResult
+    func duplicate(_ id: UUID) -> UUID? {
+        guard let source = themes.first(where: { $0.id == id }) else { return nil }
+        return createTheme(named: source.name + " Copy", basedOn: source)
+    }
+
+    func rename(_ id: UUID, to name: String) {
+        let trimmed = name.trimmingCharacters(in: .whitespacesAndNewlines)
+        guard !trimmed.isEmpty else { return }
+        update(id) { $0.name = trimmed }
+    }
+
+    /// The last remaining theme can't be deleted.
+    func delete(_ id: UUID) {
+        guard themes.count > 1 else { return }
+        if activeThemeID == id, let other = themes.first(where: { $0.id != id }) {
+            activeThemeID = other.id
+        }
+        themes.removeAll { $0.id == id }
+    }
+
+    func update(_ id: UUID, _ transform: (inout CustomTheme) -> Void) {
+        guard let i = themes.firstIndex(where: { $0.id == id }) else { return }
+        var copy = themes
+        transform(&copy[i])
+        if copy[i] != themes[i] { themes = copy }
+    }
+
+    /// A binding to one color of one theme, for the color editor.
+    func binding(for field: ThemeColorField, themeID: UUID) -> Binding<UInt32> {
+        Binding(
+            get: { self.themes.first { $0.id == themeID }?[keyPath: field.keyPath] ?? 0 },
+            set: { value in self.update(themeID) { $0[keyPath: field.keyPath] = value } }
+        )
+    }
+}
+
+extension Color {
+    /// A shared-core colour (sRGB with opacity).
+    init(_ c: RGBA) {
+        self.init(.sRGB, red: c.r, green: c.g, blue: c.b, opacity: c.a)
+    }
+
+    /// The colour as sRGB components with opacity, for the shared core.
+    var rgba: RGBA {
+        guard let ns = NSColor(self).usingColorSpace(.sRGB) else { return RGBA(r: 0.5, g: 0.5, b: 0.5) }
+        return RGBA(r: Double(ns.redComponent), g: Double(ns.greenComponent), b: Double(ns.blueComponent), a: Double(ns.alphaComponent))
+    }
+
+    init(hex: UInt32, alpha: Double = 1.0) {
+        let r = Double((hex >> 16) & 0xFF) / 255.0
+        let g = Double((hex >> 8) & 0xFF) / 255.0
+        let b = Double(hex & 0xFF) / 255.0
+        self.init(.sRGB, red: r, green: g, blue: b, opacity: alpha)
+    }
+
+    /// The color as 24-bit sRGB.
+    func toHex() -> UInt32 {
+        let ns = NSColor(self).usingColorSpace(.sRGB) ?? NSColor(self)
+        let r = UInt32((ns.redComponent * 255).rounded().clamped(to: 0...255))
+        let g = UInt32((ns.greenComponent * 255).rounded().clamped(to: 0...255))
+        let b = UInt32((ns.blueComponent * 255).rounded().clamped(to: 0...255))
+        return (r << 16) | (g << 8) | b
+    }
+}
+
+private extension Double {
+    func clamped(to range: ClosedRange<Double>) -> Double {
+        min(max(self, range.lowerBound), range.upperBound)
+    }
+}
+
+/// A 1px divider — panels are separated by hairlines, not shadows.
+/// A 1pt rounded divider. Horizontal ones stop short of the pane edge so
+/// they never run into a rounded corner.
+struct Hairline: View {
+    var color: Color
+    var vertical = false
+    var inset: CGFloat? = nil
+
+    var body: some View {
+        Capsule()
+            .fill(color)
+            .frame(width: vertical ? 1 : nil, height: vertical ? nil : 1)
+            .padding(vertical ? .vertical : .horizontal, inset ?? (vertical ? 0 : 12))
+    }
+}

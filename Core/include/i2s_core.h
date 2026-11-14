@@ -1,173 +1,175 @@
------BEGIN I2S ENCRYPTED FILE-----
-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
------END I2S ENCRYPTED FILE-----
+/*
+ * i2s core: the C interface the Qt app calls (Windows, later Linux).
+ * Implemented in Swift; the core is built as a shared library (I2SCore).
+ *
+ * Rules for every function:
+ * - Strings in and out are UTF-8. Every char* the core returns belongs to
+ *   the caller and must be freed with i2s_free, never with anything else.
+ * - Structured data is JSON text. Dates in JSON are milliseconds since 1970
+ *   (UTC); UUIDs are uppercase strings. Tracks passed in have the shape of
+ *   the "tracks" array in the app's library.json.
+ * - Handles are not thread-safe: use each one from a single thread.
+ * - On failure a function returns NULL (or non-zero) and, when `error` is
+ *   not NULL, sets *error to a message the caller frees with i2s_free.
+ * - i2s_core_version reports "interface"; it changes whenever a function's
+ *   meaning or a JSON shape changes. Check it at startup.
+ */
+#ifndef I2S_CORE_H
+#define I2S_CORE_H
+
+#include <stdint.h>
+
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+void  i2s_free(char *p);
+
+/* {"interface": 3, "history": "I2SH 1"} */
+char *i2s_core_version(void);
+
+/* Runs the core's checks in scratch_dir, printing each result to stdout.
+   Returns the number that failed; -1 in release builds. */
+int32_t i2s_core_check(const char *scratch_dir);
+
+/* ---- Listening history (sealed, signed, append-only) ---- */
+
+typedef struct i2s_history i2s_history;
+
+/* Opens or starts the history in dir. Keys are files in dir until the
+   platform secret store and TPM key are wired in. */
+i2s_history *i2s_history_open(const char *dir, char **error);
+void         i2s_history_close(i2s_history *h);
+
+/* {"accepted","rejected","implausible","gaps","trustedPrefix","clean",
+    "account","device","created","hardwareKey"} */
+char   *i2s_history_report_json(i2s_history *h);
+
+/* JSON array of every verified listen, oldest first. A listen:
+   {"id","trackID","trackKey","title","artist","album","albumArtist",
+    "trackDuration","startedAt","endedAt","heardSeconds","device"} */
+char   *i2s_history_listens_json(i2s_history *h);
+
+/* This installation's device id (record it in each new listen). */
+char   *i2s_history_device(i2s_history *h);
+
+/* Seals one listen (a listen JSON object). 0 on success; 1 with *error set
+   when it can't be real, the clock reads earlier than the latest listen,
+   the JSON is malformed (the message names the field), or the write failed. */
+int32_t i2s_history_append_json(i2s_history *h, const char *listen_json, char **error);
+
+/* 1 if hearing `heard` seconds of a `duration`-second track is a listen
+   (half the track or 4 minutes; tracks of 30 s or more), else 0. */
+int32_t i2s_listen_counts(double heard, double duration);
+
+/* ---- Profile ---- */
+
+/* range: 0 = 7 days, 1 = 30 days, 2 = 90 days, 3 = 12 months, 4 = all time.
+   tracks_json: the library's tracks (may be NULL or empty). Returns every
+   statistic the profile page shows, as one JSON object. */
+char *i2s_profile_stats_json(i2s_history *h, const char *tracks_json, int32_t range, char **error);
+
+/* ---- Themes, settings, fonts, icons (interface 2) ----
+   Themes use the app's stored shape: {"id","name","category",
+   "isAlbumReactive","bgVoid",...}, every colour a 24-bit RGB integer. */
+
+/* The built-in themes in catalog order (JSON array of themes). */
+char *i2s_theme_starters_json(void);
+
+/* Category order for the theme list (JSON array of strings). */
+char *i2s_theme_categories_json(void);
+
+/* A theme from at least 8 colours (colors_json: JSON array of 24-bit RGB
+   integers); light != 0 for a light theme. NULL with *error when too few. */
+char *i2s_theme_generate_json(const char *colors_json, const char *name, int32_t light, char **error);
+
+/* Settings read leniently (unknown or bad keys fall back to defaults) and
+   written back whole. Pass NULL for the defaults. */
+char *i2s_settings_normalize_json(const char *settings_json);
+
+/* The main window's standard pane layout (customize layout format). */
+char *i2s_customize_standard_layout_json(void);
+
+/* Bundled type families: [{"id","label","note","monospaced",
+   "faces":{"light","regular","bold"}, "faceRule":{"regularBelow","regularWeights",
+   "boldWeights","otherwise"}}], faces as PostScript names. */
+char *i2s_fonts_json(void);
+
+/* {"roles":[{"role","name","usedFor"}],"packs":[{"id","label","codes":{role:code}}]} */
+char *i2s_icons_json(void);
+
+/* Times the history with `count` listens in scratch_dir (works in release):
+   {"listens","fullCheckListens","appendMs","readMs","fullCheckMs"}. */
+char *i2s_core_bench_history(const char *scratch_dir, int32_t count);
+
+/* ---- Skin, stored themes, customize state, faces (interface 3) ---- */
+
+/* The skin every view draws with. theme_json: the active theme (stored
+   shape; NULL = first starter). settings_json, tokens_json: stored settings
+   and DesignTokens (NULL = defaults). live_cover != 0 for the live cover
+   theme (pass the cover's accent colours in theme_json). Returns
+   {"colors":{name:{"r","g","b","a"}}, "isGlass","allowsBackdropBleed",
+    "panelOpacity","contentOpacity","borderWidth","showTicks","tickLength",
+    "backdrop","gap","textScale"}; colours are sRGB 0..1. */
+char *i2s_skin_json(const char *theme_json, const char *settings_json, const char *tokens_json,
+                    int32_t live_cover, char **error);
+
+/* Stored theme list made usable + the active id: {"themes":[...],"activeID"}.
+   Either argument may be NULL. */
+char *i2s_themes_normalize_json(const char *stored_json, const char *active_id);
+
+/* Customize state (styles, layout, tokens, workspaces, activeWorkspaceID)
+   read the app's way; unreadable or NULL gives the defaults. */
+char *i2s_customize_normalize_json(const char *state_json);
+
+/* The PostScript face for weight ("light","regular","medium","semibold",
+   "bold","heavy","black",...) at size points in family ("geistMono", ...). */
+char *i2s_font_face(const char *family, double size, const char *weight);
+
+/* ---- Lyrics (interface 3) ---- */
+
+/* {"synced": bool, "lines":[{"id","time","text"}]} from .lrc or plain text. */
+char   *i2s_lyrics_read_json(const char *raw);
+
+/* Index of the line sung at `time` (offset added) given the synced lines'
+   start times in order; -1 before the first. */
+int32_t i2s_lyrics_line_at(const double *times, int32_t count, double time);
+
+/* ---- Equalizer (interface 3) ---- */
+
+char *i2s_eq_profiles_json(void);                       /* built-in profiles */
+char *i2s_eq_normalize_json(const char *state_json);    /* NULL = defaults */
+/* Total gain in dB at each frequency of hz_json (JSON array of numbers). */
+char *i2s_eq_response_json(const char *state_json, const char *hz_json);
+/* A profile from parametric EQ text (AutoEQ / Equalizer APO), or NULL + *error. */
+char *i2s_eq_parse_json(const char *text, const char *name, char **error);
+/* The state as parametric EQ text. */
+char *i2s_eq_export(const char *state_json);
+
+/* ---- Library (interface 3) ---- */
+
+typedef struct i2s_library i2s_library;
+
+/* Opens library.json (missing = empty). Play counts in the file are ignored. */
+i2s_library *i2s_library_open(const char *path, char **error);
+void         i2s_library_close(i2s_library *l);
+/* Every track in library order (library.json shape, dates seconds since 2001). */
+char   *i2s_library_tracks_json(i2s_library *l);
+char   *i2s_library_playlists_json(i2s_library *l);
+/* Play counts and last-played from the history's verified listens. 0 = ok. */
+int32_t i2s_library_apply_history(i2s_library *l, i2s_history *h);
+/* JSON array of indices into the track list for a source ("all", "liked",
+   "artist:Name", "genre:Name", "playlist:UUID", "recentlyAdded",
+   "recentlyPlayed", "mostPlayed", ...), after filter_text and, when sort_key
+   is not NULL/empty, the column sort ("title","artist","album","genre",
+   "format","track","year","time","plays","quality"). */
+char   *i2s_library_view_json(i2s_library *l, const char *source_key, const char *filter_text,
+                              const char *sort_key, int32_t ascending, char **error);
+/* [{"key","title","artist","year","artworkFilePath","trackCount","duration"}] */
+char   *i2s_library_albums_json(i2s_library *l);
+
+#ifdef __cplusplus
+}
+#endif
+
+#endif

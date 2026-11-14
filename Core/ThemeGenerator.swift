@@ -1,123 +1,124 @@
------BEGIN I2S ENCRYPTED FILE-----
-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
-T87Ptej7W3cjGLfMNF0bQQFIkxseoIOOqaJWW3I=
------END I2S ENCRYPTED FILE-----
+import Foundation
+
+/// Builds a full theme from a handful of colors (at least 8): the darkest
+/// become the backgrounds, the lightest the text, and the most vivid one
+/// that reads against the background the accent. Everything else (dims,
+/// hover, selection, dividers) is mixed from those, with contrast floors so
+/// any input gives a legible theme. `light` swaps the ends.
+enum ThemeGenerator {
+    static let minimumColors = 8
+
+    enum Mode: String, CaseIterable, Identifiable {
+        case dark, light
+        var id: String { rawValue }
+        var label: String { rawValue.capitalized }
+    }
+
+    static func generate(name: String, colors input: [UInt32], mode: Mode = .dark) -> CustomTheme? {
+        var seen = Set<UInt32>()
+        let colors = input.map { $0 & 0xFFFFFF }.filter { seen.insert($0).inserted }
+        guard colors.count >= minimumColors else { return nil }
+        let dark = mode == .dark
+        let byLum = colors.sorted { luminance($0) < luminance($1) }
+        let paperEnd = dark ? byLum : byLum.reversed()
+        let white: UInt32 = 0xFFFFFF, black: UInt32 = 0x000000
+        let away = dark ? white : black      // toward the text end
+        let deeper = dark ? black : white     // toward the background end
+
+        // Backgrounds: the extreme color, pushed far enough to sit behind text.
+        var void = paperEnd[0]
+        for _ in 0..<40 where dark ? luminance(void) > 0.03 : luminance(void) < 0.85 { void = mix(void, deeper, 0.15) }
+        let panelCandidate = paperEnd[1]
+        let panel = (1.03...1.5).contains(contrast(void, panelCandidate)) ? panelCandidate : mix(void, away, 0.045)
+        let row = mix(void, panel, 0.6)
+        let rowAlt = mix(row, away, 0.025)
+        let raisedCandidate = paperEnd[2]
+        let raised = (1.08...1.9).contains(contrast(void, raisedCandidate)) ? raisedCandidate : mix(panel, away, 0.07)
+
+        // Text: the other extreme, with a high contrast floor.
+        var text = paperEnd[paperEnd.count - 1]
+        // Capped: rounding can stall a channel just short of the end.
+        for _ in 0..<40 where contrast(text, void) < 11 { text = mix(text, away, 0.2) }
+        if contrast(text, void) < 11 { text = away }
+        let used: Set<UInt32> = [paperEnd[0], paperEnd[1], paperEnd[2], paperEnd[paperEnd.count - 1]]
+        let rest = colors.filter { !used.contains($0) }
+        let secondary = rest.filter { (5.5...10).contains(contrast($0, void)) && saturation($0) < 0.25 }
+            .min { abs(contrast($0, void) - 7.5) < abs(contrast($1, void) - 7.5) } ?? mix(text, void, 0.3)
+        let tertiary = mix(text, void, 0.55)
+
+        // Accent: vivid and readable on the background.
+        var accent = rest.filter { contrast($0, void) >= 3 }.max { saturation($0) < saturation($1) }
+            ?? rest.max { saturation($0) < saturation($1) } ?? text
+        for _ in 0..<40 where contrast(accent, void) < 3 { accent = mix(accent, away, 0.15) }
+        let onAccent: UInt32 = contrast(accent, 0x0A0A0A) >= contrast(accent, white) ? 0x0A0A0A : white
+
+        var theme = CustomTheme.starterThemes[0]
+        theme.id = UUID()
+        theme.name = name
+        theme.category = "Custom"
+        theme.isAlbumReactive = false
+        theme.bgVoid = void
+        theme.bgPanel = panel
+        theme.bgRow = row
+        theme.bgRowAlt = rowAlt
+        theme.bgRaised = raised
+        theme.hairline = mix(void, text, 0.16)
+        theme.textPrimary = text
+        theme.textSecondary = secondary
+        theme.textTertiary = tertiary
+        theme.textOnAccent = onAccent
+        theme.accent = accent
+        theme.accentDim = mix(accent, void, 0.45)
+        theme.accentGlow = mix(accent, away, 0.25)
+        theme.selection = mix(row, accent, 0.28)
+        theme.hover = mix(row, text, 0.06)
+        theme.lcdOn = accent
+        theme.lcdOff = mix(void, accent, 0.12)
+        theme.lcdBackground = void
+        return theme
+    }
+
+    /// Every 6-digit hex code in `text` (#RRGGBB, RRGGBB, 0xRRGGBB).
+    static func parseHexList(_ text: String) -> [UInt32] {
+        let pattern = try? NSRegularExpression(pattern: "(?<![0-9A-Fa-f])([0-9A-Fa-f]{6})(?![0-9A-Fa-f])")
+        let ns = text as NSString
+        return pattern?.matches(in: text, range: NSRange(location: 0, length: ns.length)).compactMap {
+            UInt32(ns.substring(with: $0.range(at: 1)), radix: 16)
+        } ?? []
+    }
+
+    // MARK: Color math (sRGB)
+
+    private static func channels(_ c: UInt32) -> (Double, Double, Double) {
+        (Double((c >> 16) & 0xFF) / 255, Double((c >> 8) & 0xFF) / 255, Double(c & 0xFF) / 255)
+    }
+
+    static func luminance(_ c: UInt32) -> Double {
+        func lin(_ v: Double) -> Double { v <= 0.03928 ? v / 12.92 : pow((v + 0.055) / 1.055, 2.4) }
+        let (r, g, b) = channels(c)
+        return 0.2126 * lin(r) + 0.7152 * lin(g) + 0.0722 * lin(b)
+    }
+
+    /// WCAG contrast ratio, 1…21.
+    static func contrast(_ a: UInt32, _ b: UInt32) -> Double {
+        let la = luminance(a), lb = luminance(b)
+        return (max(la, lb) + 0.05) / (min(la, lb) + 0.05)
+    }
+
+    static func saturation(_ c: UInt32) -> Double {
+        let (r, g, b) = channels(c)
+        let hi = max(r, g, b), lo = min(r, g, b)
+        return hi == 0 ? 0 : (hi - lo) / hi
+    }
+
+    /// `a` moved toward `b` by `t` (0…1).
+    static func mix(_ a: UInt32, _ b: UInt32, _ t: Double) -> UInt32 {
+        let (ar, ag, ab) = channels(a), (br, bg, bb) = channels(b)
+        func ch(_ x: Double, _ y: Double) -> UInt32 { UInt32(((x + (y - x) * t) * 255).rounded().clamped(0, 255)) }
+        return (ch(ar, br) << 16) | (ch(ag, bg) << 8) | ch(ab, bb)
+    }
+}
+
+private extension Double {
+    func clamped(_ lo: Double, _ hi: Double) -> Double { Swift.min(Swift.max(self, lo), hi) }
+}

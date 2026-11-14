@@ -1,233 +1,266 @@
------BEGIN I2S ENCRYPTED FILE-----
-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
-7CHIPU97/pCDChqLsrcy
------END I2S ENCRYPTED FILE-----
+import SwiftUI
+import AppKit
+import CoreGraphics
+import CoreImage
+
+/// Builds the glass skin for the "From Cover" theme. Surfaces are neutral
+/// glass over the blurred artwork; only the accent comes from the cover —
+/// its most vivid color, lifted until it reads clearly on dark glass.
+enum AlbumColorExtractor {
+    static let fallbackSkin = glassSkin(accent: RGB(r: 0.92, g: 0.92, b: 0.94), base: RGB(r: 0.08, g: 0.08, b: 0.1))
+
+    static func makeSkin(from image: NSImage) -> Skin {
+        guard let samples = samplePixels(image, dimension: 48), !samples.isEmpty else { return fallbackSkin }
+        let dominant = dominantColor(samples)
+        let vivid = vividColor(samples) ?? dominant
+        let hsl = vivid.hsl
+        let accent = hsl.s < 0.12
+            ? RGB(r: 0.93, g: 0.93, b: 0.95)                          // monochrome cover: white accent
+            : RGB.hsl(h: hsl.h, s: max(0.45, min(0.72, hsl.s)), l: max(0.66, min(0.74, hsl.l)))
+        // The base stays neutral: a hue taken from the cover tints every
+        // glass surface (warm covers turned the whole window bronze).
+        return glassSkin(accent: accent, base: RGB(r: 0.075, g: 0.075, b: 0.085))
+    }
+
+    private static func glassSkin(accent: RGB, base: RGB) -> Skin {
+        let white = Color.white
+        return Skin(
+            id: "from-cover-live",
+            name: "From Cover",
+            bgVoid: base.color(),
+            bgPanel: .clear,
+            bgRow: .clear,
+            bgRowAlt: white.opacity(0.035),
+            bgRaised: white.opacity(0.05),
+            hairline: white.opacity(0.12),
+            textPrimary: white.opacity(0.96),
+            textSecondary: white.opacity(0.68),
+            textTertiary: white.opacity(0.46),
+            textOnAccent: accent.luma > 0.6 ? Color.black.opacity(0.85) : white,
+            accent: accent.color(),
+            accentDim: accent.color(alpha: 0.45),
+            accentGlow: accent.mixed(with: RGB(r: 1, g: 1, b: 1), amount: 0.35).color(),
+            lcdOn: white.opacity(0.92),
+            lcdOff: white.opacity(0.14),
+            lcdBackground: Color.black.opacity(0.18),
+            selection: white.opacity(0.16),
+            hover: white.opacity(0.07),
+            allowsBackdropBleed: true,
+            isGlass: true
+        )
+    }
+
+    /// The most saturated well-populated hue: the color a person would call
+    /// the cover's color, even when it covers less area than a dull one.
+    private static func vividColor(_ samples: [RGB]) -> RGB? {
+        let chromatic = samples.filter { $0.isChromatic && $0.saturation > 0.3 }
+        guard chromatic.count >= max(6, samples.count / 40) else { return nil }
+        let binCount = 24
+        var weight = Array(repeating: 0.0, count: binCount)
+        for p in chromatic {
+            weight[min(binCount - 1, Int(p.hsl.h * Double(binCount)))] += p.saturation * (0.5 + p.luma)
+        }
+        guard let peak = weight.indices.max(by: { weight[$0] < weight[$1] }) else { return nil }
+        let peakHue = (Double(peak) + 0.5) / Double(binCount)
+        let cluster = chromatic.filter { hueDistance($0.hsl.h, peakHue) <= 1.5 / Double(binCount) }
+        return cluster.isEmpty ? nil : averageColor(cluster)
+    }
+
+    /// The cover's main color: the largest same-hue region, edges ignored.
+    /// A mean of every pixel turns complementary art into gray; counting by
+    /// hue keeps a blue cover blue and a red cover red.
+    private static func dominantColor(_ samples: [RGB]) -> RGB {
+        let chromatic = samples.filter(\.isChromatic)
+        guard chromatic.count >= 12 else {
+            let mid = samples.filter { $0.luma > 0.06 && $0.luma < 0.94 }
+            return averageColor(mid.isEmpty ? samples : mid)
+        }
+
+        let binCount = 24
+        var counts = Array(repeating: 0, count: binCount)
+        for pixel in chromatic {
+            let i = min(binCount - 1, Int(pixel.hsl.h * Double(binCount)))
+            counts[i] += 1
+        }
+        // Neighbor smoothing so a red that straddles the 0/360 wrap still
+        // beats a smaller second color.
+        var smoothed = counts
+        for i in 0..<binCount {
+            let prev = (i + binCount - 1) % binCount
+            let next = (i + 1) % binCount
+            smoothed[i] = counts[i] + counts[prev] + counts[next]
+        }
+        let peak = smoothed.enumerated().max { $0.element < $1.element }?.offset ?? 0
+        let peakHue = (Double(peak) + 0.5) / Double(binCount)
+        let cluster = chromatic.filter { hueDistance($0.hsl.h, peakHue) <= (2.0 / Double(binCount)) }
+        let chosen = cluster.count >= 8 ? cluster : chromatic
+        return averageColor(chosen)
+    }
+
+    private static func hueDistance(_ a: Double, _ b: Double) -> Double {
+        let d = abs(a - b)
+        return min(d, 1 - d)
+    }
+
+    private static func samplePixels(_ image: NSImage, dimension: Int) -> [RGB]? {
+        let width = dimension
+        let height = dimension
+        let bytesPerRow = width * 4
+        var data = [UInt8](repeating: 0, count: height * bytesPerRow)
+        guard let ctx = CGContext(
+            data: &data,
+            width: width,
+            height: height,
+            bitsPerComponent: 8,
+            bytesPerRow: bytesPerRow,
+            space: CGColorSpaceCreateDeviceRGB(),
+            bitmapInfo: CGImageAlphaInfo.premultipliedLast.rawValue
+        ) else { return nil }
+
+        ctx.interpolationQuality = .medium
+        var proposed = CGRect(x: 0, y: 0, width: CGFloat(width), height: CGFloat(height))
+        guard let cg = image.cgImage(forProposedRect: &proposed, context: nil, hints: nil) else {
+            // TIFF fallback for representations that don't vend a CGImage directly.
+            guard let tiff = image.tiffRepresentation,
+                  let rep = NSBitmapImageRep(data: tiff),
+                  let fallback = rep.cgImage else { return nil }
+            ctx.draw(fallback, in: CGRect(x: 0, y: 0, width: width, height: height))
+            return pixels(from: data, width: width, height: height)
+        }
+        ctx.draw(cg, in: CGRect(x: 0, y: 0, width: width, height: height))
+        return pixels(from: data, width: width, height: height)
+    }
+
+    /// Drops the outer ring so a black frame or white border can't outvote the cover.
+    private static func pixels(from data: [UInt8], width: Int, height: Int) -> [RGB] {
+        let margin = 3
+        var result: [RGB] = []
+        result.reserveCapacity((width - margin * 2) * (height - margin * 2))
+        guard width > margin * 2, height > margin * 2 else { return result }
+        for y in margin..<(height - margin) {
+            for x in margin..<(width - margin) {
+                let o = (y * width + x) * 4
+                let a = Double(data[o + 3]) / 255.0
+                guard a > 0.2 else { continue }
+                result.append(RGB(
+                    r: (Double(data[o]) / 255.0 / a).clamped01(),
+                    g: (Double(data[o + 1]) / 255.0 / a).clamped01(),
+                    b: (Double(data[o + 2]) / 255.0 / a).clamped01()
+                ))
+            }
+        }
+        return result
+    }
+
+    private static func averageColor(_ pixels: [RGB]) -> RGB {
+        var r = 0.0, g = 0.0, b = 0.0
+        for p in pixels { r += p.r; g += p.g; b += p.b }
+        let n = Double(pixels.count)
+        return RGB(r: r / n, g: g / n, b: b / n)
+    }
+}
+
+private struct RGB {
+    var r: Double
+    var g: Double
+    var b: Double
+
+    var luma: Double { 0.2126 * r + 0.7152 * g + 0.0722 * b }
+
+    var saturation: Double {
+        let maxC = max(r, g, b)
+        let minC = min(r, g, b)
+        guard maxC > 0.001 else { return 0 }
+        return (maxC - minC) / maxC
+    }
+
+    /// A real color, including dark navy and deep red. Near-black noise and
+    /// blown highlights stay out so they can't become the "main" color.
+    var isChromatic: Bool {
+        if luma < 0.025 || luma > 0.97 { return false }
+        if luma < 0.08 { return saturation > 0.28 }
+        return saturation > 0.12
+    }
+
+    static func hsl(h: Double, s: Double, l: Double) -> RGB {
+        let s = s.clamped01()
+        let l = l.clamped01()
+        var h = h.truncatingRemainder(dividingBy: 1)
+        if h < 0 { h += 1 }
+        if s < 0.001 { return RGB(r: l, g: l, b: l) }
+        let q = l < 0.5 ? l * (1 + s) : l + s - l * s
+        let p = 2 * l - q
+        func channel(_ t: Double) -> Double {
+            var t = t
+            if t < 0 { t += 1 }
+            if t > 1 { t -= 1 }
+            if t < 1.0 / 6 { return p + (q - p) * 6 * t }
+            if t < 0.5 { return q }
+            if t < 2.0 / 3 { return p + (q - p) * (2.0 / 3 - t) * 6 }
+            return p
+        }
+        return RGB(r: channel(h + 1.0 / 3), g: channel(h), b: channel(h - 1.0 / 3))
+    }
+
+    var hsl: (h: Double, s: Double, l: Double) {
+        let maxC = max(r, g, b)
+        let minC = min(r, g, b)
+        let l = (maxC + minC) / 2
+        let d = maxC - minC
+        guard d > 0.001 else { return (0, 0, l) }
+        let s = l > 0.5 ? d / (2 - maxC - minC) : d / (maxC + minC)
+        var h: Double
+        if maxC == r {
+            h = (g - b) / d + (g < b ? 6 : 0)
+        } else if maxC == g {
+            h = (b - r) / d + 2
+        } else {
+            h = (r - g) / d + 4
+        }
+        return ((h / 6).clamped01(), s.clamped01(), l.clamped01())
+    }
+
+    func mixed(with other: RGB, amount: Double) -> RGB {
+        let t = amount.clamped01()
+        return RGB(
+            r: r + (other.r - r) * t,
+            g: g + (other.g - g) * t,
+            b: b + (other.b - b) * t
+        )
+    }
+
+    func color(alpha: Double = 1) -> Color {
+        Color(.sRGB, red: r, green: g, blue: b, opacity: alpha)
+    }
+}
+
+private extension Double {
+    func clamped01() -> Double { min(1, max(0, self)) }
+}
+
+/// Pre-blurs a cover for the window backdrop. Blurring a small copy once
+/// costs far less than a live full-window blur filter and looks the same
+/// once scaled up.
+enum BackdropBlur {
+    private static let context = CIContext(options: [.useSoftwareRenderer: false])
+
+    static func render(_ image: NSImage) -> NSImage? {
+        var rect = CGRect(origin: .zero, size: image.size)
+        guard let cg = image.cgImage(forProposedRect: &rect, context: nil, hints: nil) else { return nil }
+        let side = 160.0
+        let scale = side / Double(max(cg.width, cg.height))
+        let input = CIImage(cgImage: cg)
+            .transformed(by: CGAffineTransform(scaleX: scale, y: scale))
+        let extent = input.extent
+        let blurred = input
+            .clampedToExtent()
+            .applyingGaussianBlur(sigma: 9)
+            .applyingFilter("CIColorControls", parameters: [
+                kCIInputSaturationKey: 1.45,
+                kCIInputBrightnessKey: -0.04
+            ])
+            .cropped(to: extent)
+        guard let out = context.createCGImage(blurred, from: extent) else { return nil }
+        return NSImage(cgImage: out, size: NSSize(width: out.width, height: out.height))
+    }
+}

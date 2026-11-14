@@ -1,85 +1,106 @@
------BEGIN I2S ENCRYPTED FILE-----
-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
-5OKzd+xxnb+JpbBkEsrppf5pqRuRMgI=
------END I2S ENCRYPTED FILE-----
+import SwiftUI
+
+/// Player-bar button that opens the Up Next list.
+struct UpNextButton: View {
+    @ObservedObject var player: PlayerController
+    var skin: Skin
+    var size: CGFloat
+    var iconSize: CGFloat
+    @State private var showing = false
+
+    var body: some View {
+        TransportButton(icon: "list.bullet", size: size, iconSize: iconSize, isActive: showing, help: "Up Next", skin: skin) {
+            showing.toggle()
+        }
+        .popover(isPresented: $showing, arrowEdge: .bottom) {
+            UpNextView(player: player, skin: skin) { showing = false }
+                .scrollIndicators(.never)
+        }
+    }
+}
+
+/// What plays after the current track, in play order. Click a row to jump to it.
+struct UpNextView: View {
+    @ObservedObject var player: PlayerController
+    var skin: Skin
+    var onDismiss: () -> Void
+
+    var body: some View {
+        VStack(alignment: .leading, spacing: 0) {
+            HStack {
+                Text("Up Next")
+                    .font(AppFont.ui(13, weight: .semibold))
+                    .foregroundStyle(skin.textPrimary)
+                Spacer()
+                if player.shuffle {
+                    Text("Shuffled")
+                        .font(AppFont.ui(10.5, weight: .medium))
+                        .foregroundStyle(skin.accent)
+                }
+            }
+            .padding(.horizontal, 14)
+            .padding(.vertical, 10)
+
+            let upcoming = Array(player.upNext.prefix(100).enumerated())
+            if upcoming.isEmpty {
+                Text(player.currentTrack == nil ? "Nothing is playing." : "Nothing after this track.")
+                    .font(AppFont.ui(11.5))
+                    .foregroundStyle(skin.textTertiary)
+                    .frame(maxWidth: .infinity, minHeight: 80)
+            } else {
+                ScrollView {
+                    LazyVStack(spacing: 0) {
+                        ForEach(upcoming, id: \.offset) { offset, track in
+                            let play = {
+                                if let position = player.position { player.jump(toOrderIndex: position + 1 + offset) }
+                            }
+                            UpNextRow(track: track, skin: skin, action: play)
+                                .appContextMenu { MenuContent.track(track, play: play) }
+                        }
+                    }
+                    .padding(.vertical, 4)
+                }
+                .frame(height: min(380, CGFloat(upcoming.count) * 42 + 8))
+            }
+        }
+        .frame(width: 320)
+        .background(skin.isGlass ? Color.clear : skin.bgPanel)
+    }
+}
+
+private struct UpNextRow: View {
+    var track: Track
+    var skin: Skin
+    var action: () -> Void
+    @State private var hovering = false
+
+    var body: some View {
+        Button(action: action) {
+            HStack(spacing: 10) {
+                ArtworkView(path: track.artworkFilePath, size: 30, skin: skin)
+                    .clipShape(Rectangle())
+                VStack(alignment: .leading, spacing: 1) {
+                    Text(track.title)
+                        .font(AppFont.ui(12, weight: .medium))
+                        .foregroundStyle(skin.textPrimary)
+                        .lineLimit(1)
+                    Text(track.artist)
+                        .font(AppFont.ui(10.5))
+                        .foregroundStyle(skin.textTertiary)
+                        .lineLimit(1)
+                }
+                Spacer(minLength: 6)
+                Text(track.formattedDuration)
+                    .font(AppFont.ui(10.5))
+                    .foregroundStyle(skin.textTertiary)
+            }
+            .padding(.horizontal, 8)
+            .padding(.vertical, 5)
+            .background(Rectangle().fill(hovering ? skin.hover : .clear))
+            .padding(.horizontal, 6)
+            .contentShape(Rectangle())
+        }
+        .buttonStyle(.plain)
+        .onHover { hovering = $0 }
+    }
+}

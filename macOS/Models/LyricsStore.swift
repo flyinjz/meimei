@@ -1,66 +1,86 @@
------BEGIN I2S ENCRYPTED FILE-----
-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
-1laP1qnClbEWAl2zc1sujhoG94UP0jCly5Wuodc=
------END I2S ENCRYPTED FILE-----
+import Foundation
+
+/// Lyrics for the playing track: a `.lrc` next to the audio file
+/// (`Song.flac` → `Song.lrc`), or plain unsynced text.
+@MainActor
+final class LyricsStore: ObservableObject {
+    @Published private(set) var lines: [LyricLine] = []
+    /// False for plain lyrics with no timestamps — shown, but not followed.
+    @Published private(set) var isSynced = false
+    @Published private(set) var sourceLabel = ""
+    @Published var offset: Double = 0
+
+    private var loadedPath: String?
+
+    static func lrcURL(for track: Track) -> URL {
+        track.url.deletingPathExtension().appendingPathExtension("lrc")
+    }
+
+    func load(for track: Track?) {
+        guard track?.filePath != loadedPath else { return }
+        loadedPath = track?.filePath
+        lines = []
+        isSynced = false
+        sourceLabel = ""
+        guard let track else { return }
+        let url = Self.lrcURL(for: track)
+        if let raw = Self.readText(url) {
+            apply(raw, label: url.lastPathComponent)
+            return
+        }
+        // No .lrc: lyrics embedded in the file's tags, read off the main thread.
+        let path = track.filePath
+        let audio = track.url
+        Task {
+            let embedded = await Task.detached(priority: .userInitiated) { await EmbeddedLyrics.read(audio) }.value
+            guard let embedded, self.loadedPath == path else { return }
+            self.apply(embedded, label: "in the file's tags")
+        }
+    }
+
+    /// Re-reads the current track's lyrics (after they were found or saved).
+    func reload(_ track: Track?) {
+        loadedPath = nil
+        load(for: track)
+    }
+
+    func apply(_ raw: String, label: String) {
+        let read = Lyrics.read(raw)
+        lines = read.lines
+        isSynced = read.synced
+        sourceLabel = lines.isEmpty ? "" : label
+    }
+
+    /// Writes `raw` as the track's `.lrc`, or deletes it when `raw` is empty.
+    @discardableResult
+    func save(_ raw: String, for track: Track) -> Bool {
+        let url = Self.lrcURL(for: track)
+        let trimmed = raw.trimmingCharacters(in: .whitespacesAndNewlines)
+        do {
+            if trimmed.isEmpty {
+                if FileManager.default.fileExists(atPath: url.path) {
+                    try FileManager.default.removeItem(at: url)
+                }
+            } else {
+                try trimmed.write(to: url, atomically: true, encoding: .utf8)
+            }
+        } catch {
+            return false
+        }
+        if track.filePath == loadedPath {
+            loadedPath = nil
+            load(for: track)
+        }
+        return true
+    }
+
+    /// Index of the line being sung at `playbackTime`, or nil before the first.
+    func currentIndex(at playbackTime: TimeInterval) -> Int? {
+        guard isSynced else { return nil }
+        return Lyrics.currentIndex(in: lines, at: playbackTime + offset)
+    }
+
+    static func readText(_ url: URL) -> String? { Lyrics.readText(url) }
+
+    static func parse(_ raw: String) -> [LyricLine] { Lyrics.parse(raw) }
+}

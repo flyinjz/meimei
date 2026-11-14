@@ -1,215 +1,242 @@
------BEGIN I2S ENCRYPTED FILE-----
-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
------END I2S ENCRYPTED FILE-----
+import SwiftUI
+import AppKit
+import CoreText
+
+// MARK: - Fonts
+
+/// The app's type. Text is light by default, the way the design wants it,
+/// but steps up to regular below 11 pt where thin strokes stop reading.
+/// Asked-for weights collapse onto the three bundled faces.
+enum AppFont {
+    /// Mirrors the font preference; set by `AppSettings`.
+    nonisolated(unsafe) static var family: AppFontFamily = .geistMono
+    /// The global text scale design token; set by `CustomizeStore`.
+    nonisolated(unsafe) static var textScale: CGFloat = 1
+
+    static func ui(_ size: CGFloat, weight: Font.Weight = .regular) -> Font {
+        let pt = size * textScale
+        return .custom(face(pt, weight, in: family), fixedSize: pt).monospacedDigit()
+    }
+
+    /// Kept for call sites that want figures; `ui` already uses tabular ones.
+    static func mono(_ size: CGFloat, weight: Font.Weight = .regular) -> Font { ui(size, weight: weight) }
+    static func lcd(_ size: CGFloat) -> Font { ui(size, weight: .medium) }
+
+    /// AppKit fonts by face and size: the track list asks for one per cell.
+    private static let nsCache = LockedValue<[String: NSFont]>([:])
+
+    static func ns(_ size: CGFloat, weight: NSFont.Weight = .regular, family: AppFontFamily = AppFont.family) -> NSFont {
+        let w: Font.Weight = weight >= .bold ? .bold : weight >= .medium ? .medium : .regular
+        let pt = size * textScale
+        let key = "\(family.rawValue)|\(w == .bold ? 2 : w == .medium ? 1 : 0)|\(pt)"
+        if let hit = nsCache.value[key] { return hit }
+        let font = makeNS(pt, weight: weight, w: w, family: family)
+        nsCache.mutate { $0[key] = font }
+        return font
+    }
+
+    private static func makeNS(_ pt: CGFloat, weight: NSFont.Weight, w: Font.Weight, family: AppFontFamily) -> NSFont {
+        guard let font = NSFont(name: face(pt, w, in: family), size: pt) else { return .monospacedSystemFont(ofSize: pt, weight: weight) }
+        guard !family.isMonospaced else { return font }
+        let tabular = font.fontDescriptor.addingAttributes([.featureSettings: [[
+            NSFontDescriptor.FeatureKey.typeIdentifier: kNumberSpacingType,
+            NSFontDescriptor.FeatureKey.selectorIdentifier: kMonospacedNumbersSelector,
+        ]]])
+        return NSFont(descriptor: tabular, size: pt) ?? font
+    }
+
+    static func face(_ size: CGFloat, _ weight: Font.Weight, in family: AppFontFamily) -> String {
+        let w: FaceWeight
+        switch weight {
+        case .ultraLight: w = .ultraLight
+        case .thin: w = .thin
+        case .light: w = .light
+        case .medium: w = .medium
+        case .semibold: w = .semibold
+        case .bold: w = .bold
+        case .heavy: w = .heavy
+        case .black: w = .black
+        default: w = .regular
+        }
+        return family.face(size: Double(size), weight: w)
+    }
+
+    /// Registers the bundled fonts for this process. Looks in the app
+    /// bundle's Resources/Fonts, then (for development builds) the
+    /// repository's Assets/Fonts folder.
+    static func registerBundledFonts(sourceFile: String = #filePath) {
+        let candidates = [
+            Bundle.main.resourceURL?.appendingPathComponent("Fonts"),
+            URL(fileURLWithPath: sourceFile).deletingLastPathComponent()
+                .appendingPathComponent("../../Assets/Fonts").standardizedFileURL,
+        ].compactMap { $0 }
+        guard let dir = candidates.first(where: { FileManager.default.fileExists(atPath: $0.path) }),
+              let files = try? FileManager.default.contentsOfDirectory(at: dir, includingPropertiesForKeys: nil) else {
+            NSLog("i2s: bundled fonts not found")
+            return
+        }
+        let fonts = files.filter { !$0.hasDirectoryPath }
+        CTFontManagerRegisterFontURLs(fonts as CFArray, .process, true, nil)
+    }
+}
+
+// MARK: - Icons
+
+/// An icon: a Nerd Font glyph's vector outline, scaled and centered in a
+/// `size`-point square and filled with the foreground style. Drawing the
+/// outline (rather than the character) keeps every icon exactly sized and
+/// centered whatever the text font's metrics. Keys keep the descriptive
+/// names the views already use.
+struct Glyph: View {
+    var name: String
+    var size: CGFloat
+
+    init(_ name: String, size: CGFloat = 13) {
+        self.name = name
+        self.size = size
+    }
+
+    @ObservedObject private var theme = IconTheme.shared
+
+    var body: some View {
+        GlyphShape(outline: theme.code(for: name).flatMap(GlyphOutlines.outline), scale: theme.scale)
+            .frame(width: size, height: size)
+            .accessibilityLabel(name)
+    }
+
+    /// The icon as a character, for places that can only take text (the
+    /// native track table). Draw it in `IconTheme.font`.
+    @MainActor
+    static func glyph(_ name: String) -> String {
+        guard let code = IconTheme.shared.code(for: name), let scalar = Unicode.Scalar(code) else { return "\u{25A1}" }
+        return String(Character(scalar))
+    }
+
+    /// The Material code points every icon role defaults to (the shared core table).
+    static let codes = IconPackTables.material
+}
+
+extension Label where Title == Text, Icon == Glyph {
+    /// A label whose icon is a font glyph.
+    init(_ title: String, glyph: String, size: CGFloat = 11) {
+        self.init { Text(title) } icon: { Glyph(glyph, size: size) }
+    }
+}
+
+/// A glyph outline fitted into the view's square: 88% of the box on its
+/// longer side, centered.
+/// A specific glyph by code point, ignoring the icon theme (previews).
+struct CodeGlyph: View {
+    var code: UInt32
+    var size: CGFloat
+
+    var body: some View {
+        GlyphShape(outline: GlyphOutlines.outline(code))
+            .frame(width: size, height: size)
+    }
+}
+
+private struct GlyphShape: Shape {
+    let outline: CGPath?
+    var scale: CGFloat = 1
+
+    func path(in rect: CGRect) -> Path {
+        guard let outline else { return Path(rect.insetBy(dx: rect.width * 0.2, dy: rect.height * 0.2)) }
+        let b = outline.boundingBoxOfPath
+        guard b.width > 0, b.height > 0 else { return Path() }
+        let s = min(rect.width / b.width, rect.height / b.height) * 0.88 * scale
+        var t = CGAffineTransform(translationX: rect.midX, y: rect.midY)
+            .scaledBy(x: s, y: -s)
+            .translatedBy(x: -b.midX, y: -b.midY)
+        return Path(outline.copy(using: &t) ?? outline)
+    }
+}
+
+/// Icon outlines from the bundled Nerd Fonts symbols face (every icon
+/// set), read once per code point and cached.
+enum GlyphOutlines {
+    private static let cache = LockedValue<[UInt32: CGPath]>([:])
+    private static let font: CTFont = {
+        let symbols = CTFontCreateWithName("SymbolsNF" as CFString, 64, nil)
+        // Before the symbols face existed, the text faces carried the icons.
+        return (CTFontCopyPostScriptName(symbols) as String) == "SymbolsNF" ? symbols : CTFontCreateWithName("GeistMonoNF" as CFString, 64, nil)
+    }()
+
+    static func outline(_ code: UInt32) -> CGPath? {
+        if let hit = cache.value[code] { return hit }
+        guard let scalar = Unicode.Scalar(code) else { return nil }
+        let units = Array(String(Character(scalar)).utf16)
+        var glyphs = [CGGlyph](repeating: 0, count: units.count)
+        guard CTFontGetGlyphsForCharacters(font, units, &glyphs, units.count), glyphs[0] != 0,
+              let path = CTFontCreatePathForGlyph(font, glyphs[0], nil) else { return nil }
+        cache.mutate { $0[code] = path }
+        return path
+    }
+}
+
+// MARK: - Icon packs
+
+/// Which glyph each icon role draws: the pack, then the user's own
+/// choices per icon, with Material filling any gap. Set from settings.
+@MainActor
+final class IconTheme: ObservableObject {
+    static let shared = IconTheme()
+
+    @Published private(set) var pack: IconPack = .material
+    @Published private(set) var scale: CGFloat = 1
+    @Published private(set) var overrides: [String: UInt32] = [:]
+
+    /// For text-drawn icons (the track list).
+    static func font(_ size: CGFloat) -> NSFont {
+        NSFont(name: "SymbolsNF", size: size) ?? NSFont.systemFont(ofSize: size)
+    }
+
+    func apply(pack: IconPack, scale: Double, overrides: [String: UInt32]) {
+        if self.pack != pack { self.pack = pack }
+        if self.scale != CGFloat(scale) { self.scale = CGFloat(scale) }
+        if self.overrides != overrides { self.overrides = overrides }
+    }
+
+    func code(for name: String) -> UInt32? {
+        overrides[name] ?? pack.table[name] ?? Glyph.codes[name]
+    }
+
+    /// Every icon role, for the icon editor.
+    static var roles: [String] { Glyph.codes.keys.sorted() }
+
+    /// Every glyph in the symbols face with its name, for choosing one by
+    /// hand (built once, off the main thread).
+    nonisolated static func allGlyphs() -> [(code: UInt32, name: String)] {
+        let font = CTFontCreateWithName("SymbolsNF" as CFString, 32, nil)
+        var out: [(UInt32, String)] = []
+        for range in [0xE000...0xF8FF, 0xF0000...0xF1AF0] {
+            for cp in range {
+                guard let scalar = Unicode.Scalar(UInt32(cp)) else { continue }
+                let units = Array(String(Character(scalar)).utf16)
+                var g = [CGGlyph](repeating: 0, count: units.count)
+                guard CTFontGetGlyphsForCharacters(font, units, &g, units.count), g[0] != 0,
+                      let name = CTFontCopyNameForGlyph(font, g[0]) as String? else { continue }
+                out.append((UInt32(cp), name))
+            }
+        }
+        return out
+    }
+}
+
+extension Color {
+    /// Relative luminance (WCAG), 0 black … 1 white.
+    var luminance: Double {
+        guard let c = NSColor(self).usingColorSpace(.sRGB) else { return 0.5 }
+        func lin(_ v: CGFloat) -> Double {
+            let v = Double(v)
+            return v <= 0.03928 ? v / 12.92 : pow((v + 0.055) / 1.055, 2.4)
+        }
+        return 0.2126 * lin(c.redComponent) + 0.7152 * lin(c.greenComponent) + 0.0722 * lin(c.blueComponent)
+    }
+
+    /// WCAG contrast ratio against another color (1…21).
+    func contrast(with other: Color) -> Double {
+        let a = luminance, b = other.luminance
+        return (max(a, b) + 0.05) / (min(a, b) + 0.05)
+    }
+}

@@ -1,178 +1,203 @@
------BEGIN I2S ENCRYPTED FILE-----
-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
------END I2S ENCRYPTED FILE-----
+import SwiftUI
+import UniformTypeIdentifiers
+
+/// The right-hand rail: the local account, settings, and playlists. Drop
+/// tracks from the table onto a manual playlist to add them.
+struct CollectionRailView: View {
+    @ObservedObject var library: LibraryStore
+    @ObservedObject var settings: AppSettings
+    var skin: Skin
+    var onOpenSettings: () -> Void
+    var onCreatePlaylist: () -> Void
+    var onEditPlaylist: (UUID) -> Void
+    var onPlay: (Playlist) -> Void
+
+    @State private var pendingDelete: Playlist?
+
+    var body: some View {
+        VStack(spacing: 0) {
+            accountHeader
+            ScrollView {
+                VStack(alignment: .leading, spacing: 2) {
+                    SidebarSection(title: "Playlists", skin: skin, trailing: AnyView(
+                        Button(action: onCreatePlaylist) {
+                            Glyph("plus", size: 10)
+                                .frame(width: 20, height: 20)
+                        }
+                        .buttonStyle(GlyphButtonStyle(skin: skin))
+                        .help("New Playlist (⌘N)")
+                    ))
+                    if library.playlists.isEmpty {
+                        Text("No playlists yet")
+                            .font(AppFont.ui(11))
+                            .foregroundStyle(skin.textTertiary)
+                            .padding(.horizontal, 8)
+                            .padding(.vertical, 6)
+                    }
+                    ForEach(library.playlists) { playlist in
+                        PlaylistRow(
+                            playlist: playlist,
+                            count: library.playlistCounts[playlist.id] ?? 0,
+                            cover: library.playlistCovers[playlist.id],
+                            selected: library.source == .playlist(playlist.id) && library.albumKey == nil,
+                            skin: skin,
+                            onSelect: {
+                                library.source = .playlist(playlist.id)
+                                library.albumKey = nil
+                            },
+                            onDropTracks: { ids in library.addTracks(ids, toPlaylist: playlist.id) }
+                        )
+                        .appContextMenu {
+                            MenuContent(title: playlist.name,
+                                        subtitle: playlist.isSmart ? "smart playlist" : "\(playlist.trackIDs.count) tracks",
+                                        [
+                                            MenuGroup(nil, [
+                                                .action("Play", glyph: "play.fill") { onPlay(playlist) },
+                                                .action(playlist.isSmart ? "Edit Rules…" : "Rename…",
+                                                        glyph: playlist.isSmart ? "slider.horizontal.3" : "text.alignleft") { onEditPlaylist(playlist.id) },
+                                            ]),
+                                            MenuGroup(nil, [
+                                                .action("Delete Playlist…", glyph: "trash", destructive: true) { pendingDelete = playlist },
+                                            ]),
+                                        ])
+                        }
+                    }
+                }
+                .padding(.horizontal, 6)
+                .padding(.bottom, 10)
+            }
+        }
+        .background(skin.surface(skin.bgPanel))
+        .sheet(item: $pendingDelete) { playlist in
+            ConfirmDialog(
+                title: "Delete \u{201C}\(playlist.name)\u{201D}?",
+                message: "Only the playlist is deleted. Its tracks stay in your library.",
+                confirmTitle: "Delete",
+                skin: skin,
+                onConfirm: {
+                    library.removePlaylist(playlist.id)
+                    pendingDelete = nil
+                },
+                onCancel: { pendingDelete = nil }
+            )
+        }
+    }
+
+    private var accountHeader: some View {
+        HStack(spacing: 9) {
+            Button {
+                library.albumKey = nil
+                library.source = .profile
+            } label: {
+                HStack(spacing: 9) {
+                    Glyph("person.crop.circle", size: 20)
+                        .foregroundStyle(skin.textSecondary)
+                    VStack(alignment: .leading, spacing: 1) {
+                        Text(AccountName.display(settings))
+                            .font(AppFont.ui(12, weight: .semibold))
+                            .foregroundStyle(skin.textPrimary)
+                            .lineLimit(1)
+                        Text("\(library.tracks.count) tracks · \(library.albumGroups.count) albums")
+                            .font(AppFont.ui(10))
+                            .foregroundStyle(skin.textTertiary)
+                            .lineLimit(1)
+                    }
+                }
+                .contentShape(Rectangle())
+            }
+            .buttonStyle(.plain)
+            .help("Your profile")
+
+            Spacer(minLength: 4)
+
+            TransportButton(icon: "gearshape", size: 26, iconSize: 12, help: "Settings (⌘,)", skin: skin, action: onOpenSettings)
+        }
+        .padding(.horizontal, 10)
+        .padding(.vertical, 10)
+    }
+
+}
+
+private struct PlaylistRow: View {
+    var playlist: Playlist
+    var count: Int
+    var cover: String?
+    var selected: Bool
+    var skin: Skin
+    var onSelect: () -> Void
+    var onDropTracks: ([UUID]) -> Void
+
+    @State private var hovering = false
+    @State private var dropTargeted = false
+
+    var body: some View {
+        Button(action: onSelect) {
+            HStack(spacing: 10) {
+                ZStack {
+                    if cover != nil {
+                        ArtworkView(path: cover, size: 32, skin: skin)
+                    } else {
+                        skin.bgVoid
+                        Glyph(playlist.isSmart ? "gearshape" : "music.note.list", size: 11)
+                            .foregroundStyle(skin.textTertiary)
+                    }
+                }
+                .frame(width: 32, height: 32)
+                .clipShape(Rectangle())
+                .overlay(Rectangle().strokeBorder(skin.hairline, lineWidth: 1))
+
+                VStack(alignment: .leading, spacing: 1) {
+                    Text(playlist.name)
+                        .textRole(.railRows, size: 12, weight: selected ? .semibold : .regular, color: skin.textPrimary)
+                        .lineLimit(1)
+                    Text(detail)
+                        .font(AppFont.ui(10))
+                        .foregroundStyle(skin.textTertiary)
+                        .lineLimit(1)
+                }
+                Spacer(minLength: 0)
+            }
+            .padding(.horizontal, 6)
+            .padding(.vertical, 4)
+            .background(
+                Rectangle()
+                    .fill(selected ? skin.selection.opacity(0.55) : (hovering ? skin.hover : .clear))
+            )
+            .overlay(
+                Rectangle()
+                    .strokeBorder(dropTargeted ? skin.accent : .clear, lineWidth: 1.5)
+            )
+            .contentShape(Rectangle())
+        }
+        .buttonStyle(.plain)
+        .onHover { hovering = $0 }
+        .onDrop(of: [.plainText], isTargeted: playlist.isSmart ? nil : $dropTargeted) { providers in
+            guard !playlist.isSmart else { return false }
+            loadTrackIDs(from: providers, then: onDropTracks)
+            return true
+        }
+    }
+
+    private var detail: String {
+        let songs = count == 1 ? "1 song" : "\(count) songs"
+        return playlist.isSmart ? "Smart · \(songs)" : songs
+    }
+}
+
+/// Collects dragged track ids (see `TrackDrag`) from drop providers.
+func loadTrackIDs(from providers: [NSItemProvider], then deliver: @escaping ([UUID]) -> Void) {
+    let group = DispatchGroup()
+    let ids = LockedValue<[(Int, UUID)]>([])
+    for (index, provider) in providers.enumerated() {
+        group.enter()
+        _ = provider.loadObject(ofClass: NSString.self) { object, _ in
+            if let string = object as? String, let id = TrackDrag.decode(string) {
+                ids.mutate { $0.append((index, id)) }
+            }
+            group.leave()
+        }
+    }
+    group.notify(queue: .main) {
+        deliver(ids.value.sorted { $0.0 < $1.0 }.map(\.1))
+    }
+}

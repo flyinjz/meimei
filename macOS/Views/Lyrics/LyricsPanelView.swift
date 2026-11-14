@@ -1,435 +1,462 @@
------BEGIN I2S ENCRYPTED FILE-----
-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
------END I2S ENCRYPTED FILE-----
+import AppKit
+import SwiftUI
+
+/// Lyrics for the playing track. Synced `.lrc` lines highlight and scroll
+/// with playback (click a line to jump there); plain lyrics are shown as text.
+struct LyricsPanelView: View {
+    @ObservedObject var player: PlayerController
+    let clock: PlaybackClock
+    @ObservedObject var lyrics: LyricsStore
+    var skin: Skin
+    @ObservedObject private var customize = AppSession.shared.customize
+
+    /// The line the clock says is playing.
+    @State private var current: Int?
+    /// Customize mode: plain lines' frames.
+    @State private var plainLineFrames: [Int: CGRect] = [:]
+
+    var body: some View {
+        VStack(alignment: .leading, spacing: 0) {
+            header
+            if lyrics.lines.isEmpty {
+                emptyState
+            } else if lyrics.isSynced {
+                SyncedLyricsView(player: player, lyrics: lyrics, skin: skin, current: $current)
+            } else {
+                plainLines
+            }
+        }
+        .background(skin.surface(skin.bgPanel))
+        .background(CurrentLineWatcher(clock: clock, lyrics: lyrics, current: $current))
+    }
+
+    private var header: some View {
+        HStack(spacing: 8) {
+            Text("lyrics")
+                .font(AppFont.ui(11, weight: .medium))
+                .foregroundStyle(skin.textTertiary)
+            Spacer()
+            if !lyrics.sourceLabel.isEmpty {
+                Text(lyrics.isSynced ? "[synced]" : "[plain]")
+                    .font(AppFont.ui(9.5, weight: .medium))
+                    .foregroundStyle(lyrics.isSynced ? skin.accent : skin.textTertiary)
+                    .help(lyrics.sourceLabel)
+            }
+        }
+        .padding(.horizontal, 14)
+        .frame(height: 30)
+    }
+
+    private var emptyState: some View {
+        VStack(spacing: 10) {
+            Glyph("quote.bubble", size: 24)
+                .foregroundStyle(skin.accent.opacity(0.8))
+            Text(player.currentTrack == nil ? "Nothing playing" : "No lyrics for this track")
+                .font(AppFont.ui(12, weight: .medium))
+                .foregroundStyle(skin.textSecondary)
+            if let track = player.currentTrack {
+                Button {
+                    LibraryNavigator.shared.open(section: "metadata", metadataMode: "lyrics", trackID: track.id)
+                } label: { Label("Search for Lyrics", glyph: "magnifyingglass") }
+                .buttonStyle(PillButtonStyle(skin: skin, compact: true))
+                .help("Look this song up on lrclib.net (opens Library → Metadata → Lyrics)")
+                Text("Or put a matching .lrc next to the audio file.")
+                    .font(AppFont.ui(10.5))
+                    .foregroundStyle(skin.textTertiary)
+                    .multilineTextAlignment(.center)
+                    .padding(.horizontal, 20)
+            }
+        }
+        .frame(maxWidth: .infinity, maxHeight: .infinity)
+    }
+
+    private var plainLines: some View {
+        plainScroll.appContextMenu {
+            MenuContent(entries: [
+                .action("Copy All Lyrics", glyph: "doc.on.doc") {
+                    NSPasteboard.general.clearContents()
+                    NSPasteboard.general.setString(lyrics.lines.map(\.text).joined(separator: "\n"), forType: .string)
+                },
+            ] + (player.currentTrack.map { track in [
+                .action("Find Synced Lyrics…", glyph: "magnifyingglass") {
+                    LibraryNavigator.shared.open(section: "metadata", metadataMode: "lyrics", trackID: track.id)
+                },
+            ] } ?? []))
+        }
+    }
+
+    private var plainScroll: some View {
+        ScrollView {
+            LazyVStack(alignment: .leading, spacing: 4) {
+                ForEach(lyrics.lines) { line in
+                    Text(line.text.isEmpty ? " " : line.text)
+                        .textRole(.lyricsText, size: 12.5, color: skin.textSecondary, reportsFrame: false)
+                        .background(GeometryReader { g in
+                            Color.clear.preference(key: PlainLineKey.self,
+                                                   value: customize.isActive ? [line.id: g.frame(in: .named(customizeSpace))] : [:])
+                        })
+                        .frame(maxWidth: .infinity, alignment: .leading)
+                        .fixedSize(horizontal: false, vertical: true)
+                        .textSelection(.enabled)
+                }
+            }
+            .padding(.horizontal, 16)
+            .padding(.vertical, 24)
+        }
+        .onPreferenceChange(PlainLineKey.self) { plainLineFrames = $0 }
+        // Customize mode: an outline per line, cut off where the panel ends.
+        .background(GeometryReader { g in
+            let view = g.frame(in: .named(customizeSpace))
+            Color.clear.preference(key: CustomFramesKey.self, value: customize.isActive ? [.lyricsText: lyrics.lines.compactMap { line in
+                guard let r = plainLineFrames[line.id]?.insetBy(dx: -3, dy: -2).intersection(view), !r.isNull, r.width > 1, r.height > 1 else { return nil }
+                return r
+            }] : [:])
+        })
+    }
+}
+
+/// Synced lyrics. Instead of a ScrollView (whose animated `scrollTo` stutters
+/// on macOS), every line sits in one stack that is moved with a single offset,
+/// so the motion is composited and stays at display rate.
+///
+/// Two motions:
+/// - playback advancing: a slow, critically damped glide; lines settle one
+///   after another, outward from the new line;
+/// - clicking a line: a quick spring that moves everything together, plus a
+///   short press on the clicked line.
+private struct SyncedLyricsView: View {
+    @ObservedObject var player: PlayerController
+    @ObservedObject var lyrics: LyricsStore
+    var skin: Skin
+    @Binding var current: Int?
+
+    private enum Motion { case glide, jump }
+
+    /// The line drawn as active. Follows `current`, but carries the motion it arrived with.
+    @State private var displayed: Int?
+    @State private var motion: Motion = .glide
+    @State private var hovered: Int?
+    @State private var pressed: Int?
+    /// After a click, ignore stale clock values for a moment so the highlight doesn't bounce back.
+    @State private var hold: (line: Int, until: Date)?
+    /// Line frames in the stack's own coordinates, measured once per layout.
+    @State private var frames: [Int: CGRect] = [:]
+    /// Customize mode: each line's text size, for its outline.
+    @State private var textSizes: [Int: CGSize] = [:]
+    /// Manual scrolling on top of the follow offset; springs back to 0 when idle.
+    @State private var browseOffset: CGFloat = 0
+    @State private var browseReset: DispatchWorkItem?
+    @State private var viewport: CGFloat = 0
+    @Environment(\.accessibilityReduceMotion) private var reduceMotion
+    @ObservedObject private var customize = AppSession.shared.customize
+
+    private static let glide = Animation.spring(response: 0.75, dampingFraction: 1)
+    private static let jump = Animation.spring(response: 0.42, dampingFraction: 0.86)
+    private static let anchor: CGFloat = 0.38
+
+    var body: some View {
+        GeometryReader { geo in
+            stack
+                .offset(y: offset(viewport: geo.size.height))
+                .animation(stackAnimation, value: displayed)
+                .frame(width: geo.size.width, height: geo.size.height, alignment: .top)
+                .background(ScrollWheelCatcher { delta, precise in browse(by: delta, precise: precise, viewport: geo.size.height) })
+                .background(Color.clear.preference(key: CustomFramesKey.self,
+                                                   value: customize.isActive ? [.lyricsText: outline(geo)] : [:]))
+                .onAppear { viewport = geo.size.height }
+                .onChange(of: geo.size.height) { viewport = $0 }
+        }
+        .clipped()
+        .mask(edgeFade)
+        .appContextMenu { menu }
+        .onAppear { displayed = current }
+        .onChange(of: current) { advance(to: $0) }
+        .onChange(of: lyrics.lines) { _ in frames = [:]; browseOffset = 0 }
+    }
+
+    private var stack: some View {
+        VStack(alignment: .leading, spacing: 10) {
+            ForEach(lyrics.lines) { line in
+                lineView(line)
+            }
+        }
+        .padding(.horizontal, 16)
+        .coordinateSpace(name: "lyrics")
+        .onPreferenceChange(LineFrameKey.self) { frames = $0 }
+        .onPreferenceChange(LineTextSizeKey.self) { textSizes = $0 }
+    }
+
+    private func lineView(_ line: LyricLine) -> some View {
+        let isCurrent = line.id == displayed
+        let isPast = displayed.map { line.id < $0 } ?? false
+        let isHovered = hovered == line.id && !isCurrent
+        let distance = Double(min(displayed.map { abs(line.id - $0) } ?? 0, 6))
+        // Font size and weight never change: that would reflow the text.
+        // Emphasis is scale and opacity only, both cheap to animate.
+        return Text(line.text.isEmpty ? "♪" : line.text)
+            .textRole(.lyricsText, size: 15, weight: .semibold,
+                      color: isCurrent || isHovered ? skin.textPrimary : skin.textTertiary, reportsFrame: false)
+            .fixedSize(horizontal: false, vertical: true)
+            .background(GeometryReader { g in
+                Color.clear.preference(key: LineTextSizeKey.self, value: customize.isActive ? [line.id: g.size] : [:])
+            })
+            // Hover and click only on the text's own box, not the full row width,
+            // and never on lines moved outside the panel: the stack is offset, and
+            // SwiftUI still hit-tests content that clipping hides, which let lines
+            // above or below the panel catch clicks meant for the player bar.
+            .contentShape(Rectangle())
+            .onHover { inside in
+                if inside { hovered = line.id } else if hovered == line.id { hovered = nil }
+            }
+            .onTapGesture { jump(to: line) }
+            .allowsHitTesting(isVisible(line.id))
+            .frame(maxWidth: .infinity, alignment: .leading)
+            .background(GeometryReader { g in
+                Color.clear.preference(key: LineFrameKey.self, value: [line.id: g.frame(in: .named("lyrics"))])
+            })
+            .scaleEffect((isCurrent ? 1 : 0.9) * (pressed == line.id ? 0.97 : 1), anchor: .leading)
+            .opacity(isCurrent ? 1 : isHovered ? 0.85 : max(0.28, (isPast ? 0.62 : 0.78) - distance * 0.07))
+            .animation(lineAnimation(distance: distance), value: displayed)
+            .animation(.easeOut(duration: 0.14), value: isHovered)
+    }
+
+    // MARK: Menu
+
+    /// Right-click: line actions for the line under the pointer, then the
+    /// ones for the whole song.
+    private var menu: MenuContent {
+        let line = hovered.flatMap { id in lyrics.lines.first { $0.id == id } }
+        let offset = lyrics.offset
+        let timing = MenuContent(title: "Timing", subtitle: offset == 0 ? "in sync with the file" : String(format: "%+.1f s", offset), entries: [
+            .action("Earlier", glyph: "chevron.up", detail: "−0.5 s") { lyrics.offset -= 0.5 },
+            .action("Later", glyph: "chevron.down", detail: "+0.5 s") { lyrics.offset += 0.5 },
+            .action("Reset", glyph: "arrow.counterclockwise", enabled: offset != 0) { lyrics.offset = 0 },
+        ])
+        var groups: [MenuGroup] = []
+        if let line {
+            groups.append(MenuGroup(nil, [
+                .action("Play from Here", glyph: "play.fill", detail: Self.time(line.time)) { jump(to: line) },
+                .action("Copy Line", glyph: "doc.on.doc") { Self.copy(line.text) },
+            ]))
+        }
+        groups.append(MenuGroup("lyrics", [
+            .action("Copy All Lyrics", glyph: "doc.on.doc") { Self.copy(lyrics.lines.map(\.text).joined(separator: "\n")) },
+            .submenu("Timing", glyph: "clock.arrow.circlepath", detail: offset == 0 ? nil : String(format: "%+.1f s", offset), timing),
+        ] + (player.currentTrack.map { track in [
+            .action("Find Other Lyrics…", glyph: "magnifyingglass") {
+                LibraryNavigator.shared.open(section: "metadata", metadataMode: "lyrics", trackID: track.id)
+            },
+        ] } ?? [])))
+        return MenuContent(title: line.map { $0.text.isEmpty ? "♪" : $0.text }, subtitle: line == nil ? nil : "line \(line!.id + 1) of \(lyrics.lines.count)", groups)
+    }
+
+    private static func copy(_ text: String) {
+        NSPasteboard.general.clearContents()
+        NSPasteboard.general.setString(text, forType: .string)
+    }
+
+    private static func time(_ t: TimeInterval) -> String {
+        let s = Int(max(0, t))
+        return String(format: "%d:%02d", s / 60, s % 60)
+    }
+
+    // MARK: Motion
+
+    private var stackAnimation: Animation {
+        if reduceMotion { return .easeOut(duration: 0.2) }
+        return motion == .jump ? Self.jump : Self.glide
+    }
+
+    private func lineAnimation(distance: Double) -> Animation {
+        if reduceMotion { return .easeOut(duration: 0.2) }
+        switch motion {
+        case .jump: return Self.jump
+        // Each line a beat behind its neighbour: the list settles like a wave.
+        case .glide: return Self.glide.delay(distance * 0.035)
+        }
+    }
+
+    private func advance(to line: Int?) {
+        if let hold {
+            if Date() < hold.until, line != hold.line { return }
+            self.hold = nil
+        }
+        guard line != displayed else { return }
+        motion = .glide
+        displayed = line
+    }
+
+    private func jump(to line: LyricLine) {
+        hold = (line.id, Date().addingTimeInterval(0.6))
+        browseReset?.cancel()
+        motion = .jump
+        withAnimation(Self.jump) { browseOffset = 0 }
+        displayed = line.id
+        current = line.id
+        withAnimation(.easeOut(duration: 0.08)) { pressed = line.id }
+        DispatchQueue.main.asyncAfter(deadline: .now() + 0.1) {
+            withAnimation(Self.jump) { if pressed == line.id { pressed = nil } }
+        }
+        player.seek(to: max(0, line.time - lyrics.offset))
+    }
+
+    // MARK: Layout
+
+    /// Space between the panel's top and the first line whenever the song is
+    /// near its start, so every song opens at the same place.
+    private static let topInset: CGFloat = 12
+
+    private func followOffset(viewport: CGFloat) -> CGFloat {
+        guard let displayed, let frame = frames[displayed] else { return Self.topInset }
+        // Centre the current line on the anchor, but never push the first line
+        // further down than the top inset: early lines read from the top.
+        return min(viewport * Self.anchor - frame.midY, Self.topInset)
+    }
+
+    private func isVisible(_ id: Int) -> Bool {
+        guard let frame = frames[id], viewport > 0 else { return false }
+        let y = frame.midY + offset(viewport: viewport)
+        return y > 0 && y < viewport
+    }
+
+    /// Customize mode: an outline for each line of text in view, drawn
+    /// around the text as it is shown (other lines are scaled to 90%) and
+    /// cut off where the panel ends. Lines scrolled out of the panel have none.
+    private func outline(_ geo: GeometryProxy) -> [CGRect] {
+        let size = geo.size
+        let shift = offset(viewport: size.height)
+        let box = CGRect(origin: .zero, size: size)
+        let origin = geo.frame(in: .named(customizeSpace)).origin
+        return lyrics.lines.compactMap { line in
+            guard let row = frames[line.id], let text = textSizes[line.id] else { return nil }
+            // Scaled about the row's leading edge, at its middle.
+            let s: CGFloat = line.id == displayed ? 1 : 0.9
+            let r = CGRect(x: row.minX, y: row.midY + shift - text.height * s / 2, width: text.width * s, height: text.height * s)
+                .insetBy(dx: -3, dy: -2)
+            let shown = r.intersection(box)
+            guard !shown.isNull, shown.width > 1, shown.height > 1 else { return nil }
+            return shown.offsetBy(dx: origin.x, dy: origin.y)
+        }
+    }
+
+    private func offset(viewport: CGFloat) -> CGFloat {
+        followOffset(viewport: viewport) + browseOffset
+    }
+
+    /// A wheel notch glides to where it used to jump, and quick notches
+    /// carry on from the glide's speed; trackpad movement follows the
+    /// fingers exactly.
+    private static let notchGlide = Animation.spring(response: 0.2, dampingFraction: 1)
+
+    private func browse(by delta: CGFloat, precise: Bool, viewport: CGFloat) {
+        let follow = followOffset(viewport: viewport)
+        let bottom = frames.values.map(\.midY).max() ?? 0
+        // Keep the first and last lines reachable but never scrolled past the anchor.
+        let lower = viewport * Self.anchor - bottom - follow
+        let upper = Self.topInset - follow
+        let next = min(max(browseOffset + delta, lower), upper)
+        if precise {
+            browseOffset = next
+        } else {
+            withAnimation(Self.notchGlide) { browseOffset = next }
+        }
+
+        browseReset?.cancel()
+        let reset = DispatchWorkItem {
+            motion = .glide
+            withAnimation(Self.glide) { browseOffset = 0 }
+        }
+        browseReset = reset
+        DispatchQueue.main.asyncAfter(deadline: .now() + 3, execute: reset)
+    }
+
+    private var edgeFade: some View {
+        LinearGradient(stops: [
+            .init(color: .clear, location: 0),
+            .init(color: .black, location: 0.06),
+            .init(color: .black, location: 0.88),
+            .init(color: .clear, location: 1),
+        ], startPoint: .top, endPoint: .bottom)
+    }
+}
+
+/// Each line's text size as laid out (before the line's scale).
+private struct LineTextSizeKey: PreferenceKey {
+    static let defaultValue: [Int: CGSize] = [:]
+    static func reduce(value: inout [Int: CGSize], nextValue: () -> [Int: CGSize]) {
+        value.merge(nextValue()) { $1 }
+    }
+}
+
+/// Plain lyrics: each line's text frame in the customize space.
+private struct PlainLineKey: PreferenceKey {
+    static let defaultValue: [Int: CGRect] = [:]
+    static func reduce(value: inout [Int: CGRect], nextValue: () -> [Int: CGRect]) {
+        value.merge(nextValue()) { $1 }
+    }
+}
+
+private struct LineFrameKey: PreferenceKey {
+    static var defaultValue: [Int: CGRect] = [:]
+    static func reduce(value: inout [Int: CGRect], nextValue: () -> [Int: CGRect]) {
+        value.merge(nextValue()) { $1 }
+    }
+}
+
+/// Reports scroll-wheel and trackpad deltas over its bounds. A local monitor
+/// rather than a responder override, because SwiftUI content sits on top.
+private struct ScrollWheelCatcher: NSViewRepresentable {
+    /// The distance, and whether it came from a trackpad (precise) or a wheel notch.
+    var onScroll: (CGFloat, Bool) -> Void
+
+    func makeNSView(context: Context) -> NSView {
+        let view = NSView()
+        context.coordinator.view = view
+        context.coordinator.monitor = NSEvent.addLocalMonitorForEvents(matching: .scrollWheel) { [weak coordinator = context.coordinator] event in
+            guard let coordinator, let view = coordinator.view, event.window === view.window,
+                  view.bounds.contains(view.convert(event.locationInWindow, from: nil)) else { return event }
+            let precise = event.hasPreciseScrollingDeltas
+            coordinator.onScroll(precise ? event.scrollingDeltaY : event.scrollingDeltaY * 12, precise)
+            return nil
+        }
+        return view
+    }
+
+    func updateNSView(_ nsView: NSView, context: Context) {
+        context.coordinator.onScroll = onScroll
+    }
+
+    static func dismantleNSView(_ nsView: NSView, coordinator: Coordinator) {
+        if let monitor = coordinator.monitor { NSEvent.removeMonitor(monitor) }
+    }
+
+    func makeCoordinator() -> Coordinator { Coordinator(onScroll: onScroll) }
+
+    final class Coordinator {
+        var onScroll: (CGFloat, Bool) -> Void
+        weak var view: NSView?
+        var monitor: Any?
+        init(onScroll: @escaping (CGFloat, Bool) -> Void) { self.onScroll = onScroll }
+    }
+}
+
+/// Follows the clock and updates `current` only when the line changes, so
+/// the lyrics list itself doesn't redraw on every tick.
+private struct CurrentLineWatcher: View {
+    @ObservedObject var clock: PlaybackClock
+    @ObservedObject var lyrics: LyricsStore
+    @Binding var current: Int?
+
+    var body: some View {
+        Color.clear
+            .onChange(of: clock.currentTime) { _ in sync() }
+            .onChange(of: lyrics.lines) { _ in sync() }
+            .onChange(of: lyrics.offset) { _ in sync() }
+            .onAppear(perform: sync)
+    }
+
+    private func sync() {
+        let index = lyrics.currentIndex(at: clock.currentTime)
+        if index != current { current = index }
+    }
+}

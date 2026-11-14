@@ -1,94 +1,109 @@
------BEGIN I2S ENCRYPTED FILE-----
-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
-pgjaBN1yWU+63CxGb9/pQNyqqyv4
------END I2S ENCRYPTED FILE-----
+import SwiftUI
+
+/// A typeface dropdown: the field shows the current family in itself;
+/// opening it lists every family, mono and sans, each previewed in its own
+/// face. Expands in place, so it works inside scroll views and on every
+/// platform the same way.
+struct FontMenu: View {
+    var selection: AppFontFamily
+    var skin: Skin
+    var onSelect: (AppFontFamily) -> Void
+
+    @State private var open = false
+
+    var body: some View {
+        VStack(spacing: 0) {
+            Button { withAnimation(.spring(response: 0.28, dampingFraction: 0.86)) { open.toggle() } } label: {
+                HStack(spacing: 8) {
+                    Text(selection.label)
+                        .font(Self.font(selection, 12.5))
+                        .foregroundStyle(skin.textPrimary)
+                    Spacer(minLength: 4)
+                    Text(selection.isMonospaced ? "[mono]" : "[sans]")
+                        .font(AppFont.ui(10))
+                        .foregroundStyle(skin.textTertiary)
+                    Glyph("chevron.down", size: 8)
+                        .foregroundStyle(skin.textTertiary)
+                        .rotationEffect(.degrees(open ? 180 : 0))
+                }
+                .padding(.horizontal, 9)
+                .frame(height: 30)
+                .background(skin.textPrimary.opacity(open ? 0.07 : 0.04))
+                .overlay(Rectangle().strokeBorder(open ? skin.accent.opacity(0.8) : skin.textPrimary.opacity(0.16), lineWidth: 1))
+                .contentShape(Rectangle())
+            }
+            .buttonStyle(.plain)
+
+            if open {
+                VStack(alignment: .leading, spacing: 0) {
+                    group("mono", AppFontFamily.allCases.filter(\.isMonospaced))
+                    group("sans", AppFontFamily.allCases.filter { !$0.isMonospaced })
+                }
+                .padding(.vertical, 4)
+                .background(Color.black.opacity(0.55))
+                .overlay(Rectangle().strokeBorder(skin.textPrimary.opacity(0.16), lineWidth: 1))
+                .padding(.top, -1)
+                .transition(.opacity.combined(with: .move(edge: .top)))
+            }
+        }
+        .clipped()
+    }
+
+    private func group(_ title: String, _ families: [AppFontFamily]) -> some View {
+        VStack(alignment: .leading, spacing: 0) {
+            Text(title)
+                .font(AppFont.ui(10))
+                .foregroundStyle(skin.textTertiary)
+                .padding(.horizontal, 9)
+                .padding(.top, 6)
+                .padding(.bottom, 2)
+            ForEach(families) { family in
+                FontRow(family: family, selected: family == selection, skin: skin) {
+                    onSelect(family)
+                    withAnimation(.spring(response: 0.28, dampingFraction: 0.86)) { open = false }
+                }
+            }
+        }
+    }
+
+    static func font(_ family: AppFontFamily, _ size: CGFloat) -> Font {
+        .custom(AppFont.face(size, .regular, in: family), fixedSize: size)
+    }
+}
+
+private struct FontRow: View {
+    var family: AppFontFamily
+    var selected: Bool
+    var skin: Skin
+    var action: () -> Void
+    @State private var hovering = false
+
+    var body: some View {
+        Button(action: action) {
+            HStack(alignment: .firstTextBaseline, spacing: 8) {
+                Text(selected ? ">" : " ")
+                    .font(AppFont.ui(11))
+                    .foregroundStyle(skin.accent)
+                VStack(alignment: .leading, spacing: 1) {
+                    Text(family.label)
+                        .font(FontMenu.font(family, 13.5))
+                        .foregroundStyle(skin.textPrimary)
+                    Text(family.note)
+                        .font(FontMenu.font(family, 10.5))
+                        .foregroundStyle(skin.textTertiary)
+                        .lineLimit(1)
+                }
+                Spacer(minLength: 4)
+                Text("Aa 0123")
+                    .font(FontMenu.font(family, 11))
+                    .foregroundStyle(skin.textSecondary)
+            }
+            .padding(.horizontal, 9)
+            .padding(.vertical, 5)
+            .background(selected ? skin.accent.opacity(0.14) : hovering ? skin.textPrimary.opacity(0.06) : .clear)
+            .contentShape(Rectangle())
+        }
+        .buttonStyle(.plain)
+        .onHover { hovering = $0 }
+    }
+}

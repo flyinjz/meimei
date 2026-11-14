@@ -1,266 +1,272 @@
------BEGIN I2S ENCRYPTED FILE-----
-AEdJVENSWVBUANfG7Zru0S+ukGkJXQoMbEaUs8St3I+Jlr2zWoYSlVeP1QVcHICO
-PpXtwZQNBROJ97hhdIl0AWF5qjrfHNe2Wc3CHrFArLMZdCG4Mdbes4tAqyGJ9bB3
-uhMnEhGnGbiy9LE9aSdVSU9Uv9O5mhTUKKjUK8jH+DmDv8aqPXkDPon5mUU+8R4V
-kQEBJOo2wjTmnsi1QcMHvDzSvfgoouV3KHNUtZvyGtG+qRC3qVjJefhNKxsfhNZa
-BB6fXHJ1CwwscKyBluaHqMKDn+qDL2oMYzcDpDfNOFwieBPt0I/bOY110oGq5VKg
-clnXDyKYxnsPRIEN0K2SpYTiOe5/dHeIEBsfDSS6Hsltw5csEZn5TwjS+6VQUWbZ
-ykQ8y7bSGW6reYvyWDHNnB4ufXMvIBOHOw7yUNy1wffvYEIO/zPf5/06YW9cJYm3
-TJ1wGarUKH3u76Inp1peByOwuiN4ZEZq8Np/e6GvvcDWv6mNKeamIqocKclBBbM1
-ffiwTYeW9l6HrAsqyWip/YZRKfqSRltrnsyBfTmCG8DwZs8Y2qoBy7shMd5MGzV7
-css/7mQgZqthSj3I+ctIx/IsS3RW1LTfLuliRiLk/JnVqze4PJvFiixGsyDZtZyl
-pQ5MvHuvOowRQtfKvjCbaIugXQAMzYkIOAFcWNOHRbM9mjWeyYBB4pXpLlQ85tUE
-pQ/nWSaxCtbgTC5PgKLBXr8utxNIQnbGJk9s1wjgfchvxnGxWNwle9AwVBqYgQPo
-qlQf+myrdvn5a5CgPFPTWlb3umBii8ZgkY8ZoaUNTIqI5jakcvonXvSuXBDAn1Sp
-Ew5O4jy/6aVQ6YK7MTumqF7ODAwHBIDA6G3A3v+Rt/BW+EQ+/fZ2jxYsIplWAP6M
-GxhrI/czKuEq4AElhlO1txFbgYx3o9XqasLU8Cn6nQBRZuxRVU0rxXiCMSm6uqju
-mzFcTe18eyAYSfYnxr7PSWh2ZrVW2F9w7w0CFmvxzY3+DGTd2Lh95MOV7KCz8G1/
-hVezHkSCSWl4fA3PpGC+LbkFww3VBhoyO8gCU6yxwyfagzdUx246syAKho1X5bCb
-MRGVX4aA1ycptGtN50Mzpzx1rxeUoVjuo9Pimdp7y3U49j08XTb+Jp3Mj5wLz8V6
-3lZp8HIoW+9x2nlZABD3SXht6rn+RsHyZShg2NZHbmFns8LC0FZxbrwMyxl8a7HU
-E4QKGGPQjNB/VUlYha/BwwjCHiTI3Awf+9vShDMQqvzgmZlJRjnxdVm0tVDU14H8
-7gSvWTtUT+/SEWFvNz06BF11CG9nBvAG5cZi6IvD0aynQRaiVrkepNEfYDrRexne
-cqtoaI41Ve11hb77MpFvcn1UT1d95k+D3oeLvxTWF9/IirwboW4fh8R239c3/jqG
-cpHlT9p1U4GzyjvyaLEt+g1+56ywZGeSV6R/dxLC8xacASyXY4H1ZIXwPVbptqLu
-z2F5w5n6Q7mUwYwwccHukFvSn8w6h9Htqh0iIwcq6prVJZ79OHdyXP8KIRl6sehk
-sRFWgQVo+KdwXZEo+wqdF0/RLEfwQm2tfCci0gzE53d428LFL8GuUYfSVQTT7Zmt
-A6c8HsmWqWx7C4Pcn3BFzjphAUgBeo0zy+SSfJiDli0J43SgS1c1AUQs58sV/Uou
-eprlWaVpV5cUyumu1xeQ6zShBv8ahQx289OUx4JRuXjf7UUnLiVMOMM7LfgtqZ4w
-F+PszKW85D+kO3Ljb16aIr+aX/744y8ugUUtxkn5AGu6U2uG9Z/1Lm4sPQKlFBCJ
-vZGmFiMAVqT61twvx6ZCI9kWMBwJzWfEWJkpslNgueqfi5hmGutCUSH2RjOLiQx6
-wFyTJhH9v6LtK7pQLdMK3f9YTdXpMWEtEMJU+jwTk/rU/skBrc/Pe60yBtV2hmHS
-+HF5aBJnqIbH8UntnlrINLqE2U7iOLd0ziXmWNhl4+rTuRvAEBqImMnwob3JG/D6
-Mp/4u1P4K/eKbCVYhpXTmXsBNg1MzS9TLOc5oIHk8kNwcJSqAw1HpAjax7H1Ze9g
-EfwJ/KdddiGcO9ZmVJgnYLXC9uOnI2i+VHnuVWYymFG3KEf0FUQbIlgMWCF1TaBc
-XDNe9DKsIdQag35InNCli/HVAtV2OdZNx1vfBHQ7z56C/82rD47QjdeTicgbLKJr
-1+yPCFZ614VCYyT+iPGLxZ6M66Zj4lpkiKu52Shx0/gDBy7RtpQXGkpuvMWheMXH
-nkXeomuh3Cg3cVJlX8qR0InPPzBvUwPZ5Lx+LQrZilPv4DqPh0kk1BO0Oup90yIv
-L92wX5jfxUL3eAnc7O4jlLFwwdQ51TFQ9JpfwvR1DLHRhZvdInWjY+vMaEBk9VCO
-BJblQb7Oa19tJycfYSCyM0M5EAogVdJn0qUsg+9F4MsUa3vVvT5yCZhR+bxKTmcy
-ALuzShiOFNqFOqYXZHgbEjf4Qk1UMUxGkluUQLKNu+k6XMEZpDGQJuOnJXCBgPQm
-LEPs94NlXU8o/0FxJa0FNq4Vs5SKxe2tXYsRmD61Uvstf4Ifmvo+KzjWCs3SkjXz
-nRqwqsiIdjhlFQYx+1ZWgZnvScjCS/HTw2DlQT5Mq7LCIcmkaC9QaTLzUg4dz1JX
-x1tArWxZBNczXmrZey2p2T8w+JI9dMzwx6hTq9I6FtnBTNqYowOYd9Rng3z87kbD
-tZbIyJ8XPjK9cR0XbWm1SJ+2/NnovbgoKNo7zDznb9Soube+NVq+c0NVyl2ubLTj
-TwOsBD8QW2nBxsg8zuXDR5fE0FATwhHRH7Z3XpHA5CBrmFc+FBijj5lGY46AKInR
-CbSSnnn09ur8IkDvhGBc4R3XMtuyQafM641B9RlTKeLhKSzAHJ2Izy2gM6TmRoqc
-jAzkUykORjorHTcDkln0pKaZg+kLtokjKMlPUEtypoZ9n2yRLVBBPMqjnCVa0wNG
-s/t6KAl50c4ji3CXjdle97F1kvnvQThBs8CnmejhzU3JcPrjb8hisgzkY4rqeDUx
-y//nsqzdl7dbWoxL5B51wcIjrSquXU6j4uzA82xd+B8Sxynm5Qc85PqIkoj7g/DL
-3SePNucGDmTa8+IX0V0YVNAUfHprvPaOnuAv/Zaknab0fABhVezF+oLWmqqlCn+X
-/QYNq/vzTs22TDyycuZb/Mp48EF73DOlGGA69ZI5QwnTAZq49Nr0VyMqUvQxWPIo
-kGmEKTF4rw4VvcXcbHI+iarzU8KPcP8pRl4zYe3GMxSj0n3B7OkFgHKtrXoB2kVR
-GxYR1jeBoB9D7pkLxaTZuLN4eIMi0Nkr2gbcidDh4dnZYzxy3PJv1Tq8TKf1kW5X
-jwnJomGrZIf/YUZtw+GUvTWf3d44oEMJnPgEG7lbT51bxR74wWmb/c2K8SOzHKpi
-RrBPLjHbI4ncQlK6q0hCnmyMKm6ciKq4yu6dxTR0Hl7BEhslG3eZJ7WwOtedod/U
-8LLiDXnGwc06iJ1z66t2Qiknc85OatfTfvNqPuZLy73jsBERnqQA/tEifA41jH05
-kHOl7r4vWs4YKZIpHkDvIYPOR7oPc5IpFoudcizjZ7Yxi3OxEhCGhQRwLCd9piii
-IvOzY40pzNncDFZaGbsirUewr/5+vQH3AqACnX18ysuzddjT+akl+jDsUtHMmsqM
-sa7Wjbn/EOOuNX6npZ8lkhknKlp82dLkS53pO2kXymHwx3beppIDekX692Jdvrwd
-3ndXXFna1bMD+snY2CKWKORpkKop32/NMpsmpibXjK9rBSzqyl/KwY4AxZMSp1g9
-pVT0GpjoH/q6awVQp3k3nqEtgr43G3qIgNAa05Nv5A/cNTLYROBJpqPdD78OgLPC
-Gu6OjxfZ+bIHTycjSJc1FlYQ1/5STMpgwISgSN74LvMpegdCyUEdd1wkzGa152XT
-M+gnO2pyJbA6OH5uxGKL6JVeQkyqv4uC/cOiYuC+7F2k3uI6xXwmMJ+/5cq1eVOo
-i/9eNiM3GCMJbDEIOZNj33RqnJkQRgxlwNOVgnfg5qn1JOtgqe/dd5V7wokKfpSS
-PDiYQLy82X4Cqx35+ADX67F/hSXTihuwbi1BuqhXuJ+o59M6B8MoiFz5OPBV4g5/
-JnhYuX+qs4BSt+9fWI8I1RoJE3eUcd/YlQXsgxVV7m87pVpRprzUHAAa5Gzr8IWV
-tQmG7YngSso+mZDXjfvmCOwQ8xfexnx7tonzHi9FToqVsgAUzlCnXLYxqpoKgvFK
-jqw6/dTwtw3SDavudDIYSzA3QuFlW7qu0VSBHbc3Wv7c+czjiVlq5Mkgg3dEQQMs
-KmDpzCk6BHKhG7hVOiDbMJ7chC/gMtcQIRx/MnAUdSWOB2I6WvVBY38ue5fD2YxD
-3JPgdCqlekgqlSOp+acwoSvfOFev23UnDhqursa4y1m36Q1ZhifTaH2jDdo75neZ
-M8n/mf9vuqhUP7y2qMn1lrk92LIlNm5pW19mm5OBCudYQXleVTll1Lnt5MH7Lvye
-yMl2FviJV84dGGz4GGLZ4sLIBXZW7WCWo50SJ84E9qfaEMiWT5qm8yof9sHiqf0K
-B9yvqVuHx8L0nKl7I/645JLHPNs1dFH5vAwmftYzguWQtnGa/v+9doaaIylgkLiB
-aix8YQAkWhQV2JsKHtEXSQcU3o3aj6qSaVgkWtghU6y/+MNF2tn86unQIpEoGlKI
-XZc9F75cMCF/+AFRA4QNu26utu+vuydzlnYdsQRF/N79EpU0FZCS1LpRai4LzZve
-+DXjdYh+hCMW9wUnTUKepHgqLuMRb9W10G5jpLUosje3j0K0W6/cEvn1eIFx6oWL
-lvK1x6Ljv9kFgkH6AoLTCrcXWplcWDX+tj9r+afX8B8gjg2nygQdjV+C35zKAwpm
-aJNzij8rR1wcBuU/L0F1fFtVR1NKAQN2I8+qoVjoKO8my2KQaP0uaUTGORhcqy1Y
-tMTCiI2bdoXsvogKS+djRxcWC5uW2RvgnVPK15TFa98aGWFQVmb18vpp7MWt792w
-Gmi98wGa5eCTZxF2wG2BjKwTAijnxSOULXP79KagcZsDv1eJZ2olIUs/xXUu6T1G
-hGxFkOt3jTJMj7hnaCmHrgnOh32hBRzkvk3k5p5me3zw31cFjcyY05h7wAn8VlQY
-H6NXvr5uc6p9EkYYRwrAUWXQ/xpHSNyeaPC4pEdiHQdCaXuRrO3zHZYLxFZL+KX0
-dUC80Aswro164hns0JsB2qToAm2uYiR1L+GMRhd7RPcOTjst5s6o7ruzxeryjiXs
-PbdnZrfhF6Xv1Y/rhOHQBdwQly6/b8khyrbgFSxIngIEVpkl+UnviXHa7qvULHbg
-/hkt1gaT88YsfeF9k4ggRqoH05h0Ha+leaPZequOYeBo8+Qo8yY9X5SVhfsNaP/l
-7c8qKwM/h+Pv+x084vNc1tGxm6/AYt9SKBijmVDxB0dg2cW+2fXTD/G0c9SyZTgX
-jw2QRUJevc/gkKI+phCdaI94C/cADilBZCABsGWmICW09r1joa5B/b8iGMZqZmXn
-fxKyh0/FtejXj/ONCygGeF3O6RXmAm8UmDX0YTrk3cgLyP2LyK3BmBgwB4MADMqu
-vmOls+3d/TOX9CMdI7uw4Nr1vkQy6USgXILRIQt8bO4T9meGHAJvv6JN00M4hpRf
-jR8zfxOTSs8WBtkHbtzyRI+Ra/Irasr5Hu/lSjhnS289+fXAWAZwlErmAXJNcB70
-6frf9DFqkjAvs9IrBSNxfYHm+tVOlNbaMNUVQXEMQ8eUVaYg6ojqkbiVHCejoXL7
-AF/m7kjyHiW9n9n8RzjEM3hxvYZnG7U3uoEa0w80ILgXeLAJbzka9KQcDf5Qze8p
-W7N/jzNn5DqhdDNpmyDULplYMGA1cwjzFxBPagSWcTFP+/xwtnF1OpQAZgaJTs2A
-n2CnzpsZgl1a+AsbgiEL5FZ8s5uxRrdC2ykcLBXFX00Vck93NuL/NpAxK9G4Y2JS
-dl+zMHMpZpIF9FoKJbTRFOBMjp1CtETMqfkBBHXtnY+yrxIle9ekj4aqxxz9TX6e
-vbjoHUrU+bRNe8MLFMJt0KEXSUZKa270ebNSiEqCatkRs1KlAXtCo4Fu0EYoG9Cn
-4bdcOzrFoP0WNjBAzbN8aSqvp972zy8CCsX87oKHYSjlglyolNdt8Mc+tzWpGh6w
-oaAOOmCrjVJYUZpnCOc4d2FLxt7KN5qz8+bt6ddCHwKP+M1mPKuW4aFPsXdAsk+n
-DnTWxGC2tpQAN9F7cbU9M6dBWAHhCJb7u9UAtjjPoUluokj+c11GAMSHkeoHxsnB
-O/OJJDveSizstY4QWC92YgfCgCjaMPx7bFJ0jIbVPk2+ODTy9eIfJFesU9wI6lI4
-+27BYfpq8hiy3s76eWQPWnusotlQ/V1fTryhczsGpfHDEdY/JeLxYH1dDjN2A9hg
-SpOXWMpWjnCJxQQOJ1M2GUbknMFYjpDVVs87/Yv3KTs1egtY5nkGFpSGreXmv+BS
-sL0cNVutAwSwp7d2DX3FajbuY2nnILIAV9gb4/xC5HTY0+jRpOzieYM9NXcLVHnO
-Zs3rBOBGg7dCLDg8o0lstZmF37/osH8wEvVMf8C7U+qqKZn5cjWgtRL58cmE5TcX
-lhhHlxg+x2FEjn0LsRmf9v9FJAy2isNuFayxV3xTGEojhkt+rDLm6k8pHP6sN//o
-LZX8MjG9xHK8yo9Hcn21Oeyzdn5s1GdBpbxJD1VXzLC/D0SQOOeAhEonEUN/R4sZ
-VGDNCdRuBovByTg/ckwy1EfbefboHomxTQZPmnzCiDfN2PYu3O57yp9uHvmTB8V9
-tmm1aPk5/3z+a6mPXJKS6mdB9YtJL8reNXHVO5k7Pfsa6bUMRqb8HzQjV2U+SLbb
-4KLsSqFaiijQYhHEd++qQwoDuG5mfgAvM9yF2gg4wssjMIFzhT1hPCvEZ68AV/N4
-AC7n3PMF1iCBII4GfKmVv5+HTrqwmN3txEJWPEoKTa1ANKcTMR5prTII2f6VO8wY
-ZaGWOdc7OpHk5EO+qbsIoWKFW9N+7B6+hNW1IhdKKcGpA877oZSq3U2trMpMpZoj
-tVpj90FeKiQtmJ9qj9+TIov2wT9XNrKKLT1KU+/7ge069eA0AzvSBMTNadBZOEV4
-q+PAyi37qWgf3ck15TWf31iff5Kn55DB5d7nFnQraxTugSS66JgwmTf/Hr/U6MjE
-yIn1JizvK6/5SoTtAX79KkB8QJBB3POjl00u+M8XRkmR+D95EUThc4mzO5pXlUTz
-Xek6iyKHdyV8aHJWKTrmxYBRgflKsX6I4Hhp28uKRz2CjtYZMDkualpUr2Gxc9/6
-7pVIL4Btu9Sz/pHVFOiTEQKoBjooCUci/Oqm+3Y+XQmMM3YXuBJRu2u34VTI5e8W
-Jy+MWezkUFTwuryOOsxL6HwIuVP9dIu9SFLBTyb0bDL4/aAGERzoeigC/zz2+3m4
-Je+nC6yo6p4DvteF2Xmb6LwFORMma8ittdJxPasSfJ8iR9rhd6bzy7AnNridTrlP
-mdNx9J9JwSgWE/ZpIe5xJDoD7VQJDefRxbQUDNSfMDXCIK82+UD2PqqRmIj2jK16
-aDk/XPnnMWcOX3UdFrPXgoMlw+PCZNPaxgBK/gH+mARa/9wfnxlJu1+20At68BCq
-+7inZ0I/h6VRoRS4Q/AQ4FCiRpbTuBtlUTilZLCUgoCNDcvcKnEr1WdmRqJW65cR
-sfHqBdmcKgUxOMSCbiwx19AvItBG4RJatiG7HJvkx2mApoDRLRaS/6nB63f5FZYv
-Tc9WD9hajjI00ait/NaO4JzQiMVJrmvDRwKgQOxnEd6w1VKFXSFlw4sDgSF2oIIh
-ZNECUvvfA300AQa0tWeicmhlBCjXUPm+YkVpeONJCRrj8IXKTZ9vZfJ3aCljFit5
-Jxkdt2g6wRu95NvTGywHPb+MGoQuxZiUd+TJHOUbyRLsgHr90jOgmohwo9uUTcvv
-BvhojrvcR9sMK5kpaV1mdZGGiSsyOtlJY9ffwGApVriROykUaSoYQsW30XeG34V/
-MHqK5Y4u9L8JMLlgOFommoBJQ36XbmgTiKPDCLvugTrORY2CwmV8l+SdTsQd1LSA
-kvBSGh65RnmBWnJ0/JWCNHaDufUeCxJd4+F3sZwZ+UEXoIv5yS3cWWqUFCk7QfBF
-lOUqiYnUK5Cq6QkRtIvOqBxiVdAtNMXzBXzyE3c/saucemUsiNpX1t48KBZK5nb0
-zYq3a7XhdywAqnR7+liD0wsNMAPu+xflrrAwN8imL4j49WmckLn5mcyEXKs3gReH
-s3D+23J7JUTX6bZv3YndgKhiZ3JSy1axvYmnkkiG3Fr1Q7o/ijZJ0755T7jpZrs+
-cN067+8r2GFM4KfTYV68QeYUuQX0sCDI/JYvhmpIJHuF01Bz+Cn3UdtI5aPW91F5
-m/yloS1nf7SUAw1WXLfnlxLQa+rjgyX/sMnRVRzWoCs2uHVsLnXWcwF28hOqeNeI
-Tir+hJiAwPA+ra7f9tSJyqY69FJz61Vt5tNTR6BQMF1KxzPEErMul574xo3sjXmy
-GolTkUJ5phZ8hnaRJ5e0Pwm0DktJUrW9J8KEObQap7LLHXGCSHVkf6Ycu7g48K4P
-3+E+lh/1X6HesdvcKRLnZpLDZ+NYC+IQsP16zKRpGXPnFK6z3b7+L2R8aOZsh4BA
-M1UXnYZnJmWPqlsADhuzieSte8acHcyFX46x8Otem+QH111Lzs3SaXF//leI8CLO
-tvfkp6vTfcHv+k21LpcAyA8ksRRHdVfpSQhIV6vQr+Km58pQPb62bQQXQNGEFfAb
-6dTwFeQHf9e0+9fj4c2vInj8O/2/hd3xu7Tw8p5w004slwuXDoqhhypH/JjZ7cxp
-MmRjsB84Ypvn0bATCdI5DIPSnVsDpExaU13qEc+1urM1PqZMaQxuqwKVnDwTPREw
-2P6oHAHmq7xbJx74pD4awpwSVrnMVYqBtG9gGzdz3gtCJ6MdLUPgcsfckQt0ij+F
-gMx2lbKCgqDPPFy1zCUOkIcXQJSQEQyB/kgVXXb1ws78VXRaQjxZhRoouw5JWtVP
-iRaRiFZVJZtRMHsuDU47Z7IJc1R2WKosF4bT0J7GkkVwoGJF6nKhzpCWetg5i2Zj
-rDc2BjuNkDgrSawR1egzQ7to4ouMG8txXDoD334X71Yeyoj/gDj88dbA550FEUVJ
-c5r6sVt01AgGo/tw+jty36eE9gOo3csfNSDzvYFs4+IdMoaGOFeeRUfQcvjGwUMP
-s2NjUfFfxxMYtGC4sHUscI09uiSFGnpzkK5sr3Nx4tGN7nOUzl5cGr8IobTjqibU
-Dl4VF4B5G/g8jDB/EICzrfxbUF46vN5BLh3qeOPYlldyUWsbvX8qIN9l+OPU8MBC
-re9bO8a/NUbQq/iWTy7kF/UMyGbvA9oNE/zFqNgRnkykMATAIh621pzA0Da//G1K
-HQFJvL5DRFKT+pmgMgGY8d79rUWQxewT07pVoSEgqI9RFEtD8TnWAVdNGggS/oDj
-UAm0xTbzkJ/n+0iuV0IYmX7srqOiee5rSV61PPr5bpb77ZFFgUrpNq6n6Sz7mGUl
-SVj9ds/EsZ8NA6QjgfPnxXAxnEoveJJCKULPwGnT4tdWurM/GHGInyV+Ce8005Pi
-2RWE3qhJeYUSbV7htSmfnEA16Jf8+eEsnpbPkQUQpROLIwMBJyfwKKs/2rslsvQQ
-lcnLZA9/Ks8JcUlzHphisZIQn+TEOP+XtulDCGqdxyKjklX6IsV41rJXFYRnVKWM
-TY6L929z7+DBE0Psga+91TVtLTktSHa8WahMTAHa2/zcp72PelUqKHZv6XD5xKU3
-Qs0cytaHAQbsr13NWD0Src9Dt97AJYj4RgzpTGD5mlClaZ3JIDi9YtcpCWkEEJI+
-SdZMIyH0OvUzS0jp3YjXLfhqThQzRU4jvwROfEUXexT75ImY6a3h6AR23Dp9O1mY
-OqEEtkxjRldog6SF8buPSG892ifw5Hg7XjTf9ljcbkevUf+Vc2Dkdt52Q6DSp8Ed
-u/JpTjXZTBWGd8VkqLFoDXY494tDBIfOjWWG6BCdZc+uCx4uhozU43ISRClg7jYV
-F1mSiZS1E9cDU+u/LVNgnJB5bxhg4CRAztGy6O0jyaEwUdEm4sA4JM6NoI2WLOOk
-Md/dvjy7thk/jf07+U4nt0oQoVN5H6Tp3U+yxhpSsqjN7zFN0qxJbsMDOhiXyjLz
-ApkD7qon0PuvOe300w/c2V2lCnvUPhFl6ON9bWgWkwVDIFxGB4cgAyJdB3OU68Nv
-9eOLPc7rg0aOO2NQscMu7g8HEdY97wvsGP/zsPC+BLhI0jmVFIw4HNwsfXujM2Xk
-h6JbTLCtuhh6vd3VZeCWyI+hW+Nftv0MXJETumKj4gADcz2NefVtyKjATuzZRGcY
-wHcQvNPmEEhR0qwZHXclxlxEG370XvKWzeNaXfI6Fn3t74VcPxj8vyRxOTh0Onpv
-S51hlURle3SYewMDR1BEJfl59DCHoHQj2uQwZgVuk5e0G3S9/dVdVxV1USEnKTl3
-fycUd98eTUxCut6WsW+XahlwyilRwC0MTQGA67qsAsMY5TwBmwESxhQ3D3tCFTM6
-6DQE0fndzyFhRf+5beHfqtY8qFX54pq6deBTGqIOaU+w/qhctewBs0HZTPGiKn6m
-ih4PELNQZKeIj1J8961gps/MvzEAuTSpUrgkPde827j3d4FEU2O7VLdjO+BAIeXq
-rscGzUEDPTzuIX+2MwIGVcWmurWsdzmjwsbLAbfUQIGo0mXVnVQY1XzCLgirPmY5
-k1YPSKmNEuUmBosBdCGJMW22adwZCswsVy4XcbWK/izKB5Un9cQ6loLj0J1hhkul
-PXEfPXxx0axKzBhCX0kTLDHI4DR1wfokZ4gZQ1fBz9FKnxCgkC+ADnEYNA4tKVaL
-yoAFrbQ69sKzEfcYqInkV0MsngUYyvnA0+rkzTPyWDfnxl7PJblbze+IZhQfGtVu
-q5gVlnRj8HIYx1GLp3v+AUh7go09i7mfnNm/QknUqYMlgvYuBQP9jNdO+FePZfMA
-HI2wccDaVMJALAWo+OxzXkn+BZwNhg+qMxxrOSLU3C9Y9nmSs2tQ3pMCYNcML/kd
-CD6zG0abotLBtGHW2vQ2u8H4o0cDfvFvC2ViKMBxNKLY4lPHzISaE9kpchWXxgPB
-B88I3o6iHTFGzLa2G+J2uyTumbGKQY6XNiSGf2YQ+0zXqs+NYoM8uLpcs4JulNhH
-ndqIHPH/2zBJU6HoY+81Kjx9HnTe46GXUOycQMQrQHhWQAZbZhfYPUYss1rpSUe3
-XVJ5cPijxZl8ZLSlPskV84I4PpCZcUI2xEmjQ+CexK+KCVbchgEtwnZi4tu1lUnv
-G2daXpmipfT5eJ8U2UIjwPsmjbyBWVKf8i+EV6jqBN/u1cRX1ihhyBcbaXNRccx1
-2qr1FWXzq9/OP9EMtgmpBRnacITSXS8nEuLSaWTkIUhJ+jMYsun7ip6DjBTAErKm
-8LiXanvehiBWFN8hqstuv99APP4G5D+FOosxijaNxbzJPwPSq13CrTGggF7WwbdR
-yb4yMND+FqfAuvjiszILm0Xeg7gz0MWlASrnwnV/qiQb+Z4fJ7zt0Laaeg0x7qkH
-GaCs+x97Klxl8sk+3JVP6z/6aSO2OvCl15mv0IwTdwS11xndo4rc72NZ+X3mi/hY
-c4fAHtuBEd2OKhyJAt2X0YaHe9r3dZ/DEIpN6Uvs43OhBVnBZBTrb7fT3nTaP9V5
-dc4o+jt2FLWDrBZpAAYej7o1QMOAzxu5tV5gGYmjDkQpbeIgPasRwu18IH7ls4fS
-+E6C7xGUXtXP+t6DdQ1epB0IpFSc5MVngeR0wr4lqqOpPXRE/QlQW4RbBseVB38d
-gDEBQX/qvrDCmJVZyiY9IOp4Jy5WHGPVUB7RV+CtUNfjEEbOtmDDzDl1UbFL8GPL
-BMI9FSxIdLHByRuZ9mXT+dlsfK/ffdJ0I5DlVettC2DWNFYTcs4Fv4r1CJ/nU+mE
-hR2tUoGoOFlEz6n/LSyxeGZmlQ9hXMi5eHzr75Rjop0wECL8uqznsN87kPB2D9Yh
-RrTsYUGqsCciznLKoVqxuB/I6GfrOx6MYq4QEghth/oZG2kJxnRQrIln2e+37UDa
-Q0y/rX6Y02SFb57Ju5gwtuOvVBDJ/ZiYiQ0nUWqiwxlcUukq4UcWqelVvsK7Tdvg
-C+JttjAdwIJN0k9xWRkR59GuXp3Fe8hImYLUCNr+RFTYTXYJejktCXWtyRC6MLmM
-87TsOVJOFqvonZqN2sto9Vy3PI6E6DK+4qMYczIE0Ucw+60g6LxnXy78WbBDAPjE
-61ptWyXDryaJeRp6THXwMpg5rnqn2V4lPLmp4gt2NXZtRS8wWDEQdQC8R8CITc2t
-1kfXPDXlPb+rjf+9KEtwihdacBHP2hOeVGTui4HnAKw7l7k9dAd0IoWdcU3eH+hB
-9VcbSOxMfZSklGGTPAZxM9DzQktK4Y5tuSPK2oXBPhw1zSlhMYpM14LtmFI0nBsR
-Drzy98Fc2yxnnMhOHNvSnKliSK7jzybN4i6HfJXKb/HmTEqQFVObM9YuZkG065Yc
-yzUxGFQv+0S3aHgpsR1Y7S1DNGf+3b8rUNwZrl5ht97wfBbEl4OR/IyMQojy/rct
-ykGRwYU4Ykn44ZvsfXWBj5F7R8mrnXere204WirsQw/lYi1bwrQ4qVV8ATW5Ubv3
-37TlatJ0qgF1vVzkduzeYdii2z1eOK4dufP07uEKQ91lB4cA9xOQ8k7gk6HKVCQs
-5VOTjgXNmPdfuc3EShe7idgV8A3iO7c+Y8jATbJozFm7gzSEAvbKrNGS3OVyfomk
-ur8khqk2I/GZZ5OOsQczmAyX26RsY01oKgFqODFxq27/FeIHa/Q+1nyeesDisUXu
-0z5DaTyhFXM/+DglQJGgLqrq9BBYCDxVCilqkKpIum6snbD2FohX7iZamts7euXh
-N7t6JVk6gHdqH9RVK+SbwEaoteRxzVRhAAcphZRxKOtNIWWVWk/uMW0YsNeZsd70
-xkJBCzASecInjsO1dOq0LkPWqZiNtVafv53KhS+RV8qt809Rx8aIafuAeV2eaYTg
-pm7H6hPcE5xAv2E/0TOcsHuVXVDdwFCGN8p4gpzLHgzBaRpkDfLPyFO0CDOczZNp
-DIflQSGjrmg1UlLGI0q1YT8CAFBkRf+1RLki71j4c0Lnz3r4GstNoNQNoHUxI2rv
-CQvRRcHO+ecMRBQsYEbgT8aBrFr45Lm3vtrKcQU00baEiHAknR23H7/YbB5JCt1z
-Oz/Pm+gn5RzvDsfBAV1Af4dkiDfEBdwljs0Dzd7r1fscOtwncAmJONJw8r7uiwmA
-n4FeuTEmGDU8H9ofm5TNcEQgxRpIOl4R4FimcU/92kTsO5/bGpgqNfGs3NEhz2Hi
-BeM/twQdLDtl8cFaU3/rP8ymC1ZMAQn9ATExJvhKGv0ATCszgyhnl8R4lwhPQwm2
-tzgqTMyIDCmmbQeMXfO0r0ECdvb26tYY8Ov8n7kj9Sr2FqgEwvH/LO7ktSa85zoc
-WiLwGIjb3YIQ1mB7bANfymH82hQy5QQDMX00eds0JCy/oCqos6fxXY+rkAISZv70
-GwAgOIQ3umYNxmi2UIxWEynMaPe/NHGudly4jdwWK4S4wYYkOhqv4SEJd33G3vym
-hlN0j/tZCwLTgV9R0nGN3H7huCbcT5/LSwt2Qrd7tTYqvH2O5bkxYnXB8Pkreh8v
-wq3KFVcOFTBHZhnCDQYFtJHnaFEpk9OxsJt3eX+khSF0UGsYWG9Oqws1ptEPjDAY
-QEk9BefVwfTO1hb5pb+ex8H0T1U0g7f9i1BCZPLVaKcNlCXT5ay0NlA9KOGoRhxj
-IWzPUiqrWEkfwyD279hinibcYMvctQ9X6CAe7OPNV57Jsca3UfB93tz8bGn2hKGO
-/dTvKrDw1+7HZCa+JlxEMdiO8mJ6syXlkx6ZMQ7+kWJ1mjHMK7l3b0gKjrUYdLeZ
-/05fC5jTyQu7FODJTXtFaVAqEF2SdShB7FFroWVmLM2Jl66Ut22qle/pCr+Qk9YE
-aTSBF98ntjVo3kgH25u11FPmbuhw3xlCR04wyBze5G7+d+3RlWRFgmSg2+nOb0fq
-OijRb0aeeqbdRA+/5SOjAWP/vCRh1zwpJQO8wc7qAhSaVl0ccf1ErGRR1vCjydlP
-Y5oRNp11cQ41EXhfrPcZ/67CYb87pSXI9oO+IESXebTTgiQtPFJpBUz8kwh6USLV
-eVQjl5aKm3NGGCajdejNh1GLwvo4u9vtOrT9WWmgzUydsj6lTTzACdHOHVwUbo6o
-4RbtGxtIoAN+mnmlN/+L/Pf5g5w6fl9zzh8m2A8iVrgaqpGJzSKy7cmENVAoNY4e
-45bLMEPE8jlo2PTAO7yqZ7zDVe0XAxA0cj4ZUsq03Sx+O8IHCib7kLYS/H6/NWqH
-JMvpLUAEQRIztLjj707jVzIORN0ueBWYL0pt8rq8hbBtqgsalGNm2c1xeyhT9Z3F
-WEa8K/4Bp6+QfYku1zyhCeP3HwM3fr5IvlQJexkq+cWOoH3Pk1rtLT5QInuqi4A9
-Eq59wuoUYt5LJssUxr+SHCyLNLVNcyjaJIq8yMHTjG0HAQ/yaL5nM+DYbhi9+VkE
-XrXqqwCy5wIv9PgM/kRNvY0AGfrNeeJbl0BOrRpmZ88ZnDuHuuRhDDsUHSjtGlf5
-soVr6w+gGzM1N4D6FhCXinGAXXpW9zxwJW6UVLeR7Nygma4eLO6N8DZ1jCgFlsyp
-ZFq8Ei2cv1TMA+5eMU6WpUzhLqfYWCPQtu4/fGHMY0w1j6tYmMv/hjRO3haPNra+
-OsYQcIlKPrOJY7B8fRGmiPkejgQ0xEpxxMKC7D4q60im5hmsMaQ4hCLBdBmPlhbm
-I7RAim328IScQnn1VIn4BBxDjUIbcjg313DLxu4qu5w70/7U6rVbLffOykgsiRVt
-e5QTvQ9o8qy/VVU4wnR46QnmE0hdurpB5koyqXEWu5I90zjny7qqk0omTgXwyjdj
-6qMRHm3eEo8nNiH/GRv31ZflCJrZFjQzG0GqLspxHMZW5Hq/9b/YqJZ+tDY75B7b
-J59puoc8qTRNA+1SJBQeIyehG9kqcBHdg8+cEKxWKTMsWzOR4XK3lj17Mb/7Gi0J
-pgE6CjXXFksEsJjv5y/rboi+ZVGIscbPhL6GGNyk6Cb7IO6AJ8ifcvLs4NPmORkM
-8JvnOLhejU0THWICAIZ+POrkt6P9Ery1VsyY5XirK+xEZH4dQbSEUiKEODFzyUfm
-ZLr7qHUjg+Ul+Uxbf8UflG6i9D41WFtM2p+RPs65DgBXDjIMIr9GwOLo2TPpu1FT
-7GJKZ0zo7xYbIwW+bayyBgTIJIK9FAI/6HDxo5INttVQ5XF4MCgBDSi9se/0ri22
-u+AzNIbPt7YxvOFHAdqiyodGmvAm5pqsh/pLa2iAOQCpnwxj55PiWnK/RwcKXc4K
-KhQk6eAzLSkZkxu+3ov8oSXPI7K1AS+7doTMkoSsJKC5jk3Nfik+Xu7pq6X8H0Df
-Koe4qfWEBhwhg/J7ujMriw+VZ1ZwvGed0cp9D+Q+dVNABME8HkwPP95JbI4GPLBe
-QsViswezX/3uSBeDE0LkvtEp28+nFECHqS1zfrM+YQ20XhV2nRUjU47Qp9OEo9OF
-T9KWXDw486SVLFEHvAD/ijLGct4Jfu3GBkd/oJBn1FwXBJx/4xvXFFfaLq+qh0uQ
-bt+shfqsPDpfmChgEYK47PUuCKW7LkBr14ZkaX5v/4mV9lU98Nx4XgxScl5etNGw
-sIRnD8Hxr9DHwkwYldZABOAScsDfM5Rb7fivvxywBQl2i7fFzYo1N791JWh2xq8V
-v//zbCWy0NXQSnQX4TxJyZF6UuPW6Hlh9v96bZgJiT+tJ7HchaE7B659YQkzz9tM
-Lyo65YAIZVtfFMnAVV7nT3c7STG1DiN35weEdbPTZbRg9/SkOBNRC7rhNKB9I8Vu
-xjT2N1JPv15+i1kVXFNuaH2ixTQtWzV1Dz4YZUNNHK+kRDFM0pKHmTg928NHE59l
-iJO1ZzJXZRk6d8w8HmqgJ+psW59vAF6K6+EJnRELrJonUAIjSsXDTfTcZPbIFLlj
-IIrT5m7Mx/YqiRFdf6000lOvENOw3NbMq+yAO0Ngb5INGhKRn5KsJJH8WOg2qteN
-WGygBZ2641aBkp+uuCq1UPgr6XqTq+XHgaQrWYD+4ZkA94yJ0pVCQyCuY/t+f8TR
-b1ykJgQyHFxSJ49LAg38MAT54Vrvcn1T9kf0Eg9ZufHjAxWioV0iHHgXtyh02d3O
-mJ9W2NDHYRgVim10HPKGvWI5Fn8ERDw7u6xs0dAb2ylBaNagGR6Z/ffH7E0ZkKI7
-zWqn1Oo021kRMXjJNRfbrjyazsZ1Nr82X9IMZL31krmHHrwhIlkdnspumWy8t6pk
-aBwZQyn8i1bHeLoQeouCM8qN2y/O2idk48ZBbpXh7an0aBDLyaJFbiB5rOoZ0nhD
-OsnsNtqaLNvg162+Paosp2QvdUhhavY1TV5LagBrjWHlV7CYHCXZXPAXBilkoGE4
-oUOpTDcF0iyqPwjG0Q15xGrBzKQqP3i5VFrozjfKyr835jm5/lKFB93MTyjojZ4d
-cIuP+t31/WpmmDkbegHxiTOrCfCOZ5OnDfv4LGtxzm/sFtkXORlJbpX+tLc8MKbT
-gz0V48tbI4iI0J+aIiDO0zHjS5m19w5gVhcqSEhYgC0N/iWTCCyMXBwLz6z2Lldf
-ekPTQ08CVwcfn5xkxvPdfaWvsPYVerS2EhwbXrBTrVQor1yt2wETqQY2vz3XA4DS
-uUwxqLUhez63LX1MHryeoC+A/iynVpf2o1+avAE1c3Et4qsH0+D33cjPsfWAZHlj
-tiSAqXgVmc45HTNaYqhnwRvBtHNikxHk/SxfuwNOOCs=
------END I2S ENCRYPTED FILE-----
+import SwiftUI
+
+/// Icon pack, size, and per-icon choices (Settings → Appearance, and
+/// Customize → Global).
+struct IconSettingsEditor: View {
+    @ObservedObject var settings: AppSettings
+    var skin: Skin
+    @State private var editing = false
+
+    static let previewRoles = ["play.fill", "pause.fill", "backward.fill", "shuffle", "repeat", "heart", "magnifyingglass", "gearshape"]
+
+    var body: some View {
+        VStack(alignment: .leading, spacing: 10) {
+            LazyVGrid(columns: [GridItem(.flexible(), spacing: 8), GridItem(.flexible(), spacing: 8)], spacing: 8) {
+                ForEach(IconPack.allCases) { pack in packTile(pack) }
+            }
+            SettingsSliderRow(title: "Icon size", value: $settings.data.iconScale, range: 0.8...1.25, skin: skin,
+                              sliderStyle: settings.data.sliderStyle) { "\(Int(($0 * 100).rounded()))%" }
+            HStack {
+                VStack(alignment: .leading, spacing: 2) {
+                    Text("Individual icons").font(AppFont.ui(12))
+                    Text(settings.data.iconOverrides.isEmpty ? "None changed" : "\(settings.data.iconOverrides.count) changed")
+                        .font(AppFont.ui(10.5)).foregroundStyle(skin.textTertiary)
+                }
+                Spacer()
+                Button("Edit Icons…") { editing = true }.buttonStyle(PillButtonStyle(skin: skin, compact: true))
+            }
+        }
+        .sheet(isPresented: $editing) {
+            IconOverridesSheet(settings: settings, skin: skin) { editing = false }
+        }
+    }
+
+    private func packTile(_ pack: IconPack) -> some View {
+        let selected = settings.data.iconPack == pack
+        return Button { settings.data.iconPack = pack } label: {
+            VStack(alignment: .leading, spacing: 8) {
+                HStack {
+                    Text(pack.label).font(AppFont.ui(11.5, weight: selected ? .semibold : .regular))
+                    Spacer()
+                    if selected { Text("[in use]").font(AppFont.ui(10)).foregroundStyle(skin.accent) }
+                }
+                HStack(spacing: 9) {
+                    ForEach(Self.previewRoles, id: \.self) { role in
+                        if let code = pack.table[role] ?? Glyph.codes[role] { CodeGlyph(code: code, size: 14) }
+                    }
+                }
+                .foregroundStyle(selected ? skin.textPrimary : skin.textSecondary)
+            }
+            .padding(10)
+            .frame(maxWidth: .infinity, alignment: .leading)
+            .background(Rectangle().fill(selected ? skin.accent.opacity(0.1) : skin.textPrimary.opacity(0.03)))
+            .overlay(Rectangle().strokeBorder(selected ? skin.accent.opacity(0.8) : skin.textPrimary.opacity(0.12), lineWidth: 1))
+            .contentShape(Rectangle())
+        }
+        .buttonStyle(.plain)
+    }
+}
+
+/// Every icon role, and a browser of the whole symbol set to change any
+/// one of them.
+struct IconOverridesSheet: View {
+    @ObservedObject var settings: AppSettings
+    var skin: Skin
+    var onDone: () -> Void
+
+    @ObservedObject private var theme = IconTheme.shared
+    @State private var selected: String
+
+    init(settings: AppSettings, skin: Skin, initialRole: String = "play.fill", onDone: @escaping () -> Void) {
+        self.settings = settings
+        self.skin = skin
+        self.onDone = onDone
+        _selected = State(initialValue: initialRole)
+    }
+    @State private var roleQuery = ""
+    @State private var glyphQuery = ""
+    @State private var set = "all"
+    @State private var glyphs: [(code: UInt32, name: String)] = []
+
+    private static let sets: [(id: String, label: String)] = [
+        ("all", "All"), ("md", "Material"), ("cod", "Codicons"), ("fa", "Font Awesome"), ("oct", "Octicons"), ("other", "Other"),
+    ]
+
+    var body: some View {
+        VStack(alignment: .leading, spacing: 0) {
+            DialogHeader(title: "Icons", skin: skin)
+            HStack(alignment: .top, spacing: Corners.inset) {
+                roleList
+                    .padding(8)
+                    .frame(width: 260)
+                    .frostedPane(skin, tint: GlassWindow.railTint)
+                browser
+                    .padding(10)
+                    .frostedPane(skin, tint: GlassWindow.pageTint)
+            }
+            .padding(.horizontal, Corners.inset)
+            HStack {
+                Button("Reset All Icons") { settings.data.iconOverrides = [:] }
+                    .buttonStyle(PillButtonStyle(skin: skin, compact: true))
+                    .disabled(settings.data.iconOverrides.isEmpty)
+                Spacer()
+                DialogButton(title: "Done", prominent: true, skin: skin, action: onDone)
+            }
+            .padding(18)
+        }
+        .frame(width: 820, height: 600)
+        .glassSheet(skin)
+        .task {
+            if glyphs.isEmpty { glyphs = await Task.detached(priority: .userInitiated) { IconTheme.allGlyphs() }.value }
+        }
+    }
+
+    // MARK: Roles
+
+    private var roleList: some View {
+        VStack(spacing: 6) {
+            DialogTextField(placeholder: "Find an icon", text: $roleQuery, skin: skin)
+            ScrollView {
+                LazyVStack(spacing: 0) {
+                    ForEach(roles, id: \.self) { role in
+                        Button { selected = role } label: {
+                            HStack(spacing: 10) {
+                                Glyph(role, size: 15).frame(width: 22)
+                                Text(IconRoles.name(role)).font(AppFont.ui(11.5)).lineLimit(1)
+                                Spacer()
+                                if settings.data.iconOverrides[role] != nil {
+                                    Text("[custom]").font(AppFont.ui(9.5)).foregroundStyle(skin.accent)
+                                }
+                            }
+                            .padding(.horizontal, 8)
+                            .frame(height: 28)
+                            .background(role == selected ? skin.selection.opacity(0.6) : .clear)
+                            .contentShape(Rectangle())
+                        }
+                        .buttonStyle(.plain)
+                    }
+                }
+            }
+        }
+        .frame(height: 470)
+    }
+
+    // MARK: Browser
+
+    private var browser: some View {
+        VStack(alignment: .leading, spacing: 8) {
+            HStack(spacing: 12) {
+                Glyph(selected, size: 34)
+                    .frame(width: 52, height: 52)
+                    .overlay(Rectangle().strokeBorder(skin.textPrimary.opacity(0.14), lineWidth: 1))
+                VStack(alignment: .leading, spacing: 3) {
+                    Text(IconRoles.name(selected)).font(AppFont.ui(12.5, weight: .semibold))
+                    Text(IconRoles.usedFor(selected)).font(AppFont.ui(10.5)).foregroundStyle(skin.textSecondary)
+                    Text(currentName).font(AppFont.ui(10)).foregroundStyle(skin.textTertiary)
+                }
+                Spacer()
+                Button("Use Pack Icon") { settings.data.iconOverrides[selected] = nil }
+                    .buttonStyle(PillButtonStyle(skin: skin, compact: true))
+                    .disabled(settings.data.iconOverrides[selected] == nil)
+            }
+            HStack(spacing: 6) {
+                DialogTextField(placeholder: "Search \(glyphs.count) glyphs (e.g. play, heart, folder)", text: $glyphQuery, skin: skin)
+                PopUpMenuButton(items: Self.sets.map { s in PopUpMenuButton.Item(title: s.label, checked: set == s.id) { set = s.id } }) {
+                    HStack(spacing: 6) {
+                        Text(Self.sets.first { $0.id == set }?.label ?? "All").font(AppFont.ui(11))
+                        Glyph("chevron.down", size: 8)
+                    }
+                    .padding(.horizontal, 10)
+                    .frame(height: 28)
+                    .overlay(Rectangle().strokeBorder(skin.textPrimary.opacity(0.14), lineWidth: 1))
+                    .contentShape(Rectangle())
+                }
+                .buttonStyle(.plain)
+            }
+            let shown = filtered
+            ScrollView {
+                LazyVGrid(columns: Array(repeating: GridItem(.fixed(40), spacing: 4), count: 12), spacing: 4) {
+                    ForEach(shown, id: \.code) { g in
+                        let current = theme.code(for: selected) == g.code
+                        Button { settings.data.iconOverrides[selected] = g.code } label: {
+                            CodeGlyph(code: g.code, size: 18)
+                                .frame(width: 40, height: 40)
+                                .background(current ? skin.accent.opacity(0.18) : skin.textPrimary.opacity(0.03))
+                                .overlay(Rectangle().strokeBorder(current ? skin.accent : skin.textPrimary.opacity(0.08), lineWidth: 1))
+                                .contentShape(Rectangle())
+                        }
+                        .buttonStyle(.plain)
+                        .help(g.name)
+                    }
+                }
+            }
+            Text(glyphs.isEmpty ? "Loading glyphs…" : "\(shown.count) shown" + (shown.count == 600 ? " (refine the search to see more)" : ""))
+                .font(AppFont.ui(10.5)).foregroundStyle(skin.textTertiary)
+        }
+        .frame(height: 470)
+    }
+
+    /// Roles in name order, matched by name, place, or role id.
+    private var roles: [String] {
+        IconTheme.roles
+            .filter { r in
+                roleQuery.isEmpty || [IconRoles.name(r), IconRoles.usedFor(r), r].contains { $0.localizedCaseInsensitiveContains(roleQuery) }
+            }
+            .sorted { IconRoles.name($0).localizedStandardCompare(IconRoles.name($1)) == .orderedAscending }
+    }
+
+    private var currentName: String {
+        guard let code = theme.code(for: selected) else { return "" }
+        let name = glyphs.first { $0.code == code }?.name ?? String(format: "U+%X", code)
+        return (settings.data.iconOverrides[selected] != nil ? "custom · " : "\(theme.pack.label) · ") + name
+    }
+
+    /// Matches by words in the glyph name; capped so the grid stays light.
+    private var filtered: [(code: UInt32, name: String)] {
+        let words = glyphQuery.lowercased().split(separator: " ").map(String.init)
+        let known = ["md", "cod", "fa", "oct"]
+        let hits = glyphs.filter { g in
+            let prefix = g.name.split(separator: "-").first.map(String.init) ?? ""
+            let inSet = set == "all" || (set == "other" ? !known.contains(prefix) : prefix == set)
+            return inSet && words.allSatisfy { g.name.lowercased().contains($0) }
+        }
+        return Array(hits.prefix(600))
+    }
+}
+
+/// The icon pack as a compact dropdown field, for narrow places.
+struct IconPackMenu: View {
+    @ObservedObject var settings: AppSettings
+    var skin: Skin
+
+    var body: some View {
+        PopUpMenuButton(items: IconPack.allCases.map { pack in
+            PopUpMenuButton.Item(title: pack.label, checked: settings.data.iconPack == pack) { settings.data.iconPack = pack }
+        }) {
+            HStack(spacing: 8) {
+                HStack(spacing: 6) {
+                    ForEach(IconSettingsEditor.previewRoles.prefix(4), id: \.self) { role in
+                        if let code = settings.data.iconPack.table[role] ?? Glyph.codes[role] { CodeGlyph(code: code, size: 12) }
+                    }
+                }
+                .foregroundStyle(skin.textSecondary)
+                Text(settings.data.iconPack.label).font(AppFont.ui(12)).foregroundStyle(skin.textPrimary)
+                Spacer()
+                Glyph("chevron.down", size: 8).foregroundStyle(skin.textTertiary)
+            }
+            .padding(.horizontal, 10)
+            .frame(height: 30)
+            .background(Rectangle().fill(skin.textPrimary.opacity(0.045)))
+            .overlay(Rectangle().strokeBorder(skin.textPrimary.opacity(0.14), lineWidth: 1))
+            .contentShape(Rectangle())
+        }
+        .buttonStyle(.plain)
+    }
+}
+
+/// Opens the icon editor from narrow places (Customize).
+struct IconEditButton: View {
+    @ObservedObject var settings: AppSettings
+    var skin: Skin
+    @State private var editing = false
+
+    var body: some View {
+        Button(settings.data.iconOverrides.isEmpty ? "Edit Individual Icons…" : "Edit Individual Icons… (\(settings.data.iconOverrides.count) changed)") {
+            editing = true
+        }
+        .buttonStyle(PillButtonStyle(skin: skin, compact: true))
+        .sheet(isPresented: $editing) {
+            IconOverridesSheet(settings: settings, skin: skin) { editing = false }
+        }
+    }
+}

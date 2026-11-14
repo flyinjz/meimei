@@ -1,116 +1,137 @@
------BEGIN I2S ENCRYPTED FILE-----
-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
------END I2S ENCRYPTED FILE-----
+import SwiftUI
+
+/// The browse list under the now-playing art: the library views, then genres.
+/// Playlists live in the collection rail on the right.
+struct SidebarView: View {
+    @ObservedObject var library: LibraryStore
+    var skin: Skin
+    var density: LayoutDensity = .comfortable
+
+    @AppStorage("meimei.sidebar.genresExpanded") private var genresExpanded = false
+
+    var body: some View {
+        ScrollView {
+            LazyVStack(alignment: .leading, spacing: 1) {
+                SidebarSection(title: "Library", skin: skin)
+                row(.all, "All Music", icon: "music.note", count: library.tracks.count)
+                row(.albums, "Albums", icon: "square.stack", filled: "square.stack.fill", count: library.albumGroups.count)
+                row(.artists, "Artists", icon: "music.mic", count: library.artistGroups.count)
+                row(.liked, "Liked Songs", icon: "heart", filled: "heart.fill", count: library.likedCount)
+
+                SidebarSection(title: "Collections", skin: skin)
+                row(.recentlyAdded, "Recently Added", icon: "clock.badge.checkmark", count: nil)
+                row(.recentlyPlayed, "Recently Played", icon: "clock.arrow.circlepath", count: nil)
+                row(.mostPlayed, "Most Played", icon: "chart.bar", filled: "chart.bar.fill", count: nil)
+
+                if !library.genres.isEmpty {
+                    SidebarSection(title: "Genres", skin: skin, trailing: AnyView(
+                        Button {
+                            withAnimation(.easeOut(duration: 0.2)) { genresExpanded.toggle() }
+                        } label: {
+                            Glyph("chevron.right", size: 9)
+                                .rotationEffect(.degrees(genresExpanded ? 90 : 0))
+                                .frame(width: 18, height: 18)
+                                .contentShape(Rectangle())
+                        }
+                        .buttonStyle(GlyphButtonStyle(skin: skin, restColor: skin.textTertiary))
+                        .help(genresExpanded ? "Hide genres" : "Show genres")
+                    ))
+                    if genresExpanded || isGenreSelected {
+                        ForEach(library.genres) { node in
+                            if genresExpanded || library.source == .genre(node.name) {
+                                row(.genre(node.name), node.name.isEmpty ? "No Genre" : node.name, icon: "guitars", count: node.count)
+                                    .transition(.opacity.combined(with: .move(edge: .top)))
+                            }
+                        }
+                    }
+                }
+            }
+            .padding(.horizontal, 8)
+            .padding(.bottom, 12)
+        }
+    }
+
+    private var isGenreSelected: Bool {
+        if case .genre = library.source { return true }
+        return false
+    }
+
+    private func row(_ source: LibrarySource, _ title: String, icon: String?, filled: String? = nil, count: Int?) -> some View {
+        SidebarRow(
+            title: title,
+            icon: icon,
+            selectedIcon: filled,
+            count: count,
+            selected: library.source == source && library.albumKey == nil,
+            skin: skin,
+            density: density
+        ) {
+            library.source = source
+            library.albumKey = nil
+        }
+    }
+}
+
+struct SidebarSection: View {
+    var title: String
+    var skin: Skin
+    var trailing: AnyView? = nil
+
+    var body: some View {
+        HStack {
+            Text(title.lowercased())
+                .textRole(.sectionLabels, size: 11, weight: .medium, color: skin.textTertiary)
+            Spacer()
+            trailing
+        }
+        .padding(.horizontal, 10)
+        .padding(.top, 14)
+        .padding(.bottom, 4)
+    }
+}
+
+/// One selectable row in the sidebar or collection rail.
+struct SidebarRow: View {
+    var title: String
+    var icon: String?
+    var selectedIcon: String? = nil
+    var count: Int?
+    var selected: Bool
+    var skin: Skin
+    var density: LayoutDensity = .comfortable
+    var action: () -> Void
+
+    @State private var hovering = false
+
+    var body: some View {
+        Button(action: action) {
+            HStack(spacing: 8) {
+                if let icon {
+                    Glyph(selected ? (selectedIcon ?? icon) : icon, size: 10.5)
+                        .foregroundStyle(selected ? skin.accent : skin.textTertiary)
+                        .frame(width: 14)
+                }
+                Text(title)
+                    .textRole(.sidebarRows, size: density.rowFontSize + 0.5, weight: selected ? .semibold : .regular,
+                              color: selected ? skin.textPrimary : skin.textSecondary)
+                    .lineLimit(1)
+                Spacer(minLength: 4)
+                if let count {
+                    Text("\(count)")
+                        .font(AppFont.ui(density.rowFontSize - 1))
+                        .foregroundStyle(skin.textTertiary)
+                }
+            }
+            .padding(.horizontal, 10)
+            .frame(height: max(26, density.rowHeight + 6))
+            .background(
+                Rectangle()
+                    .fill(selected ? skin.selection.opacity(0.55) : (hovering ? skin.hover : .clear))
+            )
+            .contentShape(Rectangle())
+            .animation(.easeOut(duration: 0.12), value: hovering)
+        }
+        .buttonStyle(.plain)
+        .onHover { hovering = $0 }
+    }
+}

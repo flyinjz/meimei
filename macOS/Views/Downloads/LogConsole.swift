@@ -1,330 +1,394 @@
------BEGIN I2S ENCRYPTED FILE-----
-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
------END I2S ENCRYPTED FILE-----
+import SwiftUI
+import AppKit
+
+// The connection's state at the foot of the Downloads rail, and the log
+// panel it opens under the window's panes.
+
+/// The network glyph for a connection state: connected, connecting (pulses),
+/// disconnected.
+struct NetworkGlyph: View {
+    enum State { case online, connecting, offline, off }
+
+    var state: State
+    var skin: Skin
+    var size: CGFloat = 18
+    @SwiftUI.State private var dim = false
+
+    var body: some View {
+        Glyph(name, size: size)
+            .foregroundStyle(color)
+            .opacity(state == .connecting && dim ? 0.3 : 1)
+            .onAppear(perform: animate)
+            .onChange(of: state) { _ in animate() }
+    }
+
+    private var name: String {
+        switch state {
+        case .online: return "network.online"
+        case .connecting: return "network.connecting"
+        case .offline, .off: return "network.offline"
+        }
+    }
+
+    private var color: Color {
+        switch state {
+        case .online: return skin.accent
+        case .connecting: return skin.textSecondary
+        case .offline: return skin.textPrimary
+        case .off: return skin.textTertiary
+        }
+    }
+
+    private func animate() {
+        if state == .connecting {
+            withAnimation(.easeInOut(duration: 0.7).repeatForever(autoreverses: true)) { dim = true }
+        } else {
+            withAnimation(.easeOut(duration: 0.2)) { dim = false }
+        }
+    }
+}
+
+extension SoulseekStore {
+    var glyphState: NetworkGlyph.State {
+        switch status {
+        case .online: return .online
+        case .connecting: return .connecting
+        case .offline: return .offline
+        case .off: return .off
+        }
+    }
+}
+
+/// The account and connection state; click to show or hide the log.
+struct ConnectionStatus: View {
+    @ObservedObject var store: SoulseekStore
+    var skin: Skin
+    var logOpen: Bool
+    var onToggle: () -> Void
+    @State private var hovering = false
+
+    var body: some View {
+        VStack(alignment: .leading, spacing: 4) {
+            Button(action: onToggle) {
+                HStack(spacing: 8) {
+                    NetworkGlyph(state: store.glyphState, skin: skin, size: 17)
+                        .frame(width: 20)
+                    VStack(alignment: .leading, spacing: 1) {
+                        Text(store.settings.username.isEmpty ? "Not signed in" : store.settings.username)
+                            .font(TypeScale.strong).foregroundStyle(skin.textPrimary).lineLimit(1)
+                        Text(detail).font(TypeScale.caption).foregroundStyle(skin.textTertiary)
+                            .lineLimit(2).fixedSize(horizontal: false, vertical: true)
+                    }
+                    Spacer(minLength: 4)
+                    Glyph(logOpen ? "chevron.down" : "chevron.up", size: 8)
+                        .foregroundStyle(hovering || logOpen ? skin.textSecondary : skin.textTertiary)
+                }
+                .padding(.horizontal, 8)
+                .padding(.vertical, 8)
+                .background(Rectangle().fill(skin.textPrimary.opacity(logOpen ? 0.08 : hovering ? 0.05 : 0)))
+                .contentShape(Rectangle())
+            }
+            .buttonStyle(.plain)
+            .onHover { hovering = $0 }
+            .help(logOpen ? "Hide the log (⌘J)" : "Show the log (⌘J)")
+            .appContextMenu {
+                MenuContent(title: store.settings.username.isEmpty ? "Soulseek" : store.settings.username, entries: [
+                    store.status == .online || store.status == .connecting
+                        ? .action("Disconnect", glyph: "network.offline") { store.disconnect() }
+                        : .action("Connect", glyph: "network.online") { store.connect() },
+                    .action(logOpen ? "Hide Log" : "Show Log", glyph: "console", onToggle),
+                ])
+            }
+            if store.status != .online && store.status != .connecting {
+                TextAction(title: "Connect", skin: skin) { store.connect() }
+                    .padding(.leading, 36)
+                    .padding(.bottom, 4)
+            }
+        }
+    }
+
+    private var detail: String {
+        switch store.status {
+        case .online: return "Online" + (store.settings.routeMode == .direct ? "" : " · " + routeName)
+        case .connecting: return "Connecting to \(store.serverAddress)"
+        case .off: return "Not connected"
+        case .offline(let why): return why
+        }
+    }
+
+    private var routeName: String {
+        switch store.settings.routeMode {
+        case .direct: return "default route"
+        case .tunnel: return "Raven Tunnel"
+        case .socks5: return "SOCKS5"
+        }
+    }
+}
+
+/// A short notice above the account at the foot of the rail, only when
+/// something happens: a message, someone browsing your files, a transfer
+/// finishing, or the connection dropping. It leaves on its own after a few
+/// seconds (not while the pointer is on it); nothing shows while all is
+/// quiet, and never a plain "online" or "offline".
+struct RailNotice: View {
+    @ObservedObject var store: SoulseekStore
+    var skin: Skin
+    /// Shows the Messages page (for message notices).
+    var onMessage: () -> Void
+    /// Snapshots only: a notice to show from the start.
+    var sample: (text: String, warning: Bool)? = nil
+
+    private struct Notice: Equatable {
+        let id = UUID()
+        let glyph: String
+        let text: String
+        let warning: Bool
+        let message: Bool
+    }
+
+    @State private var notice: Notice?
+    @State private var hovering = false
+    @State private var hide: Task<Void, Never>?
+    @State private var lastActivity: UUID?
+
+    private static let shown: UInt64 = 6_000_000_000
+
+    var body: some View {
+        ZStack(alignment: .bottom) {
+            if let notice {
+                card(notice)
+                    .id(notice.id)
+                    .transition(.asymmetric(insertion: .move(edge: .bottom).combined(with: .opacity),
+                                            removal: .opacity))
+            }
+        }
+        .frame(maxWidth: .infinity)
+        .animation(.spring(response: 0.34, dampingFraction: 0.86), value: notice)
+        .onAppear {
+            lastActivity = store.activity.first?.id
+            if let sample { notice = Notice(glyph: sample.warning ? "network.offline" : "messages", text: sample.text,
+                                            warning: sample.warning, message: !sample.warning) }
+        }
+        .onChange(of: store.activity.first?.id) { id in
+            guard let id, id != lastActivity, let latest = store.activity.first else { return }
+            lastActivity = id
+            let message = latest.text.hasPrefix("Message from")
+            show(Notice(glyph: message ? "messages" : latest.text.contains("browsing") ? "folder.open" : "downloads",
+                        text: latest.text, warning: false, message: message))
+        }
+        .onChange(of: store.status) { status in
+            if case .offline(let why) = status {
+                show(Notice(glyph: "network.offline", text: "Disconnected. " + why, warning: true, message: false))
+            }
+        }
+    }
+
+    private func card(_ n: Notice) -> some View {
+        HStack(alignment: .top, spacing: 8) {
+            Glyph(n.glyph, size: 11)
+                .foregroundStyle(n.warning ? skin.accent : skin.textSecondary)
+                .padding(.top, 1)
+            Text(n.text)
+                .font(TypeScale.caption)
+                .foregroundStyle(skin.textPrimary)
+                .lineLimit(3)
+                .fixedSize(horizontal: false, vertical: true)
+                .frame(maxWidth: .infinity, alignment: .leading)
+            Button { withAnimation { notice = nil } } label: {
+                Glyph("xmark.circle.fill", size: 9).foregroundStyle(skin.textTertiary)
+                    .frame(width: 14, height: 14).contentShape(Rectangle())
+            }
+            .buttonStyle(.plain)
+            .opacity(hovering ? 1 : 0)
+        }
+        .padding(.horizontal, 10)
+        .padding(.vertical, 8)
+        .background(Rectangle().fill(Color.black.opacity(0.42)))
+        .overlay(Rectangle().strokeBorder(n.warning ? skin.accent.opacity(0.5) : Color.white.opacity(0.12), lineWidth: 1))
+        .contentShape(Rectangle())
+        .onHover { inside in
+            hovering = inside
+            if inside { hide?.cancel() } else { scheduleHide() }
+        }
+        .onTapGesture { if n.message { onMessage(); notice = nil } }
+        .padding(.bottom, 6)
+    }
+
+    private func show(_ n: Notice) {
+        notice = n
+        scheduleHide()
+    }
+
+    private func scheduleHide() {
+        hide?.cancel()
+        hide = Task { @MainActor in
+            try? await Task.sleep(nanoseconds: Self.shown)
+            guard !Task.isCancelled, !hovering else { return }
+            notice = nil
+        }
+    }
+}
+
+// MARK: - Log panel
+
+/// Everything Raven logged, newest last, in a terminal-style panel: the
+/// server session, peers, searches, transfers, sharing and messages.
+struct LogConsole: View {
+    @ObservedObject var store: SoulseekStore
+    var skin: Skin
+    var scrolls: Bool
+    var onClose: () -> Void
+
+    @State private var topic: SoulseekStore.LogLine.Topic?
+    @State private var filter = ""
+    @State private var follow = true
+
+    /// One line of log text, and the panel's lines area: five and a half
+    /// lines, so a cut-off line at the top shows there's more above.
+    static let rowHeight: CGFloat = 16
+    static let headerHeight: CGFloat = 30
+    static let bottomInset: CGFloat = 4
+    static let height = headerHeight + rowHeight * 5.5 + bottomInset
+
+    private var shown: [SoulseekStore.LogLine] {
+        let needle = filter.trimmingCharacters(in: .whitespaces).lowercased()
+        return store.sessionLog.filter { line in
+            (topic == nil || line.topic == topic) && (needle.isEmpty || line.text.lowercased().contains(needle))
+        }
+    }
+
+    var body: some View {
+        VStack(spacing: 0) {
+            header
+            lines
+        }
+        .frame(maxWidth: .infinity)
+        .frame(height: Self.height)
+        .background(Color.black.opacity(0.34))
+        .overlay(Rectangle().strokeBorder(Color.white.opacity(0.12), lineWidth: 1))
+        .fuiCorners(skin)
+    }
+
+    private var header: some View {
+        HStack(spacing: 10) {
+            Glyph("console", size: 12).foregroundStyle(skin.textSecondary)
+                .help("Log")
+            HStack(spacing: 1) {
+                TextOption(title: "All", on: topic == nil, skin: skin) { topic = nil }
+                ForEach(SoulseekStore.LogLine.Topic.allCases, id: \.self) { t in
+                    TextOption(title: t.title, on: topic == t, skin: skin) { topic = topic == t ? nil : t }
+                }
+            }
+            Spacer(minLength: 8)
+            HStack(spacing: 6) {
+                Glyph("magnifyingglass", size: 9).foregroundStyle(skin.textTertiary)
+                TextField("Filter", text: $filter)
+                    .textFieldStyle(.plain)
+                    .font(TypeScale.caption)
+                    .foregroundStyle(skin.textPrimary)
+                    .frame(width: 110)
+            }
+            .padding(.horizontal, 8)
+            .frame(height: 22)
+            .background(Rectangle().fill(skin.textPrimary.opacity(0.05)))
+            TextAction(title: follow ? "Following" : "Follow", skin: skin) { follow.toggle() }
+                .help(follow ? "New lines scroll into view. Click to stop." : "Scroll to new lines as they arrive")
+            TextAction(title: "Copy", skin: skin, action: copy)
+            TextAction(title: "Clear", skin: skin) { store.clearLog() }
+            Button(action: onClose) {
+                Glyph("chevron.down", size: 9).frame(width: 22, height: 22).contentShape(Rectangle())
+            }
+            .buttonStyle(.plain)
+            .foregroundStyle(skin.textTertiary)
+            .help("Hide the log (⌘J)")
+        }
+        .padding(.leading, 12)
+        .padding(.trailing, 6)
+        .frame(height: Self.headerHeight)
+        .background(Color.white.opacity(0.03))
+    }
+
+    @ViewBuilder
+    private var lines: some View {
+        let shown = self.shown
+        if shown.isEmpty {
+            Text(store.sessionLog.isEmpty ? "Nothing logged yet." : "No lines match.")
+                .font(AppFont.mono(11)).foregroundStyle(skin.textTertiary)
+                .frame(maxWidth: .infinity, maxHeight: .infinity, alignment: .topLeading)
+                .padding(12)
+        } else if scrolls {
+            ScrollViewReader { proxy in
+                ScrollView {
+                    LazyVStack(alignment: .leading, spacing: 0) {
+                        ForEach(shown) { LogRow(line: $0, skin: skin).id($0.id) }
+                        // Scrolling to this keeps the newest line clear of the edge,
+                        // so the half line is the oldest one, at the top.
+                        Color.clear.frame(height: Self.bottomInset).id("end")
+                    }
+                    .padding(.horizontal, 12)
+                    .frame(maxWidth: .infinity, alignment: .leading)
+                }
+                .onAppear { proxy.scrollTo("end", anchor: .bottom) }
+                .onChange(of: store.sessionLog.last?.id) { _ in
+                    guard follow else { return }
+                    proxy.scrollTo("end", anchor: .bottom)
+                }
+                .onChange(of: topic) { _ in proxy.scrollTo("end", anchor: .bottom) }
+                .onChange(of: filter) { _ in proxy.scrollTo("end", anchor: .bottom) }
+            }
+        } else {
+            VStack(alignment: .leading, spacing: 0) {
+                ForEach(shown.suffix(6)) { LogRow(line: $0, skin: skin) }
+            }
+            .padding(.horizontal, 12)
+            .padding(.bottom, Self.bottomInset)
+            .frame(maxWidth: .infinity, alignment: .leading)
+            .frame(height: Self.rowHeight * 5.5 + Self.bottomInset, alignment: .bottom)
+            .clipped()
+        }
+    }
+
+    private func copy() {
+        let text = shown.map { LogRow.time.string(from: $0.time) + "  " + $0.topic.rawValue + "  " + $0.text }.joined(separator: "\n")
+        NSPasteboard.general.clearContents()
+        NSPasteboard.general.setString(text, forType: .string)
+    }
+}
+
+private struct LogRow: View {
+    var line: SoulseekStore.LogLine
+    var skin: Skin
+
+    static let time: DateFormatter = {
+        let f = DateFormatter()
+        f.dateFormat = "HH:mm:ss"
+        return f
+    }()
+
+    var body: some View {
+        let parts = SessionLog.split(line.text, joiner: "  ")
+        HStack(alignment: .firstTextBaseline, spacing: 8) {
+            Text(Self.time.string(from: line.time)).foregroundStyle(skin.textTertiary)
+                .frame(width: 54, alignment: .leading)
+            Text(line.topic.rawValue).foregroundStyle(skin.textTertiary)
+                .frame(width: 54, alignment: .leading)
+            (Text(parts.event).font(AppFont.mono(11, weight: .bold)).foregroundColor(color)
+             + Text(parts.detail.isEmpty ? "" : " " + parts.detail).foregroundColor(skin.textSecondary))
+                .truncationMode(.tail)
+                .frame(maxWidth: .infinity, alignment: .leading)
+        }
+        .font(AppFont.mono(11))
+        .lineLimit(1)
+        .frame(height: LogConsole.rowHeight)
+        .textSelection(.enabled)
+        .help(line.text.replacingOccurrences(of: "  ", with: " "))
+    }
+
+    private var color: Color {
+        switch line.kind {
+        case .info: return skin.textPrimary
+        case .ok: return skin.textPrimary
+        case .error: return skin.accent
+        }
+    }
+}

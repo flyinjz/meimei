@@ -1,203 +1,279 @@
------BEGIN I2S ENCRYPTED FILE-----
-AEdJVENSWVBUALk8rlJjCkwllTyRA5EjjmqTp4TcfTsYxFX+5qmHpMNQ5ckGtvo/
-ETb0ozzYrXmwWJofqm3Uy0rvCmaea5nYIZcgjLqcj32MR5G8bIY7kCy0XfaQ2YKx
-Lq1BC/fClZRmjbJruuxxVoneexsZw0UXcQrpx6ob2EvlCMqrdA1+974gFet8IHB3
-WhPjqqs/AMTubsLhIy3fWj4ErPE/fcWo3CDoXHKQCls2J4nyyprsojg+xjEnGQYk
-NIfo3+ddXolp4PKnvkMyjT3XARW4jF+/DbeNYUUeR8oOFpR1IRZOg7YtKrImCa8V
-EoiCiIkawoBv8u5LV+863nDcKH/OMm5sEtAvgJQce1gZTM9ern2OfkbvzjaNjdOH
-foDv3C0S1wbgOtBNKRf6D4CjMELPEGYEcIn7/Kn88bDDGJl1CC7t5S3cF86P5B7/
-AhnyHPQJR0CTpvLJ3du3y6SGHPiU9ZIYSapkf/V6FHIBd6zJNGaeyigK94bsXdjb
-S7CLT5/8l2myrFUTyjsKPmnEnmtR8lx6MZqxvQ6uHqL7vGc4GSqxsrYbFCaCyYld
-vd0qNQXSXBBxqWgn/luTN6HUK4q+iAt4B3dm//GeCxwHnsM6YfgpgronjEAaiTeB
-6UwQgk7b6fPZhDDF+90g1lgRZ7VJEhDh2rdcz/z1snXFhz4ryy2AtrdDcIqFeUiJ
-cgMdapouSmI93wSiJ/NxqMXFvOiPymCzow/vuP/llpsYWiBTnTy15uJQIqJON/zZ
-832OvncNGGIegJSNIiC8s5gvbV0XEu+z0OD0d9ycfnyRV2tg7+mCxpz5KW2RMCEX
-YIB2SAatmmW+eVDChoC/SJ+aHn1yX7a0LzGlFcFQVfUkLyydqaKb955MbMsN0aTW
-AUBikl5pDFPzirzOZzI4ZoxsHbKmE2gS2tiaTS2mtgfwnSNmJwkWKRYIzsb6rtEI
-7SGMQnZAXD2WYvZG/T4pFzL88M5xKXHC613yb+ljL2NA/ynMLNDtOl2027Z+amVT
-tQFR30p1/nZ6es0k/r88IZpaq385QigmXzXbG4aZdq8ws6yOu4e4VcIIEfPKxmsP
-BFKN9emIwFnwen4NZjaJSOek9BWW7/YG1zTThK4nU5o9K6JAqS80I5qkqfPKISAX
-2KgkkPzjUe0jPMNAj+3uXIMIb4D4cInu0MK/i+eb2MWpuBH9iIN4xMeh76UAlWxa
-0TzMj1Zt+lwUiYOoiyptCcYUR6UmjkYJNPFcqbnouWN29V4LO7NkQCio4QZqBT4d
-nmrkCzV7DssSyB/+qhmbH2yQHUXl+kX1/27bmcCnNfbdm7v07O0OaHvcTk4L3d/A
-y+jNdJkJ3FJmHRRX+RRPXIJXcSLJlFQ6/58IOzPvcYMEbFk+0KyIUDP7Phx1/sDt
-JkTC/ObdWjNHzVI/4u3G0nCjopuEyy8WpXNQlIL9VvzfoPRIr26700GSdJ/BpEp5
-ajsZVplrKAo62bGIPCUvPuCSqHx34rkPbEbO80vPed+XCKqYY4ElB1Ee0rkn7Tu3
-kOMmYpvTARY195NjQltyULc5Xlvrk5Jnux5UgmA6g/Ts8ZxKENKT0L7gP6QxXq5S
-4dLM6qCedy6J4tcdmaasyxYelmM4xqb6piE29f3ipySzDq0RpGV60IUFTrWSut7q
-hM7jyjRkrRRZTvkORE1D6QC9R35Fs157BsOI5/J1oadbxdxILrjeVDsvyZBhgOlh
-QUhMDNcsAuwY34FAOf6WfbV1DMOY1K9VtceH+BqFAd/msomYTyDEG4hKU5aCt0/d
-wh6tQ2gumDUhxa52oIzfeLI3t2Pc8PiVu2wNk8A2mNqEkAomnJeu3vdVSiSGs0+D
-a1h1JaLTP086pHF6FKg7bvKM6K8XbHMOYeXQGv4qWd2PlRUvBocj4XvNsnMfVROk
-CGvZ9P54ZHIfyGGPcV4zK7bd1C4+NlhgeN3vA1uCBZyw0V/l3PZEVjdwl+S/QAEc
-gC8XOr1Z6LWG7YDI+ajCfuqGXxr/GVKI1TW8NuLIA4gh3sWg5LKEW8bwCFRh6UOE
-4HJmcekU/+lkTaZPyHKQR2xf3CiOSL6Pu5aFFsBsjVBzJlhzhrn5Zksfs4zAgEAs
-XyxDjHlR/m9Ys60LZ1njt5ox0ZlgiADBc/PiIlyNwquTxws8jtTISVTOfXgDLatk
-asscGzw5eslF7GYIUEYhkxyFL6acdZFLKT/Jgt5EQyVI/PM8vucFb9rp3LdGzMyA
-1uwAwHVsNRFUKxdCOulSIWsk7pCle5yM66ICLaA6WX+0OIQqpqbPl3+sOKg40vCl
-uhgTOrKJ8fjGauviJXmauqeJeyvBTwAI+XezRrmkre+z+eY4kK8rwUzDbwkuM5Wv
-LeIBvUaII986r24MXgvUe+zepTeeyLqhgWbXHO/1Q3jBSAuC3vS0uBjaKfCEHk7U
-wZcNEJnuZaEGbpcUcVdVz6/RlieT46fj61w7QANVN3hWXZD8UayyaVrWCwVTUad+
-2NWaF+qj3AoVx55619OFQ+8gvIDnb8UdIHggrUXVIoYkKpvyOxqElZATAsOzfgHd
-E3oIuffwieYBAkb6kaTPvukXde8utzSXm4TjSH5FL5OsMR6GxJZbed34yPhsejdR
-8TnFX75ooAbEhKWJEhBwFrdKU/jknwtlRaAy8dRdv9OU7NG51Di8WywCj6h80IdX
-6CeYYWu0SnRf6LSEL1AehzjfcOoRAdGqMSai++bsklgvyGtCXSdVLd/dDXylt6Jg
-x1XtR/Ib9nipz5Gen7YynrwO7raS1iu0ai3UFj63za7BK7OgLH8OWoHPURhJdOFW
-mCmFLm0CaS7152QNcwRmkxUdsZDe1J8jGmFx/Hz77rK7u6KkG5IrfSdGDhreXwiM
-948e993KyWv/OEoYZBKjNnkSColkT4EsRfgmXoU9YJXbelC7BI7vGX5WYA8S68Nh
-kpwJ6cOTmjNv+0GwbfmIyQu9w0BCeTH+7PkzR7OHHKbqHUsBJAi21ApvnxqpceO2
-t/hmgZ0XCM1Hs6GPU8ynEyte1Dv6qB0v6KmulPaXV/VJvGSlZJpNLCPrzEiyi9Bo
-PVihG/0rYqEA6poo2jCVXTY0Hru8xHZqhe+iS/wNTUU5JQtgbyc0bXjpC7ccLdEN
-8OCkd+2JaugxvMhCF84pKXIW3Gy5MB/yE4WYXs+0pVRcKuiK8KA99BnEhZ75Bz7D
-ylYN/jrw0pA4uByF8u587gKxLuCzhdj3IWiFozfHyXR5gG+wKvatNxF0EUWAKZbc
-AyUOO0Ffavkajrcm2LP81MTQ/sCsJVZpi0K0rUV9/Vz1vPr8oy+ApcjQjwDs2ydj
-E4LdAz/3dBL6dTctmhcaXcQXCXk4oYodLRCLx/g05eDUCf/AmBw61pOvYdukZehq
-EPkxvZ6Mod+aZ1ZHyWrON6lR4ychET5lUlGnFjFw/LzYY4Xc3AWobV4BoWOH6Cc7
-JEMyQ9hE5vFspkKk3A1dRbyrBnwQe8tbbS+I1icWLNMUJGNsst4vzB+e6oPDwDcW
-K7JmHWChckD1CWfUMQLgd2fvOaoTYGshtl5ToWZRnQGoSPmFXN8OCH7upHvBK34Z
-8IuERmmhy6Vu5zZ0+Lw/vBo1jQi9WqWbNQdu5oZzxlfszU1qwntbCzs6jXDaPSDa
-W99GRafofdfn7RnNqeIs3/Fq1iHtbPRDgLjULgPsOQRH2RgVl2BqnsgQooCaQqm/
-N9RszY3y1R0bVWIYuuZm3QrvGyTdno0pCfac43rfvGO5YZswmZTngYidDIzLmAtK
-3WGX8UcEaXLMrVpFnMFvpcYuzk7CDNTxFK7fAaI6pzFnWYfDStkjXX+wf8alFOZZ
-1n6mZHk1tHvG4r64sQU032+YxKQYTp2hoHcZDO2hVj5PV5ucIp1EeSBqY+UXDtLS
-kenET9mNEsiLfPJdhStXO6Wbw2D/Eyvqtbh07Pho7qJ4g3NBxXvzTQTCFPseCpzH
-h1jiZs9DyE7IvOPLzqeCLWEJHgVAgeLvKu1rmdtM8bbX7tLz0oDV+DIL8KCiAizo
-gLXyF6EV/X7yvMCJ84t+USl+GZEgmWqkAbQZR6VtaO1wi9E1S4xVWtRfBRpTBXIs
-MYPMwHq43abh3POjJQdIam90Sm6byKiW6SRps0dkk0y4ms+Th0IaFQrIyiklt6as
-WzZqVz5cjnb+UWw2gGmPPvsmSNN40BpY/wYPRsxRLluiYlO5hnC4SanKcCCjKu/1
-b11YauzwSGXJV6hPVKFq3X3Lm6+SYUA2NwpuyYRjBC6L3LXC/xsq0bALXSKj1Qte
-c2Ge1kwMtxkn5+q67Sj443nBQSveRzoJnn1gjHY6C+LvFPvFw4oSBP1dDSZ97ADr
-lEZJUvPeJXRTpPJDLZnwbXYd6S5Pv0+HzFox2BJZhth8Z7LwKfAGkppsr5ehDIQN
-94NjxzAYzQiWiYdcr0nqOVIuSUBYqGwUYHKQ7/tpwgdPgMv3soOdogJ9KsYJzpoB
-4C2zRbqlxlnlHg84UU1hHz2ofVTVhbA0bb2ZbwVLrrANn2IAy2QXBk+WDQ7GA4RE
-Jt3zU2wU56X+qBxFWYCrx3s/nRJlBinOKsbPQ5CtMvk16UGGPz182Ac4t5Qn6ir/
-0X21e+cM1vD6BDVwt6fVDgctPuuETnn+9FF2XvEkmPTITYS87EZJTKhZuV3hRQq/
-VWBwtEnP3PxVBWSAnRlTnG4O//Aqidd4qP5x6h49qp3iha7bCY7T2GkKaHWNWbS/
-fJGMPxPdxdQtPtnFVDi0Y5q1qYXtJfMmB/OEs3QPybHKhMXvkmKLmgnJGWDu8ovW
-8JbhphgeKf5pH00L8LB5PavTxlZKSb9KLM1oDsPEbsQz/pWPKuIdOksuUbw/9tr7
-tDRkZ6q9NrnYhrMmrvCmh6RvgoEDxvSjdNKQMjPLvYXGQ40YZhyTd9TlWvh7y7Vf
-ktcStGDE5OIfAjRBCvqB1WSx/jiy+n3Bf5e6Ktxz/kduS/Px5De0js41RZcD4zmI
-2ITizEe5KqOHHOENy9dFDwvwi6fhaOHy713clb+sL4t8Fg+66v5AnGyEp3Wkcimx
-qqkP9Ms4UmDavKcoG8eibf0p0hus1O506RGB2QtHgw5Ak83Sc1PugMM5ZlfxjpYk
-8nIzd06f+6w5m5KHEB/16ZA2tqt+FK389jfM0iwenRf67AnCEjmkrQxJAbud4R4I
-fSgyrhRM2+Wy0BP1ABAgAZDY+7uEDjJW3C4KzntQyhFRE1zb5m4Qu2u1PI8ZNuAY
-4ZWInU2ObIdcGxz+oTHt72LAVJT01rWblnCyLkiqm6uIAyIC/2SxAe3+RB4Wc+te
-4AksTi55smPLwkJOa6s8cY5K1uZxsjSqM/pPYShWnQqn/Usqh+/YcQNe8VpcKYT0
-TNHUW8bPkDwuTUxsa3+V/kyaKJmcb3nI/7FJs9qX4Xbg7X0QEfRQqTRF6+fqRgDy
-HJUvV0MIVZmDCHNCAc8KoyXOtHRwfwHd1nkZRjJBgdRtyVaMFJyT8M9n4k1j64yN
-bt/fWnti9LeSHs883j/vBW8D5vpXXIctI0QDXS7lZF2soGxpKySo5xBDhZQLMQYr
-pa//KE3wKqKizZcQcT9xv12q/6hGdh/aEyiROLdKmDG8RB50QbKU8VUnAUOAO+u7
-kpMpSTqKg7hoFFLaSb2jnJvKjnEy1FLdJb/ktsVuY5IrMcn5xg4WSiOwbOpCmS8o
-/7RHDg22a5t8Gkac70eW4n6gKXQZ5BoGHAVa2/rklr/BqIf7n+I7r3FMBMNlvXFl
-1eWPGXFdRx2eKKNFM0g8iFr9OWmZ5VCUiCB0GJKgFt1oZikrpwRdxxby1kN24Uar
-MVBNhOlnXRt+KUOBZm2K+haLh0sfRS6LoaqAJdm2rBjRqrAC6orIs/5dF0k+l0BH
-oa9fjws6R+wQ3xYYGTZY0jpQhKGUMuRuMk/wLrPzkWerNILQDvwAKYm5gCzpu6vK
-+WmRXtWXUvIn642iI6SxHHcs0+7M87+KkWQZ00emFcIempFWUmPyNPbFwQwhCleq
-OvE3yj9xfsoiRv8LfbQ6oJz9iXkmUcEO5whFbY54/UsBgXcxQ9JbG2WBtfAklft2
-SX5oyFK0AO44jcdp9XrQ3oqXLXSDYxLxVustPIsvxnA/Mmjw48oZ38ZnqlKohYSf
-HHZbJ8gZ4nCP0BDG8IkKOr5ClXAi4gQNB4GJNaesM9UO3gczHcjhUTvkGkB5YG7x
-DM7vN/R6q9Xh+OfhMdxvqULrLmcyHBRommvsRfVhsQZGS8ZxBpBgsas4jacgl1C/
-Ki3EyNEmGdpqHN5dXj9L1I3WiCzk8p+c/vNrotoHo5P7med2SCWxu2XTYWdvfE4F
-UKqZzLbY3Y80SPhgDaBo+XZ4wGLTp0uBjJ8IxvsWlXeH8XAyM9i3gPl0PIPzrkim
-B3N6ElvOnHeHYDGX7+bbNjSUMjGW77WJkFl0QA6HCsPJY3wM2TAk8FvHMTTqCqq1
-+RT5k3sFb6qG33OCdfQ0GjeIWdwzDHqydWnRPngaMaVqh/H28RS5/grUEfUqm4V+
-YDSaM1I5MWHG1AQGzaCka+Q+rT0E3tl93f0oqh3GSdI3E8EfN8DkJYhTMMHRCaeT
-AmkTsjiyuxQrswae19tRbAEQFPtsA52KWKyum7HcxuPWYItdhuDF0dcktBn28E7+
-WwPG5lmzglTB2efiGM54iZRYsqyArMl8uZxVHqbdac0Vb6XNcuRgxfBa9KS+0wWv
-23zKILAuyRMLgYwTbA4s0d5qrBiopJrmp6wijuHtJV1t8bZByf/g5MrXDhT4ntzw
-8AdwMwEk228hMadcA4lXqJ9CcniMkr+qJS+GtXOV1qTS4Ri12bqbiQ+dRRwj7YsC
-EbrxPOwHkWjUfyDGBvfHv4Y6UpxS9GtmCMoGGYMaxUH0iW2rGda5b2jBMDcjaBfF
-4SuQNZyDzoIwcOI/RJ95NZoF7j/ExcaXF6VimqYeVUdLnP2ibUelaJpUeQJlS8G0
-EyvGVPoCiOpqOSsk3JlxGJF1mEY4UcCUB42B+mLUZ/aJn/mUIC0QNRhsU6mESZgK
-pPj5KagAEywcPSU9tCn2y6ekeaDwtqOL3X2ZAQnpo58tw0mcmTjKmNrkM/FJevwm
-XRLqKWYHIxRNBg8pJ6gWu+5I+ANIFmVOjF6Bas0K8ngqs9t05J1Gk4ydqtwXpZ8t
-wbYxMLZ+4jPeaInkzYakMznjmG4niuDaIAKE9Mv62O8MCNXCa3Scwl9DLyLD95oU
-X9vl61Zdy0gUmXJPGO/A0dIqmNsQp1+sn1qoJLVHhjoXZeYRCH6MRKMQIi2f0gNe
-73N1oBmec4Vx9DX9P2g7EtyR4cv/LQP6SMhebxQkrTwYVIV+AhU+OJTGJEpocJzU
-xQfPVlL0v0hmheCHoY9fniS4izxsb9BGKeP5Z9foufaX0C5/+XsMuaYuFv/IwOjO
-VouQnmlmXTxKHOYJ7qwwiD4/27y6YNTW33JwSQ9VlIqSUuNwDJfQWS/+rD1RYuA/
-grmv8wqXsBCqyldFq9lnAcqrjATDOLEMlfo/lc6TTajCNZ5uc2c/taEdYtN6R7os
-OpHm2BAao0LQ0TJo+MLpXiQCBjn/l3V7tEelhDbtpdC9oI+h7ZAH90JyrYH1hSds
-jhEJaY3HBLoRuXooW9qt6LA8URqCgH/e38kcUrMOTe1t9lm7l7jCLyfOyhgDST19
-TKwzTfb8idZvNS60YK0pW0952HMm4QkAWk2WpOUBfx43aXvpnN2bb/7eINixA3s0
-+JYcWNssIhUcaW9qkSUj6Ma/FOqA2DMUK7XWNX1XoUoIwHmjcEhNKDRy+FHA53ty
-uwaUhEG+UeUlmeJ9HmoMbDHWJOV8uPEciIPvLdnfF8LqyogivOP/idP3CfDyLgIS
-Yap0FUcSITS6lhc0XdjJkZlrrnsEhPyhgaq/gnG1cJC3rby4Ah2WrBJrWiQP6Q9Y
-H5O9RDoWW0C9yFMyK8F2WGlVF57Qtn3JxtCEwL71v/0E2EKLj/xb1xx37907tRNb
-bB/NZ8V1A2y7SEwJ1eiEOVriLFTdplC1BhJio9/Twilnss7FvyNAS+bL+xkocp0+
-DGCrG7tssO5w16H1nJvuIRe6mNXhz/bGWdxyNWaeyTIvEzfVqLXi4qaDFE0j0DQ0
-quQAW9F6c1vWJVozFWN6pWr/S6H5kGGvQ44B+qNNaGBMOfQxH8bP8TAA/bJIbyMp
-gs83IMVE3TNzNF6Fd4eWzI+j29MUV7xGmdzIAUtbmeU3dwjoQp8FZB3UjKQxQHlS
-MF7Djd9Folq5oS1kStSzKPG0TIxOQclAOPj6tQG1VLjthTA7bhj+BH5VH3or4CrN
-K4fLCQt6J3VFwrfbrxYeKQI8tQvPnoofAwCrNhKdflTxRjpmbDcX5TMadZjp36b9
-VUZq0kPWr5i+DYT9NKK724GqVfcF5jLySaxHVWevLw3AS4YbcmWoZtZCPW9auNtv
-LqJEwrxdukaWH1pvVGBDIo7g/SMMJUrI6OI4ILFxVC1eLQ36AXJz17/V4dqLGK3W
-pXAZ3U0idaFPKty8ahN3x9Me7QQNinTZy/St81R3HkTTcL10obxpvYfE7QU6a02g
-Qm8+QPeGtC2IENdktTefOKEF5i27H6TE8V86c4iQKpeyIK7px9K5spxu11JVEb+n
-cgkI/6f9M/RJOuDUuIFMk9rljQc/gb+u/e9gFD3DTz2iglVrkM2anGm9eHBn2jIy
-lk7AU+lPfVng9D9BQYzaXeu2fSQ/ymhSZmAGVwfTJNvUSkGD5rBPTpPHlE4a61bT
-GGLX/hPZalIIO/KtApMvoFxqtZszgw9q8bu9gZLEyCUU0P4vM2LUgT6FJS/mjQgc
-+X+3q2bsGhCpPh6BWMmNokjFQBfHREglzk4h93a+veOgF9QTbdpXZqEPQ1jOItMW
-cp7Rb+c2AceaHw0eqtcf3C/OQGfv4ZSjng8OURX2w1RIDq0o8Sw3/nm1lvJpk9Tn
-xAvLq3t/pEXUiH5MhLQjvABJa42sAZZmGXOjVzl0L8qD49di3NX4AIZeSB/LmaIj
-xDYrRao/Zpq0mUuhZzUCJ3hJ8IWJcyMAZPHaV9R+CfhQ4SdrcM283GKXmLmOiK+F
-8gKtI0akay/Ao7xjnMb2nwNOgmmQ4zMg45k41iOZrFsYVxYtIGxkyBDL1JpH6VLS
-JQ/OQKc0iDymTTsQDVtgiTMi4LktLgkOVL2T1MVF78QtgXSn3eF2bB+tDbJqVduQ
-4rMxyuUoOLHrU2KFx6Z7kwNIpK/r8F4q2oEAsSaVWrAraGBtjE3xd/Pt/Erlbb79
-ECj5cDHdIgBB8u0dS5ASFk4Co9aMVYuj7DZu50aoN8+9NjSPr06gJaUr5bi7TjXQ
-00KGKNBcpjwvZ5xzjAc8/m9OV5McW1/7K3+neYD6iZZ3ACpY8977grrCK+k9IfvR
-nw+o32+I2nSS3HbjpW2o/ChxvElNPuAvn/8LbfqWMIS/GbmBVRTBq7wlbRRdkYeZ
-bwmrq+hCubPDFJlyNuFPlQSROxz6rIubZZxhN0RAJE4WKiRt5JtQRRFzS4uzEsAi
-BXfGdfLRg+qc2rVoLaQED/TBlbhLwnSR1PT6vSbDF1v3B7sqEsDyMDjJ+3KcJfa8
-BK0tAWM6zb4F4+f8DcAQeo2aftnDdAO9ssu9oMbjDuSt1HEr1bWCa7mirUe+pG0c
-G60YPx+3XG/pH9kCTPalzox22r+j0W3RqcwzXdGxVz5JS0QEFfjKuEfhgP2inCr8
-HM4y8xpC+puOitT8xu3mqhvpJBXcki5CAkfgzcDWqN3nQIGqxi7mMbPHl7qUJqGc
-+jmJVrYvselmmAs4WFDjcACz97KyMXmtg/JED7FKKazrv2EcoPrg+8qnkjJ7q+Jm
-tgfGKJMxo/yZSFyD7vfofZ/Qbk5yAiDbViw/vMxE+N+EZ1AbKG2ZB2WM1VbD71vs
-p/r6ULS+myKAZgLVxJree4VXCxz3+4QeQaJRMi1dNBUe3/OjC6pDm3pEXoQRd5qJ
-/9bCmRl+DCcEIJ1iwbBjmKMl7K1o1LtpCHKsivgBCIPg4+0VAvfM/oEgla/6bfBD
-ajxzM/HUOfDiHpvQDICXAuDO9GSnWw0Z7VghgV42ptViZblIP5d9UqJvKcPeoTTU
-DSEFn1QHOENNyjvqyiJYky2VWNKIf2+3ISv3Ansh5DZgm6CgZFMFc+jI5J62FXHH
-FHMdOU6geXid60IY1YzglKXRDJYS0Mu/asq6pT/znvBrzMVtWQT3jHWL9mQS6Za9
-QhempSK/2alav3RguhwNTkyEqGWbSGeIlH5educBNaVefynzKL0EsHbTq3ahL/J2
-2B4wpknIW3Ib5z0N5+TNbl0eHEyLQO333TUgFBD4NnkGvHbd+z1ld461GMWL3AG/
-mTpstkSeX9dwIWZtxcfuJS0r4qvr0dVgZTeSLq4k6idRu1/eKq/yNdSJ1xJGoLse
-U1MxWO6vKPRf26MvBT2hz97hJRwg6vQIJjII1ktqDjW2vnVsL6y0w6rIxJI8rQO0
-0hcrLadspF4/yStMebquFaxT4e09SJ5jyikkHAXkBiE2IhKYSpwRvri6ki3I+pOp
-rrgT3ZbqAs45O03MJc4cMbhe0INR0jTCthzXauQBWE4aljdku+vIJxXwXsgkLibb
-3SppRPWTzGwAeBkwzGG/6Y/JQZeWFZ/+I//ps+e5H2kOWplV61FqTfSu8x/kW0qd
-NvhT/OPcSFS31ARDukW6+60+G4PLzgz0Lhm5dZkVRAv+QnCLOzX4GHztVmCtztOU
-igVFl0i4xGYnGXL+Bq6KlJ+52q0NxRFFiV8vujzcnvfJMQIOQc5d551uCk7zZbYQ
-UDFTE8SpNI2iJmduW7GbsRbnPyIoSr4vIqf6NDktUSVf8mA50s2JbxrG4gq9fY4D
-2dADUE364ECHjPUF9qoF4d8a9ynV2LnSSIsw+mFC/6MjSsRe7+q2tG4IiFDjxDJr
-xgAah/WCiF3Z2DgPKB8gx56hTyQ9QxqEQJgwHj7L+11g8htIcZijApPunSZVAlhF
-HQXH3WRjpMeucKOUMmF9m8qEre7hPABMZb4ks9a4pz1jfrh4QnmJza716KTn4XC5
-qTQrxp6DVuieLzfvXZb5Pa4vgaVHT6wz/TvXd5T/H3YUZY0r+ne+LN7WnQwYvmQS
-g85/cLm41Lf9d2geWOB0KY0JOIt6boiIWH3N28uut37j+XdBuRGIUIeFkFKmVznR
-M3T4RX745YVoLGJ9HRwHMNUfhpm3wYHZCe+k8GUitwY2UPVmMFHJ0PDbnxFOch3A
-NGMsKhUUGPivXTmfshR2wTS3tWDTYIN9tVsQuPqIPU0/w1FHgrcc9smUMlCRcNue
-9ycQ/0mLEoeZiR3roqzwCIZBzJiVhzSdeBEHNtER575DlYz2o4AqhQ37GeNxTV2j
-4zrd1Po7ELfdNx0zvSYG7MBcIwmQGJ0BLHatMwhgPhXpUIC7+LgoI7o15MuO5o+z
-VJVHFIwDy4pV+GgWbsychkP/EZ8hdtcxJ8EDVssqWgUmv+TFkQQ1dis3zztpc1Cf
-Af43hWoIDMs208JeFa/OI0zl9xcspNnf8UfHHxH6bE2HY8MWvkwtxgoynjiOhC5k
-yWNS2jxSrN1yRmtwlQgDnjPg3kXikqKXQs+cBMeI8x4thL2Y4jB6X2MMRMwaZJ5A
-fRwV+UskeQG3PzA4XaXOTHgjumMLxycLPIx6PqI8t746XscxHqEmXID0qLA1v6l4
-VQDPcLimXAZzGyGdJWoHdSKs1M6icOYr2HgXmW5r9ScHUYoORoM+Z8ipdaox/8AF
-vonxmo6QgkCgXtyTLJ3ncQSo+Ff7p/jje9gFY79aqybpVaGr8Gt7ktGErsNfky03
-XxMP52MlVrhBmreweE/vRXpb5Fz4lQoIM46U+rmhQ3GsUVN/nrMcTR20ecu1ATnx
-4PAK/JaifP28ETCcDULQB+HxrdL9wVffhTS9xdukFMxYjGa8fKps6DUHi5Lid0qR
-m1Th6K6sm4Ae4MsYaVKKS6ngiFFM1ZhPOI+HQ1gQryndLcPcyi0gIQSC5XsOeyY0
-Jy6oon8pfQaLFC8uF6SKXs1rQWosxvHxVWuU9pQ9brbtLmRN7zvICfAjwoA3Wcug
-3uTR+GkwTyfGGQp9rVhVpnkhWtpBeezBkWyjgzR3i75NtACujYFCJ3fsf8O+yfxs
-rsKt6ADHWitki1tpspEMOnYB3KffJvY+0LpyQ9o8z6zP9VrGeme8EF57YT/ekUEY
-HAK+LZPn+Hw66gxTM7Okz/HRqX01Os1S2dXWSZCER+T2t3F6yqTxtor8lDuE8qGn
-nnTbje2xOT/HCft0tXb43xBzOJx/z6I2hLJqTnfwF/gvLEZ7Z7VBwLgxSIyiOHma
-+j9/VbQDrojOvsolp+GIax3eZoMwmQb1SmahjLoxP3glgnL5TBFlShtC4EncCY5l
-fyT7MnljmORjSdIKc5sMctmHrjf8J6QxkfWl9DDODExYEnwPkH3Ty60TEtfgPKkT
-+TurbxotDbE7YA098V1CrihJOwdzxiDNAZejGfAzjomHzGhNzaUv9KIpmytmRwQz
-3EGb2amu9cBPAgHL1IkHC83CQAytMzW2D8HLi0hC18l8cR/HNCRI+7d+rUo7sRfv
-Cdvm8AgByNdoo6nZzZODuUr1VqDwPn/d2LBjXAu0wBRHRja0+VW/80pVKpIRVWZp
-hFTHTcmZdT1nres6qT94tSh09FRpYkdoBkk7Yy3IEHQL++Sj6UO8DXausbo9Qm/e
-81OAbdPbzq24LB2458cZppSXo1bV6Z4X2qlUGteNfAkdKJqUQQ3Gq82GEpnne+Rg
-JOtrq/mJQrkA33H8XwEdYG0=
------END I2S ENCRYPTED FILE-----
+import SwiftUI
+
+/// A Library page's title: plain text on the grid, no icon tile.
+struct LibraryHeader<Trailing: View>: View {
+    var title: String
+    var subtitle: String? = nil
+    var skin: Skin
+    @ViewBuilder var trailing: Trailing
+
+    var body: some View {
+        HStack(alignment: .firstTextBaseline, spacing: 12) {
+            VStack(alignment: .leading, spacing: 3) {
+                Text(title).font(AppFont.ui(17, weight: .semibold)).foregroundStyle(skin.textPrimary)
+                if let subtitle {
+                    Text(subtitle).font(AppFont.ui(11)).foregroundStyle(skin.textTertiary)
+                        .fixedSize(horizontal: false, vertical: true)
+                }
+            }
+            Spacer(minLength: 12)
+            trailing
+        }
+        .padding(.bottom, 2)
+    }
+}
+
+extension LibraryHeader where Trailing == EmptyView {
+    init(title: String, subtitle: String? = nil, skin: Skin) {
+        self.init(title: title, subtitle: subtitle, skin: skin) { EmptyView() }
+    }
+}
+
+/// A group on a Library page: a label over a 1px panel with corner
+/// ticks, like the rest of the interface.
+struct LibrarySection<Content: View>: View {
+    var title: String?
+    var skin: Skin
+    /// Stretch the box to the height offered (side-by-side sections of equal height).
+    var fillsHeight = false
+    var content: Content
+
+    init(title: String? = nil, skin: Skin, fillsHeight: Bool = false, @ViewBuilder content: () -> Content) {
+        self.title = title
+        self.skin = skin
+        self.fillsHeight = fillsHeight
+        self.content = content()
+    }
+
+    var body: some View {
+        VStack(alignment: .leading, spacing: 6) {
+            if let title {
+                Text(title.lowercased())
+                    .font(AppFont.ui(10.5))
+                    .foregroundStyle(skin.textTertiary)
+            }
+            VStack(alignment: .leading, spacing: 2) { content }
+                .padding(12)
+                .frame(maxWidth: .infinity, maxHeight: fillsHeight ? .infinity : nil, alignment: .topLeading)
+                .background(Rectangle().fill(skin.textPrimary.opacity(0.03)))
+                .overlay(Rectangle().strokeBorder(skin.textPrimary.opacity(0.12), lineWidth: 1))
+                .fuiCorners(skin)
+        }
+    }
+}
+
+/// A bracketed tag: "[offline]", "[3 missing]".
+struct LibraryTag: View {
+    var text: String
+    var skin: Skin
+    var accent = false
+
+    var body: some View {
+        Text("[\(text)]")
+            .font(AppFont.ui(10))
+            .foregroundStyle(accent ? skin.accent : skin.textTertiary)
+            .lineLimit(1)
+    }
+}
+
+// MARK: - Editor controls
+
+/// Joined buttons in one bordered strip (cover actions).
+struct SegmentBar: View {
+    struct Item: Identifiable {
+        var id = UUID()
+        var title: String?
+        var glyph: String?
+        var enabled = true
+        var help: String = ""
+        var action: () -> Void
+
+        init(title: String, enabled: Bool = true, help: String = "", action: @escaping () -> Void) {
+            self.title = title
+            self.enabled = enabled
+            self.help = help
+            self.action = action
+        }
+
+        init(glyph: String, enabled: Bool = true, help: String = "", action: @escaping () -> Void) {
+            self.glyph = glyph
+            self.enabled = enabled
+            self.help = help
+            self.action = action
+        }
+    }
+
+    var skin: Skin
+    var items: [Item]
+
+    var body: some View {
+        HStack(spacing: 0) {
+            ForEach(Array(items.enumerated()), id: \.element.id) { i, item in
+                if i > 0 { Rectangle().fill(skin.textPrimary.opacity(0.12)).frame(width: 1) }
+                SegmentButton(item: item, skin: skin)
+                    .frame(maxWidth: .infinity)
+            }
+        }
+        .frame(height: 28)
+        .overlay(Rectangle().strokeBorder(skin.textPrimary.opacity(0.14), lineWidth: 1))
+    }
+}
+
+private struct SegmentButton: View {
+    var item: SegmentBar.Item
+    var skin: Skin
+    @State private var hovering = false
+
+    var body: some View {
+        Button(action: item.action) {
+            Group {
+                if let glyph = item.glyph { Glyph(glyph, size: 11) } else { Text(item.title ?? "").lineLimit(1) }
+            }
+            .font(AppFont.ui(11))
+            .foregroundStyle(hovering ? skin.textPrimary : skin.textSecondary)
+            .frame(maxWidth: .infinity, maxHeight: .infinity)
+            .background(hovering ? skin.textPrimary.opacity(0.07) : .clear)
+            .contentShape(Rectangle())
+        }
+        .buttonStyle(.plain)
+        .disabled(!item.enabled)
+        .opacity(item.enabled ? 1 : 0.35)
+        .onHover { hovering = $0 }
+        .help(item.help)
+    }
+}
+
+/// A labeled text field for forms: label above, 1px box that lights up
+/// in the accent while editing, optional accessory on the right.
+struct FormField<Accessory: View>: View {
+    var title: String
+    @Binding var text: String
+    var placeholder: String = ""
+    var skin: Skin
+    @ViewBuilder var accessory: Accessory
+    @FocusState private var focused: Bool
+
+    var body: some View {
+        VStack(alignment: .leading, spacing: 5) {
+            Text(title).font(AppFont.ui(10.5)).foregroundStyle(skin.textTertiary)
+            HStack(spacing: 0) {
+                TextField(placeholder, text: $text)
+                    .textFieldStyle(.plain)
+                    .font(AppFont.ui(12.5))
+                    .foregroundStyle(skin.textPrimary)
+                    .focused($focused)
+                    .padding(.horizontal, 10)
+                accessory
+            }
+            .frame(height: 30)
+            .background(Rectangle().fill(skin.textPrimary.opacity(focused ? 0.07 : 0.045)))
+            .overlay(Rectangle().strokeBorder(focused ? skin.accent.opacity(0.8) : skin.textPrimary.opacity(0.12), lineWidth: 1))
+        }
+    }
+}
+
+extension FormField where Accessory == EmptyView {
+    init(title: String, text: Binding<String>, placeholder: String = "", skin: Skin) {
+        self.init(title: title, text: text, placeholder: placeholder, skin: skin) { EmptyView() }
+    }
+}
+
+/// A toolbar button: text, no box of its own (the toolbar is the box).
+struct ToolbarAction: View {
+    var title: String
+    var skin: Skin
+    var action: () -> Void
+    @State private var hovering = false
+    @Environment(\.isEnabled) private var isEnabled
+
+    var body: some View {
+        Button(action: action) {
+            Text(title)
+                .font(AppFont.ui(11.5))
+                .lineLimit(1)
+                .fixedSize()
+                .foregroundStyle(hovering && isEnabled ? skin.textPrimary : skin.textSecondary)
+                .padding(.horizontal, 12)
+                .frame(maxHeight: .infinity)
+                .background(hovering && isEnabled ? skin.textPrimary.opacity(0.06) : .clear)
+                .contentShape(Rectangle())
+        }
+        .buttonStyle(.plain)
+        .opacity(isEnabled ? 1 : 0.35)
+        .onHover { hovering = $0 }
+    }
+}
+
+/// A toolbar button that opens a menu of actions.
+struct ToolbarMenu: View {
+    var title: String
+    var skin: Skin
+    var items: [PopUpMenuButton<AnyView>.Item]
+    @State private var hovering = false
+
+    var body: some View {
+        PopUpMenuButton(items: items) {
+            AnyView(
+                HStack(spacing: 6) {
+                    Text(title).font(AppFont.ui(11.5)).lineLimit(1).fixedSize()
+                    Glyph("chevron.down", size: 7).opacity(0.7)
+                }
+                .foregroundStyle(hovering ? skin.textPrimary : skin.textSecondary)
+                .padding(.horizontal, 12)
+                .frame(maxHeight: .infinity)
+                .background(hovering ? skin.textPrimary.opacity(0.06) : .clear)
+                .contentShape(Rectangle())
+            )
+        }
+        .buttonStyle(.plain)
+        .onHover { hovering = $0 }
+    }
+}
+
+struct ToolbarDivider: View {
+    var skin: Skin
+    var body: some View { Rectangle().fill(skin.textPrimary.opacity(0.12)).frame(width: 1) }
+}
+
+/// A column title in an editor table.
+struct TrackColumnHeader: View {
+    var title: String
+    var width: CGFloat? = nil
+    var trailing = false
+    var skin: Skin
+
+    var body: some View {
+        Text(title)
+            .font(AppFont.ui(10.5))
+            .foregroundStyle(skin.textTertiary)
+            .lineLimit(1)
+            .fixedSize()
+            .padding(.horizontal, width == nil ? 10 : 6)
+            .frame(width: width, alignment: trailing ? .trailing : .leading)
+            .frame(maxWidth: width == nil ? .infinity : nil, alignment: trailing ? .trailing : .leading)
+    }
+}
+
+/// A borderless cell editor for tables; boxed in the accent while editing.
+struct InlineField: View {
+    @Binding var text: String
+    var trailing = false
+    var inset: CGFloat = 10
+    var skin: Skin
+    @FocusState private var focused: Bool
+    @State private var hovering = false
+
+    var body: some View {
+        TextField("", text: $text)
+            .textFieldStyle(.plain)
+            .font(AppFont.ui(12))
+            .foregroundStyle(skin.textPrimary)
+            .multilineTextAlignment(trailing ? .trailing : .leading)
+            .focused($focused)
+            .padding(.horizontal, inset)
+            .frame(maxHeight: .infinity)
+            .background(Rectangle().fill(focused ? skin.textPrimary.opacity(0.07) : hovering ? skin.textPrimary.opacity(0.035) : .clear))
+            .overlay(Rectangle().strokeBorder(focused ? skin.accent.opacity(0.8) : .clear, lineWidth: 1))
+            .onHover { hovering = $0 }
+    }
+}

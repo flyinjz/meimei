@@ -1,292 +1,283 @@
------BEGIN I2S ENCRYPTED FILE-----
-AEdJVENSWVBUAJSDzyKZmAlmKUNlFzXA17hj31h7i3Jb6UJQE5IYS9qj+/C79436
-JSCk7y3c9gPEHcIG+0MX72NHPZ9jrgT8OXO0oXhn7TbHTTxf7/v3CR/PXUN1FL9Z
-C1eYVJ0Bi6PNVzeaYihekiD72O34wthtndYwlCTtlTW2DhoTUAuASmzdXYMIhXjr
-VnaB4BKfwbHb0PlGWt0Mqrd86m66K6889KtG3fTsm9LM8Gwbcid/gB8byPEb6pey
-sAexLE4vpsHlPtdAzx0/EiMEgkiwjMkvCZ9v8FYrba586EPRzmkw/L1KKPPjax3D
-8fCOheeitpsF0K/ZHJ4AjKAsonlSV11RH/nQsLpH+qE48k1slVhDFHEQyZ86T0yI
-YoJG9SVCPNvzYF+u03MsJP8FM8qi4P5fj3aRU0k56nZ32vtyiz9j1FnbQyOh1jzH
-lWeg5SStIONFaZHjkZ9W1xbcvKsSvPOtTFnTy/SVfkPyAN3PrDM7Y6P5rdYioOi4
-mu4HYWzaBYkhyBYhNhVzqGaAo/GCxClRq92dsZn5DILhaukfSM4XTOlEk/L20omj
-8Svv/6JUPZ9dxeEPKQ60X2/OqolSQJz+ab7AcVNuZncI104DsoX11c/JVjt6s1KM
-Pam/mF20jJV7wHTQ7Y/Ze2yUvqi/F2XlAOR50d3/oAu41c/ASS0hugbRO6LSeDcn
-cE/WGUKH0GNzVycfR/QV/PUHjqOjXozFL7Ph3LpXQgQfHbFtuksKsSdhn1MTRzuY
-fcEwc+AJoYQz1dWXPHnMq0hJGBC5WgSxUaBJHy+gUsnXuprHm5mhL8wD25U77zyz
-+OOLeEeR5bY6b3RDbFt6RJB6pWhp6MkXCgxF5+MaJSADFLz3PBVqfks2qUhUIaTc
-S2vvtnrZxkmuFCA55DYZLjpz2BXG1z4O2KveLqN193qIwl5XQBLRcTi/QXNo56GN
-NmvtH1yrjg/NxW6wonwDPTwbYZnnI2bZmZhk6NXSEweqGHOHEdhrGNK9odquHFpR
-SMnjzvb72+Kwvi1vbBoGpDDEe/o+FGFNvTdDhmPHJeXyH+Bob6VQetCT/2kTLg1z
-8dM45bMJktoqw06agDyRRTQ++kKJmdlP0y0EOh4RCz0374vCjjQkJxKFtJnafxCb
-hTAdXjFcyM1v1uYfs2VQQfBYKdWP0jlvFoDMxEFerVCZv1QS8AWLYzZY11gqrYHA
-B0R4qy3Sld1e5cUKc953cfyNEnENepNiD04oWweMZo+HG7/NKq0F1/7hOeprVOqn
-4s9ngoH9lAiPRsE7kaT4qFnc9sYv0CkJAJnbsoS4l18JcCXdUZk2CxwkB2S5gUGU
-pKIrmT+0Vi8nu/xAW0m8A9vhrMhpy2qL7CqsGdEKId9LXDXuJAGpFJL2UlmDaH14
-IUQYHxjQTmbaoBBU9TC8AT440T8OvZydvpHLJ8h+cWAHsnF7YkI4O65kkEgLEdZu
-UWIdy19rvAgmXQyERTFaygIkf9MB9uSoRRmW3PcO9uHutOR5BC1toBz83CR8BWeA
-hsY9wBmbpFnCCDUsLFKB5If7INrf3fh47GXLvGRiWOJ67xYnjmf+df6fvJQaSk8A
-/rJprvyPZ5yAGcC2woV1milvs8J6imFKyKxVW/75dUDoVn13rBEH/oG4Tnnk6LYN
-Nr6qVFHMwwNsIFCJuFg0e1kwwA8fwX7loWoM4HEmeLlE2thUvF2XTMApaYyxgQvT
-rvsVLbmuJQP7mikHbmMUdOkEcZKVu2IMrI0/0t83hn10OnzaXUaaJP3S5LLCBSlo
-iBeoSHgac85ArzDXLVyO5HSGA9duXtQMtFQrLNf33MvhT2JuS2OS4uyj0+YF+ofJ
-0LxuzhIvrK+p20IqcqqemrZOgNpZFbVHNtLse0N4HOLcWoxj7lxWHCNOYZWR1AWf
-dFlVYZg+uySF3fhwz/1ThETolVSk8guWyilHFBJp4THiRaaxfnzzi+nNpXvcCu2Q
-cOMLh9XnWNZXuoYiezKVkaJBVm7wPsgtmfXHSVQ1GD3WNN0akH1yDPukci2l3n73
-FDeEfH/VJP58vj7Dlz/fI5+n0sbxMjdlaDGjQv4iLfy85H6nayit5UDvotq/Gbx/
-kX1eYCilE7BsWOFM+qKLTaWbRbUi+lk7/1hWXOgUyO59Kcq2BlWHoU29pFKV7xkj
-4Vc5otVXlHeQtu1K+QsyAUKGkR9s4N0+JOPJt1f41E1mMP0OdOCmbxZCNiDR6exE
-Cc10YaIpn6nINefSqdFpviHJaX3OxVQ+OILzVNrPDa6p9ExGxx00RQacO6QFPdQ4
-AFncGXtCN8HW7yEks64SZLINmVHKbJ5vVR7KhI7/snOnoyROpXEOIH3biJ2EfapD
-bxrPT0PYYbd7jDVVf/JUNWgDWSKqYlM2tv2yzShGJvsbHc4CzxQ3dyz7oLq90qQX
-aLf2ORWu/e0dFDsi5l1ItkAzcdfGS67luW3XOg2CA0W9Gc80TdsySRn8v746WBUt
-PWUJamWtO03D5/qCj+ooDOxRSs6wLPoWCDNqL6qwz0dFBWSxZT5deMC0nuDiRUSc
-R0QwBhcSuk9LlY4dlnSCBwL62A/gA5979keq7N6piqucx1snIgpH4NVn063LBmYS
-ZY0b9gFd/GU46S0hX7atH18I/8fHWYjUHxkIUi+z/A6ar77FWdnfgSjxpneO1uZy
-/Zath0UF491bBn0P3Qlj0sdK9jlm/ZlKd0tKdA8NFiQjZ9/sg8W3DsKAdZNfOr2r
-vW+Ah3fcNPj3nqHT9sRVr+hC8eEexpsP5j82hvV1c3JRrNpLVCuF8nvcVpitBYG2
-bfmPDN/mRq8GVW/lJyclYmr+o9z28IqSPynfHUEhLRcDzLeYE5rdYyMiT263ORn+
-ANFFu3Nyt4Fib13vmjjlIOwKMz+ShHvBaf82fIkgFeK0+S6bAB5DTek6w7uW2xWI
-HJeuLvl+H1/HCLLZXQ2WfIK457okFTQHwy4kvHeKS+nPLFpXizji2E8D22biDN67
-oUi0I1Sp+cxlqbm3L20ePbJfTuLroZrQvHCwozymSw+0Dr7piJY4pq0Io8H+nWdW
-IfUZaP6RP/j2eEYCGWfQkhseXUxrJTDayQkmdU39g847vyR7rIfyL+8QgmEWCggd
-/fB3KLkhxqXYSJB/FzT0WQoDcw5e5SXuvq2UCnE10+FaXTj5Y21n1iD5zucuJk80
-Soz3aYByuzJtjeNQ97ojVCCrgJribNnbUlbI36XTHslil+aWsqld/XK94SSP6lWw
-grxfJIJ2KmFbl/X38mGPWweqQKlc1sWfaw4Qf2lAnhKB6G0Bq3IKoKLOIVv5njY6
-qV/XzdDw1FTIpOXHVE5ad7FD2/+ACSzF1lcCgVCJ1BMFKhPMJuFRD/aH0vaQZeFL
-b7ijj1gEDWfZ0DWJ1giDasifUFgr25fIAR4yDT10S+sraIUAKGMs/ZPOXVBvEqfx
-bWmClNAGN13hTnAmooVr18o1QY72L9J+p5APUEydMU7lOVTDQG24mc1vyq3nUpGT
-6s2AxFAZoRDoQDiCkFrlTLrKq3RSccGEMnBlA6QSGtTz5+MPJnHfeoN44SAvJx9o
-BOABiR0IlIQxwOq0H7xB6/sjfyC8STiO8w/R9uaOM3gUaxemdoGgVAhKSoNJe1vR
-35ZMnklQKjMvKvwiqYrTEVLLalSosmOZ+STCxk/67uKbGl60F42Q/EhYzE4nyzdu
-fAPca9D9qlx2l7xrd7rxOTjX7nxByItDEwiBq5P70Ai36juOlHauU3zZl85w5f3A
-uFW2aKWWz0UvyTQUNfXlkYgMFBtNps6nzn1hydaLBPteGTa0hlw779yKF7Mkn3YN
-xgxIzelhhOGLTin2eEj+DrJ1UhEYLY2Ep7KaVc9xNQnFT+RowXk2LwjBwQ95agcQ
-B+iWsMiZAnkJfZUGL54T1hZ5YQBpgvlFCYGQl1PlEkekss+XKUONBfMY4Rwlgpfd
-DEgi59554dfEXKtbDBTLfrjWd/aiF3TiZJNVT5WvI+H+pgOwOYG8KjQPWTvKJo63
-B5gBQBo5MF1MaOk/IylXQGibcyvSYFcc0h7isIWSJjih3z2wpNcACrJvKZeiHjD7
-1oT1Ewo542uH7I4Pl6BPHh6zgNV5SmSHVpD6GXXQBW1NzGCqeJ0ow+/kSSZwLPGu
-kzkeRwFQa/eJ68ubqu48cZlE5afPPv24r0UGeCaXjItaX1kOqatlSc+Gc/aA/Ihb
-2ftgv5d1hIkSJdwC0yAvBGw7tmuXxdkAh1YnprBtxu3ss9sfc8pqLPAEhMWOKHoF
-WP0iKhrIpsqKuS9AXgjqt+N8MU53XBLpnqjMTgpsZXfTaSK2vHJ1MUyns4Fm3xGW
-ldvGrfMJ6lk3ukBvNJNoYvzfiFiphpUQat2n3fs2dCDkTCMQEwpmm3NEU4wFN0DO
-hJyyLSPcsyWh+k7GOMq9opqtLKrbkqMi5a7NCFeYQwRRt5SupuEQs4kLtLvVbllT
-M6OCHteH1uzej7uZEyJBk40e9tKE0hXIYI0VC0bEA0oJ3zadxZ8GNNLgcnWTCTHy
-rp5F8VKA94b1e1zD84WAV88K65NrkxjcgfAjKUv7HDFYU21unGI+GZziBWS9+kgE
-/d3qq4MNvmDAuZz7+9mbW8rbsHCzgnm/yQCS7EURQrRCtepBUu8sarc2xzOID8ak
-GsmXwLl9o9cnqb2SA9nHkyu6WfK+Zt+axrthk7Ny578H25S2YB3qf0eR8a12re3L
-oTP3dZu9yyIXgZsm5fXNdu6vETeGkMqJmeYKib21Cq5R1NIUdsGyBUSJbqpGzVxb
-P6K2aMl1w8Jmgpto0PavZ608QVSaLr+qQeoUA0+N8fX1dfxP+oH/WXdfhWK5MP2M
-h0w8ywX4S/TP2usqcOX36HutjjuzQwv7t0dTE2cs94L5whBnNPWGLszZ3d9pzIwq
-UKRwVmtsKD78VfzopqaD7P2XcfJKOFmi1OOWFL+ykntKMvIyGEo7lHEEoNGDvrHi
-SYuCQcEoX+8aarCNIHcYA6H03ZzidKjBHSdWaL92YJFKxohvFioaZwLSXV48hLGa
-GJ8t8zlYYlSqJOPCFSmWfmE/mnLk0zCtlYFN9Ew9v4Ez+lDfQyRORnFye64Q8cDk
-H/TdEmp6FDcceVlUBRxQeZyXVc6zE6+XgLqh7pvhaVmbvh5pTfZoexsLlt6U3e+Q
-1FE0TVIUqiqhjYDVKvwa+othA2Gyp95JYoYChdtj7OvRLhZar4MrvAKID4Lz7XVJ
-5QR9J0HzCKQMYy41Dz0uZkmrBeXp87+N/5VpxCOLM2MUdcIFvTtUdgEEO1XyYef7
-qhNt32rwuF9PemPfnC++LG7kIjo0wYsmufTFXusmom8X+rf5FLOpTbdE87vBYhiH
-gchb0ySfpc9BHKePnVorsU/sJemJgaCftO7Ya8q62nOgd8/T7J+zHMJ9qQ0ugluQ
-aP72IiPwVR0Z9TCom09P20Z68spd0sUDgo3xI1Pt0E3NDoNLetxtb9KkYTiMoXK1
-rK/w93/oo8xfvpUsiRaB0t/xBWRHMZHqBiG3P19s+sQ9tjRaKDaxgkHZQToX4Pa3
-a/at1Esk6hG9zorwzogVhVCPvz4lVzo80hCyw4dXaUi8RcwRUrllIaMkTsssK42b
-E7cXSBROBHo5k429n9SSi6PaRCt6/HztLNawp8Wu4TxiU4x28VBvyvPKTu7gIIBp
-B3kix1Vk/q3oWD/m56mwurTPf5tk87vupwTVMkYjupwMNCqhDS2vrezQbzXqgZbF
-g/BIjSfcMxOqRBtPe2cB1drI/y3rzjLQ+iFB+TtsaXAU5+fq+3cFDMJ4zNUlAIIT
-P9JCigrYaq5cpN9XzruAo8pYcjahZy26WIucnki3ggLfGcXxullULK5TZE4DtuIq
-fJ9pRO8zXeDGMzV/hm+9u6dsY5N3Q2fs0LZOhu0ygDkepwsoI0pbL3Oj1d9jVMXl
-eWW/PkgFdRPiJqYZBln37P9u3qNd0CoPEKfe7DBlhlO4D3jww+Kg9WOKCKKJp9HN
-/0jwQJ+xnquiI0ROKymXRSquOxBl1EP0vOrJxFtwLNfLgmJmTzuIW2ZPhFsBnwTe
-O77+70RNpUg2cdsCgrbYav2GtjBGWIrWT7aPrjLwbaWOCyjE/dXyv0krzoZQ6ObR
-Rq5a1UxcPHDqEFN3ZkKTOGJ3Ko0Juom6co10iRCW36/AjyN1ePxu90XE06mQvvv0
-Gwrtxq6puRvs6/kV3n4zZhm8ER2Tv45b0hg5EzdhTr5MbG+dQr1jtpvbWqY6Icnp
-wYy2T94yvOrXSTuV0OGkuC8BGRuJXuaVkNwbgtFRwPEmh3M8RlX6C+1Tv62ZxT27
-P+p1Cwcx42hL3hRUv3JXBEbWnAiaT4SjxQ/FBlUXl5j7/eCRusKohDqY+7cJNfJ9
-jPcROeAnjZKVN2kE6vuej0VrqRqKbn1OkJm0pLwYqwSoDNlHnY6wtTi9dhqjs8qw
-CNR6t2+H/6E0KdkBy3Wn/nO82+9caIFDVrAdGBXC79qcQhzwpl6rtzHZSylWBYkk
-NyUvI7atMM5zhj1CBw9XpfOTfX1WVVpi8GyPf6Sx2QMTF4AlrSbu0MS7Jzn1XJgU
-Xb56aZcJiGk1rJ3PxrxzapOVr4MgTEIa+XnD8a4sJkO4mVspTbbTslGC1uy/h/k1
-GTuOeEc7T86pHHS7DClTzFN0R6ntrc+SzJolHl6NdYUDy2cdgJ68l71QR/NME5D+
-6TMUjcobvYYmpSfR5PzibmGpvi7W0IyIUgDKAYbw6Ky2OJ0dv7Inu+SZNeD7/8U1
-srwrVlvaxBKNNLO+VqqhG7v+4Q6qlkoPO3OSSzfzrNWhyYcwaulnWy7kOI1GTsbv
-RmVNE5PbAqmiTookJGr1XcaRBFhcSiqAzo5oAN+X8b3vzMNQiOPWRF9Y/zY/5ogX
-hCxltvM6lwomu4OOy43tncs6+SNHrSo8yuPX5KRJQyXufE6xyRUvh8JoyZRiyf3H
-aqoXERvANT+eKXOi0uZuoh1bH6VW7mwqOdGQ6rAO8lxrLfD9OgntPJAq7bKkuT8j
-F9vW5nbwub0p3q2JxlS1FdIkd7o25bYUsylLZJHu6bLHuipzNhhX1ZrNkv0/061k
-gCUYluNLcicfyAwayuBOiuu3AeHfQwZV+Lh/e8J905g8Jf25LkMo5B8XcG5fy3W5
-88Nm23q6XZ17O0y8bWFwx2AbKZRMSjoIqeNWFHuyJLRyxHOptbDsJqflTBRRFG+i
-Tp3xUYAxCFx1FppSiPgd9Iq/n1mM8urlDk+EZMGPyR673WSE0KOVKJ9U30AOr+3c
-iYqyYNJNm4F0GIgXXtHGQrPIjIsaGC7hYyD6avpqeYArNrcYkXkR+Jqa9PZ0a/2m
-1LXMy3rkZIkdrcQuVxGxxbSY9mqi3wNyvGKPmpaG7oghQHBmB/ukCRDJme1fNBnp
-zhRoQb/kvHTQ9CB+J+QncShabCDjrw28JT1VYSGBcsn0yJRCh/PJJaSBjiD/E/yb
-JIpZoS8gPa6HzTASpBIteXpt8T4JWceG5lizVxuPXLqOXTF2B6iwFeBgWIl0SUCx
-qJq//gpNBUvd9GP9dokkN2HOMAdrKUqT/ObH8Oxniy+vpbXgRrWE+zEvWHfK9Dw8
-oWzm4lx9+dd6YZf0cSRaPv/QsxOwPNakbfetxiQM5UUf5zfLWLbz+vCIG9YEnckN
-70j5/F1y8CPn7+bX18lQJ1afDVyTFRtWyqNDMXSk/CI/WHRlIzbrM2QxksgvSJXm
-eC4btY42QHp2oGQeZmBTI6MwhnPUI39W1ohTNyzfkMXCOQiexVoaXcsU1Fq+HfU8
-Rgr3YufUkatfY4GEW1FESDE1mDCqPDIWqex6+iXGI43wAkSzyn+HhXdzKgZvjEjZ
-/TyvvR2qq7xTHglG1rbtgN2FxXg2fSkPkjGORxnCrEJzVZfg2ZxTf96PdbYEJfhp
-GuVAblkQtCR6/8BS2elsUHSnSMt8L5ohpTVPF+EdbevJGnvGv+xZVEoZJLv12ezK
-zk/dM31K7stVrM8swZrdOu0C4325UsB+xaMid2c3pUsv/AL8brluXm6bUWl/2fTO
-fGqlnM6jrl10dwZsFqODIcz/tEwG4QH9ZlwMlwS6p+Q4xbcjw/5EIBWnrbk0S3Qs
-J2+vw5lKmEuzkOQ362QNHSBF8Mtz+cHnAOhmc2GseKfr1HoX7kLpO6AMYbeHwSKV
-lBn2n3vy9mGj7YyJduNvU2b3c2Mlz17W9MuYhbyaHNEQZdHiKPetNgqt1nlsQBCY
-4L8UrbPpl3v55DjnBfcwlKv03CG+dASA7sFMJjfHNIGPqCQxLu1qNdDZKjxutBGr
-WZL1lelcU5fHyzqpV2eogv0LAUj05b+X6k0pNGO+76eR0pyo4F8c2B+RwskR0ql4
-d+09PIMpRk6rLrsiDlzWT2kmAHLr66Yo3X5b844OWPOTP9Mk30y3B7oJBQGDtiFR
-KBkBhqnWodWheYBAjOBYnaRg3Oh73BSsGPqRTKL3WEydTyQnb4/IxehaIzZGkAt+
-IasyZDWydgAotbJLtzhg4k+jl4CwqgMtrCe43qxJV5OyeOfFsx/e18jLsc/2hzqz
-4Oh2yaUua3oGgyNJgxHqAYVceI/kdyQIs/7gFNsuPzLctHAkgbQfEc4tXcgD/xI0
-VXL3EhkPP39MzGJKsyoQI0wlbi5iXmSodi19yy33JBI983Rnvi/G2TIwtTEdVZWl
-+S0rSQOPhDz8H5Cq6Qd9Zc1+LpXC4KQqUbYxkuvIBsWGd30U0EbEKSYyjHQzIiS1
-hVFMkwHYc9NtcpcJPwxm11fyss1wYqV/eS3lBqElOLsay4IGP9jrTXDZCc4ClrAW
-jxrjKXfgZs8Rnq6UVSziwx6GqNueG+xpxBRA1xas5WL7x+sPMeYAxbfG3vM7jUQC
-olTNkTJTojGYjJrBpFBh9jmiSm6UX+UVL7ycGQgXFz5CKJmU6orqpZR6PLFkHlo5
-0KXVhMdmjVzhQukm7+09iD6wZm7tCG3cudWCzBOMYr4IASb7BQvprBRHe6CNN2GC
-B7Bm5TaPhpsPfd8OYmecwxUyb40jZJ/C84CYmCEEPG2Ze05KvdxipDAIW3FAX50c
-+BncUTVNKeXl7Sb220WshLcuil6y1MN+f2hvvCDhXXoNG7zXX+46OYkDYYnS4xoQ
-pQdkDYSpjHsGtIv38KFLXAJrTJmxizWALW/BzsdNgxvEIQMxAbMA+pc4XwHI3zZB
-b4aKn/IF0qvbrmu7g7KNafawVsuSboNpDQJ1vsxPd6oDCRuxnjHGOKZXXIl8wgvL
-Wbw4xHJ71dEji4U4Kkc0jxOJ9JD7jFI8cTyaV9eAjcc/8l/lCTuqzhhlK8x8mgHE
-GD8Vqlywz4UEwSEKu91sxt+SK1cJp6YFnxfH9KUnx4AoBWN8fj1VAZ632OOztCw4
-lwHIY+TbfMu5FlS/DFZ1JRunWq30UeiBkJwbBNC3MlXCR+G44bO7mC9Ys4tFpmeD
-kZBGEb5q9aqMo+r7hOTwz6zzWY1ZVJ6Ene/wuu9k6nF0nWI5RMNVznGLRwVowxGg
-jdiRbDkd4jnJJknIdqHNLbA1UNe0mnA6F1aP2Mbup7OT5i6cTrcSbWic+fB5cy7H
-UuIqqHDiViUE3MCE2cProcPzsnjXnX/lSEFyR2fgtwdLKOL9+OFcqvAh9A8iep7L
-pdB1E/0vSHioh36fUIYqZFfyClHXms6/55dLyWwud+d1LDaeHB9ROLeSAQWUuFRD
-MjJAnh4u2RRldq+slS1LhVZKM0JaeUatxvyfLvX2OF/77R4jhwe3Kj2cDcHVYRgw
-byP/uolcmxVyPFaacucOtN+iftgm7A7ujh6GokXQwUCD1TyEV0YrmfDmKTK2J/H6
-5vx/dxwS5XZ9a722X3x57aMy+bOXUu5j4/9nzyzkPnF6hX6ge+9OZiixNKP8eKpY
-ZRtseBhziyUNMbJcaOCyXDOPxiVrhxdUkzeF+2eyG8Rmf3CNA336o338jzHj67dR
-jIo32bEIjFfjL2bzG577QapdIV5Z48eW6fiL2TfPRkWEG9+/OKVqhjgdUMnOrTYZ
-/SnMYaZPaI7CUwexnRQQ9OHyQheDf2gZKFAt3B2XXCHZb4hdEDSWumO35p/pgHxA
-AmczCHZIqnUYDLqTVCkCMNw9iqwXPi5tHtnXtoGoWQwnDwZf3bY836Tws2Bx5Emk
-73URHg5n4lEiqhyQ0jozRd2mpJIZRenH79TCWTpX0gBUEuDsvDDeE9Dv5wy0ehfw
-B3cpjjlKYHndT+woY6EX7mX1ZyghAo1kjT5R2O5sfxfV0db8RlA/UtBtW8Lq/HrB
-5O2wKKUH9eQ3vDz2zI5MAfZ4zzR7kfZW92wH5CKVMzV6wT4EEDRyVuBV3Ke1dSbj
-i3IB7JfEn2A2BiSExJLIkywnomAFyGlqR+JZ/4r3rA+FcVUd+QU4k1yI4TFBLGdV
-nly1PtGIhEDeEGv0DwtcBPGJv9ofd3vtUj8OWvWak24Nrz8HA59Yb9BvQEUaW0hb
-Iu0xXIL8VJJ/uUB3v3E9nj3uKDUKn0pCKsjLuUu1tAisACuqvN+SfF+k1DujXhtV
-5C0V6GnjB7rti8Y9/Ew7HdVNfbcTJjC1fYnWFhnC0wGenxth2Ggkid76p1GqBxL6
-PcTP9rhBPIWJrItnnjNZnG3wPia+RydD5Ve2HJhR8NT+gPxmRDShyz7V6/IzsAXr
-Od/AYlUZ7lJIYU44SrjpNXRXdh8RSBmIx3rNyQZCKyiQFvLT/izjH9vYiSnoQacW
-rTq6vCN48ohy9kuVxlb7waGCEXqSPaRMcyiWuDcQnneduXbDtzHvA74or8VNNuru
-proJfzE4rAcWA+GL0aOCOkjTb5ZriRdQkxZhEmH/l9PcI2nMKz04QyqVJqQev8ur
-SOiOlssd8Nlvo+OHrpOuwYlhp41hYDPhvbDY6t9C5QigJC0CkvJpN+X9SrfYaexM
-HRNvtLWFgp+TLfChq0Yvajpy2QAAYp6rC5y97PkH2kEe4biVPbGMVfgWU+vZIzF0
-gAz+XDct1+UVRy3sg4s3naN6PAc6Tu86FGNCUvtiP/PpDFtpevN2GTG85DyYqwBE
-HFWRs8Khd7c0+Ci+TheQVfeEqDy2wgy9LlHBS126wCoYoG6prrxy+vHmoVZbuJfT
-U1bz7prvRt9/fKpjOmTWYDy3oYzeLOSVC75FyQsADIcJZYbb8ipSKr6C9MSMBpS/
-Mrb+TjIhoWpE1XIdB4C8MbT6Fow+lrqFq0Q7012EGuVvxrbnDIA6frAMA8pF99hP
-NLMTSIeqpU+UZUDrkZ4zTBqa4X98W3L0CK6FiPcIcZStrAlpm8UTucufCRUUzmy2
-UmIBwY/m8Cn9TzQju0dvDMF2R3szhhsezQ7Gbe8pKsh7d4xdNZcmnugvMxI9FDuL
-vR56l8iIk49RD8s5K3kG7d17vqr1Fhfk4q4EoAYLX9cy6+gn6Ydr55h295A1sBJg
-EoOex1mojTIj1nyMgVFQHOFv+btXlHY1cJiFibR3iZTqOpUSQOZmwjDo4E1n7Eun
-oDksOPwvzoPsaq+ttxu8pX0khmlzqIaKdBoP7LOZG8dP/lD+xjPGDuR67EbW6V6s
-c2igTH1LZQUxFPpe67AQucabAF1xze29cDXwG4FIeShkJd1pWrP7ByS5jHBS6qkM
-n+qADVtdXqdkB120wy6mlC8Mt/GCxpK46wISVPLn7dlGMR28x3SZ5Hsb6A8eRbwP
-gYe6LhLs3m/oLtzO/t/vUbAhTTDQtvWus+dex66RMzjzKiiQGUkz7GCmm6NfV38Y
-DRlfLgRihb6hpHT5/SUmjlHnEFrTcd71P9NwWyU18ppIr3gmiJdp64sRh/KfWAOr
-hRRfwdLIrs6X0UsYEgin0b9pay0o0qKwshQgCCxGWzrPUemamznjxs4idO531kIm
-T5Yq2glBquIfaKriuO5WTNx4FBGvA+U92guXdrsm01rGlCpT/mSbI+VEiawseQS8
-Lz4TKf0l2fxxjgQ6RW2M5E7wdJVIgx5P/TgcyV6cRhO+S1EqN8/0q96KOJGXz1CS
-wceADXLDRw7b+FCRTgz4DZS5pryCc0Yw8XPNLDYFdJqwXpQogYCliDXPKUZCuDZe
-l4frFW9eLBnb19S8eVY3hep/WwAfQxK/GxyTmrjw2yDZEL3okxYjIxHjvnYm75Fo
-5/bVMEYQSxao2PeNfelhhGXXnR7sDbITK54l29kkO63VrcAsxaN/hf9+Bd3k0n+a
-lvMyrvAiA/oDX7buJSPqf+PtHrAT414CaYjevaYeHnyGEsr93fpCW+b9Bg6AWLRh
-A+UdSPxMpPbwucx8EiiX9j5ZDM6A1cIhumg12ylfiOZzRv3oKyIzqYIZz19FJJvW
-o+3edUGLF9a2ZaFcEh1MhEzfU/O3IjekffRB8qCZcMKerC79tmnR5/SItYyCMDbM
-KhnVCZ2q/8A9SXiRd1R9R0+tcbncoV0qd+gjzs/Is//8ALNuHmbF/YrhRBzuFnXM
-WhLxT5bcsLW1ZcERqqOLv2YdSSPbANW6vDL2QDqfTN9hr1u8CWXskfkzRkdF5VPm
-zEa1i7tPlMoJG/bVlrPDMc+xdU936OLB5gx9uJmjZB2mvBDwHdmRbgQDrAIP65ZY
-Ep3WXOYjnS/JPsXTI7mQGXag9xRqq4QDlLUEDaiEqJIYG+uBlPOsJ8d6BS+ku5Wg
-11XOp6LJnacc6nYINkuZYoEalC81dqC7cOS8J/O0mMn3TIF0gWqjBGbB/4KfhcTG
-c4Z5oCXDZDigzjkuBUaq/ymZyU6Lq7U6ydXhBtTNaxuh0dSk5AKV6UQeaj8IxhFI
-t7yIYRi7rGo/jRJQzVI60oa6KGevly2qvqeMONkBqL6C2uADZwMOcCJaO4dRx0st
-5uDL1bBcejPHrrjQtMij/HVfh5rLmEHMvkFC+XfYRGOhB8e3bC6qVKy1CE04gMGK
-jihWX+LhQmyuu99KCTO0V6orVAIvvKG3Zpe+qFkCkAbk+AzsxUo9ftzM6QKuS6qE
-ABmtSQGohuoL/L5LkftiAi9Fv/IlOPmfF2DJQ99O+7lLbxzO8e4HEfmm9I4UPi8q
-DpULBXDwWwA1xC6j+4s8VV/4yT0qfmCt2SRw866znJ5BwsdRa99iLoi/opS6IWG4
-bfDnJWpFgZyifQ0TkGD2ZQt2+UlwHk63ktenRu4Np6YOOKWq9zdbol97eY9bWeRd
-QGW8OdBVPoXvZ8TqDHkUwaNzWTNx9aqq7NOP7E3pHVzyWuDSu4zHspDCDnqEpQ1n
-KaSjTeLd1bi2SI058NjKermZy2Rqydyxx//QmrBkaAnkRyYnJazXZvWMHeNKEGiQ
-51psm4Bt9hOzoW9nsR+xuGevv/7NQsxP05ToDORC0dhgTc7iOgiJs0FWm1Arc1Kr
-OiJp5JZV19v4+yGYVO/gNhK++/d5sntRBVZI5IG0UahoA2gVzipoWg5GdsVRKLz+
-4e3Rk4Cb5IdKZAg/JRnLSwqQxUsUTJAiO9prW98SPykaA2maV5nhXj/QQB87lPTL
-fntYyHSYyO3HVXh758YC3hNY+iaJcMvYuDG+DY6SvlyZyQgzzY5hz8pRHhU7NSct
-jo3ZnwW2bXgcNWGcBmVLV8e/r0ocd6SoKrPbtHVlIQE8+h1lO79Bv3GQhNxGy2aw
-PLW4iNgWuJUYI7KLAbtb6a913r/1AoygLWT2HhukY4uqwX+6BL1z//0bsnN9s3rM
-7aLOYRectyI6pC7VneCOt2GdCDiGF0qyuQZN6iGYGvZjKHivfq8g+g3Xd9ZwVUci
-rw52fZGkvotW4I9bh83m8f8bGbooaL/Lk5ok84gfw+AyXsiHMmzCgECKlZ7/ed9v
-22ypCO6QUWYGdc+Fb5ASTcUsNrTmUCamu0D1q/ZEHyZGMw3dIQdVuCWi1yDES4DZ
-nesY/1iKe67PpgE5TevUuc1KXrncQqaAegZQcppBmZ2mp1xuXpMyFv0VCq5/rZi2
-/wQxzxULUlrvMqHL8ZyMtmhZvACT69T6DGHEoGeDB8JQKpaFHSS5qhsfYDvRHwTh
-xL2d9GlNsX4huPlm9Ml8nI5DZhzxIpSXV5d8cLWmY7hh/VN7YynNYfP2jHodeCpF
-ejZ/9aKlX0QgUsG57wsf1XDZnAtOqWooaaU5y8pp/4EfGVbM+6Y9PR3BX99i+9E7
-G+Ax3sw1fZEwcFJmHXf1ZZXyF7vYJg1CPLaAFa/egp/PXIXxbOTb9bb0f8hgDAQw
-wtM6TMhZE0kAGLIfj5nBU+J+5zNwi0W71qgGML1ACAA3e7Yhx0dqd2UYs0XyBoB8
-iNCS0moiRxRd94LBonjZmwNtmTmcw/scOqcH91ykIfTCtcC1fXUPBhGpn06CZf3v
-FAw0GCshQdHF9dIy4zfvQ/8KGGSBo7BPoIu2Bfk5qLZOSBPLqoFjOX7PMrA5zR7Q
-kRv5RU2mfB+VHAoiOM32DhQACq9g287ievlzcQ9ar+usmszLd5SLMeSa4GK+q4Na
-3X1R4a7hINeaAEGYErQ+Z7HhQ9tu3r/DWkQVnHofE0YvokcdyQlM224pHLgXwe+r
-QVTh7JKH4p2vNks5E5NscKaYFa85zcm5hGRQZqeCVij1T0GNErXHZ1mi66XLkYJk
-nH4fvvsNN+Pi52KElxl1lTVc83LYfxbJjC6aR2WCJF4dGPGInvN9bs7WhIbasHzb
-RzyZpJ32v9qyXgo8xxDRdUwVXcecJiJOUAN5XjXwqLBGXEZa8ckrL2WGaocPoZOc
-Klt5KRGBhIakNikpEn+LHIAsVeEzh7Kq8J1vKo3hG4GFEYDdUqFJzxagQDyDfjAd
-/nLbqD0HFnPN56H7QVyzfUI1FDG5Z+eg1Q7Qj+HLvQ9faL4YVCw1OX1855jeLFHo
-O7h7N926V6XjUrByyUTiBmONBaBrByMhiz7gZJBSuPuTYCS63SfEUlIS6OagDiAW
-Pts9ipYkHdO3qWnVQ9OGM/72AczHAg0MOFmIPsh4N7uVPD2D6AAoFlzAbowXmxhp
-JLFJTnI6Dw5Q5+fusf6Zz74TKH6Y5ywfUAJxHu6I2V+tbZDIRCdLkujkREKyEOe+
-DlOZ4kPgGgfjrAdX312tI/EQtl7UWv65FsdEc2KTrIwSWIxk7Qur/7SbQYouxUO8
-cfelnQYN++NLRS/WmM2eIMEwhC97dq60ryP21Gq+8N5/tVTHlemlAR2Oc/qo+a8R
-sr/cQGwQzb5hNXKOA5bXJlLVO/jn4z9R1/a7oouXNFo/mh89ZTxwxN98LTxpYV/y
-CLEBY6hJTZxcXF+5NDQgp5dZOtjwjNpR9FQJlFj2wOn1duQAh0BId0swvINZigF8
-ixO8gAVPB3Fa6ALUZWoxsq3QpTeV697DHz9ypF1OOY9heSWKC/6rrduJ4s5mG000
-Xe8Ot1trc4jogDfuEmy1ovJg3VhNaCiXJrkWANzo/79fT7qr+upe/2FpSFVnlN/H
-Wj7k9bulwRPbAHjdnqoV5gfd0iDljjJrDKmnT+NWfYO8jzcw3cMC8iqPeQ9D0L7I
-OQKD7zTtxiY27tGn3sB2Pu3AVA5GB5z1dJ6aYPZb8FPN1pRUZtclfHBaOCUqK7TD
-5UPZfiyXRUlNI4KY3j/oz12WkbaQb+4GgTAH2cikG/C2IJ5nQWZ2pLsEz+CzrzQ9
-gjXnOV2eJuzs59ryYT1EJnXiULQq4EM4nuAY6YCHHnU2jj0a97AS0/QRSwh7IOiZ
-P4LUHo7wuuU9wSOjjYiar54r22+wEZyYhq4w/mmeCVko/YpPqsnITW/4HKr7y58o
-7QgR+B2PiqCQ7UTnZaQepRDuN3jgsL0eGpzDTFAJvrDwur815HWmUxm94ljHfeoL
-3RNgtQy7xd9ZSb2aoBUsRtrJq/c6x93Hs0YNu1sVTq1GjoSo8CtI4djkLPmA3iS3
-a9N+taCESF+EZLxXNe8idKrsLC8qwTeeqJQf00eItjbiPtT5NC62hIHwxHF7bVeg
-p68IMNQa/GI9XkE3MhwSxUKm27AzwhmAlxsNDGCBqTTbmD/sIBP9CsC9GZcwnKAb
-G53RYrP5n0l5YC6Ot+6evCZg4GfaS/w5mGeR2UekvJEdcIXkBpll+h2e7zv2aCwu
-urpyOrCfzZRPX8J/PNHtEGYNT6ZLkmHtZCvGV/ncOaFTizpXxkgcWpo2YwC0SomG
-c3Y50aMDKK7RYJw1M71Msi0thZYhUXLs1SEhLus+Y+teCGp7H/NhQST5oiVD7Ov0
-lCavjrmrpqU8yUWPJLey6gIADI71y+JTi5DF8joXY/LC0W3rFjytN5dof8JdQrCm
-LDq5VFwg7UeilgfFDgvjLoY7GCnO5GBVoD01Jotmxj3v8jG55uQsdTIsPMOO46lO
-3H57xC/Y7RsWwCPZhYV3ICayHNMRFtgbJmYCdlFawLKHJWpT5G1Ncdg9xvDRQKu+
-aEFo9Z+sQgUdABKAZKDWx430In89dMTth5gnsWFh3kXr4i00MSpT8H3I4NWsNjV2
-TIzRDfKO+RzrcRYul5cSg95HgUjHRvCCjc8AcKJVeRt1Me+mWiF46WMoHXNwYyES
-10INj4SjcGUOJixtzUAxeQ4dfnBmE2SvxdrH6RZ0HsxHHnpU5Ym+UvDB8LwW2TUJ
-8Q49My2mtBJSlB+y7WPZhSt1d3arEek9Odopd3BscAkZQ8nk5qrIHGQr+f0pYXyr
-gt/DpXwM73QHiq2WOjYcn74m/HY1+jqkUrVkrP8a91Qg9DG90QFILWZ0H8RLWkkH
-Ca1WCI9vp/w0fjm1mAlkbDi00m0JAhl3iSeXncMoS8XdpkteDAlZ87rwM5EGG9LJ
-N7J0wDiRJ+9tC5mSl9zt/l0DoWRIeqoRBHYXEptPH63CEhg2n9YVcUweCjhcLs1R
-eaXOFLSwbTK/T5M3dtectcc7kRw9ZrhhNhTf6U29Cj474tEnzaMrRaH/UBnBbyox
-U6KEcGA9mvZ+xltFrUsOGBII0zL6QEM2o/fNCoakBweT3TIjggVQWI6RWTmNp2iR
-ECHwyiUddPYsYzysJpy5gHzgwP/MyZbZ5hCcLebDUJZDeKZmhFr5XYhBeEWj5c7p
-mP/lwGdGPskagxLt6k1uWONa/5USV6E8PIKeKznJ8CDzV1s0g4sLRT+EVVsRXyyu
-gVYnTCHPc+7mSBPt63E67D5+zfalBwR+laQI5DAWQz8m7wxQnl/zBpHm685lf1G4
-U/BLhN97udq5biK0UiXlsORD7asIQjYIItVxShuGlizoKSJ8nkLuoptgl60wg0IS
-lDHXMlZ4XoOgKupgKrQW3XRM1vdQpYFyJ+cwiM+quHBgHIh9jkb2OqXzl/x2AyHy
-pji9NkTuVLiq4wn/qPqFo5qLrU62Rg88tC44dPChFcY272imW7HMfOrxD4IXCene
-v1QbGnFv5zfjL73tDOlhM74Cz7vILA08n4n51zgBTk/lX17NjcRtk1REDpcH9jYG
-ixmryYf2IeE54WamMHKks5D26HZaDcr56QYlY5O2An3tJpkjuQv+jVJtJ/slqo+e
-VNMpfMKxkiF7SQdiXmv1dd9TSgVhdTg/zpZG5mGGDUMZ+6jCTfMy+HqF12xaWSJI
-Mn6YeMMLZLpIHfqWDHhV/Z7YATSyk1eCcNiLtGct3QLjIwMaOqSrMLMotb5W2nlK
-+JKHSs13e5LRPgp7GAOJtQEmQ8ItPOyiNyE19XHP7TrYdoj/gTbRzrqp3s5R1EQM
-pi02Dpr2qylDIkjKHvdQ0Abm118A7M3BhErLaFVlXIswrvxXQhuKyd46X5dAcRrN
-KdeA8f5+zke/hkxQviPld3qzGQUkMUUZOrLtjqaUY1MShqQinmTyk8U1UIiRT4E6
-ND/zwhXoVs50nxTtJyvpwj4xcaxgwwkBzA3y+dRfMrw9o7Jevw5xRYdnzp8OzSR7
-1wdzUWe8yCWjxkX5ZQv7q2JEaR/1Xi3l0s/YFi9ssFpb9QskHmaB58tc7dYWlM1s
-PZmdPi2rsGX21mpWavRGwNLhe/b9OKiu8iPDAmoTOvo5obmpa/QtKyh1Rb3UdzI3
-Lua+o1ghBjxS85NEHeWCdm5tBDHl2/m/bKXBAlV2L2FVlXCZQHcp6sNOSO8Jg08a
-U/KOgqYeAsuDLHWjJmoHSrxRxDTK4bB5/FNIsgkS56VxQLHwGEOEC6UaOvqaAdfY
-GumkLkluwygiwG+I2C0qKS4GFXvTT8XkcwOfwRVQvsOBAK8Z8+MS+H+NVgEtPCXW
-31dTCBXiEbSts2bc4xxA4U3jNOVtz1I5tL9WxcjZj/WOsuNaLtrNhBphb5HKwg3L
-iXUnK02GBXh1H5szsRkd6EGZxUcRd0HWIKnyi6Qm/q4mGuLzYnvO9GfAAFiwUnxP
-4N84EIb8zTu0+UqHCKWE7aJmUj08n04GZ2rz0F+rqHep80m/y3WNcaJUrYCHgR3g
-1hu97CeiXSC2PTo5KeHCHQPSrGZA4PeeUOhuMWxOMyPUPNTuJYDUqjPhyjD+5l7V
-5kL9fZhBGQDDn89LP5N+0yvCP3Z2xK6rvYQ1CFi4AVzyrp1oKLF7tBqeg3dxRQSu
-HIo1/GPC6yyFGRiSImlpsBHc9SmSw8XfG4cKA0Gtb/HioXk8gQDQgK5b5lA=
------END I2S ENCRYPTED FILE-----
+import Foundation
+
+// MARK: - Capitalization
+
+enum CaseStyle: String, Codable, CaseIterable, Identifiable {
+    case title, sentence
+    var id: String { rawValue }
+    var label: String { self == .title ? "Title Case" : "Sentence case" }
+}
+
+/// Music-aware capitalization. Leaves alone what was written on purpose:
+/// acronyms and Roman numerals (DJ, NYC, II), mixed-case names (iPhone,
+/// McCartney, deadmau5), and anything with digits. Small words stay lower
+/// inside a title, but not first, last, or after a colon, dash, or bracket.
+enum TitleCaser {
+    /// MusicBrainz's English capitalization standard's lowercase words.
+    static let smallWords: Set<String> = [
+        "a", "an", "and", "as", "at", "but", "by", "en", "for", "if", "in", "nor", "n", "o",
+        "of", "on", "or", "per", "the", "to", "v", "vs", "via",
+    ]
+    /// Always lowercase, even first in a bracket: "(feat. X)".
+    static let featWords: Set<String> = ["feat", "ft", "featuring"]
+    static let acronyms: Set<String> = [
+        "dj", "mc", "ep", "lp", "uk", "us", "usa", "nyc", "la", "tv", "ok", "ufo", "rip", "mtv", "bbc", "edm", "r&b", "a&r",
+        "ii", "iii", "iv", "vi", "vii", "viii", "ix", "xi", "xii", "xiii", "xiv", "xv", "xx", "id", "vip", "aka",
+    ]
+
+    static func apply(_ text: String, style: CaseStyle) -> String {
+        let words = text.split(separator: " ", omittingEmptySubsequences: false).map(String.init)
+        // An all-caps title says nothing about which words are acronyms.
+        let letters = text.filter(\.isLetter)
+        let shouting = letters.count > 3 && letters == letters.uppercased() && words.count > 1
+        var out: [String] = []
+        var startsPhrase = true
+        // Featured names are names: kept as written up to the bracket's end.
+        var inFeat = false
+        for (i, word) in words.enumerated() {
+            guard !word.isEmpty else { out.append(word); continue }
+            if inFeat {
+                out.append(word)
+                if word.last.map({ ")]".contains($0) }) == true { inFeat = false }
+                continue
+            }
+            let bare = word.trimmingCharacters(in: .punctuationCharacters).lowercased()
+            if i > 0, featWords.contains(bare) {
+                out.append(word.lowercased())
+                inFeat = true
+                continue
+            }
+            let isLast = i == words.count - 1
+            out.append(caseWord(word, style: style, startsPhrase: startsPhrase, isLast: isLast, shouting: shouting))
+            startsPhrase = word.last.map { ":-–—([{/".contains($0) } ?? false || word == "-" || word == "–" || word == "—"
+            if word.first.map({ "([{".contains($0) }) == true, word.count == 1 { startsPhrase = true }
+        }
+        return out.joined(separator: " ")
+    }
+
+    private static func caseWord(_ word: String, style: CaseStyle, startsPhrase: Bool, isLast: Bool, shouting: Bool) -> String {
+        // Opening punctuation starts a phrase of its own: "(remix)" → "(Remix)".
+        let lead = word.prefix { "([{\"'“‘".contains($0) }
+        let core = String(word.dropFirst(lead.count))
+        let opensPhrase = startsPhrase || lead.contains { "([{".contains($0) }
+        guard !core.isEmpty else { return word }
+        // Hyphenated words case each part.
+        if core.contains("-"), core.count > 2 {
+            let parts = core.split(separator: "-", omittingEmptySubsequences: false).enumerated().map { j, part in
+                caseWord(String(part), style: style, startsPhrase: opensPhrase && j == 0, isLast: isLast, shouting: shouting)
+            }
+            return lead + parts.joined(separator: "-")
+        }
+        let bare = core.trimmingCharacters(in: .punctuationCharacters).lowercased()
+        if keepsAsWritten(core, bare: bare, shouting: shouting) { return word }
+        let lower = core.lowercased()
+        let capital: Bool
+        switch style {
+        case .title: capital = opensPhrase || isLast || !smallWords.contains(bare)
+        case .sentence: capital = opensPhrase || bare == "i" || bare.hasPrefix("i'")
+        }
+        if acronyms.contains(bare) { return lead + core.uppercased() }
+        if featWords.contains(bare) { return lead + lower }
+        return lead + (capital ? capitalizeFirstLetter(lower) : lower)
+    }
+
+    private static func keepsAsWritten(_ core: String, bare: String, shouting: Bool) -> Bool {
+        if core.contains(where: \.isNumber) { return true }
+        let letters = core.filter(\.isLetter)
+        guard !letters.isEmpty else { return true }
+        // Capitals after the first letter: iPhone, McCartney, DJ, NYC.
+        let rest = letters.dropFirst()
+        if !shouting, rest.contains(where: \.isUppercase), rest.contains(where: \.isLowercase) || letters.first?.isLowercase == true { return true }
+        if !shouting, letters.count >= 2, letters == letters.uppercased() { return true }
+        if core.contains("."), core.filter({ $0 == "." }).count >= 2 { return true } // A.D., U.S.A.
+        return false
+    }
+
+    private static func capitalizeFirstLetter(_ s: String) -> String {
+        guard let i = s.firstIndex(where: \.isLetter) else { return s }
+        return s[..<i] + s[i].uppercased() + s[s.index(after: i)...]
+    }
+}
+
+// MARK: - Cleanup rules
+
+enum FeatStyle: String, Codable, CaseIterable, Identifiable {
+    case parentheses, inline, asIs
+    var id: String { rawValue }
+    var label: String {
+        switch self {
+        case .parentheses: return "(feat. X)"
+        case .inline: return "feat. X"
+        case .asIs: return "As written"
+        }
+    }
+}
+
+/// How titles and names get tidied. Each rule is optional.
+struct CleanupRules: Codable, Equatable {
+    var caseStyle: CaseStyle? = .title
+    var feat: FeatStyle = .parentheses
+    var tidySpaces = true
+    var straightQuotes = false
+    var removeEditionTags = false
+
+    init() {}
+
+    init(from decoder: Decoder) throws {
+        let c = try decoder.container(keyedBy: CodingKeys.self)
+        let d = CleanupRules()
+        caseStyle = try c.decodeIfPresent(CaseStyle?.self, forKey: .caseStyle) ?? d.caseStyle
+        feat = try c.decodeIfPresent(FeatStyle.self, forKey: .feat) ?? d.feat
+        tidySpaces = try c.decodeIfPresent(Bool.self, forKey: .tidySpaces) ?? d.tidySpaces
+        straightQuotes = try c.decodeIfPresent(Bool.self, forKey: .straightQuotes) ?? d.straightQuotes
+        removeEditionTags = try c.decodeIfPresent(Bool.self, forKey: .removeEditionTags) ?? d.removeEditionTags
+    }
+}
+
+enum MetadataCleanup {
+    /// A title (track or album) with the rules applied.
+    static func title(_ s: String, _ rules: CleanupRules) -> String {
+        var t = s
+        if rules.tidySpaces { t = tidy(t) }
+        if rules.straightQuotes { t = straighten(t) }
+        if rules.removeEditionTags { t = removingEditionTags(t) }
+        if rules.feat != .asIs { t = featuring(t, rules.feat) }
+        if let style = rules.caseStyle { t = TitleCaser.apply(t, style: style) }
+        return t
+    }
+
+    /// A name (artist, album artist, composer): spaces and quotes only;
+    /// names keep their own capitalization.
+    static func name(_ s: String, _ rules: CleanupRules) -> String {
+        var t = s
+        if rules.tidySpaces { t = tidy(t) }
+        if rules.straightQuotes { t = straighten(t) }
+        return t
+    }
+
+    static func tidy(_ s: String) -> String {
+        var t = s.trimmingCharacters(in: .whitespacesAndNewlines)
+        while t.contains("  ") { t = t.replacingOccurrences(of: "  ", with: " ") }
+        for (a, b) in [("( ", "("), (" )", ")"), ("[ ", "["), (" ]", "]")] { t = t.replacingOccurrences(of: a, with: b) }
+        return t
+    }
+
+    static func straighten(_ s: String) -> String {
+        s.replacingOccurrences(of: "’", with: "'").replacingOccurrences(of: "‘", with: "'")
+            .replacingOccurrences(of: "“", with: "\"").replacingOccurrences(of: "”", with: "\"")
+    }
+
+    private static let editionPattern = try! NSRegularExpression(
+        pattern: #"\s*[\(\[](?:\d{4}\s+)?(?:digital(?:ly)?\s+)?(?:remaster(?:ed)?|explicit|clean|bonus track|deluxe(?: edition| version)?|expanded edition|album version)(?:\s+\d{4})?(?:\s+version)?[\)\]]"#,
+        options: [.caseInsensitive])
+
+    static func removingEditionTags(_ s: String) -> String {
+        let range = NSRange(s.startIndex..., in: s)
+        return editionPattern.stringByReplacingMatches(in: s, range: range, withTemplate: "")
+            .trimmingCharacters(in: .whitespaces)
+    }
+
+    private static let featPattern = try! NSRegularExpression(
+        pattern: #"\s*[\(\[]?\s*\b(?:feat\.?|ft\.?|featuring)\s+([^\)\]]+?)\s*[\)\]]?\s*$"#, options: [.caseInsensitive])
+
+    /// "Song ft Someone", "Song [Featuring Someone]" → "Song (feat. Someone)".
+    static func featuring(_ s: String, _ style: FeatStyle) -> String {
+        let range = NSRange(s.startIndex..., in: s)
+        guard let m = featPattern.firstMatch(in: s, range: range), let whole = Range(m.range, in: s),
+              let who = Range(m.range(at: 1), in: s) else { return s }
+        let head = String(s[..<whole.lowerBound])
+        guard !head.trimmingCharacters(in: .whitespaces).isEmpty else { return s }
+        let name = String(s[who]).trimmingCharacters(in: .whitespaces)
+        return style == .parentheses ? "\(head) (feat. \(name))" : "\(head) feat. \(name)"
+    }
+}
+
+// MARK: - Artist spellings
+
+/// One artist written several ways ("Beyoncé", "Beyonce", "BEYONCÉ").
+struct ArtistSpellings: Identifiable, Equatable {
+    var key: String
+    /// Every spelling with how many tracks use it (as artist or album artist).
+    var variants: [(name: String, count: Int)]
+    var id: String { key }
+    /// The spelling most tracks use.
+    var suggested: String { variants.first?.name ?? "" }
+
+    static func == (a: Self, b: Self) -> Bool {
+        a.key == b.key && a.variants.map(\.name) == b.variants.map(\.name) && a.variants.map(\.count) == b.variants.map(\.count)
+    }
+
+    /// The comparison key: case, accents, punctuation, "&"/"and", and a
+    /// leading "The" don't matter.
+    static func key(_ name: String) -> String {
+        var k = name.folding(options: [.caseInsensitive, .diacriticInsensitive, .widthInsensitive], locale: nil)
+        k = k.replacingOccurrences(of: "&", with: " and ").replacingOccurrences(of: "+", with: " and ")
+        if k.hasPrefix("the ") { k = String(k.dropFirst(4)) }
+        return String(k.unicodeScalars.filter(CharacterSet.alphanumerics.contains).map(Character.init))
+    }
+
+    /// Artists with more than one spelling across the library.
+    static func find(in tracks: [Track]) -> [ArtistSpellings] {
+        var counts: [String: [String: Int]] = [:]
+        for t in tracks {
+            for name in Set([t.artist, t.albumArtist]) where !name.isEmpty {
+                let k = key(name)
+                guard !k.isEmpty else { continue }
+                counts[k, default: [:]][name, default: 0] += 1
+            }
+        }
+        return counts.compactMap { key, names in
+            guard names.count > 1 else { return nil }
+            let variants = names.map { ($0.key, $0.value) }.sorted { $0.1 != $1.1 ? $0.1 > $1.1 : $0.0 < $1.0 }
+            return ArtistSpellings(key: key, variants: variants)
+        }
+        .sorted { $0.suggested.localizedStandardCompare($1.suggested) == .orderedAscending }
+    }
+}
+
+// MARK: - Album health
+
+/// What looks off about an album, for the "needs attention" list.
+struct AlbumIssues: OptionSet, Hashable {
+    let rawValue: Int
+    static let noCover = AlbumIssues(rawValue: 1 << 0)
+    static let mixedAlbumArtist = AlbumIssues(rawValue: 1 << 1)
+    static let noYear = AlbumIssues(rawValue: 1 << 2)
+    static let trackNumbers = AlbumIssues(rawValue: 1 << 3)
+    static let formatting = AlbumIssues(rawValue: 1 << 4)
+    static let artistSpelling = AlbumIssues(rawValue: 1 << 5)
+    static let noGenre = AlbumIssues(rawValue: 1 << 6)
+    static let noLyrics = AlbumIssues(rawValue: 1 << 7)
+
+    var labels: [String] {
+        var out: [String] = []
+        if contains(.noCover) { out.append("no cover") }
+        if contains(.artistSpelling) { out.append("artist spelling") }
+        if contains(.mixedAlbumArtist) { out.append("mixed album artist") }
+        if contains(.formatting) { out.append("formatting") }
+        if contains(.trackNumbers) { out.append("track numbers") }
+        if contains(.noYear) { out.append("no year") }
+        if contains(.noGenre) { out.append("no genre") }
+        if contains(.noLyrics) { out.append("no lyrics") }
+        return out
+    }
+
+    static func of(_ tracks: [Track], rules: CleanupRules, spellingKeys: Set<String>, lyricsMissing: Bool = false) -> AlbumIssues {
+        guard let first = tracks.first else { return [] }
+        var issues: AlbumIssues = []
+        if tracks.allSatisfy({ $0.artworkFilePath == nil }) { issues.insert(.noCover) }
+        if lyricsMissing { issues.insert(.noLyrics) }
+        if Set(tracks.map(\.albumArtist)).count > 1 { issues.insert(.mixedAlbumArtist) }
+        if tracks.allSatisfy({ $0.year == nil }) { issues.insert(.noYear) }
+        if tracks.allSatisfy({ $0.genre.isEmpty || $0.genre == "Unknown" }) { issues.insert(.noGenre) }
+        let numbers = tracks.map { "\($0.discNumber ?? 1)-\($0.trackNumber ?? 0)" }
+        if tracks.contains(where: { $0.trackNumber == nil }) || Set(numbers).count != numbers.count { issues.insert(.trackNumbers) }
+        if MetadataCleanup.title(first.album, rules) != first.album || tracks.contains(where: { MetadataCleanup.title($0.title, rules) != $0.title }) {
+            issues.insert(.formatting)
+        }
+        if tracks.contains(where: { spellingKeys.contains(ArtistSpellings.key($0.artist)) || spellingKeys.contains(ArtistSpellings.key($0.albumArtist)) }) {
+            issues.insert(.artistSpelling)
+        }
+        return issues
+    }
+}

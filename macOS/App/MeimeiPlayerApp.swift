@@ -1,238 +1,264 @@
------BEGIN I2S ENCRYPTED FILE-----
-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
-KgK0bxnM/LHgHgDXZuFW3QqN28BXRkEuHkYx8w==
------END I2S ENCRYPTED FILE-----
+import SwiftUI
+import AppKit
+
+@main
+struct MeimeiPlayerApp: App {
+    @NSApplicationDelegateAdaptor(AppDelegate.self) private var appDelegate
+
+    init() {
+        // Before any view asks for a font.
+        AppFont.registerBundledFonts()
+    }
+
+    var body: some Scene {
+        WindowGroup {
+            MainWindowView()
+                .scrollIndicators(.never)
+                .preferredColorScheme(.dark)
+        }
+        .windowStyle(.hiddenTitleBar)
+        .windowToolbarStyle(.unifiedCompact(showsTitle: false))
+        .defaultSize(width: 1240, height: 780)
+        .commands { MeimeiCommands() }
+
+        Window("Equalizer", id: "equalizer") {
+            EqualizerWindowView()
+        }
+        .windowStyle(.hiddenTitleBar)
+        .defaultSize(width: 1020, height: 640)
+
+        Window("Settings", id: "settings") {
+            SettingsWindowView()
+        }
+        .windowStyle(.hiddenTitleBar)
+        .defaultSize(width: 900, height: 680)
+
+        Window("Library", id: "library") {
+            LibraryManagerWindowView()
+        }
+        .windowStyle(.hiddenTitleBar)
+        .defaultSize(width: 920, height: 640)
+
+        Window("Downloads", id: "downloads") {
+            DownloadsWindowView()
+        }
+        .windowStyle(.hiddenTitleBar)
+        .defaultSize(width: 900, height: 580)
+
+        Window("Legal and Compliance", id: "soulseek-legal") {
+            SoulseekLegalWindowView()
+        }
+        .windowStyle(.hiddenTitleBar)
+        .defaultSize(width: 760, height: 720)
+
+        Window("Mini Player", id: "mini-player") {
+            MiniPlayerView()
+                .scrollIndicators(.never)
+                .preferredColorScheme(.dark)
+        }
+        .windowStyle(.hiddenTitleBar)
+        .windowResizability(.contentSize)
+        .defaultSize(width: 460, height: 88)
+    }
+}
+
+/// Menu bar commands. Playback acts on the session directly; anything that
+/// presents UI is routed to the main window as a `WindowRequest`.
+struct MeimeiCommands: Commands {
+    private var player: PlayerController { AppSession.shared.player }
+    private var settings: AppSettings { AppSession.shared.settings }
+
+    var body: some Commands {
+        CommandGroup(replacing: .appSettings) {
+            Button("Settings…") { WindowRequest.settings.post() }
+                .keyboardShortcut(",", modifiers: .command)
+        }
+        CommandGroup(replacing: .newItem) {
+            Button("New Playlist…") { WindowRequest.newPlaylist.post() }
+                .keyboardShortcut("n", modifiers: .command)
+            Button("Add Music…") { WindowRequest.addMusic.post() }
+                .keyboardShortcut("o", modifiers: .command)
+            Button("Library…") { WindowRequest.library.post() }
+                .keyboardShortcut("l", modifiers: [.command, .shift])
+            Button("Downloads…") { WindowRequest.downloads.post() }
+                .keyboardShortcut("d", modifiers: [.command, .shift])
+            Button("Scan Library Folders") { AppSession.shared.scanner.scan() }
+                .keyboardShortcut("r", modifiers: [.command, .shift])
+        }
+        CommandGroup(after: .textEditing) {
+            Button("Search…") { WindowRequest.palette.post() }
+                .keyboardShortcut("k", modifiers: .command)
+            Button("Filter Library") { NotificationCenter.default.post(name: FilterField.focusRequest, object: nil) }
+                .keyboardShortcut("f", modifiers: .command)
+        }
+        CommandMenu("Playback") {
+            // Space is handled by a key monitor so it never steals typing from text fields.
+            Button("Play / Pause  (Space)") { player.togglePlayPause() }
+            Button("Next Track") { player.next() }
+                .keyboardShortcut(.rightArrow, modifiers: .command)
+            Button("Previous Track") { player.previous() }
+                .keyboardShortcut(.leftArrow, modifiers: .command)
+            Button("Stop") { player.stop() }
+                .keyboardShortcut(".", modifiers: .command)
+            Divider()
+            Button("Volume Up") { player.setVolume(player.engine.volume + 0.05) }
+                .keyboardShortcut(.upArrow, modifiers: .command)
+            Button("Volume Down") { player.setVolume(player.engine.volume - 0.05) }
+                .keyboardShortcut(.downArrow, modifiers: .command)
+            Divider()
+            Button("Shuffle") { player.shuffle.toggle() }
+                .keyboardShortcut("s", modifiers: [.command, .option])
+            Button("Cycle Repeat Mode") { player.repeatMode = player.repeatMode.next }
+                .keyboardShortcut("r", modifiers: [.command, .option])
+            Divider()
+            Toggle("Stop After Current Track", isOn: Binding(get: { player.stopAfterCurrent }, set: { player.stopAfterCurrent = $0 }))
+                .keyboardShortcut(".", modifiers: [.command, .option])
+            Menu("Sleep Timer") {
+                ForEach([15, 30, 45, 60, 90, 120], id: \.self) { m in
+                    Button(m < 60 ? "\(m) Minutes" : m == 60 ? "1 Hour" : "\(Double(m) / 60, specifier: "%g") Hours") {
+                        player.setSleepTimer(minutes: m)
+                    }
+                }
+                Divider()
+                Button("Turn Off") { player.setSleepTimer(minutes: nil) }
+            }
+            Divider()
+            Button("Equalizer…") { WindowRequest.equalizer.post() }
+                .keyboardShortcut("e", modifiers: [.command, .option])
+        }
+        CommandMenu("Go") {
+            Button("Back") { AppSession.shared.library.goBack() }
+                .keyboardShortcut("[", modifiers: .command)
+            Button("Forward") { AppSession.shared.library.goForward() }
+                .keyboardShortcut("]", modifiers: .command)
+            Divider()
+            go("All Music", .all, "1")
+            go("Albums", .albums, "2")
+            go("Artists", .artists, "3")
+            go("Liked Songs", .liked, "4")
+            Divider()
+            go("Recently Added", .recentlyAdded, "5")
+            go("Recently Played", .recentlyPlayed, "6")
+            go("Most Played", .mostPlayed, "7")
+            Divider()
+            Button("Now Playing Album") {
+                if let key = player.currentTrack?.albumKey { AppSession.shared.library.albumKey = key }
+            }
+            .keyboardShortcut("l", modifiers: .command)
+        }
+        CommandGroup(before: .sidebar) {
+            Button("Customize Interface") { WindowRequest.customize.post() }
+                .keyboardShortcut("c", modifiers: [.command, .shift])
+            Menu("Workspaces") {
+                ForEach(1...9, id: \.self) { n in
+                    Button("Workspace \(n)") { AppSession.shared.customize.applyWorkspace(number: n) }
+                        .keyboardShortcut(KeyEquivalent(Character("\(n)")), modifiers: .control)
+                }
+            }
+            Divider()
+            Button("Toggle Now Playing Rail") { settings.data.showSidebar.toggle() }
+                .keyboardShortcut("1", modifiers: [.command, .option])
+            Button("Toggle Lyrics") { settings.data.showLyrics.toggle() }
+                .keyboardShortcut("2", modifiers: [.command, .option])
+            Button("Toggle Collection Rail") { settings.data.showAlbumGrid.toggle() }
+                .keyboardShortcut("3", modifiers: [.command, .option])
+            Button("Toggle Status Bar") { settings.data.showStatusBar.toggle() }
+                .keyboardShortcut("4", modifiers: [.command, .option])
+            Divider()
+        }
+        CommandGroup(after: .windowList) {
+            Button("Mini Player") { WindowRequest.miniPlayer.post() }
+                .keyboardShortcut("m", modifiers: [.command, .shift])
+        }
+    }
+}
+
+extension MeimeiCommands {
+    private func go(_ title: String, _ source: LibrarySource, _ key: KeyEquivalent) -> some View {
+        Button(title) {
+            let library = AppSession.shared.library
+            library.source = source
+            library.albumKey = nil
+        }
+        .keyboardShortcut(key, modifiers: .command)
+    }
+}
+
+/// UI the main window should present, sent from menus and the app delegate.
+enum WindowRequest: String {
+    case settings, equalizer, palette, addMusic, newPlaylist, miniPlayer, customize, library, downloads
+
+    static let notification = Notification.Name("meimei.windowRequest")
+
+    func post() {
+        NotificationCenter.default.post(name: Self.notification, object: nil, userInfo: ["request": rawValue])
+    }
+
+    init?(_ note: Notification) {
+        guard let raw = note.userInfo?["request"] as? String else { return nil }
+        self.init(rawValue: raw)
+    }
+}
+
+final class AppDelegate: NSObject, NSApplicationDelegate {
+    private var keyMonitor: Any?
+    private var mouseMonitor: Any?
+    private var headlessActivity: NSObjectProtocol?
+
+    func applicationDidFinishLaunching(_ notification: Notification) {
+        NSApp.appearance = NSAppearance(named: .darkAqua)
+        SmoothWheel.install()
+        #if DEBUG
+        let headless = DebugHooks.isHeadless
+        #else
+        let headless = false
+        #endif
+        // Headless test runs stay out of the Dock, the app switcher, and
+        // focus, and a crash in one shows no dialog.
+        NSApp.setActivationPolicy(headless ? .accessory : .regular)
+        if headless {
+            // Invisible apps get App Nap, which stretches timers and sleeps
+            // far past what the tests measure.
+            headlessActivity = ProcessInfo.processInfo.beginActivity(options: [.userInitiated, .idleSystemSleepDisabled], reason: "i2s self-test")
+        } else {
+            NSApp.activate(ignoringOtherApps: true)
+        }
+        installSpaceToPlay()
+        installBackForwardButtons()
+        MainActor.assumeIsolated { AppSession.shared.soulseek.start() }
+        #if DEBUG
+        DebugHooks.runIfRequested()
+        #endif
+    }
+
+    func applicationWillTerminate(_ notification: Notification) {
+        MainActor.assumeIsolated { AppSession.shared.flush() }
+    }
+
+    func applicationShouldTerminateAfterLastWindowClosed(_ sender: NSApplication) -> Bool {
+        true
+    }
+
+    /// The mouse's back and forward side buttons move through the main
+    /// window's library history, as in a browser.
+    private func installBackForwardButtons() {
+        mouseMonitor = NSEvent.addLocalMonitorForEvents(matching: .otherMouseDown) { event in
+            guard event.buttonNumber == 3 || event.buttonNumber == 4, event.window?.title == "i2s" else { return event }
+            MainActor.assumeIsolated {
+                if event.buttonNumber == 3 { AppSession.shared.library.goBack() } else { AppSession.shared.library.goForward() }
+            }
+            return nil
+        }
+    }
+
+    /// Space toggles playback unless a text control is being edited.
+    private func installSpaceToPlay() {
+        keyMonitor = NSEvent.addLocalMonitorForEvents(matching: .keyDown) { event in
+            guard event.keyCode == 49,
+                  event.modifierFlags.intersection([.command, .control, .option]).isEmpty,
+                  !(event.window?.firstResponder is NSText) else { return event }
+            MainActor.assumeIsolated { AppSession.shared.player.togglePlayPause() }
+            return nil
+        }
+    }
+}

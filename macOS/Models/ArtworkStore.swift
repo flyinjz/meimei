@@ -1,118 +1,129 @@
------BEGIN I2S ENCRYPTED FILE-----
-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
-QFKbJA41yzfqEfqNnqF3xDLYcfAD4W2e
------END I2S ENCRYPTED FILE-----
+import Foundation
+import AppKit
+import CryptoKit
+import ImageIO
+import UniformTypeIdentifiers
+
+/// Content-addressed cover cache. The filename is a hash of the original
+/// image bytes, so every track on a record (and every re-import of it)
+/// shares one file on disk.
+struct ArtworkStore: Sendable {
+    let directory: URL
+
+    /// Covers are stored at most this many pixels on the long edge — plenty
+    /// for a full-window blurred backdrop, a fraction of a 3000px scan.
+    static let maxPixelSize = 1400
+
+    func path(forImageData data: Data) -> String {
+        let digest = SHA256.hash(data: data).prefix(12).map { String(format: "%02x", $0) }.joined()
+        return directory.appendingPathComponent("cover_\(digest).jpg").path
+    }
+
+    /// Writes `data` (any ImageIO-readable format) as a JPEG and returns its
+    /// path, or the existing path if this exact image is already stored.
+    func store(_ data: Data) -> String? {
+        let destination = path(forImageData: data)
+        if FileManager.default.fileExists(atPath: destination) { return destination }
+        guard let jpeg = Self.normalizedJPEG(from: data) else { return nil }
+        do {
+            try jpeg.write(to: URL(fileURLWithPath: destination), options: .atomic)
+            return destination
+        } catch {
+            NSLog("i2s: failed to store artwork: %@", String(describing: error))
+            return nil
+        }
+    }
+
+    /// Deletes cached covers no track points at any more.
+    func prune(keeping referenced: Set<String>) {
+        let fm = FileManager.default
+        guard let names = try? fm.contentsOfDirectory(atPath: directory.path) else { return }
+        for name in names where name.hasSuffix(".jpg") && (name.hasPrefix("cover_") || name.hasPrefix("art_")) {
+            let full = directory.appendingPathComponent(name).path
+            if !referenced.contains(full) {
+                try? fm.removeItem(atPath: full)
+            }
+        }
+    }
+
+    static func normalizedJPEG(from data: Data) -> Data? {
+        guard let source = CGImageSourceCreateWithData(data as CFData, nil) else { return nil }
+        let options: [CFString: Any] = [
+            kCGImageSourceCreateThumbnailFromImageAlways: true,
+            kCGImageSourceCreateThumbnailWithTransform: true,
+            kCGImageSourceThumbnailMaxPixelSize: maxPixelSize
+        ]
+        guard let image = CGImageSourceCreateThumbnailAtIndex(source, 0, options as CFDictionary) else { return nil }
+        let output = NSMutableData()
+        guard let destination = CGImageDestinationCreateWithData(output, UTType.jpeg.identifier as CFString, 1, nil) else {
+            return nil
+        }
+        CGImageDestinationAddImage(destination, image, [kCGImageDestinationLossyCompressionQuality: 0.88] as CFDictionary)
+        guard CGImageDestinationFinalize(destination) else { return nil }
+        return output as Data
+    }
+}
+
+/// Decoded, downsampled covers keyed by path and pixel size. Every artwork
+/// view goes through here instead of decoding the file in `body`.
+final class ArtworkCache: @unchecked Sendable {
+    static let shared = ArtworkCache()
+
+    private let cache = NSCache<NSString, NSImage>()
+    private let queue = DispatchQueue(label: "meimei.artwork-decode", qos: .userInitiated, attributes: .concurrent)
+
+    private init() {
+        cache.countLimit = 600
+    }
+
+    /// Size buckets keep the number of cached variants small.
+    static func bucket(for points: CGFloat) -> Int {
+        let pixels = Int(points * 2)
+        for size in [64, 128, 256, 512, 1024] where pixels <= size { return size }
+        return ArtworkStore.maxPixelSize
+    }
+
+    func cached(_ path: String, pixels: Int) -> NSImage? {
+        cache.object(forKey: "\(pixels)|\(path)" as NSString)
+    }
+
+    /// Synchronous decode — for callers already off the main thread.
+    func image(_ path: String, pixels: Int) -> NSImage? {
+        let key = "\(pixels)|\(path)" as NSString
+        if let hit = cache.object(forKey: key) { return hit }
+        guard let image = Self.decode(path: path, maxPixels: pixels) else { return nil }
+        cache.setObject(image, forKey: key)
+        return image
+    }
+
+    func load(_ path: String, pixels: Int, completion: @escaping @MainActor (NSImage?) -> Void) {
+        if let hit = cached(path, pixels: pixels) {
+            MainActor.assumeIsolated { completion(hit) }
+            return
+        }
+        queue.async {
+            let image = self.image(path, pixels: pixels)
+            DispatchQueue.main.async { completion(image) }
+        }
+    }
+
+    func invalidate(_ path: String) {
+        // NSCache can't enumerate; drop everything. Only hit when a cover is replaced.
+        cache.removeAllObjects()
+    }
+
+    private static func decode(path: String, maxPixels: Int) -> NSImage? {
+        let url = URL(fileURLWithPath: path) as CFURL
+        guard let source = CGImageSourceCreateWithURL(url, [kCGImageSourceShouldCache: false] as CFDictionary) else {
+            return nil
+        }
+        let options: [CFString: Any] = [
+            kCGImageSourceCreateThumbnailFromImageAlways: true,
+            kCGImageSourceCreateThumbnailWithTransform: true,
+            kCGImageSourceShouldCacheImmediately: true,
+            kCGImageSourceThumbnailMaxPixelSize: maxPixels
+        ]
+        guard let cg = CGImageSourceCreateThumbnailAtIndex(source, 0, options as CFDictionary) else { return nil }
+        return NSImage(cgImage: cg, size: NSSize(width: cg.width, height: cg.height))
+    }
+}

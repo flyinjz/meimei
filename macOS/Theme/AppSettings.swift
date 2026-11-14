@@ -1,121 +1,130 @@
------BEGIN I2S ENCRYPTED FILE-----
-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
-tGOjng==
------END I2S ENCRYPTED FILE-----
+import SwiftUI
+import AppKit
+
+/// Owns the persisted preferences. Every view reads through this one object.
+@MainActor
+final class AppSettings: ObservableObject {
+    @Published var data: AppSettingsData {
+        didSet {
+            guard data != oldValue else { return }
+            DefaultsStore.save(data, key: Self.defaultsKey)
+            AppFont.family = data.fontFamily
+        }
+    }
+
+    private static let defaultsKey = "com.meimei.player.appSettings.v1"
+
+    init() {
+        var loaded = DefaultsStore.loadLenient(AppSettingsData.self, key: Self.defaultsKey)
+        // Oct 2026: the window became translucent glass. Move everyone off the
+        // old tinted defaults once; later choices are kept.
+        if !UserDefaults.standard.bool(forKey: Self.glassMigrationKey) {
+            UserDefaults.standard.set(true, forKey: Self.glassMigrationKey)
+            if loaded.backdropStyle == .ambient { loaded.backdropStyle = .translucent }
+        }
+        // v2: the translucent backdrop let the wallpaper tint every window;
+        // move back to the neutral one once.
+        if !UserDefaults.standard.bool(forKey: Self.neutralBackdropMigrationKey) {
+            UserDefaults.standard.set(true, forKey: Self.neutralBackdropMigrationKey)
+            if loaded.backdropStyle == .translucent { loaded.backdropStyle = .ambient }
+        }
+        // v3: the window became tinted Liquid Glass (theme-colored, showing
+        // what's behind it); the earlier neutral fallback was a stopgap.
+        if !UserDefaults.standard.bool(forKey: Self.windowGlassMigrationKey) {
+            UserDefaults.standard.set(true, forKey: Self.windowGlassMigrationKey)
+            if loaded.backdropStyle == .ambient { loaded.backdropStyle = .translucent }
+        }
+        data = loaded
+        AppFont.family = data.fontFamily
+    }
+
+    private static let windowGlassMigrationKey = "com.meimei.player.windowGlassMigration.v3"
+
+    private static let glassMigrationKey = "com.meimei.player.liquidGlassMigration.v1"
+    private static let neutralBackdropMigrationKey = "com.meimei.player.neutralBackdropMigration.v2"
+
+    func resetToDefaults() {
+        data = AppSettingsData()
+    }
+
+    /// Enabled optional columns, in the table's canonical order.
+    var orderedVisibleColumns: [TrackColumnKind] {
+        TrackColumnKind.allCases.filter { data.visibleColumns.contains($0) }
+    }
+
+    /// Keeps at least one optional column so the table never collapses to the title alone.
+    func toggleColumn(_ column: TrackColumnKind) {
+        if let i = data.visibleColumns.firstIndex(of: column) {
+            guard data.visibleColumns.count > 1 else { return }
+            data.visibleColumns.remove(at: i)
+        } else {
+            data.visibleColumns.append(column)
+        }
+    }
+
+    /// The active skin with appearance preferences applied: divider
+    /// strength, corner roundness, and glass surfaces. Under glass, flat
+    /// fills become transparent so the panes' glass (tinted with the
+    /// theme's panel color) carries the theme instead.
+    func styled(_ skin: Skin) -> Skin {
+        // The rules are the shared core's (`SkinRules`); this only turns them into colours.
+        let r = SkinRules.styled(accent: skin.accent.rgba, accentDim: skin.accentDim.rgba, accentGlow: skin.accentGlow.rgba,
+                                 textOnAccent: skin.textOnAccent.rgba, skinID: skin.id,
+                                 tokens: AppSession.shared.customize.tokens, settings: data)
+        var s = skin
+        if r.accentOverridden {
+            s.accent = Color(r.accent)
+            s.accentDim = Color(r.accentDim)
+            s.accentGlow = Color(r.accentGlow)
+            s.textOnAccent = Color(r.textOnAccent)
+        }
+        s.bgVoid = Color(r.bgVoid)
+        s.bgPanel = Color(r.bgPanel)
+        s.bgRow = Color(r.bgRow)
+        s.bgRowAlt = Color(r.bgRowAlt)
+        s.bgRaised = Color(r.bgRaised)
+        s.hairline = Color(r.hairline)
+        s.textPrimary = Color(r.textPrimary)
+        s.textSecondary = Color(r.textSecondary)
+        s.textTertiary = Color(r.textTertiary)
+        s.lcdOn = Color(r.lcdOn)
+        s.lcdOff = Color(r.lcdOff)
+        s.lcdBackground = Color(r.lcdBackground)
+        s.selection = Color(r.selection)
+        s.hover = Color(r.hover)
+        s.glassTint = nil
+        s.panelOpacity = r.panelOpacity
+        s.borderWidth = CGFloat(r.borderWidth)
+        s.showTicks = r.showTicks
+        s.tickLength = CGFloat(r.tickLength)
+        s.isGlass = r.isGlass
+        s.allowsBackdropBleed = r.allowsBackdropBleed
+        return s
+    }
+
+    /// The backdrop actually shown: From Cover is about the cover, so it
+    /// always sits on the blurred art.
+    func effectiveBackdrop(for skin: Skin) -> BackdropStyle {
+        SkinRules.effectiveBackdrop(skinID: skin.id, settings: data)
+    }
+}
+
+extension ClosedRange where Bound: Comparable {
+    func clamp(_ value: Bound) -> Bound { Swift.min(upperBound, Swift.max(lowerBound, value)) }
+}
+
+/// System appearance preferences that change how Meimei's glass looks.
+enum SystemAppearance {
+    /// "Allow wallpaper tinting in windows" (System Settings → Appearance).
+    /// The window server tints every see-through surface toward the
+    /// wallpaper; apps can't opt out individually.
+    static var wallpaperTintingOn: Bool {
+        !(UserDefaults(suiteName: UserDefaults.globalDomain)?.bool(forKey: "AppleReduceDesktopTinting") ?? false)
+    }
+
+    static func openSettings() {
+        if let url = URL(string: "x-apple.systempreferences:com.apple.Appearance-Settings.extension") {
+            NSWorkspace.shared.open(url)
+        }
+    }
+}

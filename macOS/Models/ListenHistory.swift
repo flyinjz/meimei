@@ -1,202 +1,229 @@
------BEGIN I2S ENCRYPTED FILE-----
-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
-9xdyWZF3e5Kakhk=
------END I2S ENCRYPTED FILE-----
+import Foundation
+import CryptoKit
+import Combine
+
+// MARK: - Keys
+
+struct KeychainHistorySecrets: HistorySecrets {
+    #if DEBUG
+    private let service = "i2s.history.debug"
+    #else
+    private let service = "i2s.history"
+    #endif
+
+    func read(_ name: String) -> Data? {
+        let query: [String: Any] = [kSecClass as String: kSecClassGenericPassword, kSecAttrService as String: service,
+                                    kSecAttrAccount as String: name, kSecReturnData as String: true,
+                                    kSecMatchLimit as String: kSecMatchLimitOne]
+        var out: CFTypeRef?
+        guard SecItemCopyMatching(query as CFDictionary, &out) == errSecSuccess else { return nil }
+        return out as? Data
+    }
+
+    func write(_ data: Data, _ name: String) {
+        let query: [String: Any] = [kSecClass as String: kSecClassGenericPassword, kSecAttrService as String: service,
+                                    kSecAttrAccount as String: name]
+        if SecItemUpdate(query as CFDictionary, [kSecValueData as String: data] as CFDictionary) == errSecItemNotFound {
+            var item = query
+            item[kSecValueData as String] = data
+            SecItemAdd(item as CFDictionary, nil)
+        }
+    }
+}
+
+/// The Mac's signing keys: inside the Secure Enclave where the Mac has one.
+/// What's stored is a handle only this Mac's Enclave can use.
+struct EnclaveHistorySigner: HistorySigning {
+    let key: SecureEnclave.P256.Signing.PrivateKey
+    var stored: Data { key.dataRepresentation }
+    var isHardware: Bool { true }
+    var publicKey: P256.Signing.PublicKey { key.publicKey }
+    func sign(_ data: Data) throws -> Data { try key.signature(for: data).derRepresentation }
+}
+
+struct EnclaveKeyMaker: HistoryKeyMaker {
+    func make(hardware: Bool) throws -> HistorySigning {
+        if hardware && SecureEnclave.isAvailable { return EnclaveHistorySigner(key: try SecureEnclave.P256.Signing.PrivateKey()) }
+        return try SoftwareKeyMaker().make(hardware: false)
+    }
+    func restore(_ data: Data, hardware: Bool) throws -> HistorySigning {
+        hardware ? EnclaveHistorySigner(key: try SecureEnclave.P256.Signing.PrivateKey(dataRepresentation: data))
+                 : try SoftwareKeyMaker().restore(data, hardware: false)
+    }
+}
+
+// MARK: - App side
+
+/// The history as the app sees it: opened off the main thread at launch,
+/// then appended to as listens finish.
+@MainActor
+final class ListenHistory: ObservableObject {
+    @Published private(set) var listens: [Listen] = []
+    @Published private(set) var report = ListenLog.Report()
+    @Published private(set) var isReady = false
+    /// Why the history couldn't be opened, if it couldn't.
+    @Published private(set) var failure: String?
+    /// Called with each listen once it's sealed on disk.
+    var onListen: ((Listen) -> Void)?
+    /// Called once the history has been read back and checked.
+    var onReady: (() -> Void)?
+
+    private var log: ListenLog?
+    private let queue = DispatchQueue(label: "i2s.history", qos: .utility)
+
+    var device: UUID? { log?.identity.device }
+    var stats: ListenStats { ListenStats(listens) }
+
+    /// Opens the history kept under `support`.
+    /// `seed` (DEBUG, scratch libraries only): tracks to build a made-up past from.
+    func open(support: URL, seed: [Track] = []) {
+        var dir = support.appendingPathComponent("History", isDirectory: true)
+        var secrets: HistorySecrets = KeychainHistorySecrets()
+        #if DEBUG
+        if ProcessInfo.processInfo.environment["MEIMEI_SUPPORT_DIR"] != nil {
+            // Scratch libraries keep their keys beside them.
+            try? FileManager.default.createDirectory(at: dir, withIntermediateDirectories: true)
+            secrets = FileHistorySecrets(dir: dir)
+        } else if DebugHooks.isHeadless {
+            // Test runs without a scratch library never touch the real history.
+            isReady = true
+            return
+        } else {
+            // Debug builds keep a history of their own, apart from the release app's.
+            dir = support.appendingPathComponent("History-debug", isDirectory: true)
+        }
+        #endif
+        #if DEBUG
+        let seedCount = ProcessInfo.processInfo.environment["MEIMEI_SUPPORT_DIR"] == nil ? 0
+            : Int(ProcessInfo.processInfo.environment["MEIMEI_SEED_LISTENS"] ?? "") ?? 0
+        #endif
+        queue.async { [secrets, dir] in
+            #if DEBUG
+            if seedCount > 0 { ListenSeeder.seed(dir: dir, secrets: secrets, tracks: seed, count: seedCount) }
+            #endif
+            let result = Result { try ListenLog(dir: dir, secrets: secrets) }
+            DispatchQueue.main.async {
+                switch result {
+                case .success(let log):
+                    self.log = log
+                    self.listens = log.listens
+                    self.report = log.report
+                    if !log.report.isClean {
+                        NSLog("i2s: history check: %d accepted, %d rejected, %d implausible, %d gaps",
+                              log.report.accepted, log.report.rejected, log.report.implausible, log.report.gaps)
+                    }
+                case .failure(let error):
+                    self.failure = String(describing: error)
+                    NSLog("i2s: history could not be opened: %@", String(describing: error))
+                }
+                self.isReady = true
+                self.onReady?()
+            }
+        }
+    }
+
+    func record(_ listen: Listen) {
+        guard let log else { return }
+        queue.async {
+            let result = Result { try log.append(listen) }
+            DispatchQueue.main.async {
+                switch result {
+                case .success(let l):
+                    self.listens.append(l)
+                    self.onListen?(l)
+                case .failure(let error):
+                    NSLog("i2s: listen not recorded: %@", String(describing: error))
+                }
+            }
+        }
+    }
+
+    /// Waits for writes in flight and brings the check-point up to date. Called on quit.
+    func flush() {
+        let log = self.log
+        queue.sync { log?.close() }
+    }
+}
+
+/// Times how long the current track is actually heard and hands finished
+/// listens to the history. Time counts only while playing with the volume
+/// above zero, by the monotonic clock: seeking ahead or changing the date
+/// adds nothing. Every full play counts, repeat-one included.
+@MainActor
+final class ListenTracker {
+    private let player: PlayerController
+    private let history: ListenHistory
+    private var track: Track?
+    private var startedAt: Date?
+    private var heard: TimeInterval = 0
+    private var audibleSince: TimeInterval?
+    private var subscriptions: Set<AnyCancellable> = []
+
+    init(player: PlayerController, history: ListenHistory) {
+        self.player = player
+        self.history = history
+        player.$currentTrack
+            .sink { [weak self] t in self?.trackChanged(t) }
+            .store(in: &subscriptions)
+        player.engine.$isPlaying
+            .sink { [weak self] playing in self?.audibleChanged(playing: playing, volume: nil) }
+            .store(in: &subscriptions)
+        player.engine.$volume
+            .sink { [weak self] volume in self?.audibleChanged(playing: nil, volume: volume) }
+            .store(in: &subscriptions)
+    }
+
+    private static var uptime: TimeInterval { ProcessInfo.processInfo.systemUptime }
+
+    private func trackChanged(_ new: Track?) {
+        guard new?.id != track?.id else { return }
+        finish()
+        begin(new)
+    }
+
+    /// The engine finished `finished` (and may already be on the next, or the same one again).
+    func completed(_ finished: Track) {
+        if track?.id == finished.id { finish() }
+        DispatchQueue.main.async { [weak self] in
+            guard let self, self.track == nil else { return }
+            self.begin(self.player.currentTrack)
+        }
+    }
+
+    private func begin(_ t: Track?) {
+        track = t
+        startedAt = nil
+        heard = 0
+        audibleSince = nil
+        audibleChanged(playing: nil, volume: nil)
+    }
+
+    // `@Published` delivers before the property changes, so take the new value from the event.
+    private func audibleChanged(playing: Bool?, volume: Float?) {
+        let audible = track != nil && (playing ?? player.engine.isPlaying) && (volume ?? player.engine.volume) > 0
+        if audible, audibleSince == nil {
+            audibleSince = Self.uptime
+            if startedAt == nil { startedAt = Date() }
+        } else if !audible, let since = audibleSince {
+            heard += Self.uptime - since
+            audibleSince = nil
+        }
+    }
+
+    /// Ends the current listen; records it if it was heard long enough.
+    func finish() {
+        if let since = audibleSince { heard += Self.uptime - since }
+        defer {
+            track = nil
+            startedAt = nil
+            heard = 0
+            audibleSince = nil
+        }
+        guard let t = track, let startedAt, let device = history.device,
+              ListenRules.counts(heard: heard, duration: t.duration) else { return }
+        history.record(Listen(id: UUID(), trackID: t.id, trackKey: Listen.key(for: t), title: t.title,
+                              artist: t.displayArtist, album: t.album, albumArtist: t.albumArtist,
+                              trackDuration: t.duration, startedAt: startedAt, endedAt: Date(),
+                              heardSeconds: heard, device: device))
+    }
+}

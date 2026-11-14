@@ -1,162 +1,186 @@
------BEGIN I2S ENCRYPTED FILE-----
-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
-MTSMEN0Nwwc=
------END I2S ENCRYPTED FILE-----
+import SwiftUI
+
+/// Creates a playlist (manual or smart) or edits an existing one.
+struct PlaylistEditorSheet: View {
+    @ObservedObject var library: LibraryStore
+    var existingID: UUID?
+    /// Tracks a new manual playlist starts with (New Playlist from Selection).
+    var initialTrackIDs: [UUID] = []
+    var skin: Skin
+    var onDismiss: () -> Void
+
+    @State private var name = ""
+    @State private var isSmart = false
+    @State private var matchAll = true
+    @State private var rules: [SmartRule] = [SmartRule()]
+    @State private var order: SmartOrder = .library
+    @State private var limitEnabled = false
+    @State private var limit = "25"
+
+    private var existing: Playlist? { existingID.flatMap(library.playlist(id:)) }
+    private var trimmedName: String { name.trimmingCharacters(in: .whitespacesAndNewlines) }
+
+    private var title: String {
+        guard let existing else { return initialTrackIDs.isEmpty ? "New Playlist" : "New Playlist from Selection" }
+        return existing.isSmart ? "Edit Smart Playlist" : "Rename Playlist"
+    }
+
+    private var subtitle: String {
+        if isSmart { return "Matches update automatically as your library changes." }
+        if !initialTrackIDs.isEmpty { return initialTrackIDs.count == 1 ? "Starts with 1 track." : "Starts with \(initialTrackIDs.count) tracks." }
+        return "Add tracks by dragging them onto it, or right-click → Add to Playlist."
+    }
+
+    private var previewCount: Int {
+        let draft = Playlist(name: "", isSmart: true, matchAll: matchAll, rules: rules, smartOrder: order, smartLimit: limitValue)
+        return draft.resolveSmart(from: library.tracks).count
+    }
+
+    private var limitValue: Int? { limitEnabled ? Int(limit).flatMap { $0 > 0 ? $0 : nil } : nil }
+
+    var body: some View {
+        VStack(alignment: .leading, spacing: 0) {
+            DialogHeader(title: title, subtitle: subtitle, skin: skin)
+            Hairline(color: skin.hairline)
+
+            VStack(alignment: .leading, spacing: 14) {
+                DialogTextField(placeholder: "Name", text: $name, skin: skin)
+
+                if existing == nil && initialTrackIDs.isEmpty {
+                    SettingsSegmented(options: [false, true], selection: $isSmart, label: { $0 ? "Smart Playlist" : "Playlist" }, skin: skin)
+                }
+
+                if isSmart { smartEditor }
+            }
+            .padding(18)
+
+            Hairline(color: skin.hairline)
+            HStack {
+                if isSmart {
+                    Text(previewCount == 1 ? "1 track matches" : "\(previewCount) tracks match")
+                        .font(AppFont.ui(11))
+                        .foregroundStyle(skin.textTertiary)
+                }
+                Spacer()
+                DialogButton(title: "Cancel", skin: skin, action: onDismiss)
+                    .keyboardShortcut(.cancelAction)
+                DialogButton(title: existing == nil ? "Create" : "Save", prominent: true, enabled: canSave, skin: skin, action: save)
+                    .keyboardShortcut(.defaultAction)
+            }
+            .padding(14)
+        }
+        .frame(width: 560)
+        .glassSheet(skin)
+        .preferredColorScheme(.dark)
+        .onAppear(perform: load)
+    }
+
+    private var smartEditor: some View {
+        VStack(alignment: .leading, spacing: 10) {
+            HStack(spacing: 8) {
+                Text("Match")
+                    .font(AppFont.ui(12))
+                    .foregroundStyle(skin.textSecondary)
+                SettingsSegmented(options: [true, false], selection: $matchAll, label: { $0 ? "all rules" : "any rule" }, skin: skin)
+                    .frame(width: 180)
+            }
+            VStack(spacing: 6) {
+                ForEach($rules) { $rule in
+                    ruleRow($rule)
+                }
+            }
+            Button {
+                rules.append(SmartRule())
+            } label: {
+                Label("Add Rule", glyph: "plus")
+                    .font(AppFont.ui(11.5, weight: .medium))
+                    .foregroundStyle(skin.accent)
+            }
+            .buttonStyle(.plain)
+
+            Hairline(color: skin.hairline).padding(.vertical, 2)
+
+            HStack(spacing: 8) {
+                Text("Order by")
+                    .font(AppFont.ui(12))
+                    .foregroundStyle(skin.textSecondary)
+                DialogMenu(options: SmartOrder.allCases, selection: $order, label: \.label, skin: skin)
+                    .frame(width: 160)
+                Spacer()
+                SettingsToggleSwitch(isOn: $limitEnabled, skin: skin)
+                Text("Limit to")
+                    .font(AppFont.ui(12))
+                    .foregroundStyle(limitEnabled ? skin.textSecondary : skin.textTertiary)
+                DialogTextField(text: $limit, skin: skin)
+                    .frame(width: 52)
+                    .disabled(!limitEnabled)
+                    .opacity(limitEnabled ? 1 : 0.5)
+                Text("tracks")
+                    .font(AppFont.ui(12))
+                    .foregroundStyle(limitEnabled ? skin.textSecondary : skin.textTertiary)
+            }
+        }
+    }
+
+    private func ruleRow(_ rule: Binding<SmartRule>) -> some View {
+        HStack(spacing: 6) {
+            DialogMenu(options: SmartField.allCases, selection: rule.field, label: \.label, skin: skin)
+                .frame(width: 150)
+                .onChange(of: rule.wrappedValue.field) { field in
+                    let allowed = SmartOp.ops(for: field)
+                    if !allowed.contains(rule.wrappedValue.op), let first = allowed.first {
+                        rule.wrappedValue.op = first
+                    }
+                }
+            DialogMenu(options: SmartOp.ops(for: rule.wrappedValue.field), selection: rule.op, label: \.label, skin: skin)
+                .frame(width: 130)
+            if rule.wrappedValue.field.kind != .flag {
+                DialogTextField(placeholder: rule.wrappedValue.field.kind == .number ? "0" : "Value", text: rule.value, skin: skin)
+            } else {
+                Spacer()
+            }
+            Button {
+                rules.removeAll { $0.id == rule.wrappedValue.id }
+            } label: {
+                Glyph("minus.circle", size: 12)
+                    .frame(width: 20, height: 20)
+            }
+            .buttonStyle(GlyphButtonStyle(skin: skin))
+            .disabled(rules.count < 2)
+            .help("Remove rule")
+        }
+    }
+
+    private var canSave: Bool {
+        !trimmedName.isEmpty && (!isSmart || !rules.isEmpty)
+    }
+
+    private func load() {
+        guard let existing else { return }
+        name = existing.name
+        isSmart = existing.isSmart
+        matchAll = existing.matchAll
+        rules = existing.rules.isEmpty ? [SmartRule()] : existing.rules
+        order = existing.smartOrder
+        if let l = existing.smartLimit {
+            limitEnabled = true
+            limit = String(l)
+        }
+    }
+
+    private func save() {
+        guard canSave else { return }
+        if let existing {
+            if existing.isSmart {
+                library.updateSmartPlaylist(existing.id, name: trimmedName, rules: rules, matchAll: matchAll, order: order, limit: limitValue)
+            } else {
+                library.renamePlaylist(existing.id, to: trimmedName)
+            }
+        } else if isSmart {
+            library.createSmartPlaylist(named: trimmedName, rules: rules, matchAll: matchAll, order: order, limit: limitValue)
+        } else {
+            library.createPlaylist(named: trimmedName, trackIDs: initialTrackIDs)
+        }
+        onDismiss()
+    }
+}

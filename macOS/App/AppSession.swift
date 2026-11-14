@@ -1,77 +1,92 @@
------BEGIN I2S ENCRYPTED FILE-----
-AEdJVENSWVBUALewFjdqrCSKNtY04/Vg0SiApwAgbLVZ2Yb6hCLCdjrQLL168poE
-/rAb5iwHP7m3z5StTQrsk9i1cp56m+roxIOC0FsZZwLj9bUu/b5wQCzDIliJX3Kk
-dvQJIOYmfOokuDHzyILHNGubRHSQm8QMk9FTUShz8GInhA5TpzkUvVLOlJBBph7b
-u9IFttH2Eaju/rWL9K+GX49FPzOZKpe3Gbp0adtaGI809dpiSD4SUOsH2KyNoyUj
-I328Dggg+EWQs8sqX/g4U4ALbpXpoEB5moHuZ/XJMPMriPzhG28pS5OqfUdeDhTX
-ngLjapHlXnHq/eOP2kmy0HpA6S5lyOzdF0kiU4NMcjWWFXyOAuqZgQrgjOIkONmO
-bmL/H8UOo0cF0b1ThxVB9ClZZy3DCp7v68Y/VWcsCJhQHrOvAMNtaRSB8YN8Tnuy
-jsJ4oD3N42lViDXwdB2kDgsZpM0wTWC4E2ZB8JqBgM1R9xOjF7a4z7uJVUt8Jcpf
-TnZ+v2JmaKzF+jMmsxKUcoHHjGNSdN+YFrQtozccp8ym/wQB+Nue8ukpfT7L7AYf
-92A6lT2RkCp+lg2kpokOexno2gM9YUFqeLfqMbRarDGx2BUkyskmu9qrj3CqaVOY
-WG6n0hXN/DpIlSspeFQHu5+nc5EmA+d/gABwhsSLvR/8y8MZpGRFAG9z3d/M20KC
-VWytvFxXnsYuF7eLGmoRvqqx6wx8NJlYOYqswGe1arYYI3xdzFA/9hxgBQgGc+Ey
-MKIm4S0T/a9H8yu4jYwLXvGnXze1T9mRH7T7tuq9W4q7AKUteZ5vRqUhGlQQ0YfS
-x/H/5kSlT6Zc9nWiiIokBP/P6aAM82VRRbRjrr3CHdvvTk63U2/lfkhBw5urojCG
-fJmNH2xk39HIXgkTe1tjZKWVYWJnvMCwvEEcCSpInY0hPbM54kKeFTU8rAnnQlzG
-CN5hoCcC7Vjuv9TX0Aqs7xtEnbWZFkrLxLoSY+7euKlWwgCIOe3MMk+8tFyDMqdp
-Yra66FjUhDruo2aX8b6xr3PITCjZE7yirGb5P+q4UubmkydkUlW/WOmTS3a/h62q
-xZBh7g/tr4D2UKYzBmj8bH6NyuF1Tae1q6CZAuyNEjrG0ZGGpj0IHSMLlISPos3z
-CAUKyYT9M2KDHCzJwF87vDXQgsHMcy/9/cmywm3vCyTQZMmuvR3AXsNRB7QPd5qI
-JA9edPz8Tx/OuiKl3+PpDUQ6l+HPjNQU3xp8Eb+Ipq6KA3VY9SAMoQQkUU6w/OAH
-nx7GBe7Igm+3gvCiEgbZIKqVGjLUTppEGBjsckYPgCyDWgEA4Z0kslA6OX6UhH+2
-NSGR9ikPIYhSkDjZmkIMXji4Zz0ruPFHGplWWcgCu6KR+3sxFLFlMTyW+X0/Utpr
-l2SDb5O/frXwSSxka0IHuOOBzWzfMCab33WHXSAnaR7TTDYjJsn0wIKG1KoW82jT
-WQCMAXAccUxMzPSmA7VrBFvMfpv1uiv61dhXxH8Q957uDA2cwGU0jzuD/qxvmL9o
-xJstsMZI54jglLhD1adPu/RtRh6B7pau+oK84rq0ctXq4r2WcA8yfyNQMP2AKl8T
-i2RDo/eeEdXXZ2KIqPqf798Jx6jVMehyCxBVULwuR++N7B3Fxqwzf7aCafD+2My1
-6mG37TOVQQagA+QoH/fEavzzSOyrpxZ+Q90f9ZSDqSY4Cw8t+N0VCziwg5dWFoMw
-pxwIqOOV7vOR/3ZamTfvFYM4DK2DLNJbfYW/C8r9q9A0YH2HfinPqYW7GwwJ1yvv
-WC6iGy0vcgC80I2wHQZNUDMUAX+rUnveIfDfc0Ndc7bSNIdQhHjK3YXQURYHHy7m
-OcfNQlxs1de4rhPpEfeZIVSRVaUQoRpt8MJdCdgTcIGNsn1CEYi1irllGwETae82
-Ri8Icr0ucYWcH7Hld/yhDPVWvuRQiC4kTqGp172eZktSow11TiF2GR0woBERuH6H
-OVlRi317x5SqWUj4Yw6xyWUshY0JDssfRhEbu9EzNcos60NgDXVxV8ypRjQ0EMfp
-jTVIl64wEZs+ioi70AjR/x6iv8gvDNqxwbb91yWgEASKGcxrdDkybqS7srFAs1Ot
-KfOpj6sNq0PcoJ0tXDYcGL32sp1PmAGuwI2ueGuvBuzyoBdpzIu+9N59oZKJeyX2
-NNhUAkAGLUuFQxkxFxJbIYrUpWMjPDtgycb7AejGBQsH8ZODtNLstdWfuvCxLeK0
-p4jx0FW9lfp2s+i1iuX1AjT3yNJ9/dKLy40UJOYngSpD9CFGCfRUhhprNO1PG55D
-T7K25Q8EuqxRxbnkythpfCRUBuo0GQ045vtfmcHsMDgLvhCuaRLXFzifwOgwtG/B
-tNyRBu7OdNvfq50ANj5+Ppzb9hqtrbWQkRkW4nl467r656iou7iAxKv7CWOZp3FR
-uGyOGR1kR8z9s55ajwD5ciqNq4rSt02WPZPBk4CtSYixC/YoIua50Ai95w6rf7BN
-qCigeIYYsuDcSx8xyQiZJUFMnaTZRWOFzB5brtIV1h8IVYK3YWjoYG6hz5ClduY3
-oKgJFmAIwc0DF82Aie8HJtTkHhwUEsY7r3w46fLq+WEzK2b2JyKCE6UXf2WcU/g7
-f4V+7EZTvAOGvS2X1NBWDk0uCSTwW1o90GYtRqPeTbjqxtb0xmUWo3B4JeldwUjN
-QYtyLrwJJ1NQmke4JHqjSJNOne06kqLPGKT3kPfOdITkZVhcuhfGv0PIgP4K4NJo
-Ui8NLJOc+6vrWzDpVXKeI/+8jp1kT/oVgl71am8pnpRyQM0Xowx0ZN9GLwJ4P+71
-Qro5AkxQPwoHBqIBinrjcVGMEE3vyO7MPcYv9530ndkjsRzEyJxO6uLVBFIcoVqz
-JvdXkYThCQSqlpouDsC1sw/Cu8cKtTz4rX6oCvUFtGCLxnChvhPSMumujHBZ8kHa
-NetdZSSJxixk323rbXPTifI2Bs+ZBA5ECnlqnm1+pBfjulmYWE/X1UeajK+ru4Mf
-XoPLkISxUkvb95KFTzOhNRSaALk2d+E5zcyFGWRBfc/l0KcmnuWK3qkem28AIGyH
-PzPQpZI+ARD6PmRxwZ+iancJuTUkfYXPy9OQxTbqRCV6zLhzwyYEQ+j9HTW9pHS8
-RFxp4KdG8KXeVl5dcVXXZjcCb5CziuWZIYuzsUtA+LsJeQSw1PtWhINmEyRzfS+P
-JiXlf86lcqDRvHDPoAnB9FtcdsKRfm73FfYe/m5DnbDff4oMiofgiLIR6VcAM/NC
-m25acJIEODhXuo+og3ieeZlPsnX9yiA0LQDv42Sbkw0uBlcyPBqwoTV7pA351g2A
-+oYIsha3oFpI81XRUPfVK3YZ+e68tJx5UGfSFHFJlGBF3msOVQn9t5zrnwUHvtJH
-6GHn+XFQvVARch8gKegA1lz130GVFb9eVx1SVnszMu2oI2RUlzBHVWqrIOwXXWNl
-oZXxvZqXuP7Eysl2kNlqVJ6FnV7Hl1KMQSHYq4lj4EptHPcWVrhKOijmA1LfW/FR
-ohbQpec8MMtI9THwdSHNuC74pEJgPEOsAy3mj/cZ14XlQnqPH3dFydVjQbEeSvPQ
-ECl5X0cGBUNE0Mxv2HTQZPsdibFKl0qzWjtUzUVdwx6PeGtR/juXYD/8mSYXaRhA
-9z70MMzMolEVFsq+P1MQfH2437aoZh+V9wgS2K4Q2eg102m2GZbp5mhVNjhgnotr
-IRVCV4si67788Qj0t4gTQd8N296Q51UlEclCo+HxzzcQ5ZQHq2elGFUqYGEicg1A
-naWXNeS+qDmc4MfL1KCGrGWeXC07BQQ0ueU2CczfD9xjd7A88rmLHrVUXUUNVKro
-rXjl9fyVo+tbMJQ7Wktu/3frPFoN6IDDpXk6PYN06eCVPBx8SEawaQzoe6owA/8t
-83KvjGNYY1iEPQC22kyQF8T67/NsazWYadHu6DutClB0qEox0ZXyvBTpyGUSZLrK
-zd7YVCZ+FtITQcsORKhJqBXZ0iIITEx9sZq9B4DYIB4j3xbD4wFXRNnz+DZnmcRu
-8G3M/rXXUXeDb8//5l5esJa2cIrPx9ViHlgCkY8vVvn+BzRLJFYc/gSuOGeVw+gP
-OUpuj7CM0rzRd5ZmkfcUlGR3JRA6PPyomV3hzXpnfiHFY1rjIDc/sVPg2Z1YVM4y
-NHoCytAey2ZrDVYrEI+y1DSqWLB3LqQMAmP/tl6Tk8oMIewDo4HHHQcfdz7GXnzq
-zMr8/zSJCL8xcnkJvDNL55dz0rDqlWsvf7Xhx6huDIoqa8/KZ3nu3i9Pqex6JcDM
-y/jfpWTS2rLhNwfmbRFxcNdQ1YbkXOIonVTT3gcle+U91wGfJa4gdRBAa5s/AxrT
-FPcRT6jltCVi7MBRvZ8aWTCnpJ6guBVMfSkHMIs3RKiYYsErLwpDbJcgWY9tVLaB
-8Q+uobD2uacTvDpLi5LK999GjKDuAVddOfqvM8Lh/f4+zgwqyg0ck6/FoZka54GC
-x9P3Og6Cn/1Fc3UaXAzDerSmAtSiLD6x6rMOIfqWjNF7kWiCI4AmZ1jKNVCZtitF
-huTtbS0BKsm1N6b4nTVAgf0Rc0SuhyZ7BG3V0/Qidc1dm/GS7KlDWoEiJwNx9x/q
-hLiudaPLogN/HD6eb+BggR1micPzVdwg/amFxN4iiG8GNw/mQN8PtNl4RrOy93rE
-osPEkJX9ncbe0u7qBCAxMfRFKtHsNA6R7Ecs5cO50W1PlcaVsmaDVqZs+Q1kFh7c
-5jL8Jiq2VhlssmD35Y0uNGkkUcPX6PazWYr9wBk=
------END I2S ENCRYPTED FILE-----
+import Foundation
+import Combine
+
+/// The process-wide model graph, shared by the main window and the mini
+/// player, plus the wiring between its parts.
+@MainActor
+final class AppSession {
+    static let shared = AppSession()
+
+    let library = LibraryStore()
+    let player = PlayerController()
+    let theme = ThemeManager()
+    let settings = AppSettings()
+    let lyrics = LyricsStore()
+    let customize = CustomizeStore()
+    /// Library folders, scanning, and watching.
+    lazy var scanner = LibraryScanner(library: library)
+    /// Saves metadata edits to the library and the files.
+    lazy var metadataSaver = MetadataSaver(library: library)
+    /// Batch lyrics lookups and the index of which tracks have lyrics.
+    lazy var lyricsFinder = LyricsFinder(library: library)
+    /// Soulseek downloads; inert until the user enables and sets it up.
+    lazy var soulseek = SoulseekStore()
+
+    /// The sealed listening history; every play count comes from it.
+    let history = ListenHistory()
+    private var listenTracker: ListenTracker!
+
+    private var subscriptions: Set<AnyCancellable> = []
+
+    private init() {
+        // History keys live in the Secure Enclave on Macs that have one.
+        HistoryKeys.maker = EnclaveKeyMaker()
+        listenTracker = ListenTracker(player: player, history: history)
+        player.onTrackCompleted = { [listenTracker] track in
+            listenTracker?.completed(track)
+        }
+        history.onListen = { [library] listen in
+            library.recordPlay(listen.trackID, at: listen.endedAt)
+        }
+        history.onReady = { [library, history] in
+            library.applyListenStats(history.stats)
+        }
+        history.open(support: library.supportDirectory, seed: library.tracks)
+
+        // Edited or removed tracks update the queue.
+        library.$tracks
+            .dropFirst()
+            .sink { [weak self] _ in
+                guard let self else { return }
+                // `$tracks` fires before the store's lookup tables rebuild; read them next turn.
+                DispatchQueue.main.async {
+                    self.player.refreshTracks { self.library.track(id: $0) }
+                }
+            }
+            .store(in: &subscriptions)
+
+        settings.$data
+            .sink { [weak self] data in
+                guard let self else { return }
+                self.player.crossfadeSeconds = data.crossfadeSeconds
+                self.lyrics.offset = data.lyricsOffset
+                self.player.engine.spectrum.bandCount = data.spectrumBandCount
+                self.theme.artworkBackdropEnabled = data.backdropStyle == .artwork
+                IconTheme.shared.apply(pack: data.iconPack, scale: data.iconScale, overrides: data.iconOverrides)
+            }
+            .store(in: &subscriptions)
+
+        // Cover-driven theme and lyrics follow the playing track.
+        player.$currentTrack
+            .removeDuplicates { $0?.id == $1?.id && $0?.artworkFilePath == $1?.artworkFilePath }
+            .sink { [weak self] track in
+                self?.theme.ingestArtwork(at: track?.artworkFilePath)
+                self?.lyrics.load(for: track)
+            }
+            .store(in: &subscriptions)
+
+        scanner.start()
+
+        if settings.data.resumeLastSession {
+            player.restoreSession { [library] in library.track(id: $0) }
+        }
+    }
+
+    /// Persists everything that's written lazily. Called on quit.
+    func flush() {
+        listenTracker.finish()
+        history.flush()
+        player.saveSession()
+        library.flush()
+    }
+}

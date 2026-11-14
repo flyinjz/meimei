@@ -1,132 +1,151 @@
------BEGIN I2S ENCRYPTED FILE-----
-AEdJVENSWVBUAFgwXpNBC+cy8nhhM4PTuu5WOn8kY8l22s8lG3Cb7xYcQeVBzkcR
-bcwkWsqYHf72Ge5l87DsJV5XKE1NeOMSEr+zIaAx0FoIVJBtC8HsneA3tpEGz/RU
-a+S0gz2FcFmqsJ12iX3EZHrGXslld7MWinLqPzd6x2bQTvVUy2khT9pL85hVOz3L
-N0tSB6bOeBhBuqjkZvbRlahBsBv0MSRnvuw9gn4X/KAIMDBT3q6aHdsOZfZwSyFe
-Vs4h3OLvMBnDmk4TxCruHBx9hL+NCkxin6k/nIJU32c1EMWoHAsMGMhrufCY00MC
-e+DFTSALdWTdRfLScUzr8/PttRiNxP4hrkWnOx7frupyrtJMNDge4WdAx7oXy2gv
-h7ajcXlk+X+8SwznGH0/bByFmw76OMphvNXspA8FN21lJICedNoQGlurQoaJDgZg
-o5hSUd3mHG+oAa4MbplWWO2IlR1lCQ/yS9h+4xVLrmc+qE/oIbwuSFoxyJHFWNja
-LKufMOJUUTqdxEaEtlsusT5vAjiRzvI6QgjvPSBarYvgsWycZxQkPEJiAmDyt4mM
-vPhOZOuxcn3ER9h11K9xEHUIPm1Aj/cAwiAMWvVA/Df5fmVZ8PZwxvHviVYJuDmY
-bO2hmnXWtcjCMf8UQj7jw8ABGJGVT+CXzi/FDQhlD0bY0GfV8J3cMB4eDK4QL+/x
-8voHvGnuVCXwjfDrx2mX9RG3o41s/bzV4RNY3yhp/5lCWIjwvNrsEPAPnidVfND6
-RHk+CHrXkF8SLWg6kADvYFTKkHtdyg6r0HOnhEmModuQc/EwejlkiCYO1BOBtlTn
-A14XccQop0LE3K/bCXHvxJUjURwBYvPZSSfQ3JAMigZ70G8am0kqGysxxJGFRtQW
-QV+gTwwyVecLu9G/JaKbB229iaOfBYK1CBM5tsdvNBuHGbPHsls9psPI23yOr6Xe
-89+HqIAbburS6nzicy+txJo7Bgf5UyKczhJ7uFdVm/OBmNw+hdjSRKt+pYs10ypq
-0lnX3h2bOHowPBevj1CeLHSWr/ebujRwhw8S95XX1yrf0/VHCrYRfnKS1W1xCtzX
-SpcbI9RX4BTR5UBIzwgRq93yVpjQk4o755X9okOzFUQtZRx76WLwyOC5thBzkY5B
-YH6NrkIJ80hTOamg5ItAEo4pnlH8hyIybyAHrucXEysXfVG1xQrEEVeqV7Uf6guM
-1K0uvxS1n7OMF1lIYQ7+gviNpSfL4xlYKurvD9MSPUjeyNf3UZ7LWRUKLMEXo/qo
-lZLbi61krFVLs5FDLR32oOnPAw3OmD5ytB+MyLKRvyrmTIpZtMZfow/+ui4SogLv
-sqbfgXS+UkzNQf62o6wCcwE3NokNYd1jbE+xp6a21bkQBDZPn4P54pk1QF83zs/t
-lO/YDjPzndpjLarACaRO0xjKHmsSFeYarPXBFKwHKaR4BoSqn+slpO7SZOcOsHau
-JGckLJ3oDydoxfoQggezNpXRpq3mb+j/shYbamNYkgv3WEJ61VIWkULnQHerzXJr
-BJapybgq+RFTQSvjyMsNmGzuvH0fvNztdWiCFpTaToYCJMYeWV7N8YyGQ7yLtjpb
-U6okXzEib1Akuha1FbLf7HqgR9ZThf+VZan+bTjU2PP/lJnOt2r1paeAmRL3RlKz
-T8oEMsY9MJ8D+SbLtiBU/bBpAyNo9NXOWaCEu7GEDt2Zj0dTpz5HdYGk0jJxbNM1
-+kg4nbdRPqKHfeEbnuK7O8mpLrAWA6q760zhLwabxiUk/bq+h9o3tcBzNHcP9EfT
-epQK+7NPB+B+fCNxzdqByENCr9ViyUePZH1qUgdoHlV4xgVsV55UH6Nl8Bmy2mSJ
-PGIsAYEQQrppCZc1fCyTzDThbbNxIguFWz1DcuCuQB/ZcQeA0jWzTnLJFAHYcL/D
-TINBJVxCjsMoo2CEIJygDlQAAPhqmDFBb0b0eSLMvC7Ng7yBO7TAUzTDLmrv5GLl
-KjvC9C2Hv4v/L68OwzU+UkH1JkRr3wLNqvsrEOKj1fyr7dudA8JUrUXH6iEklXck
-mcfxqrQr6+rK14Ty8JtK3y83EfRJyvVSkD+Xr6zI0+ClmQ7Ovwn1mhtKabR1WSAD
-30oToPjlET4ZLvdJWJLOtYOL5agcrwDpZiecEJDi40sFa61bwhS0vrFIhKWvX3uL
-3hs31iK+f9eQebi7WaqSd7VxHvb9asQEEGc+bGVqM1463Mu0HL8JwrtGcy4ggXFQ
-7OeEtQJKUbWFreMalvnGl2SyPQLuuCFA8PY7NGhzoUfv36+8cjYrtZznXczwyA3C
-iRcRltb34cBmjvXY4t2kgUnPyoL5YTMiXhov/Aap14ImIxGJJpqxVwfX4Sxxc4S8
-+XDaLOWeHsy/b/bEdag00a9KW4nQ7RCR/zBwlHGsSoxwa5w3BQo+OJgXYeuOKrX0
-Lf3/n8lnaTbyfVE5oBkRjXZW7vNn9PPbFffb5XQxQEg83hHQcsgTnBxH+pD0MMB9
-fmatpCNC2oCTX7mEVT/DSZlidupctxcZcZtZVohkphLlGq0UQvYJHn5N0Vk33vkf
-UJOMDulJl5u+vP5XCZdYlQpnfzOmhtri/5rDITDE7AWiO1aBbk6xrvsch7tScJV1
-lfFcqMYc4Xj5WnlgckCsZWL1dtrcPvPQbo8NMbI0AqK7NWd8zU7WtEMVnToGP4C6
-gqZpyHjWeNPVe3sRtxWNzciErRqpuJEbCcG15/760SLhw35FCXNpWVl5qzQREnmx
-riQvS0Z7/ujT1F83+vwvCL6z2wam36scDE8h8BVcjdym6G04v+wAP8augmH1cxog
-WH2ZzX7oVzTh/znYzcDNlY9elBxd4BGnUVEmImtd2zERrrxhy3uVL8yBlUj8VUmp
-2CMaN+xCKvvbNMK1pAxAiS+qsUPmbvO4Rgrqk9gRfVdR9rxfacP109QrqyXZ/ECD
-g6QOCc46S6r3m2vcKaViQ79vAGj7i6jt5Pm/ETD578qFrPRLUOSfVAK5GD5/0Gi/
-LwbHuR2LreuBmWhvmitDGIUdfQ+0xTyGyEONgcH/wbpkjt9f7ug6Jx35w6Cfz5mb
-S0R0NkBUyt3YnWLvUs/W2V35DCRZPZ6EZ7XbqkqoJTxMVDgmfk1pgRaQtU+Wvnl1
-mzjfGBxveA1h+ZmBHgjGyPDS6ZyS70rp4ZBAnUV/oGchdgl+xgtVs5/lr8K8F9fB
-SPVXSpXYNdq6nF5KipEeaBeA7GFlC3EB6SuOBPOY4FbUv5k5KnavPyDM0VC4dRA6
-yyfQmMQ+6njDavOuW4KvVOikcpZXs1CTAc9Qkv1ittSfmc7ZGCXeksUqhUrZL/kM
-rEtwfBnJnSU0OwZrTcozmLXqryB5KcQHU/kFDF92pzKTiWHDv58LbdM4cEva1yD7
-ZDT+kJZ4r7rb2TEDonPBx6QBRyaAydntnj20uwFhwr3FeZ0ai4S7LSXM1jzXpRbs
-aTqzd0Jt93M9oCWao/tU+AhujH71N6RW79CNo5Arfre4vnFmWXKiW+W1ycd/wJmD
-/s7B8UnrCWcI3KXyzYhGHUALGdbteVTEFN3GhjObp6gepr7zDGcP9l5oI+61i1/e
-m8yCn+n0WrOAEeA9yQK35UhzyVL3vw66H5boQAH2346d7hKC2QW61lbMB0sUUWwC
-PdutoSdyAXzMNNi+m+UOR45U3vnP7CdBnl/ro2CGAl1sNhdMdy+91rWz0kdI0XA0
-n4japNRlFOz9rqP+/4/hHxNaEall+9DYEhzQI5rlMTRYearZm2NLVIF4wsTg3Nzr
-eaU77fOicM84gEWzdUt7Iyzr4vEjvlrxyQFlR8VAbanonnTMTtNphWlY4ZrM+Xhp
-uaoH9PJRBNUE2MLaKRuM2m10tNrUmEBNQ1MEwVvrvsoLcDtKM53qvgE9e7MpUiLx
-/ScVm7Lp2Tsqbr34B1fop13Q8sdUUMzOyS8r2j9uh5nN3dvHWNuKUjFKQpdq1idG
-DUAs5PjpF16E6KrHTdXW9GK+67ASOoX0cl4+CHNsAsXfuCBZHkkT2JRdSeSN8Ufi
-1wkofwH44VqJyPdTyM8hoRMp9znVEDPrZ86+6Em9QYmozEQdp5LMoxA2CIU8JvMf
-+LPcKVBiakiyYpiLUi223Zam9ydbkX5dki9uV/qCwvrMI0eoflrTQteP8iCOCNFX
-B3wwm97O+bk9bWnwIwtt/FITKsUUhIfh0QMKs0UbMMI0CJngbyoGLNGZu2TKDvQZ
-JqIQL+BidG6qeUxA7Y0q9FlLy7CYkKhVF6aWj4HnRPQdYgzOPWI/3hP+Qx4cE1rF
-/dFLnkrvle2zz97lH21beWmzhl3wnB8HrEf77mIZ0gQHt3QP15A5SQJNRoCnGKJR
-nslVhD5uPVbBEsG60U2f+7hHZ6QujO2k/AA1uWVEfntBc7MPFmyC1SOXo2EpJP9B
-lIVNcHITNK+A2y+0sK3X5xJRrL1q9GtkaODzjFIlQYwJ7yKfDtM5hVV82b0T3/Kw
-2iwgUzW+MBxcs7EkGqaVmvwbUZYMvavZWXdttSSZpW19ZFD/8VFuTqtCfUivz0Bm
-10O60kex0t8OSGd8kpisYkeD9rRgoz0WRZoGb+Edgu15ucCg0D93qQJZTTTWF3Ut
-uDuwjIEYEiVth6mycciR4e2QmUl0e8NnR1qw6tTyVbIQz7ofOryc9fTOHTmq6FdF
-D+L88fLt0rxJlCIZlsG5Ryuo9k5OHkgBexZhT3vmxwNS6NVlEM0/IYBkQEa9l23H
-nUL53cU4ArQ0BMXcbcFMDLWRPtWxkRNt3NO6YPMjSyQu4bT/CUoM/S0tgr/dScDw
-iehfhtA2rjCXbef9fhNzRDmeGDUXoBgN6C0x0W28g3nxI0AuA+rcSpUq4dhXbPRo
-SCIVSTVc4Ew5yEuFhwAtBxmXkxIMSkKFhjVuC4dAD/gvwfiV1hMNitKwIIPLvR3v
-txq8tBMaoeKS5OSgnn9LNubiwcpKaiXXOuTdnS4X7A6GOEp6eosZGta9iaDM7ZWa
-yHw5SlitQKlh2s97z3Y+mAbAKARi7PGW3CTun8mgSDCIonRqtds4HMXPo+rQJEYi
-c04QOm0XXjpChH3CRkNxelpkzDgKnbHO0kYbiRGqi03F92gcsOLK+3NYsP5PTK8A
-RCZnA8yRuZZ5p6peI+yGM13SB1UeygxEdHR2NUOHFkTTLBHV8ZkeuUG5UDVFf5R+
-kkv6tA93bSzo32rwOzA+ugAwUqMPiBG/dIoQ3PR7wXEVDWrWuiXvhY25oVp8rhqS
-+BOIgQrPM/hUmwPRFluEFqS2PHWYCU9/A20hUvmbN3TD0umX0kpVU1uRyyJ5/t4E
-xmj0CvXrfLAbrhoI0hZNpvYcy4MOyq3CyfbC/Kt4VrC6nN8Vhvm3du/2CGG1gIoA
-k9S5NhWG4yZStbOe6PNbVP6o5RnZ0h/Box6fEqRTHZEPUNnawHi2gpEQl2oBbwcY
-dmNnUAmTWqproEab5+4jH5YOP8knxXbEFVyXVjjNm768ccZ3Sf2EAAaDE+IPanzx
-CH9aAA8hU5hPuVwoBRYtPu9cDRIHS3nII07lgwfIWZyRyhbjQ1Gxt6N490ADLYrh
-2iWYzrn4zlIlJOJFvpWgexQ5tCeUbpJvZlSoXMFPhlTt0ldEnFmDhBHs5pFEyLMJ
-DyFJQbDxyESRJZ74KX9tjBQSalvSqxlfZipjacSEd1rEIai/6F0+cX31ppceZbW2
-P5SWwIr9M2MIH8IeG43WlatgrFRUZHaf0KhrPHkv3NjivPrmQaXj86E2NKuRwGsL
-U64JCFcP2oenAsMC4MgNvEC/UzngI0TAFoawbSez9VvSI1hAgYNB8UWKtwN0eljK
-8iBPXcL6efg0WUqwDz3pm35aCh2dMHiwc99CharU4B/3tt6zb1DvlwSqAzHYYPvE
-mNUaLBJY43oEmX3b7XX82ecMPl8cJl9wE+Bn4/pn3iAB06cwtFkH8gjuWgJIQ3vU
-m2vROAKs4NXgGSJwGUu928n5lccT8srSRw7y0lNJw9ICaeSR/EjFn2JZB2mOiXHh
-uvW3rI7uwp5lfpZBfcoHTN+5gYLr50Vmzci1I4WXoVsgxZyUwl7xOXSW28xcniGj
-I77ZC2jBNStXWV4wPFTzMgvTQ/xK9NQuJw/KpH77Bnj/CZYibPVwFk+Fu7tFng5k
-XkLbn7rwkbeymmetSwqwEqWeRTHHWuMHugRbHSMIrh8SK/Vry+FOJ9LJ5fWplaCB
-91KmEryArAKkzVce79c/5FTdF29PD++IyvS2Lo8+eGr9yWSRiknbUUGK9u8DwMgt
-iZTVXEscmf1SXNACnmQ/iMXEAE53XQx1UNi1ydtvafQlpkeSshNVULE9mUOYvtQV
-BKVfxZ2yqZFD9DmHF+itO4dbPpQoL1q28TF7xrMiQhEPSV+uvjBAoi4IFaLF6CVk
-lSZnSK+ZrYazvEDTqXuF5kqI+0Exh8cJEjrtvK47Lga3HwqzFru2Yxt0Vlv8ocnS
-8VbcPwKGc4LKIB0Yt2BLEDtADz6y5WOAckA6y8RgP0XBtaBDl8axYGDSF+dIlNzB
-m+mSZCNtomnge4tJ7wyAiiAHNAPyaCqCC4o2cBGOoaOc3zQJ736tja4M1cutrICw
-hSgHTcG+44T23FgEdi3/dvEzkywnkLxtBuW/HZXRmqv0czJXOeth00VgpL55MPXj
-PBeKfkJ8vKqluNMWfWywg6YeUS6SqgkjuKzTNEWFy4pyqYeBFQgITxQ2I4wkHk1S
-F1sqCUihnG05YYAxEAjr4Uf56E/rbCx8XXosCb+8pUBALvPU9a54QEyx+z5X42XU
-ZK/WO7fGhkBx4UMejf7zXucaCN6HdwFMHRjyVPdKmZDlnQEo+c5XZdv2IebpICfG
-ybEwvsQZtPWwII7BD14j+5S9oB7hBr6kbXKBUpWkEzFPBvO+t5XGagmLVgfd9db7
-3N95JWKPpa6KAS0T6cvL1jr8DvVJF5ZOY4Xk03AdFLYVTrOnURZraNYsZuuZa492
-CfJ96B4fHl12qHMb6MraFVnyxK7q7ilyTDWE7qRBxqoYzqX6QEoPR5vI6rWihBiw
-pRic0xB8Idc6UN2ZxzIuyGEkNn10oD8eokoHwdwDoKbf6jtuaXVdMRjUOxI7S4Xe
-/8FSghsHj/tvT5DJocS+TAZqMbtP4gDvfzajcSRFIxTAoJEmbO5gdqXY5Sgjv8Ir
-FoPSPw7D/5p8CeY8kliifHOYUg9OtjQj6wpRGAwwruurqRBCVIr1rSrdpeWoZ1t7
-IEIH4pfMsAfULlm9IAzcz3fqB807PupD3IKbZ++FwYtZyAWoJURORRRQPXTIN1Hd
-Vh8HtnusND9443o8Kfkm5GITfu9RIL3TGd3mfkOSlKYjxODGL+WNRS1aCImwN3Tq
-6kFWBNelHBMIuIauba//COJ/xUJMMTyRX3QT4FYgQRjtMVRr5iDZxz+iDCjwCUCs
-GkPa+YU9658TFmR/98m8gYFUCa7Gg40YHdzRRNwB3MZNtleTdqUkKwEvA9AXMAvd
-v2DaKgRoYPIlSfEnH7pwtgRnLsHmhZ1xSybNfgtAmZnUVscG3Lx3M/VwlHU4bOMU
-5uxaAskP3ygaOyZX5K4UWzzNnCz1Q7vKb50SoptVNnUx1H9EEwIVsk6AzsvNKNdt
-Tly+rsinwM8hn//0N4PFIMLtdpnTE8vpiVk7wUenLZ3ZbADYDMN+boXPvToQ8suZ
-sAJ4sMXGDXyTriASvpsbEABC7tJpaL+nwfNW+He9/aReyXVXkUfYgcU+RT/E57YS
-+qJp3vMAZq1dmWZjUkI50Ly2El1cwSZQa1+UpadCKp24nptzp2UUq4gl12MJXV4Q
-FHIxu2U+cjF+blZi7QwGV9n8u06+WBYT4jj+z5kbbCZj1c3t/zmlXeDmeRMBLWCK
-nJ7eKZheLGaVeRruK4bY3jEIAu0z5nO9EEdIzipYGBHUJjcCNvv8Ztc9fcIlLJL5
-WiJXnBqHRspgq1Mr0o4Y565wVjXKNwojWd797J/htzrQ3q5EwgSKU6VOdJpRmYUq
-NDo6tmD4Fu8C+PhhMiTUhlNUKaUcoExLIHwxu8VblfJj0fvFcW5mdett/TymUG8k
-U4zrUxMs7TSYvlcQ5srILSyiyJVS05N+NAt78M/uA+BcX1IgCnTWztCxzGijCTXb
-YMt1LVFsrIY9GWntM5MlIQhrnmuqL8o7rcmOrwilCG/DXKazl5Wr+eZQ5pQKkiD9
-323imfS4GKaVq7vooyBb3DcM5+XI2sjdfPT9VZ/xT70P1FwJ3EHoIqfrKCRLESid
-G3d6SLRhEXdCwbe43qBNj4DYzPCy6Q==
------END I2S ENCRYPTED FILE-----
+import SwiftUI
+
+/// The coordinate space customizable elements report their frames in: the
+/// main window's root.
+let customizeSpace = "meimei.customize"
+
+/// Every on-screen instance of each customizable element (a role like
+/// "browse rows" has many), collected for the customize overlay.
+struct CustomFramesKey: PreferenceKey {
+    static let defaultValue: [CustomElement: [CGRect]] = [:]
+    static func reduce(value: inout [CustomElement: [CGRect]], nextValue: () -> [CustomElement: [CGRect]]) {
+        value.merge(nextValue()) { $0 + $1 }
+    }
+}
+
+extension View {
+    /// Text drawn in a customizable role: `size`, `weight`, and `color` are
+    /// the design's values, which the user's overrides replace.
+    /// `reportsFrame: false` when the container reports one outline for all
+    /// of its lines instead (lyrics: only what the panel shows).
+    func textRole(_ element: CustomElement, size: CGFloat, weight: Font.Weight = .regular, color: Color,
+                  reportsFrame: Bool = true) -> some View {
+        modifier(TextRole(element: element, size: size, weight: weight, color: color, reportsFrame: reportsFrame))
+    }
+
+    /// A customizable panel's whole surface: the design's glass or solid
+    /// panel (or, with `content`, the denser content layer) plus the user's
+    /// padding, fill, borders, corner ticks, and depth.
+    func panelSurface(_ element: CustomElement, skin: Skin, fallback: Color, content: Bool = false) -> some View {
+        modifier(PanelSurface(element: element, skin: skin, fallback: fallback, content: content))
+    }
+
+    /// Reports this view's frame for `element`, only while customizing.
+    @ViewBuilder
+    func customFrame(_ element: CustomElement, active: Bool) -> some View {
+        if active {
+            background(GeometryReader { geo in
+                Color.clear.preference(key: CustomFramesKey.self, value: [element: [geo.frame(in: .named(customizeSpace))]])
+            })
+        } else {
+            self
+        }
+    }
+}
+
+private struct TextRole: ViewModifier {
+    let element: CustomElement
+    let size: CGFloat
+    let weight: Font.Weight
+    let color: Color
+    var reportsFrame = true
+    @ObservedObject private var store = AppSession.shared.customize
+
+    func body(content: Content) -> some View {
+        let s = store.style(element)
+        let pt = size * CGFloat(s.sizeScale ?? 1) * AppFont.textScale
+        let face = AppFont.face(pt, s.weight?.font ?? weight, in: s.font ?? AppFont.family)
+        content
+            .font(.custom(face, fixedSize: pt).monospacedDigit())
+            .tracking(CGFloat(s.tracking ?? 0))
+            .foregroundStyle(s.color.map { Color(hex: $0) } ?? color)
+            .opacity(s.opacity ?? 1)
+            .modifier(Aligned(align: s.align, lines: s.lines))
+            .modifier(TextShadow(on: s.shadow == true))
+            .customFrame(element, active: store.isActive && reportsFrame)
+    }
+}
+
+/// A legibility shadow, only when asked for: even a clear shadow costs an
+/// offscreen pass per text view.
+private struct TextShadow: ViewModifier {
+    let on: Bool
+    func body(content: Content) -> some View {
+        if on { content.shadow(color: .black.opacity(0.85), radius: 3, y: 1) } else { content }
+    }
+}
+
+/// Alignment and line count, applied only when set so un-styled text keeps
+/// its natural size and the call site's own line limit.
+private struct Aligned: ViewModifier {
+    let align: TextAlign?
+    let lines: Int?
+    func body(content: Content) -> some View {
+        switch (align, lines) {
+        case (nil, nil): content
+        case (nil, let n?): content.lineLimit(n)
+        case (let a?, nil): content.multilineTextAlignment(a.text).frame(maxWidth: .infinity, alignment: a.alignment)
+        case (let a?, let n?): content.lineLimit(n).multilineTextAlignment(a.text).frame(maxWidth: .infinity, alignment: a.alignment)
+        }
+    }
+}
+
+private struct PanelSurface: ViewModifier {
+    let element: CustomElement
+    let skin: Skin
+    let fallback: Color
+    let content: Bool
+    @ObservedObject private var store = AppSession.shared.customize
+
+    func body(content view: Content) -> some View {
+        let s = store.style(element)
+        var sk = skin
+        if let ticks = s.ticks { sk.showTicks = ticks }
+        let depth = Double(s.depth ?? 0)
+        return Group {
+            if content {
+                surfaced(view, s).contentSurface(sk, fallback: fallback)
+            } else {
+                surfaced(view, s).clipShape(Rectangle()).glassSurface(sk, in: Rectangle(), fallback: fallback)
+            }
+        }
+        .overlay {
+            if let border = s.border {
+                EdgeBorder(sides: s.borderSides ?? .all, width: CGFloat(s.borderWidth ?? 1), color: Color(hex: border))
+                    .allowsHitTesting(false)
+            }
+        }
+        .background {
+            if depth > 0 {
+                Rectangle().fill(Color.black.opacity(0.6))
+                    .shadow(color: .black.opacity(0.35 + depth * 0.1), radius: depth * 6, y: depth * 3)
+            }
+        }
+        .customFrame(element, active: store.isActive)
+    }
+
+    private func surfaced(_ view: Content, _ s: ElementStyle) -> some View {
+        view
+            .padding(CGFloat(s.padding ?? 0))
+            .background {
+                if let fill = s.fill { Color(hex: fill).opacity(s.fillOpacity ?? 0.5) }
+            }
+    }
+}
+
+/// A border on chosen sides only.
+private struct EdgeBorder: View {
+    var sides: BorderSides
+    var width: CGFloat
+    var color: Color
+
+    var body: some View {
+        Canvas { ctx, size in
+            let w = width
+            if sides.contains(.top) { ctx.fill(Path(CGRect(x: 0, y: 0, width: size.width, height: w)), with: .color(color)) }
+            if sides.contains(.bottom) { ctx.fill(Path(CGRect(x: 0, y: size.height - w, width: size.width, height: w)), with: .color(color)) }
+            if sides.contains(.leading) { ctx.fill(Path(CGRect(x: 0, y: 0, width: w, height: size.height)), with: .color(color)) }
+            if sides.contains(.trailing) { ctx.fill(Path(CGRect(x: size.width - w, y: 0, width: w, height: size.height)), with: .color(color)) }
+        }
+    }
+}

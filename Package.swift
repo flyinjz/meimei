@@ -1,62 +1,76 @@
------BEGIN I2S ENCRYPTED FILE-----
-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
------END I2S ENCRYPTED FILE-----
+// swift-tools-version: 5.10
+import PackageDescription
+import Foundation
+
+// Two folders of Swift: Core/ is the shared core (logic only: Foundation, no
+// Apple-only frameworks, no UI), macOS/ is the macOS app. On macOS both compile
+// into the app. On Windows and Linux only the core is built, as a library the
+// Qt app calls through its C interface, plus a runner for the core's checks.
+
+#if os(macOS)
+// Raven Tunnel is a Go archive (wireguard-go + netstack) built from RavenTunnel/ into
+// .build-tunnel by the build script; build it once before `swift build`:
+//   (cd RavenTunnel && CGO_ENABLED=1 MACOSX_DEPLOYMENT_TARGET=13.0 go build -trimpath -buildmode=c-archive -o ../.build-tunnel/libraventunnel.a .)
+let tunnelLib = Context.packageDirectory + "/.build-tunnel"
+
+// The app target sits at the package root so it can take both macOS/ and Core/;
+// everything else at the root (fonts, docs, the Go tunnel, local files) is excluded.
+let appExcludes: [String] = {
+    let entries = (try? FileManager.default.contentsOfDirectory(atPath: Context.packageDirectory)) ?? []
+    let others = entries.filter { !$0.hasPrefix(".") && $0 != "macOS" && $0 != "Core" && $0 != "Package.swift" }
+    let coreExtras = ["Core/include"].filter { FileManager.default.fileExists(atPath: Context.packageDirectory + "/" + $0) }
+    return others + coreExtras
+}()
+
+let package = Package(
+    name: "MeimeiPlayer",
+    platforms: [
+        .macOS(.v13)
+    ],
+    targets: [
+        .target(
+            name: "RavenTunnelC",
+            path: "RavenTunnelC",
+            publicHeadersPath: "include"
+        ),
+        .executableTarget(
+            name: "MeimeiPlayer",
+            dependencies: ["RavenTunnelC"],
+            path: ".",
+            exclude: appExcludes,
+            sources: ["macOS", "Core"],
+            linkerSettings: [
+                .unsafeFlags(["-L" + tunnelLib, "-lraventunnel"]),
+                .linkedFramework("CoreFoundation"),
+                .linkedFramework("Security"),
+                .linkedLibrary("resolv"),
+            ]
+        ),
+    ]
+)
+#else
+let package = Package(
+    name: "I2SCore",
+    products: [
+        .library(name: "I2SCore", type: .dynamic, targets: ["I2SCore"]),
+        .executable(name: "I2SCoreCheck", targets: ["I2SCoreCheck"]),
+    ],
+    dependencies: [
+        // Pinned: the version Windows resolved and tested (swift-asn1 1.7.4 comes with it).
+        .package(url: "https://github.com/apple/swift-crypto.git", exact: "4.5.2"),
+    ],
+    targets: [
+        .target(
+            name: "I2SCore",
+            dependencies: [.product(name: "Crypto", package: "swift-crypto")],
+            path: "Core",
+            exclude: ["include"]
+        ),
+        .executableTarget(
+            name: "I2SCoreCheck",
+            dependencies: ["I2SCore"],
+            path: "CoreCheck"
+        ),
+    ]
+)
+#endif

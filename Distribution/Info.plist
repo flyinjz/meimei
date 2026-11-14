@@ -1,24 +1,34 @@
------BEGIN I2S ENCRYPTED FILE-----
-AEdJVENSWVBUAD+G9UJA7IU1rVOuB9dtY9XDhOJKMh07PhalH3dl/k9auu7xep1o
-J1u6ZBKYY0WDSJ6vDYFJXTf67MMv0SrSWkb0lB1eLCqx27cT2EYVU6BQ8l1HI+cc
-KkAF126T5MqgL6e3blbwnJbhyV51xUaV6CADN+hdVxd9YNximvUO3krWJDddC3TP
-5fyYTS+rJic1kz4oqfaK7LGftx4ghbV7/GClWn8IYz7YJV69fWgvXaU61rfE6PdA
-o42FguZztP3L1PU94Cg4BY4DPvbkKgHkmo+3CN9c0E13IcKHvCWlWu1zRVUm7nca
-+bxXvASa3y9QjFZECO0H7HJdL+drQoWsQ4yhDNd0X2z6cV0plfKs+tyInHO4L/36
-kiy9OkxaRxddRN0CsdWdLRbaOgptGewPJLWm6xTrIPVQ8n4iSUdmCwo8ZPEPJWJs
-uYkwAaU/td/12C0GOciWiGIZLdj6BZyrVKk2nDh2pur9WA5jciY68XEEhSQs2mg/
-3ohsRq+3sjAiuFXXlyxIPKrjtGN4gGPr6I9twuhB9lf9YL4cPJ3eOytJYd7r5Wwz
-e7J8iDg0AHSlXT/f4lppqMbJIkFfap0WUOnpNUKe4R/Xg4sJdGl7aQthGEIffVt+
-cObknC505Sn5Sqw2lDD4TWpeVqp5i6721L5WZo95DoyGuJaK63ylOE4pe/fu4owS
-OiKrzFTfHS+qdWJAVYEVWle3siV2wqDddCUyj2Sx4iskQoVAihVKGpFXAN4Nlw/1
-8J39SkSjYqZUljb+Cb5yOtvVF84n+k1EyFi8ln6Mltri5b0QEUB/iEr70efx4AnK
-VLvzD858oNXRO2L69XDEzSZaPH4J74aTTrGInxBuctyRKms/pK/IcvlmA8g5Blgt
-RasYU3GkANotI+butwhMihTmj7WOMJZ8Hx9ko5/MXMRoV7ZcEnVK0nMQC09c1F21
-yiAhioKsZRDmoXSUHB7b79qbfhG6LUqsOoDLl9DYZGkXTdfPCagEjevwFbq+dICA
-hh6UNdJu7iMrGsn4rq+CUsRjUjrJTjqi6DI6ycWC6/qyBY/UvAAhzHxw9kbRDV2x
-qsXDHsBdouILqj3WhI0bjKOZ6PF7XNbSKmmHWH8Vz91CSewDdFK6RVl5GTD/aF9K
-p4fzKZw2rscsBnQv9JFE9jlf29cAX3YQu0BueN68ZeHUG8x7aAbMTj1cSXULx4Ey
-Z4Z4MhipFI/52j2ZrytYssDtZfRBKFMrS7GpM4tWh3CvZ5FxG9rmYJduwewAPI3l
-nTM3vnqa1VGRzGrkgKJONTVpX/W6NSyDNEa8E2IkSfU8UPi42e4JfjMpG2n4IGg2
-H+AK5JGXEttwvJNy
------END I2S ENCRYPTED FILE-----
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleName</key>
+	<string>i2s</string>
+	<key>CFBundleDisplayName</key>
+	<string>i2s</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.meimei.player</string>
+	<key>CFBundleVersion</key>
+	<string>0.1.0</string>
+	<key>CFBundleShortVersionString</key>
+	<string>0.1.0</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleExecutable</key>
+	<string>MeimeiPlayer</string>
+	<key>CFBundleIconFile</key>
+	<string>AppIcon</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>13.0</string>
+	<key>NSHighResolutionCapable</key>
+	<true/>
+	<key>NSHumanReadableCopyright</key>
+	<string>i2s</string>
+	<key>LSApplicationCategoryType</key>
+	<string>public.app-category.music</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string></string>
+	<key>LSMultipleInstancesProhibited</key>
+	<true/>
+</dict>
+</plist>

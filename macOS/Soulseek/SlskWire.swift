@@ -1,426 +1,471 @@
------BEGIN I2S ENCRYPTED FILE-----
-AEdJVENSWVBUADUr34XPLSJaLJMDH0uSdhXv6pu9HAaRpIFy+BKcERcLwC2D+Dmo
-tvCjoq1m5Wpuo7m+p1Cy0KrJXSISSfZjFGpwK6FpVczUPBvWPrImuTwtpZqltCfq
-ZuZfDQAqnuHGX+/didCXn29yTjVbrxzSbA8x+Q2MgKmQkWRL3HlnW1P7g9rWuRHj
-Be9vyYAPqstdRXNGc9bQ7q6t1kkmmW9F8e352bMm73QUMCRTdaCmGyI9G42ciI39
-pp1TQvjAhW4JAIa1E2wLns9SIkhBXMo0nW9SdWh5Ky4ql0+yF6DeH65i2TIpIeZg
-H0kP0ZAZoOIsRWl/ObRA384/WvJgPio86B/0COGALGLE6ZYUO1JgMHaCXy4VjUa+
-2T8qj2IMETEdQY9VLJSoLD8qjTcsCNHwslkqAvsUpB515Eo80xF81oMd5cFEmRvz
-sRheGvRotzu4YjTJlf0xl3HB8KXhDD5+7QcXJU4bIvVdcPigbEuxF7edPe4zV7Wl
-g/5M5OrGOAmvm8HPnPTCdq617Avd4qOARLDcfOXZvb4nBCO+LdLwfFv9FSlLLMJ3
-wQbPYsbGIOJZQIEAl73geFzchvSjy4eicimPU1AQgLEKyjeKTTs3HyRbMT+rsT4N
-CeN1rGvju7Z44lPmP1ILGVMaHSjucRmuiyne/lUX2HS5Ys+pBuq6Tme7tFNgqeP3
-Rm+/0Bm+SUzaKfkPiRIo1QRlOTGNbiEDsnPHB8Eq7PVLNi5HTREk1SR1Q4VsMIzF
-kxzojphj8IvbxzAv9/MhFHjl6gIL3rlTQ1mMJTnvqiOJg8+nZXTZNDvUdSkPCp+z
-9qDvqXIQPIpIhihq10QSyxZYf9MkAgd5POdwycNzQ/8jy78jsuKhpCMAdEzSmsSg
-T3VTQzIN0x/4zQPTaonjMMJGLFrNmgoPDOfgV1/KQxIqbymSpWRKvO2KqOksvG6X
-Xu3UOisB2nmlhUCzZV3cFUuoRMow0Vgd0IlX054fg92GpH8Qj8FgTAJK+KMKUCD1
-Uo+MZi/mBgb/cfrmxj8HnwwdR4WjA5rKj58oDl9Z4ChZ8KGR3EyKfQGoNuTL5Fvz
-k05dMavGGmYErWpXMN5L/DQ66lwQJxSYLg7xu81Efng8R9StW0o8WlR3Uy8QtWw2
-yX8acVDbUdyExmFj/IwnsyhsCO8qIbvp7YH2gpVyP1mH67rBKh8gJxzyCX26JVEY
-nke4Hh3Cxgr0GV1XlFVVl8cLAYmm1C0Wg1RMksmXc1UoCySHy/waS7vSsf6WFuNT
-qFtzghihbAgt6CPREvhLrZA1y/oReVRcDusCK58OOMev6hI8nPSCFKWr+3DYBIhw
-odU/g0YlsIjf7UtW8aXpWIlO5wijdW+TkPOFvgjJoFA2JjGQ9FDU9jgRUt3x0wfy
-1SlHHowsTfutttqN20XARe0kyQGCdy/1l6xt/M0MhUVnTw/tAdHTKHRC8g4XAavG
-xOfKxztx59WRvFOMber8zByx6+oPsYnQrDWRsfEobeuT4ViHp/9BXHMRmIyk6hqO
-rOBEk5uGNJhZv4JQdOBUt0BdrMBTmGQdVEzo2SVg4jirCUgpPlCBRBNUDUuv2Quy
-nZb2FhRGRukRvY/z/lk9I8hPG1S5iTDRWTVrpV8Hd43shAW2h+egj0P/8zNJCRcz
-GBjE+tG9ti2EQbPxEBNnmxwwEufsoLn3VNXvww9tkTukSV6MBxzE6ATOVsfURToJ
-TsydasriSDqt7MGvvyf+IQ7Mrvip2JftAMebil3caBusXsxDX+Txlijk0/bC8A/V
-YZ1Zx5Zat1E6WedA+o5YLGRHqCYvTznyy4EIeO5cmUxCY0BZOYeRMk/jzsMvhO7n
-DGpQf5J2Jkdc6hkao/UkJsus+85J/r82tWZ44rMZNPmPThGCghfLXIoW4OfXhBMY
-z1RVJS+861HRRKHe9o6F2UStQmIJnX7/J1MkPLiUUk9RRdeSp4CXp+hnhQYKYId+
-mi91qI0htcQ+RiTzyp/qeuiepR4BYCbb/o/UmsmMLj2mUyrRpI7XMFpqXbc3V4tV
-DxQLTcii//b0Y46nPcADo4+MZsadzNWF3igYD9LCKBLDOX5nr3I0nSUpM+BN1MYF
-il25vWsJzg/aEE37qsPR7kuArBY4OA5YloxJ+ZQ2p1zvQFWa610zQ6X1DwsBXe3p
-So4WRDL348I8YqxpPZJEdPhBfmLzjmOFwbgdfhNxaygSvHBraAJC7sMfd6YUoAMj
-TyNaWwdIXHnwKwUJluR8Q/0opm/3Oa2IalMzdyjcu/IVt4aEgLN/huTIe9i7i8uz
-86ljq8IbE0R7u1JP3jswKws/s7M2LT/VD1GtH5ZOK1DIaoHXQ0U4eL99mVSmgZHA
-t/G+RKS5lw9qevUTeZCKZfUf/Ui7kjxtrZvXk13r66VwOuolNn5cB60Gsslc5MIx
-BPPtLoIio2+oTd8DVXQ9AJHcVOkMrxhZtPDlDRJF6URwwVAL33/n5AHmOl/LI9kv
-gdePJakKu7cX300xxQRdpHn6owSLx8XMDMjHB60FPvlVDrUGROO2A8tGyF3/thiE
-Pye4B1nVTwDcKnSCRdOzyy5lYEeCCKyw8nYm42u6xhT4ZI7eg7IKQkg6DYWou0L6
-S8ENfBwMnU+xTsRJxCaJPlhUb8BVsuOjBLI7K5Wr4myyK735LoPXkssOv7G8/ZIX
-SWHHxHA+zT+y3IIhKR4xiqtWXxz9s/2zs0SEPw9/Eag+BX1Vl0vcq9bbe3kTiDqg
-CxssdMJ3IfSC6aCBYX1mENBtFZt5CFH3bn6+SZFEauJf81cmRqqPMEASb82Hn/4I
-Mcm+qiK4fIbKGzlvp0Ra8fFWjBDjx6vgIo+5OLzNYfUZ7CiU5vnoyHB9miWGYhg/
-lIb+KzGqEBtUmmPi8I1XTR0dVk9rXkcUuhFAilzOTgdYHDxalZmEHO4GmFr/rnxD
-NTILEnDPQSKvNXbPQCN7KfX48cqC055ZsFgX/9sDcFxZCsvgrUs5rvFN5kGeYDvP
-2v39qGJQvhLA7zi1a9Nv05qvWaUuwvKiulVhVYl6vu/fhUSbcztWcaktLlbj2T7v
-K3QYY+hUfx6JsIpl2mG4B7css3qShdBpWv49xWGsniYPA9vQZ7pFlUOagGLyR70P
-BMiGwcob43zeAUQIkWPucQcHF6drXa760ySUBac7i5MnJ2FpgJkFgrY+6hW/MC+s
-vp2ZyYxsB8Xnv3dEo47e+gBvx30Vc5Fppe8AfdmGp6t1li5ku+xTV4qujSFRG2Lq
-JAqJ+Z9GGqtsN8DvJ4qFOOLnXdHOTSmEoVPAho/hcg5ZF62PWunIx0iaFvxoYvkk
-X0LObcjS1WeDg7DjTvUKOLNmQ9GNfSnerGgFI0pcmIAk0ZimdLxcudT+mjhz4KRp
-Am66JpJEC8NdUVC0tI5u09+VVK6Fss43zuMENxBJ6eic9TrSS4MJAT89PYkOxtLV
-VIalb6sZUZ0eU6/Xg8K69p4c8y6rbuASoxRCnpcoWTCz+jq4cq3zuKemWOecJYbs
-bovhb7uDJx+itkYLOF3b1ll+3foflf8iKpAd1+DIOpE01GbP3OnU4mY+wL/Vs1D5
-6wt5LlZQMN73wDVTBS1k8v28zAOVkeT5M/IbSYxXkLzzQv/G+Q5EM6bU4aCdzQ3y
-CSGO8EfAq6mM5XwvE+PlYgvYNIeHK2zOal73wqCFUUv7RrGXJO2bJPFYxLVBpy1D
-vRDR1uBBd4ZdvJSkvnFtHldAfWRVkKZK7RvPzx5eYuFJZKGWaE5hECTk6FaAiBoK
-O1vczZ7bLo+kQ1c81RcD2eKAy3ZflfoQy6IkDBuqZy4laMedRm7bFHsHax3aB/AZ
-JCBvtySQLU8KTav8yz8L2Rrqq4jKQqT7Tc2/1LPb1OrnNKHf2x2jBkSaaHnyf86P
-OGuXw6+5Y3Bzm9tg7hgtP2CPR1wh0VJ5vwphizBKk3RMHLZbLpP/JusZgGCF+JXJ
-ZeG5WaDrmBbdLbnJemRSvqNbGgLWKtSFN9BFMLnSM/2KuvPsmcXM0nH/u7RI/wei
-x1yXI/jRDJoPsJG87W4YRNMDIXEWXAVL6JU1Lgqa1RBW3jn3IGYJkPlOG4DOCYWF
-tUEOyrtvQK8fwq511bRTBFh+sS+vB1hMBOerMTTJAJdctefLFwpBSCTVTO1hZ5+d
-vy7gMylb/mkMyn1ENfVqG6G9VQfUoJMwNj4scJP2tMmQ8+2PDu5/c74We4mFxjwr
-Pyx+H9X9LOf9rf5y7VHjqgICLnL6/ocB2AhnA/PoOSMoMWrNhXH8B71I1lgtaatd
-/wf4Kp6ZCGvQinTQx11ZLex2RxK3E6STxPkeCCoeTMbkx6EsYKb9Y862AyuTvnwj
-fZTTUfhXV6GUYdnPsjmzlpIfVR3bCyiblnhX+6zG6qJQXggh6Jklbdbn5Txe4Gps
-3sX7CKuALsN+orz8wA0fzI5Cwzh+znghRO5Z7l1y7lSv5w6gbDfGOmmQqtOSdWhB
-EyWklyvjd+Uw1MPuuBJH2Z90u6aOzJcXmYQzPf+ECqp3yfbSnJ2FsKO3eVwGUETQ
-3ua4CUBF+N+OXnjOfA5KX7U79JVGo2yM3OTIFtu4YTm+cIhnhdbOcIdDeIJNkPPZ
-+g/bhQbJ268cIi0UEcaCUmVW88L1qOcXvvu7lcMYqlf/03zCPHMrWVc76oACTH3k
-Gw9Qlr2Hw9ISsr904ID6yMt4HsuY8sV7ObGfAlH5xQ1QYMwEpfhC8NJ9vyIMXPBx
-gmSS2bumDQxyZhMIE1SKNespn+rdvoRaz0B8TsBheDCAV5uuXYg9l1ZXQf59BOXL
-6rkrcze/qonaYeCf+6t+ACvAPBNbxy9PgSWr8bzxaFFr+q8KMbkzDuHiN1nS3Y+P
-wn6sDT6Ni4C9wMVZ6lXd8jlkAGczn0mkwP1gG4SczP/TSvbNhL0lUz62R8aYAEYt
-oNhBiEIHysKA387Qc9m3tGoavJ7+1QFIwm82/MhdCOzYdpEqY7uQglVbhcEfCSi9
-OdET8FjH2o6J8DGmd2TKHIPPMzNZeu4RJNkJXksXrktYqsqD88XjnyIMr7x8g9+E
-dwZ1P72POvdWuPb++Fa/fBMU/bvkIjU0IKyvt0heryLNAobUlkxjLUB8bhWrcKdN
-Bj24jzzQhjiQlV+frbwPtAUi4uRri13XCRtpMXZ591q5t1y1RbLREdyGgbJ8FePF
-V8NGy/BPHo2YiqxAnUlyKyWXH9iIEoin6r+IY98tCMaL+f76Y3ouO3iAE16usmoW
-2j1/SwkK/oxXHWsKPayH0YHhhTmp6uvZ9ScMqkzhVc9wnVbmzAxZmE8qDO2KvwXI
-HBLOSaRZSutGEKr0iP2aajutLzL7aMbstrUqKVPxHRrruvHBdWHObIGtGUlJxDwy
-smtCRiNiuNVg+ibBhL0Yue2cT3Ja4lVGs/ZeKx0MFFk6fWuIriIvIlGZMOKOu949
-OzwJXt8qpKJrTQ6ZaycFG04Fwbopsa5cKqscXUUExx/nvy6gwptJPn/9Pe1Rswu0
-mWzur+Q5FRSUgoYBV25jEc5Aaiyrgit34RgxeBTqfVaDqQdOr6iTZnWie+6rqLS4
-MCuKf+m3SBEehSGcsxgRRJdcG39082RzVm4Cj5qYQSyf+hBmnsD2Q5aSezkzCC8o
-sMntdeUfuwIgp0SlfFuWdosZnUDcpjLIy2JDs+CTyfCenAMabxUeUiPFLCpvji2b
-yU7RW7r5UyajlRdqap3HTfi92Ci6uhblcjGbCw2cdn5+HoZCgsLprddNLi4liabA
-2bF8FevtmhXaV0Srp01bYXGYhVnLLV8L4mo0gPr+fNIoQhC3MEGb5hlUabY8RV5g
-q17Nbu8n2nXnhiJRGSM0SBweoQ6jcDHaO53bXzd9/fm5ZxMrsqLCnkucn9a8wOxp
-m8kXaYTGhO/VEoCxCocJOsjcKQ62GORzaNfiZJ78qSprZN5B18bgVND9egnQ3gt9
-06VK7PSdrkH7J81BbtvWBHrmMsFx2S0r88/Sxa6z7qPgmEBMYWQYH5tP2xJ/mU2W
-ceNQNfsWmMjze1yThHng/y8LXy2rVTEZzR17P2pCPJW0Mgp5KB+FTW2milqB4exA
-2DFBpu4W3OPWubsNieVMwZbqbS0ptwfr+ozVPYB+L8RQoiqCPsN1A+GNfmeAtqnO
-CP6a9gABSj/uvotm3IAXX58QUiJJX9HUJ+IFRe7pBwDeG5sFVfIV+sOlGV9ZXFLw
-J3jT6cA7jx7ZB3WKoF4UQ4yyve1GfLlYEma/YojfCIPS4XUI03ZoTs0JUtdG4rme
-EHh4ispUwLYIBd7H0Sp7dWEu/ysZhsaQzb0Bg7HqJlZ0cW3oKG1EQaq4/mipJfNM
-Ks24blRpSCt1QVE1WFqPNcIQcgOgFU4QGp6ql+AwCM9Dj+KQkxj8vFmyvo9g/wc3
-OR+TASGIW11JUghAaX/BCapgu4RenV+o/fp51UIMOui/hCH3ibujmlMXnjq5Ol3B
-LS2WQESk0iEatDDZ41OCE2fK+QYnxM+cOod/qc1oHhwmMpBRvPWv02EatxfpEtkX
-VeTXCYTJ+yUJCOIxFOCAWpiTOHTOA3qFgxI/K5RsCS2g5W7jNr1j9v30Wbv7UbVV
-b2ZDFsyabjDkyzXL3tGZa52hFB6lEDysTeWVI3OsNL3dAcgklPxMkSxfYGY909bb
-yziNW2LMnFETmuk+eAnNRSWaBFZfjvKNVshjze7Ze6icW1/2wjDngFFZAEjI4D4H
-LUW7/Y1G6n55U6Y5kvLk0hHthvY5g+wJIWA2Hw6vXl0ke22EmJ97IQ9oERzlsZh8
-d2WiIST8hQjHrWlDuVhBrH7B8hr794GzQzGw9ZoLLABFbsU8sKXXXAsJ+dh2LYBp
-vfAvRMlV1ym3WMWRrggpJIoGgl/iMzZ5yh1qyD24Gmva0TvFPfQbTQ8r/t+jiVrq
-ZyA80xqJw+TF6ujOcNbjrU2z9QcqnbNIDyOja1Ys7lm6y4dxbdNTzStRzbirrWeH
-V9vWkjh1c2fW1FjrNXv3/xnx+9Rxdkrurr587qTWrvnZH61JSGXJsUrbvnhTolIt
-+YPZ16Ufq2oe4xIEnrfLJodrUxNtUXoSoaLPIWnFtV8PsV/taCFpeqVYLuFdjd2+
-MJJJD8VIzs8r5dOzpDGEDFldme0EcdW6ZO/KT0XPCCjRY7uCX0tXuVVSWPxfQEKM
-YvLmqAMRnkeQl9Db5z9IOOPx7r6I9PiFe7z6ZUVwFpSNG+VtlNLmhFjth0z/eHEL
-9nsk9DhC1zhasZthemGnsh02HfblJ8sakyPd5McyassMwV6T1dAistMQBPrBfQbU
-PBe7R40ZEXjNgsACcU254/u59FxL9bsqjTTUwd7KvcvairagW2TQtbEF7scfm5KQ
-h2AV13gRccukMsF1qPpmJkdDC/ZphL0NtS+t6wIKyQ7MfgqFiyxmoSM7cAHzth51
-Ep26HqxEU1dMVOw060om6arhAEn35Gv4PVD7xgvsVkIcoHsWLKQoULeax769y+4w
-rK9gm7FqiIo0+1j+uy9OG25CxqYv+kBXrKyQRxZYm5FFlUQjjukoZDKbAi5uMK4b
-PabwNNq8hm6LDKykDr+o5Rl6NtstJc+npHaNPPhRU2FPxL5ClkqkHlMD3gFo5od4
-TVu+Cv95XhNG5VrdSvklWATpKGRGswMJ0uz7GC7GIgER2mAZ6hARYc2j9dy5yv6C
-XKpS7sgG+v9kfbC2Eg6NKNfWHqOt1KUHuVvAB4nt/HtK/SjZgbwdXtCtoBPy5FfD
-NUDmfY3U2l9u6E50+8PzjGEXHuri87kRkh1QtatyO6CxgWXWwEF1RvI4YcvOYjJW
-z1Z15niNm+7wf61EBFXyVkH7GKZ5ijo3sIjlVapSaA5Gdd3bHph0uemCx1SQ2Zfm
-PO1fUtzAnDFJqy7ac11aNAiz0Io/TTX90yTXmAiCDjceXqjcLCJ1V/srXD9t+977
-L26kON2j6HFKc4pL3Q4WkGMuFzNYACWgaJpUiyn95HtQe3OPvTxgaktpQzCVkyJ4
-pHx6YttB+JySgit6IuC8uoBnFT92FWtkn7bGmxyFFzb87ZQe0/Vj80bq8zWtY8KF
-WLZOQyLTfTnvM/4c378MoR7JSccFIeVbmFSODoFJGV8H6TQFbKUyrO6HHNZEXB5K
-fDjE92EkV1Oek5Ifmk466efylR/twbBVx+Qq8+TwhAja/hzB/2QwI308Tr1yd/k4
-ZSt3WptsFDMnMiEbqyIhUZd5EBlz6KiRdY/LVdg32H5OUSueBQmyqluReB0O6+/w
-YMtzTF7eo+VdIdDNIXlUZsIvFg7IvOp6DwPZmh9/Rtj8vGg771nj75cTQWzlXLWA
-tMsZrzjZBi2ASgr0tAy8h80ShZD86sB5LLst0FLtDa35z0IWkPnmLRbpjNOBua5A
-YY9RVb+2TYDZXF1zT8gSSpZkNhippz+mINYepHcIHxdHaBRtejCS2LqGVqBuO2vU
-EdZwX/fjooEw70e/Cx1vo745HN8U4mSWPzp/2+OqLc7ORrj/mGgt0AJAFI/DsjmR
-22iD1xdUblHIFYuEOWxyGU8BRySKzukeBGwTFu5jBuCj1qv4ho6T3SYeLj8yVF9W
-FStCL/dtpegmIeT93e1y/4Ujj7UkOUGC0MBzY9LhmlEZ0eiQ4dYMQVJJLWF4Pycy
-x6WmbSCqeGKJ2H/qxzXYb/TiaC2Px6R4JFkj0PTrPBwAfjw4kHU3f53MsfWIXMaH
-JsMeD9hfW2TT6cyZlDRqSFhLi7D8+A4CsT45ZclUnWuvskxYpPQWIYOGu5BZF1Fp
-qmszbcT4GkTJMQbY4lS6ryLVQ/navdALLqi+P2UG9RBhpOd4ppyTBALvinK+qHeI
-Awjug8UihsSWybo8c7/aP6D9zason/Kgvp3v3GqiWQoQQprSE4TO9EBQW5gVidga
-2/oRqAPwtakNZPCeNqjqtT7J5WmjfKr+xsizXPie4KrbzmbDgCLhU6m/bSDOGWHY
-HcNOvEF2a7rM/KtCcSXAsM9SKkCdkBh8cyFL+kRFecjzsya8NyDWjMSc/B3KH8hB
-nHMoWYqwP37ui9stA4Zz1cuqElApLj+76Q7TdMnbwogNLWuZcouc1FLeLj3/GCHq
-7JPmhmZY6x+yckKeJm/wD1izdUngCUuPgFigOumbtXbh3d0sOUC9RXF6i6AbST0p
-V2fCw+ieFEVdcw+jPBGiYMtyp8gXPJovEMEHLXt3E1gJ6LqN76DkkVgeGh0qsr26
-2nSTD1AJP5xy1cyGgIHPqjjVC2xaaeO5macaW/8xksExzF5wp1No3nWusNY7SinK
-d9sEiKbukGSgKDPTiz3gaZCnVWzuus4LDFC09K3T2EIKzPt4Cu0s6alGW7xzPw5X
-go84aS1kDpGb1PhZsv/H2W+AdBz+p2IejmxR/n19d/SfcLlrqOxD5wRLkw4Av1a5
-gJJYIu6ZL0HM9IPnX+0Esgx4iXSHQ/5tsVDfFb8wBfpCEOpIkCz+ymDcagQgJ5tS
-blZM49OIAZFoLk62JXtFWbCTNaJEscldUa/tNCtiQF1PGIIeXiHmHdkTkCV2Oj/k
-ZBX7qY17ODfhcadFj93g4pp7rOnWFL0GU4mBRWJFgkBfXpMSwSkvNyMsaVJfFApS
-yrgxCgLuobE/hjiPOlpIrTRqcr1DD40t+6fCQfzF+7xmXEP0b65GavomcKmJbC/t
-VtEAS9MH/MTYMAaJlm6AFnp7OhqyA0NT1rquY4+FHOjbVz6Waw0Qz53OjXPImDVr
-gY3OHg8rTKQ1BEfZNCIqDTtr5/gHF5MZBAM/ELZQCbGOOTmF7dbeqlCbEDZgFP89
-SnpEQxxw/HempQfz9er3ouTRrDFrVNR+vWbfjQspTR5hl6Z/r6sonxjZJHqmSqHx
-hQImUssQJ7hb6V5m8SnTlZkQVyYjeGwHyt+ScgwW2KMm/TheGo9EYpEFv0doIwCa
-x2cRo7aaSTJdrwB+6ncMeY644xpbv5z2HNtBWgDeIu7Tj3Ys+fFa++O6n75ACHHz
-reYutgQCIMlPjW2JyptR8HgJ8KakGtYxe4UOjofylYfMBzXKyeeUBbj+5Qfzn9Pp
-hTxwl64kQV0+kiu//PbMiAl6+wSdvVm/F3wRbroUKogu8dF6JrovJocFpwAL0D3u
-pQOMxAZGvVHyE02NxDA2NGp2UdLD/R5ZQQaQc9A7i+5QN8tOrcDPr6Jzc5fZGGlR
-2W0iU84EdosMbYmzqrlKRLIy2HRlVfM6XnQN0I0iz5+SHMr8pMkNnXe/HJYEp6FY
-yUC5PQ3QdYv2ixbEEl2i+oL07bEX6kUCokb9KPn5Nu6GYknIoNMnImZ9fVyI5qy9
-Mhmt9TIprMt6hVjkXqlksYhLMy2+uSNuNleJi8I6imQv+O8oj3zVYA86dR2SdENd
-KZWv1bej/AohzeWxl6xBnOK7vPKTNMot5XAHiH3obO8TIttMgcuYYhB3X+Dr/gVL
-DNgahw6fkgLdJyKmQYw6PtOK2mcCpKKhT2qCcAy7twVqwBKb5LlDAvv0BsIArsso
-pQtsf1FpKp/Mkau0b4h1uGKH9xyt0gVEm04ZDfbLncMnYQW6gCFf7FRA4CAzpZc0
-jMvSC8IJL0ockB9l9WpSShKX9Kj6SU/bbYwlbZ3TrFzwzrjtuZrC009tdExyeoVF
-NHWQn5uma0clt6dEo2pk6yc1NdsZgBoo75vkPpvrWaL+z14Y0+Mt7xKJZtdlbcil
-5IDkW0ECfHi6uLAId4TziCIXUAVOgwqvHkqNfmA/iwCM5OHWIgQSxmItTEOf6d7F
-9HMUCc/aOkEbnDr7RUYjKs1nvPIEBP4ioitpGuIu0UOMBVObBeDEoCyIxtzoFN21
-O6JFT6rQTtszhqhNzJgDIXgayyVHPzWudlT0s3e6z9gfKCESrO3Q0cNP6mz3h+xZ
-+gpSTrqyLzsm772W9Vg/KK0DB1xyLpjNL+8tsRLCP9eb9mwLzsy88uLTsYX5wWwE
-qx0eJ25gHhZxOf9+LG2BMNmYZTXG7uu2mk090t58XFpytiblMauyXYGqCd2maNdT
-KNCgLwVq5bCqimnbPLe9BNNufgsTt8dzRgzYP1Yr3uinsCVSGMsMETcZYw/12Oxu
-1ieuXiOsmizr+vuzYBYaXqEa9QKr3nQ+ipMap1TCp5i5oM8my9hLQJ3Txo7R3gpM
-w0m2JoRF8TtBa4LnRP7g0MoyNUbTTKD4Fkky4Xxo8JywQJQPwrO64M9NztTg7qBO
-z1o0T14t9HzTH2YxL3FK3kgN90vZOAdUYyJGjwyVKUMKCn9Yv0AQ2EH4LT/h8HPf
-ygnUiU4l/myE2uRDyI8/TQY0Mlyu8UjHLAkdRYxYvDf13SNbErHo1YBD4aMrakYG
-J7urgPZ+8gcbfXjjArfO67hpY5FvSI3Kxp9kgabcSgnsyuLoJxcr+f1KAAcaI4dc
-WPHph4gPuKlWCTUqHcq9e6VWcSS5gFdEQz0RGe3ULo/fm2V2kYcX+zhqX2JYVILI
-/6jLhmvI1FO7gcaihxhkpYCPTnZgPGL9fnf7olq/ZhYfrfVK32ta6eg/83IJrdXB
-+J0U11C2rrmYGFSBbjVaWEasCVmsikNCRZ6tRZdHE6k4rtEmp20r/WAO8o9JH933
-PSt2xOzWevLZyxonOOcItZJ3LkgPdvJ5BJs/y1quUsoaHA0Hll4uOU8N6Z5JAvUy
-Y9hxYhwhUxyJ2dPBs2Jsqw1Abe7WfL5OKEYx3fQdihMbY4sVZTXRR4IY5qLY+6ru
-No2WHyyq3MAx2d0BG2JqNiyaWuTd84/V6ySbKWtHnuhXGkuVb4ED20NsPA/+ieHe
-jwJL4Bh9dn4CaQPohBpFuogSVcNgaDGhzs6bL637epo8K87ofvlsKCYJAksxijtP
-5LhI+VufVygmz42RCmbWOumJLWNjDPUJKLx1X3vwSsLKto5UWf34+iqyYse2m08D
-Af1eEqPdA9VUGbczKaNMpjMfD3pIyETiAZGFiVZVzswZYU6RZDBdLbMPhQZhsNK9
-EFb+l4AttBdj5D1K7JVCD5W/9AJGlAIiigm0uDkXFL5XxYcubUpGbBlFOOQ6kmR0
-xOxnmT9ZOgBibMlynUkGF4CvKhVdn+wV7nhPTHPOwK6WrJjBwgxz3Fcv3PM0o2Pd
-NVlUduo5LdOCqiYm19X4iaM/KS8fObRvJ1fZuGUvnDnGLyW2JtptQYGDsiqSTx50
-dKd4X6VehvwRTdlKaZC4+UfF6n0eB8loL1K5tDuL6ZuF6O8gzqqg/upcuWs9Hry+
-+FBanUc0iVPbDmHcxX7ztzTqs74p7Ihd2ka+UVpHo7+HtyxC2cOQPQAy219uGTP6
-EIkVjDzT3yecy2z6fTmhhatU55+k2P/i1TC/lSel2AMdcwRSKMV9JtATJLh7EM+A
-T9h2HzdBw5KIoGmn3YB+6f9HJFjT1CnbmeJpFxMEL6BRMr1tlKG41ujdrdsXbQiN
-+lM8lqTeUieyBem09MU0wGhJb1o11mzy+yPDQCe5eKra5vfOvSIPzRlaRJVWt2Cl
-x+mPbI+CsoqxZVg2e/gWiAVWRrROcwpfbtPweBaTA3TfLwN4iypo43olJxtyH6d3
-RGPL1NP398xBLHz1worB2d+G9H3lZ30i9O+n8CtBnPiBJxd2PxXqDbGBGBZFsDsP
-PxQ7CpXrGu4LO4pzlv7YrpvTt8zEDhDsj+uQ7gqdNvCPHpy7NYwggpjo0YliKgtl
-VMjtVa/59+wWSp08PuD9/UeFvxAB2wq1ThzvGCBr2x4gbWUY3icBwyUnWfH+pf0M
-ddQ7E+Ts6ciAsY/4IGjhM09Bzid1PQDAmdwibNp1wh8E0VcQCe73IVUuE1GiKlCY
-/56NBJiIIPlIAY1fcCLX21DkKJ99lNOD1cbZWqUx/7vD+9vfpNfI9AShhfHkCADG
-e18WoucgmAQdUzkLMjfymlj/AXjMNg4Dv72jKA39zzHlT92xx6osfoNnWDzFoQab
-AIf/4TkrJfGY71QMM6Fie9dquUqn++6Y7nYhCHSxMllSYrw8Yv8wFvscbCrv71mo
-625yih0XEJ7Yxni19UFhwUhg6Tt+XqZyhVU7nX6JAcnA9sebsqHZ1Zeo0vqzyeEv
-de7zooVZpvq3fauFDOx4f+ERssVTVSOERBMjF1QbsEqyouaGqhqQ2m01m6SYOgv/
-53Md0GzfL6ahi2jBWrg2vU/eEe8xdeP1SLe/eEdfdUBiAHVc//tirKfdwqUuww8U
-EOwjJvIv73ux1Fk69/MJN8G+pClpg8my/8Ttab3VWUX68+WhFDoYcd/V2svlQNsZ
-x/EEPqQZbRpWm/1RL8hZYkL4tbJCw0F2k/g9oJ6RnY1u0W12hSoBWfQy2g26DyPc
-/FmluHiOI+Pt/+BeHhboPCsoSg1Z3jWKdxFaWrsaVj9Gm+piZ0fqyoYyOTKOHste
-b6zBg3Yk0Q0j5VupaYWEuGeQu2+pvXwRf8ul3Mg6ST27kxC17xhGKm5BnMl/+Sy3
-cIopikcYG05it3XYrgO5wikUVWdhHQSnyVp/BqUtCaWICeXQq+ypSx3U4LE5t86o
-OUraPzrfI1H3qCcXmZDorSBhMJFmBsjDwEsKrulNm3k+ysDyrlzHVogd63EXRouY
-JshfNUHavKtY+xjzKrmT9ZDgu8omwWeqYNcHQRO3/eLfjCrn2FhPloDVLStvt2Ko
-BtEKH7Lzk5TddotgcKnMgJfHxbOUuu7TlJJYrz2u90sIDem8m/C006h0g60/z0A7
-EgJYN+oJZi7aF1WMs0mEPTdO4hRAb76p9evPCb9kEe7ruJZ0+jpSmrQoqszZofDd
-ut/RkH5dfeIWwUAX4d7uTa0c72lcKQwWDPDPiwlrgjgoqnoEpoGhyiam1lwOpyHS
-XgnOum+qGoXKZzixqk8uwUS73Z1BkMRCos0lWiw/gLranbbD1u200kYQWYTDc+PU
-2TtPG+Ki3byV4byOrgdRU9Hsa1mNR0bgZkEO8kZYOe98jWHB6Af0iBF412o5Lzhh
-3tLScu4WLaLXl1dkzDdQFelNasxj/rzQD3Quo1PVT29HDXmsyZsB/umNx/o4Jr4u
-hUkYmhYbDHlnxHXAvVmyBpSi1ad4TQOSIM6GEQVhCE6rRWwKjgR86Zh89i73OsmH
-UsAH/Ogpt8szqWNAo/wjL6+pwAR/s5ebSIT1MIX1zQl4Xr1rgfzyATrKUvRpA++v
-xWN1/56O3YuLvhD7PGKfPvABkQQagpbCq6Naqoee9v1WFAcOO3i4Tc7rbadMgOUn
-NB431FVcOTqhRH7sx7aoSIFI/lfs/oGor5Z9ezHOD6+JKEJCrw4HD15Q3j2TeQUf
-/vPE21NbAw7uwnSYxfXpRht8+YHg4s4w33M/vYHHYj0/VurGyTQcWyZ+jYGeCBlu
-8MlWnxR1Zoeyao7wkLvMAJLwhU5EHBCmTRpB0m6kN++/98Oo5Z+zU9/2f5cu5GD0
-vzhjzQGNFEcZmqa+TV+AYRi2yPh5/W6ILzYMK+12itWBfXS0rAl+RntZe7CD+Xai
-0O9xFca1UFc/RaFETYfVD2mz7QoUoxSAEUDmHCX9ShHZczryb/iZlTivNPua3CPp
-I/db+bK6Qs+pbPI7nZok00MYE8s9soShGaRlWjsZQRoi+KsZxJPvk9n89GNZQ0b9
-SPvncR8KHlSKJKpDxNKjpG8BSr8hIoXSf+9qxRsZeMqFLkEVfnIY2HBB44HhEQ8f
-a3N8IgUICk5vxGdON+v+1vu6VoBaruW7oX9V76oqqUowXFU1vHV3trjrg8HlINIm
-acDG/myvfT2Zt0T3Czf6kTkATkRS0kuZOj4WclPSFcRpMORsXjC+nCpxJotD7ECL
-2w1rVaBwUPE1SE6ibUE2+y6QcyXIKc94NyN+i0r1M2vHzhnWznN1rYypr1EeojRQ
-FvQ7JWDlciD4UD8zVnq8y6gwgVbzYTOfjP2NmwImBerNkzn2ITC3rGahGxmJaW6d
-Vqtob5LvYJHtOQ3JFWIyg+kC9KaUcNGB6dLxX5WzdvVXcWzWKJtnIB5m8Tx7YdNU
-vR9Z6rLV/hm9Hidlco16Dt/mAh5U/P2bj49L2Cw2sT9ybDvKWA4uQ0iHRmfSY2T5
-CFG3t6PMgEVNJmLQOiJusBhjHDI/ZKr7+kD2k4EszPXpqiTTI0a8pNjkuLr3w07+
-g3z5iFVxrMv6idK95ywh0vEz+t9YgpA3XLvFl7yCHuQ5ZCcc+ckjuhjaNDUuEA29
-QFC7YyBAjqHQhjyWKRG9S6Pb1vBb6XcsjzM43WbFZu7T9a66Mq4r9zsfgUsiYnxV
-iwhu4dPVTqxFSiNpJicv5SkHpcLcjNNBwgJMkiT+u3IxpdNvmCpInGIZ5MEIDLUN
-qmsn7YTVZKFkR7lmHTQdqNZShiMnr66QXmE80jBDUftgJArmR9NelvvFfe5CDOKZ
-/TjR1liGEaKV8AQy4M1mW7tRVAovguNVy+Q2ur5ynrE9+aqkT01sNhC5c3Kgl9cy
-8XR+tj0NlnYsvi6rXye8Y1GnF6mDx96e0UpZHSnUpMB/FsPk4Az0B4WxLwni5TOx
-xWUE6XbDheY47p0Z4GDwZp3Gl8mfRkI3pQEjgWJYrKAsotvg7VecnPONpleF4D1B
-lCbOax7vL/ueBK12mbSVpng+njZsf3lPQ/v51iEbZkzumaEVJHGLgWC9M1dhbuTq
-zlcFnSpG2RlVjm205RrdgDDmgRiuLdz1zKaXUlJbYS8IQnIwvIS1J7kEiamwVw83
-4HCq7PzlhlJuvcxt+8vtdfrCZIUwJ1DsTNg/+yTblC+kIkP+kJ2xBFLCcuyDu1+V
-vlde4k+DiN/3dIHZlc3ubXDOSlGrApZqgenvKMwQIy54kWqHEKRWz0HlS3ZYGLWp
-yv+uNLa1dbR0C6ldiCoI8FHHUvaSzaTLuFuM4XaV0Z2RGApXEDhRs3/txSFd+rFF
-Yu7lcLVrf28Rx94aAF4IJ9L6J/c77cbquv34ChwQDbF4UW/Hz2772yj7ltoBbcJ7
-e9U8qBtsHzMUIPAvhWttCcU+xsn4erg5zImF/rL4mReM2Wf5l+uPBUtfDbosc8tp
-NYrSWw/pUbt48QCjCE4JfPZ0RwD7X5hHqSXoTH53857xGwcycdZSDal4XmECXV4w
-er2TD3tP7UVNHcq7y46symQj1s3yVHgDwq9qIjpiCfQA8XZvUpf3OxGiciJIVGKZ
-SMhwWcqewnc8DH9YXPOMsXnbd1/kXBqO5qes7B2YYOO5EUa87fjcaV87CGNso1/M
-B9Z6t6liKgXgkjtC+/PIqRdz6g45aOl6zonaIMb8xTEjGKxzJ4tk+WZGQaZoVcfd
-NkHqsX+uAaIryykjvUlDTiFYr0P44F0XR+FcVybGttbXDAxTbW7YEe7MD5qExHZB
-zOenkmNenMuIbELAL7da/BZGQvIiWPiGjhMTlWQsKWfWJyhlsNPmTbyyRni9xpuD
-ZDHevNbOcEeR2b8xZeoF6W03vw/x0yza7aiQxMR0qwKLrxW9cqDJmnp+uUvUFcDt
-RmQ4qJ1cx+ZlZt/NZwu3cHY5bD5ClOGbBE3xjLfq3SzYfM0fjISlNVIRuYAtsunr
-sMSz/hjv+cyXFomTkUn9O6SRVwucR1CEgOKcSw5IC1VebpmPhvoQXFctWJaNTvd9
-z3kcgvuyQdtpw9QTluJjfrdO8xDVY9NN0RSPdt391PKeZsu/+mD4PrDPEmApIGJz
-1hO1tq6+6UivNPlLGtO51I4kkyq2joOZzo2nef/nkP8Vu4Dz+42pTKUBumtUBSNd
-EtVcsKNJJ7oE5poWt7Br0Jd1M0SmQxbtcvALjTBra4scnsfITFe4pvSbY6ONikyY
-xeUZrdr/+B2umBLuptMFmfmeDCKOLgXe8PrKWNK6RAxHI5vi+m0ozboc3K8YNVm5
-gXeOUDEISJzadlgL4ir+9mMQ8LJKvrkFeRN8hJvtkO8gNeo7l9xlSivT3n5NVYoL
-YlIBya4Oft0Mj9IQrmO0S2Dcb1pGaXij58eVtF2x7Cps7WL0YFPLyBGF6lLTlmSC
-qUqgk6KKJHj7IRvtbqDMOYoCGvcJetNj5yYpZFp0JPjlAFgB0O6gHTwJD4IfAev4
-cEn+m3bqWq4eYL2QMKCvBljS6yBm3pZJKNLJM3PuJWveAEYikg5w73ziWJU7Qbgy
-prG2BcsO1PMWMOH9Qyq56gWK4b1aXPc8M6MdxN/YSDbtn3DJJc/qVec9tqYf6HVi
-8paLVLdhdUrrfKtHau+ZZdYtfFQthihcEjvAm62a2macRW8wzZ2/c8gY3fHH84PR
-vsCXRPJBl5ATEAPTC00dZ86bqJIhpknTy0ojOSjwwDLTXXPMO+Aopw7W8dwthpRM
-XjmyfMlQrUb/ZLn9cfqBMO7DbapAUnF/aeVtUwI+WgQN2SHi4JHVeL4Rq/Ypu4M9
-7zs0JZY8FL+IAtEwbndTqcZNeEv4HnL7aVmSrrXS1LDYwllM2cPyWJJci5+7iRWG
-9Ox81wDnYbt00M3xSCom4tKYSQeo+ejDmWl3RF18wwL6T15dY4hQqQ2EwV0VazJB
-RHRiG4YxCL3u1558q6gZlvtqattN+VxTqhQiVXJbcmYHG6r85hpuISKlAh+H9Y86
-mI6g9vH9EUwteE3CX9VmhETZ4SgVUHRx4fq8Ud/7p+k56DEwB2k507/6l8cPCrY1
-/Ec50wo0XoE2iIsCVqz87rUwx4+TcOQZWjfW2rqKSJHvAZnTRJgBokBNvyHiPNiZ
-tlcQf2z3bh7gh4hsjUdKBoAxtXSgT85AQKDHiq5o7yASKfaJQ6x1ikZi53srvi1+
-cV8mvtlrQ1CIuJ5Q2A5UKKEqhRZTzJgUIYk5Em7QPST/+hs/4hPZHjSBd3HUGf2h
-n1B+bugyP3CY23GGhF/MnbZFtSc5bIX07HedFUR9z+IZa6BOGwiK0b2jnSZ+DCoV
-ZT/5lvrFPESLT/me7p5dMHspqlryhftejFC/fsk4wPWVy0CYEamQFSM5/8gF3fAE
-vwuMYOznj5HpW1FXMZfxvJeMBJkiCIxy8+jNN36QZ5UV7f696X3jXBySraWRqfg1
-MNliyP/gDjK/h8BU7KAJ+ohGEJeYuik9NPnGc8hefpcQHJlgVEPZYkVy8QyiMy+N
-jR0UKbWPMXPwggeHWLrh1zD/wdtbBCgBdotA0TmKj+vOWZhg8Xc1LxX+5gv4IVCO
-cIuZoS95pfpVhX+YAsM0YUcLWdQvGQLajtjfA2sW47pQ8gwurxZD/f0z0d2c0hFk
-m4Gnnz8kGmutxHuMXiRNxkSoAhGASGJDm/Lw3e/nqblgn4fNhXp+jiu8KU/re3Cl
-MRDUR9QOyoWEpD69u0RATjOepqvRK0gjUJASOYg6Ej7R2+FJC2047YE4ItvVASm4
-ECxsfZLJPiTCOMYNqLFCjESTHcX7MPB5H85cZgBtu02Lh2smSac96MS4bFaCQihn
-vPSuy4YyYdFuRlYIXxFvOBwj0mtuAhk/L4Q/NFbqcw4agrNI59wvN+7dczBcN24F
-8n3RH/Jk2CS74YUb44z9SSmgZlgk+VE1nXvlZ78bd1T7UAdm3B87peQ/yScepYFS
-Ivv147DBtYdmeUkQcwqEvwEumGEXGrSaOnDg9tPQTfO7ZHk46x3RhyC0osJ6TUBy
-AZbOtWM4T0apSYJnLFi4KNWre5izASDCf6lVhtwyVoQKHEJlyklPRVRFjkZAMi64
-fwIYND7B36GJ/uAYtTmrgPiVeloZMojGYTxpG0lznYyimZbTV7FhSSGrcJCR/U98
-84/Zc1WlsT+cHMRqcRE6MHvumkdcm/JAhnU7oMzfDeTD7967KMiW75dBI6oD/7Vr
-Ns7KdwJY9GbmBda2alCZoFj1kxzC7CMIMCQ1RbiyH5SO9tYkTkqVWNB7yZVs1rvR
-UUjt+5HXyRfzozxCOTbuJrle+MIsBFfYRsWUWECSOIsmZoXC/7rR7hMrF0d8jd3X
-HspNC720kTXDTSeXkuwxJDNva7NuD3SyX9NJmy6PDrqeJFSJYk0Fsim5SON9Jn/T
-xYivvSkn6/nXhzqi0CpwoPS0eS1BExUWjR0PbXb8KhpFc5c3qVyPjwHe2SW+0gNu
-OXTG2m1jld/Ag+gJZqocUGqKhDraeZ7RboRHOEd6L76gw1bhnIqipp+sb7RjXwsx
-PSZD0goeNIRY6nQQSB6yJoLRncfZtQCyb+GqE9rKYnQEO1NDu9m5gN/vnd23MY67
-Ds0UeF/aSIryHdHN0vXOXP6K3CzGPo1cfZzwtiDAPAz1Liaa3jJlc0h4aj41nYJe
-1creI8dvDzSBNyR4Ci8JYyEyGJoGPC+cOqMBOeRp1tI+F4zvZ1HlkiF0RgdcLc56
-xTEnxnhxQBStWsPw/j1z8cD2DHg3I+8Q4J92wlZKbpCz0ou6A8B0XA/Uj4kiojFk
-E8nhTg81lqPOnsjp/CAWSaMW+UerN8I2/IQ66okB+GlYYjwzwWNcw0P6x7/4B5nH
-Wkvzi86+A4K3ZzRVPVbfmn9OLdxFYzzBhr4ebr7Z5j1sd28QzHiX4nTGMDSrOCb3
-ILj/2/+1wt1qBBi4GRBByN/EXA9SxJD9NgMFRCwZQfu4rZch8B2FNa+rpZLY1BKx
-6ZWWKKafEMpgbbYtTuawelBBigKP6VTJy7fEpM03K6KWDQfnDDDi9Y9YMUoGZLIZ
-98PIfG9ZPNIgkkMQ3+ibEjWMV4TngzzGM7OJbI2oMH2CHyBnr00VGesTOGF77QSE
-cTNcMAYetHQXMpsLDN3IUwfjXRQ/NUg5xKrmaOTihdXKgeuSm0wAYevqbYhdmNJr
-lijVfrTE33lynlgoD9vTUPX2Boj/brIsPQXquJS8spnWt/OfZQsm8f55ZQBVZjv7
-/yN/vMWsImf11OuKhkQOW1YRjDrbZ2NteF58LHs/fqNI6fMxx4EebpXfrNsqb2SH
-jlkN3A4WU4yMEq8TTZXHHXfcZ5sKRelyu4VRAPxFeVL6qv/0OjFjzsra5XsV3hj/
-nxl/rSDC2OLG884xzknW71mGffptyZxIR8y1vVwjiy59BudSARGJmXPbluq46uff
-OeHAJldy+Rr8c6XniwSVnjaxn920WMrKiHYWTFvlH5iMbwu8ZOiRrq3nsL9rEfxG
-5fuQZ7rq5BSje5KjGOnD9Z3zrgqSLQw5iidU0icy8F3kN4v/ZE9dGIl0WM9d3rW7
-dv06OHZnUVwZPAa5lLmhva5Em3o8aijD0/mg/H1ElCxGhYSl+EjOPGBCDwQoicOq
-6pavyVxVpu8D68aUPrZjp01Oq2LGdljOtAuZF9FBCLpUKI+9hQOvbjswXfFNEK56
-jfbSuEPf8N9Dxns5kU0c27l0GL0cWjG0NoQV4heBX5Mnfkoyd1/wnIoMXzmnNhZT
-5l2JCAe3iYI6s7S/Gv3uB1ZyOCx0RiUS+PUMrLJ1TPqeUo3mxaQ9aSPk4LCMIYOb
-Fw60tHPxA+wA853S4/SbwD1sCIBHmJ7d0KA8VggH3+3HlkQ7zn6+5NPRpxBNXm3G
-sAmA0AIMPw3yQarwECBSDTWVxsBgg3rOE3rxoG1I7GIQ42JHV+6qWUS0km03+PxJ
-gQNkBnjD748pAfJGMLZum9UZ19C1FIVcC+x3BbfUbyOj0UbDwmZhpDAlIYqUszjM
-scgL7dO7nt1PgIe2N75u3gLj4oj2AtszUsGDUjfScnBdDsu90Ab5W5C1oo59tvy8
-8lcWgTOrukkQw5AmInpMZfzqoQMN0Ni0D94a9TUFVJR8fvcuX3N8+VlQyqAaszA9
-0MXljs+yLWkwG7s2/mo5f+QqATCZ2o16tyUgQSes6J4SbXi65KkdxiJxIBf4JmBH
-xlNpIm3JOWQCWBaSNvrNoqT3B08k6+ZrSWcrPuWbUcSpL6i5r64b9g//8GbpsX1N
-a7Aty7V2YDbXlf69PwYo1pVtPDdsyU1inYUnjOUiuxh68rtDYZb7E0sau3nyhW7g
-YeksDvhkOeXT31thXMZD+eDSGm3fwrPqS09Qwull3xSg6RXYK2tazpRmeoGvMObr
-SJe86cIGYjzlHLOZ9cKh59HvEpzFz+2yV1QcntZm/1IpiYyFVzo8FTlZl+J7TDkL
-Lby7SZ4uRFsKixs3fPNtvkgGbt4bfjGJYEnxbhve66EwT4vF4AJBMP6c2dhCnk1Q
-GPiRORbzbM102F/NCzPAJEZIRUqG9BJtKyQBkl/EnJiTAd5Uowz0DW4FDwT/X9P2
-rDpw9Uhke0rmldf/bGNHwZIVbjZBecmKWUkwXsTFZazBjUgYWf8injUtI2jzg5jK
-d9d9xkmt5oRgu9a1kuHPleMZAkiPyvk9pDI43k+fX4XRYZsM0CmDMegjN1As4Clf
-edabwsMjU7HYsBeJ4LakSEvZgkq0Seo/5iFKRoA4ZQiIzEZRvFytHwOfxP005wav
-zYqv9ErzfENZZI9oENagG2+QOlW1Wqz0xXWQbROwurRKRenayeYdRsUHxVvBs/FS
-LAaN9d+mpV1asrTkEspXyVTetT+GKvjqpvgxd4aPCMemqQXqbvfRcyIhP/0K7jhL
-iQfu7l2fR9bUx7ZYQqCwjVZBmaVqRvOUySl4rULQP1yfY15V3Bnd+MOfr4mmqfl+
-9Flf7DEpHfHKFxqaOSI932+qIgu6425ploor7/LoNEuMELNY3GiBPMoSJmiKNZhx
-Czqep8aWRGvw9s4+q8VXGh+mVjAbZ8he0X/0nwiAM82qZOrAWRmFjLglDUSyUr6p
-uEMNT7TgQeNxrLrfiSkfhRANgjtI98pDDTft68zaSRo2xbY7LiOTLo1MMDBwbDoL
-oWCIop5aTmJghjKj8seOSAA4GvDWJFeV7tjDh0tNwyrl7RUfc7u5mfUsz5E9gi5c
-Zk8jQ4MqLDTprs60/uoQuD0syKfS4y4kVldxWAPDeu7lWIkg46u8tkDmoFL3gyho
-S3UNhcfCaJPVDLpJKh135Esh2yi1nDOYgp586DxIadNZdEYFayb0LCPMtgVxuD0K
-n5gZzTHogaGB6u2lq2TlK6eUSnjRt1/Av/Nx3aZZiEXtbnnfAPKB3MWTNu1d/ktM
-iOjq2HohqtOzeO477+JRAJWQ+9O0H4/5zBMADjmJ3gbqI02clpwDLXaDc4f6dO8I
-aUJSxcJxsOJe8wQYH2uokBye8GlxM+wCDk6ndc/vnR1SwJC/0QnFdLxqJRyuHgzv
-xlmK/uB2NHrLXsO36FSKhZn8H0kLxGzC8WT/nhe4KlATyVWGE1LC/+4r+g9OMePT
-fGAikKl2ULvLkXWNAgg16P7AOrQKfU1xhYNayyqIdi6WRG3GtF3Ty+tez9/uE0in
-a4GJzj62KKuHjdpTvEOgEVAQ8vDxdZgqeK6Do4ZHSYsVOY31OepCwuMZvBoRs/uq
-6L4Lv8w74TBa+Oti8RITQSjAqDJzC5hXpkFNSwrle1TMtrVz53NNwyQxhoSHorvG
-vpDoHXkd9xyDzk7XqIjImQDODXBSjF+A8CHyGuaRopP7FNugyy9HrIZJ5yBlf2QT
-ipGO88tZ+6E+OXtbKpqni8tAccEo0ey6cHKLNy3iEk8p+YvC49RAngdmcM2LcaXS
-/r34esksYzK/iSnbt+M4IAIw3SeNqIuyYNMzo23mcDzwk5sB/jxZgLlW5dgpC9qU
-bhL2wfZxR9CdEv7HRfoTa34JmCOvbxTt3ajwKWskYhGOeiUZ2m7Ox3VhtdQ++KNP
-uEU40O0bQifj1/wubwHQVapiuj6i++mA26M4e7jNzecTFbTegMkGl8av1qhMfSV8
-qnAgHAHX12CYOUQwts8AVn1DJOB/crmyGDzl8O0fdXHMGeX095CDYDN0EFxNGy8M
-ehuG0u/tRZe9YIc+5BjdT9uKWi2BK1E1ga1I52wCA6KDp0uxVFeeCUoXiJgzqYC8
-cvuVGj3wkvSsNjQAwEcUfawkingCOBHv9w0ny4CiZZj38ZorCM9lTUAT1SEPgIMD
-6BKYhWZ/sm9ipbMjUHxWnmSHtH8+KMRp0oWUbJVKA0KkhynrUoEzVfVVuA8eybTk
-PFm6Lp46+qU/BhRAPwO8wQRtJ5V0NizUHegO4QbCaqkQdaT+eJL9KRyeaNe0WMTu
-RNk3E4V84QhJiPhLvsYFm36TMBuRYkd71thsd5EtPZIpRN67haGLKEprIz+wrBM2
-0KJj9kZ46ES4sCWAlLOxCg/+iovNdv0CzcP0KrUyVBtzEICC64XfCFdti2ETNhKN
-p8lRrE52SrGUTX1MG+YSw3WG4IDew2oj3P3DfrjdPoZvl0BwVsNa2bO8lMjl6aJl
-A6YbzkcnWy6ZVv4DDAEYbpmPUuQDetyLFg5Up3Ye3pixhyPXW2wM0ytumiOdj2aa
-Wmr0y3CUzfgrihu6z/bvY+d0Zq1T/zj8y4nErv2JHM0x48JTpd6tgVWw+FKyiUBH
-Tqf/sHmEhtUacodxKlL77iF/IRyVhlPlMzQAi1YtYSI6CARE8imVfyBmd5eERhh7
-SI1UG5Fe1eVFdFNAwCuTK/Q7L/E32E8V0B1gc7xPdshe3V1suIjJJxSDTnHed9PB
-vWXGP1QXDfucwwfDu7hLgDFkILmOa7Iv7HbgvAMAgf3LIIO+/F3Sa0vAlLQZhZpm
-+JeJfnVovSh6nw+rb7qRhrTPAE1ZB8GUGr/7dECE1e8V5usdQd5/btCiPR7zCfzx
-MDNeus8VgTLTcJ89zuUK8DC7jVtZnVKfHuuejZODkVb3GyKi9ioKceq+HajoFQqy
-Fw5tkcOiujhw/rjfL39Z5/B54lTfwPGvQR3Iv5XfKbME1V3NFXqno8HW5TulVXFj
-SBFi4LyT3m6VeMZ44UJ1nblzWv16Z2eBsOshTLav4thm9ngoDcTB3wdMEeWBf9Qr
-2aZ68HRTsBLz8nJPNiwiUgC6or+uVR6y9kRO9sU0dEGICbJxnkLB03S44mKTyz/p
-adspux8ENxiDCZ8OkNHtTLlj1HQ5hwg6y9Aur0w/gSTDMqCl8WG+tUoTjOX0FdRm
-+7UR9EvFxtX5AywAP2Xk4S91SeFOuFlwJaCmYhWX8kfAjn7JyAmlPtNukglZvpm5
-T/Ha6W2+XE7ebmayCt0f9t4w9aweVD2iCBokTvgoHG1eC7fyfjdOhwKquqdAs6BA
-s0YV+13bQ3YIQ67RGVWSYZIcLEGbcLCF87MH6EeqFONsak8BkAkB0yIffJlkWT4D
-4Q8JwuzcvJBXAjPv2EuLCTWyk3MhofOvj7mjIdRWn+KjnMu/+Pd6vLq5sCVMKAxA
-zjF9xXarQ2xbKLEj8Q2WtPyFYWxLwh4NKoPZChghAERDSdXnYi/JehWXqnYMKC4f
-DKG1xrd2rML3LKH1LHK3AjW9XPnbo3j5wIJzouGSghhVfTy/jQJdZ1dzoeBt8nUn
-J8WQal3wQssvoreZGV+a3UmWTrK80De2vLP1L8otNzxcI2DUM5n9s/RNut0lpsD3
-AS8g72rtuJp3FuMt+D0D429VFDssDXsw/71ycUtTH29wKV9auOtA/pb7+iYAqKS5
-lGZAhlRSL35sWALqyepWft6XCmKJyk+Kyv4K8UUaiEoxtPuG/4xbzRQ0xs3vXTJ9
-+eByefjiqLV3OASfz+AExQ8kkPHYsFl2dpBku385xxno/G/pj9FNXhud+nBQNIQN
-xFE3G6dCf4mcRENR6WoAmU4giMvLKFQnym06bnh3yT7tp5WTpzoEtJ+IwDcphyY0
-KHYJ5jzVqUfDfxALptnmUd0oyhhQWcElSL1I4mbTNmadKEUdJsStoFspm3KS/ZvN
-juNHTQzIweYefZvXyEMwop3D05GZZzrN0cT8F+9N4qm7VglaBbA320hFwWSvhzrs
-uvP3LJBluamqXPiBHJo7ZslN+zucQTIdn4gO5xhf1e88aC3JEW8YudeV8v28DV3B
-FzemM2210pM2OrK/w+0udqMNVEfcpcb09EyZur8zDUcVNa7PdmaO3ZE2SBj3cvU9
-6R0oGfPGs+dEIIe4n5+pypFP6LPd14DcycB8dLW09x/KvlZzfb2cA87toa8s1qSf
-z8+6KDopSSXu7Ts4E5JjPy7BRrSOjLqDYovHR1ImLm8jumpPPeNwKj4+s+9VD7c1
-pEGibYVeNxmMuJgvG9Aki5nb2j5zt/b9yEC6RtZZnSjrsoOwd7xMqlW5uL3eN/QE
-4jIfIROelrAV8P8Ry1rtKk3uDDLFxvAU7/Uv73U2hpQ+mKJKjnml4wIpsnKMdIN+
-63c37BwMjMlFpnlflzyth88ihQT87Zz88HmBKN9CibX+cLcGF6AeKUjd0fzVSypQ
-H1RXvJMtfSrJ4yBmIQKLgCEpCbHtW3zF+eai7bKNfdXjhGzNdLOYcFGPDNiUZAOM
-E+qEGmtfQ6vI6EBKbBD7JPEutK4irAT74mgqCIs4zS22/bZOahxhaFGPxxcIJIHF
-NEJHjCMd5PnCaX3BnhNfXFi2BqWSdvynLZDrB1dmHKV/ose+06hOTxQs5Z3IWn6e
-NGmCEZf3CNt4SAv199aZLw3cbTYIPBi/dNshPBV0/o7Dxi5fF8IO6zLFLk1spyZj
-hGZ/Ctbcm9Jl53lX+A2IEbdPAGAJybsB1vH0W0aejN2Mg4SyaQR3YXLXwKzrilj4
-q+atjZoMREtFG0aewoKSIkpnBOSd+PKwG6CrDN3vWdkwlsv0xUczU2CFliJC1v1N
-vf6xFdl/NJ0376iyqpLnqLKIZdS9Qxeu5hkon/KIoV6TfYHXkrwX/HYIqSZKlQpa
-MMEjGhme5ekmhkZmptQ8jvA45HP7LRJnRU+IhDkEYpWBKsEalk/oNZyuX6CEfeGJ
-3ZZMrvN3oDzRnCUFqaj8B8RtwbefvHSzqGEX6d3FVk+C8kGMghH+xyuEaVXs4cKj
-rU4B6uoCqolwbPR3S+03oA8vQk/XMnA05g4nebPpcmZO3xNP7VGG4TDJR6eo8aNd
-K0wkyhgnJcyHxXcGk7/eFkWxfXHt1X/+mzc4mMozmxhcwsWoKoV8MljOZivrD191
-sW8A9wUFKbZVs5ZLA/qQbgzwyMFMPpS4yk6YcScycrJytcog3N/bxTcKJDJuta2N
-q1cUbHRK7w6tCksd0lkuva8ORmSSDjON1aMp5dBX4snzyHlIljSsk3OtCM9tiSWw
-57CBzcnwKquI+kd8QCrie1kjxnhD+EvLdo1fUqu9LcpY6hi1yo56DgcObU+tyAYe
-4ixdWohoTl0qrYqVA5VB6zTlj+evd0v0zBQbTBVOu/MX5Ft/NwQ6T+/0x9aWB4zR
-4w6TkfNWLmN9ByBDk7BJfD9srhvKriLrLRivQParqIwo0MsfJRqWN51j47gchhab
-c8jHKxlH9kVoaLt9Shb2WNCbvXaeNvmdcI05y/IBY03lfiRN8IymHnUE0LpmSLZq
-6MZOnPdK92MDk7n9zPqvKdB33K7VbmAwh6AGkqOBHrOuu2LmssIWw3FiyBwkJVLr
-ii0fBZgfQ9CYtV9BgH/BMlIsCo8aAx28C68m9PJu5Iqrd19eoAA6cofmMQsgOccW
-EXN7wDmG8722jBcoZ+BA7FiUdHKHJT6P+vZE32tgLweprq+z+N+NaEioUavHn4xc
-hWJ6nQUF5SBYV20Fm+kfby9KyIiIXMl2rgrcQcUGAJHFmqU7jcArldZjBjA3trhn
-g6+CprVQKGogsGflRHkj1RyoVaLqb9EWdjNi/2bghiIKoC9/NeCuUOnRrX6DJRZX
-9RgKxHIQXMqmcV6oBSTjWVxR+o5CTvQr157ilTDHrRhY0hCWh/2C9ZxpsXA+ztbb
-QvwNKpfegOcq8yUfifLGzZuy+HwTD3+bnZD+73im1G/VGdse9EiXfOOw0863FQJW
-GAv43JdTrlYZQ24PhhRWS8R0GXH3V8moZddjsAmeyQTPXbFp9zDnyU9dxN38hK/b
-pmyr/l3cvGGAWIKXMuRbnHkJ7fMgzs+Du/eZJViNs6XMkValkg8bUqOu3snRpqAO
-akam4GS5e61rKGvpDNBumcz05x2KFJWPHCZLgYRBs132bwwFMDyM74AsqV/IA2Vk
-LWgLFfQEmEF9oHwblkB3Nc5hfyau8yJP+nZc/6cMO7SAHIckbyGjZ3euc3KfYGUi
-CCRt7gFQQBL+ovh3aAGXFWOX1/ee08/ZhZ+QuKNGBfQJCxOq4sm9q1IQZfjOIgJw
-KarV58LyQeraotei93uXEcMmNd6w5Ohz2+hJWq0q69O937k8QTRjgAxIqSS2new3
-4RR77ExpbrnMiVTAJFneEQqwBtKenr/BWvt+ss3+Q6Nbog==
------END I2S ENCRYPTED FILE-----
+import Foundation
+import Compression
+
+// Soulseek wire format. Everything is little-endian; strings are a uint32
+// byte count then the bytes (UTF-8, older clients Latin-1). Three framings:
+//   server:     uint32 length, uint32 code, payload
+//   peer init:  uint32 length, uint8 code,  payload   (first message on a peer socket)
+//   peer:       uint32 length, uint32 code, payload
+// File sockets carry raw values after init: the uploader's uint32 token, the
+// downloader's uint64 offset, then the file bytes.
+//
+// Pure Swift and Foundation only, so it ports as is. The one platform piece
+// is zlib, via Apple's Compression; see the port notes.
+
+enum SlskWireError: Error { case short, malformed(String) }
+
+struct SlskWriter {
+    private(set) var data = Data()
+
+    mutating func u8(_ v: UInt8) { data.append(v) }
+    mutating func bool(_ v: Bool) { u8(v ? 1 : 0) }
+    mutating func u16(_ v: UInt16) { withUnsafeBytes(of: v.littleEndian) { data.append(contentsOf: $0) } }
+    mutating func u32(_ v: UInt32) { withUnsafeBytes(of: v.littleEndian) { data.append(contentsOf: $0) } }
+    mutating func u64(_ v: UInt64) { withUnsafeBytes(of: v.littleEndian) { data.append(contentsOf: $0) } }
+    mutating func str(_ s: String) {
+        let bytes = Data(s.utf8)
+        u32(UInt32(bytes.count))
+        data.append(bytes)
+    }
+    mutating func raw(_ d: Data) { data.append(d) }
+
+    /// `uint32 length, uint32 code, payload` (server and peer messages).
+    static func frame(code: UInt32, _ build: (inout SlskWriter) -> Void = { _ in }) -> Data {
+        var body = SlskWriter()
+        body.u32(code)
+        build(&body)
+        var out = SlskWriter()
+        out.u32(UInt32(body.data.count))
+        out.raw(body.data)
+        return out.data
+    }
+
+    /// `uint32 length, uint8 code, payload` (peer init messages).
+    static func initFrame(code: UInt8, _ build: (inout SlskWriter) -> Void) -> Data {
+        var body = SlskWriter()
+        body.u8(code)
+        build(&body)
+        var out = SlskWriter()
+        out.u32(UInt32(body.data.count))
+        out.raw(body.data)
+        return out.data
+    }
+}
+
+struct SlskReader {
+    let data: Data
+    private(set) var offset: Int
+
+    init(_ data: Data) {
+        self.data = data
+        offset = data.startIndex
+    }
+
+    var atEnd: Bool { offset >= data.endIndex }
+
+    private mutating func take(_ n: Int) throws -> Data {
+        guard n >= 0, offset + n <= data.endIndex else { throw SlskWireError.short }
+        defer { offset += n }
+        return data[offset..<offset + n]
+    }
+
+    private mutating func int<T: FixedWidthInteger>(_: T.Type) throws -> T {
+        let bytes = try take(MemoryLayout<T>.size)
+        var v: T = 0
+        for (i, b) in bytes.enumerated() { v |= T(b) << (8 * i) }
+        return v
+    }
+
+    mutating func u8() throws -> UInt8 { try take(1).first! }
+    mutating func bool() throws -> Bool { try u8() != 0 }
+    mutating func u16() throws -> UInt16 { try int(UInt16.self) }
+    mutating func u32() throws -> UInt32 { try int(UInt32.self) }
+    mutating func u64() throws -> UInt64 { try int(UInt64.self) }
+    mutating func str() throws -> String {
+        let n = Int(try u32())
+        guard n < 16 << 20 else { throw SlskWireError.malformed("string length \(n)") }
+        let bytes = try take(n)
+        return String(data: bytes, encoding: .utf8) ?? String(data: bytes, encoding: .isoLatin1) ?? ""
+    }
+    /// An IPv4 address, sent as a uint32 whose high byte is the first octet.
+    mutating func ip() throws -> String {
+        let v = try u32()
+        return "\(v >> 24 & 255).\(v >> 16 & 255).\(v >> 8 & 255).\(v & 255)"
+    }
+    mutating func rest() -> Data {
+        defer { offset = data.endIndex }
+        return data[offset..<data.endIndex]
+    }
+}
+
+// MARK: - zlib
+
+/// Soulseek compresses shared lists and search results as zlib streams
+/// (2-byte header, raw DEFLATE, Adler-32 trailer). Apple's Compression speaks
+/// raw DEFLATE, so the header and trailer are handled here.
+enum SlskZlib {
+    static func inflate(_ data: Data) -> Data? {
+        guard data.count > 6 else { return nil }
+        // Header off the front, Adler-32 off the back: raw DEFLATE in between.
+        let body = data.dropFirst(2).dropLast(4)
+        var capacity = max(body.count * 6, 64 << 10)
+        while capacity <= 256 << 20 {
+            var out = Data(count: capacity)
+            let n = out.withUnsafeMutableBytes { dst in
+                body.withUnsafeBytes { src in
+                    compression_decode_buffer(dst.bindMemory(to: UInt8.self).baseAddress!, capacity,
+                                              src.bindMemory(to: UInt8.self).baseAddress!, body.count, nil, COMPRESSION_ZLIB)
+                }
+            }
+            if n == 0 { return nil }
+            if n < capacity { return out.prefix(n) }
+            capacity *= 4
+        }
+        return nil
+    }
+
+    static func deflate(_ data: Data) -> Data {
+        let capacity = data.count + data.count / 10 + 1024
+        var out = Data(count: capacity)
+        let n = out.withUnsafeMutableBytes { dst in
+            data.withUnsafeBytes { src in
+                compression_encode_buffer(dst.bindMemory(to: UInt8.self).baseAddress!, capacity,
+                                          src.bindMemory(to: UInt8.self).baseAddress!, data.count, nil, COMPRESSION_ZLIB)
+            }
+        }
+        var w = SlskWriter()
+        w.u8(0x78); w.u8(0x9C)
+        w.raw(out.prefix(n))
+        let adler = adler32(data)
+        // Adler-32 is big-endian, unlike everything else on the wire.
+        w.u8(UInt8(adler >> 24 & 255)); w.u8(UInt8(adler >> 16 & 255)); w.u8(UInt8(adler >> 8 & 255)); w.u8(UInt8(adler & 255))
+        return w.data
+    }
+
+    private static func adler32(_ data: Data) -> UInt32 {
+        var a: UInt32 = 1, b: UInt32 = 0
+        for byte in data {
+            a = (a + UInt32(byte)) % 65521
+            b = (b + a) % 65521
+        }
+        return b << 16 | a
+    }
+}
+
+// MARK: - Shared values
+
+/// A file as Soulseek describes it: a backslash-separated virtual path, a
+/// size, and a few audio attributes.
+struct SlskFile: Hashable, Sendable {
+    var path: String { didSet { derive() } }
+    var size: UInt64
+    var ext: String { didSet { derive() } }
+    var bitrate: Int?
+    var duration: Int?
+    var vbr: Bool = false
+    var sampleRate: Int?
+    var bitDepth: Int?
+
+    /// Worked out once from the path: search filters and result lists ask
+    /// for these for every file, many times over.
+    private(set) var name = ""
+    private(set) var lowerName = ""
+    /// The format from the extension, normalized ("aif" is "aiff"); see `kind`.
+    private(set) var baseKind = ""
+    /// A music format (`SlskFile.audioKinds`).
+    private(set) var isAudio = false
+    /// Lossless by extension alone; m4a/mp4 also need a bit depth (ALAC).
+    private(set) var losslessKind = false
+    /// m4a/mp4: ALAC with a bit depth, AAC without.
+    private(set) var isMPEG4 = false
+
+    init(path: String, size: UInt64, ext: String, bitrate: Int? = nil, duration: Int? = nil, vbr: Bool = false,
+         sampleRate: Int? = nil, bitDepth: Int? = nil) {
+        self.path = path
+        self.size = size
+        self.ext = ext
+        self.bitrate = bitrate
+        self.duration = duration
+        self.vbr = vbr
+        self.sampleRate = sampleRate
+        self.bitDepth = bitDepth
+        derive()
+    }
+
+    private mutating func derive() {
+        name = path.lastIndex(of: "\\").map { String(path[path.index(after: $0)...]) } ?? path
+        lowerName = name.lowercased()
+        var e = ext.lowercased()
+        if e.hasPrefix(".") { e.removeFirst() }
+        if e.isEmpty, let dot = lowerName.lastIndex(of: ".") { e = String(lowerName[lowerName.index(after: dot)...]) }
+        switch e {
+        case "aif": baseKind = "aiff"
+        case "oga": baseKind = "ogg"
+        default: baseKind = e
+        }
+        isMPEG4 = baseKind == "m4a" || baseKind == "mp4"
+        isAudio = isMPEG4 || Self.audioKinds.contains(baseKind)
+        losslessKind = SearchFilters.lossless.contains(baseKind)
+    }
+    var folder: String {
+        guard let i = path.lastIndex(of: "\\") else { return "" }
+        return String(path[..<i])
+    }
+
+    static func read(_ r: inout SlskReader) throws -> SlskFile {
+        _ = try r.u8()
+        var f = SlskFile(path: try r.str(), size: try r.u64(), ext: try r.str())
+        let count = try r.u32()
+        for _ in 0..<min(count, 32) {
+            let code = try r.u32(), value = Int(try r.u32())
+            switch code {
+            case 0: f.bitrate = value
+            case 1: f.duration = value
+            case 2: f.vbr = value != 0
+            case 4: f.sampleRate = value
+            case 5: f.bitDepth = value
+            default: break
+            }
+        }
+        return f
+    }
+
+    func write(_ w: inout SlskWriter) {
+        w.u8(1)
+        w.str(path)
+        w.u64(size)
+        w.str(ext)
+        var attrs: [(UInt32, UInt32)] = []
+        if let bitrate { attrs.append((0, UInt32(bitrate))) }
+        if let duration { attrs.append((1, UInt32(duration))) }
+        if bitrate != nil { attrs.append((2, vbr ? 1 : 0)) }
+        if let sampleRate { attrs.append((4, UInt32(sampleRate))) }
+        if let bitDepth { attrs.append((5, UInt32(bitDepth))) }
+        w.u32(UInt32(attrs.count))
+        for (c, v) in attrs { w.u32(c); w.u32(v) }
+    }
+}
+
+/// A peer's answer to one of our searches.
+struct SlskSearchReply: Sendable {
+    var username: String
+    var token: UInt32
+    var files: [SlskFile]
+    var freeSlot: Bool
+    var speed: Int
+    var queue: Int
+
+    static func decode(_ compressed: Data) throws -> SlskSearchReply {
+        guard let data = SlskZlib.inflate(compressed) else { throw SlskWireError.malformed("search reply zlib") }
+        var r = SlskReader(data)
+        let user = try r.str(), token = try r.u32()
+        let n = try r.u32()
+        var files: [SlskFile] = []
+        files.reserveCapacity(Int(min(n, 2000)))
+        for _ in 0..<min(n, 5000) { files.append(try SlskFile.read(&r)) }
+        let free = (try? r.bool()) ?? false
+        let speed = Int((try? r.u32()) ?? 0)
+        let queue = Int((try? r.u32()) ?? 0)
+        return SlskSearchReply(username: user, token: token, files: files, freeSlot: free, speed: speed, queue: queue)
+    }
+
+    func encode() -> Data {
+        var w = SlskWriter()
+        w.str(username); w.u32(token)
+        w.u32(UInt32(files.count))
+        for f in files { f.write(&w) }
+        w.bool(freeSlot); w.u32(UInt32(speed)); w.u32(UInt32(queue)); w.u32(0)
+        w.u32(0) // private files
+        return SlskZlib.deflate(w.data)
+    }
+}
+
+/// A folder in a shared-file list.
+struct SlskFolder: Sendable {
+    var path: String
+    var files: [SlskFile]
+}
+
+enum SlskShareList {
+    static func decode(_ compressed: Data) throws -> [SlskFolder] {
+        guard let data = SlskZlib.inflate(compressed) else { throw SlskWireError.malformed("share list zlib") }
+        var r = SlskReader(data)
+        var folders: [SlskFolder] = []
+        let n = try r.u32()
+        for _ in 0..<min(n, 200_000) {
+            let path = try r.str()
+            let count = try r.u32()
+            var files: [SlskFile] = []
+            for _ in 0..<min(count, 100_000) {
+                var f = try SlskFile.read(&r)
+                f.path = path + "\\" + f.path
+                files.append(f)
+            }
+            folders.append(SlskFolder(path: path, files: files))
+        }
+        return folders
+    }
+
+    /// Shared-file lists name files relative to their folder.
+    static func encode(_ folders: [SlskFolder]) -> Data {
+        var w = SlskWriter()
+        w.u32(UInt32(folders.count))
+        for folder in folders {
+            w.str(folder.path)
+            w.u32(UInt32(folder.files.count))
+            for var f in folder.files {
+                f.path = f.name
+                f.write(&w)
+            }
+        }
+        w.u32(0) // unknown
+        w.u32(0) // private folders
+        return SlskZlib.deflate(w.data)
+    }
+}
+
+// MARK: - Codes
+
+enum SlskServerCode: UInt32 {
+    case login = 1, setWaitPort = 2, getPeerAddress = 3, watchUser = 5, getUserStatus = 7
+    case messageUser = 22, messageAcked = 23, userSearch = 42
+    case connectToPeer = 18, fileSearch = 26, setStatus = 28, serverPing = 32, sharedFoldersFiles = 35
+    case getUserStats = 36, relogged = 41, roomList = 64, privilegedUsers = 69, haveNoParent = 71
+    case parentMinSpeed = 83, parentSpeedRatio = 84, checkPrivileges = 92, acceptChildren = 100
+    case possibleParents = 102, wishlistInterval = 104, excludedSearchPhrases = 160, cantConnectToPeer = 1001
+}
+
+enum SlskPeerCode: UInt32 {
+    case sharedFileListRequest = 4, sharedFileListResponse = 5, fileSearchResponse = 9
+    case userInfoRequest = 15, userInfoResponse = 16, folderContentsRequest = 36, folderContentsResponse = 37
+    case transferRequest = 40, transferResponse = 41, queueUpload = 43, placeInQueueResponse = 44
+    case uploadFailed = 46, uploadDenied = 50, placeInQueueRequest = 51
+}
+
+enum SlskInitCode: UInt8 {
+    case pierceFirewall = 0, peerInit = 1
+}
+
+/// Transfer directions in TransferRequest.
+enum SlskDirection: UInt32 { case download = 0, upload = 1 }
+
+enum SlskOut {
+    static func login(_ user: String, _ password: String) -> Data {
+        SlskWriter.frame(code: SlskServerCode.login.rawValue) { w in
+            w.str(user); w.str(password); w.u32(160)
+            w.str(md5Hex(user + password)); w.u32(3)
+        }
+    }
+    static func setWaitPort(_ port: UInt16) -> Data { SlskWriter.frame(code: SlskServerCode.setWaitPort.rawValue) { $0.u32(UInt32(port)) } }
+    static func getPeerAddress(_ user: String) -> Data { SlskWriter.frame(code: SlskServerCode.getPeerAddress.rawValue) { $0.str(user) } }
+    static func connectToPeer(token: UInt32, user: String, type: String) -> Data {
+        SlskWriter.frame(code: SlskServerCode.connectToPeer.rawValue) { w in w.u32(token); w.str(user); w.str(type) }
+    }
+    static func fileSearch(token: UInt32, query: String) -> Data {
+        SlskWriter.frame(code: SlskServerCode.fileSearch.rawValue) { w in w.u32(token); w.str(query) }
+    }
+    static func userSearch(user: String, token: UInt32, query: String) -> Data {
+        SlskWriter.frame(code: SlskServerCode.userSearch.rawValue) { $0.str(user); $0.u32(token); $0.str(query) }
+    }
+    /// A private message to one user, relayed (in plain text) by the server.
+    static func messageUser(_ user: String, _ text: String) -> Data {
+        SlskWriter.frame(code: SlskServerCode.messageUser.rawValue) { $0.str(user); $0.str(text) }
+    }
+    static func messageAcked(_ id: UInt32) -> Data { SlskWriter.frame(code: SlskServerCode.messageAcked.rawValue) { $0.u32(id) } }
+    static func setStatus(_ status: UInt32) -> Data { SlskWriter.frame(code: SlskServerCode.setStatus.rawValue) { $0.u32(status) } }
+    static func sharedFoldersFiles(folders: Int, files: Int) -> Data {
+        SlskWriter.frame(code: SlskServerCode.sharedFoldersFiles.rawValue) { w in w.u32(UInt32(folders)); w.u32(UInt32(files)) }
+    }
+    static func haveNoParent(_ v: Bool) -> Data { SlskWriter.frame(code: SlskServerCode.haveNoParent.rawValue) { $0.bool(v) } }
+    static func acceptChildren(_ v: Bool) -> Data { SlskWriter.frame(code: SlskServerCode.acceptChildren.rawValue) { $0.bool(v) } }
+    static func serverPing() -> Data { SlskWriter.frame(code: SlskServerCode.serverPing.rawValue) }
+    static func cantConnectToPeer(token: UInt32, user: String) -> Data {
+        SlskWriter.frame(code: SlskServerCode.cantConnectToPeer.rawValue) { w in w.u32(token); w.str(user) }
+    }
+
+    static func peerInit(user: String, type: String, token: UInt32 = 0) -> Data {
+        SlskWriter.initFrame(code: SlskInitCode.peerInit.rawValue) { w in w.str(user); w.str(type); w.u32(token) }
+    }
+    static func pierceFirewall(token: UInt32) -> Data {
+        SlskWriter.initFrame(code: SlskInitCode.pierceFirewall.rawValue) { $0.u32(token) }
+    }
+
+    static func queueUpload(_ path: String) -> Data { SlskWriter.frame(code: SlskPeerCode.queueUpload.rawValue) { $0.str(path) } }
+    static func placeInQueueRequest(_ path: String) -> Data { SlskWriter.frame(code: SlskPeerCode.placeInQueueRequest.rawValue) { $0.str(path) } }
+    static func placeInQueueResponse(_ path: String, place: Int) -> Data {
+        SlskWriter.frame(code: SlskPeerCode.placeInQueueResponse.rawValue) { w in w.str(path); w.u32(UInt32(place)) }
+    }
+    static func transferRequest(upload token: UInt32, path: String, size: UInt64) -> Data {
+        SlskWriter.frame(code: SlskPeerCode.transferRequest.rawValue) { w in
+            w.u32(SlskDirection.upload.rawValue); w.u32(token); w.str(path); w.u64(size)
+        }
+    }
+    static func transferResponse(token: UInt32, allowed: Bool, reason: String? = nil) -> Data {
+        SlskWriter.frame(code: SlskPeerCode.transferResponse.rawValue) { w in
+            w.u32(token); w.bool(allowed)
+            if !allowed { w.str(reason ?? "Cancelled") }
+        }
+    }
+    static func uploadDenied(_ path: String, reason: String) -> Data {
+        SlskWriter.frame(code: SlskPeerCode.uploadDenied.rawValue) { w in w.str(path); w.str(reason) }
+    }
+    static func uploadFailed(_ path: String) -> Data { SlskWriter.frame(code: SlskPeerCode.uploadFailed.rawValue) { $0.str(path) } }
+    static func sharedFileListRequest() -> Data { SlskWriter.frame(code: SlskPeerCode.sharedFileListRequest.rawValue) }
+    static func sharedFileListResponse(_ compressed: Data) -> Data {
+        SlskWriter.frame(code: SlskPeerCode.sharedFileListResponse.rawValue) { $0.raw(compressed) }
+    }
+    static func searchReply(_ compressed: Data) -> Data {
+        SlskWriter.frame(code: SlskPeerCode.fileSearchResponse.rawValue) { $0.raw(compressed) }
+    }
+    static func userInfoResponse(description: String, uploadSlots: Int, queue: Int, freeSlot: Bool) -> Data {
+        SlskWriter.frame(code: SlskPeerCode.userInfoResponse.rawValue) { w in
+            w.str(description); w.bool(false)
+            w.u32(UInt32(uploadSlots)); w.u32(UInt32(queue)); w.bool(freeSlot)
+        }
+    }
+}
+
+private func md5Hex(_ s: String) -> String {
+    SlskMD5.hex(Data(s.utf8))
+}
+
+/// MD5 for the login hash. Written out because CryptoKit is Apple-only.
+enum SlskMD5 {
+    static func hex(_ message: Data) -> String {
+        let s: [UInt32] = [7, 12, 17, 22, 7, 12, 17, 22, 7, 12, 17, 22, 7, 12, 17, 22,
+                           5, 9, 14, 20, 5, 9, 14, 20, 5, 9, 14, 20, 5, 9, 14, 20,
+                           4, 11, 16, 23, 4, 11, 16, 23, 4, 11, 16, 23, 4, 11, 16, 23,
+                           6, 10, 15, 21, 6, 10, 15, 21, 6, 10, 15, 21, 6, 10, 15, 21]
+        let k: [UInt32] = (0..<64).map { UInt32(truncatingIfNeeded: Int64(abs(sin(Double($0 + 1))) * 4294967296.0)) }
+        var a0: UInt32 = 0x67452301, b0: UInt32 = 0xefcdab89, c0: UInt32 = 0x98badcfe, d0: UInt32 = 0x10325476
+        var bytes = [UInt8](message)
+        let bitLength = UInt64(bytes.count) * 8
+        bytes.append(0x80)
+        while bytes.count % 64 != 56 { bytes.append(0) }
+        for i in 0..<8 { bytes.append(UInt8(bitLength >> (8 * UInt64(i)) & 0xff)) }
+        for chunk in stride(from: 0, to: bytes.count, by: 64) {
+            var m = [UInt32](repeating: 0, count: 16)
+            for i in 0..<16 {
+                let j = chunk + i * 4
+                m[i] = UInt32(bytes[j]) | UInt32(bytes[j + 1]) << 8 | UInt32(bytes[j + 2]) << 16 | UInt32(bytes[j + 3]) << 24
+            }
+            var a = a0, b = b0, c = c0, d = d0
+            for i in 0..<64 {
+                var f: UInt32, g: Int
+                switch i {
+                case 0..<16: f = (b & c) | (~b & d); g = i
+                case 16..<32: f = (d & b) | (~d & c); g = (5 * i + 1) % 16
+                case 32..<48: f = b ^ c ^ d; g = (3 * i + 5) % 16
+                default: f = c ^ (b | ~d); g = (7 * i) % 16
+                }
+                f = f &+ a &+ k[i] &+ m[g]
+                a = d; d = c; c = b
+                b = b &+ (f << s[i] | f >> (32 - s[i]))
+            }
+            a0 = a0 &+ a; b0 = b0 &+ b; c0 = c0 &+ c; d0 = d0 &+ d
+        }
+        return [a0, b0, c0, d0].map { v in
+            (0..<4).map { String(format: "%02x", v >> (8 * UInt32($0)) & 0xff) }.joined()
+        }.joined()
+    }
+}

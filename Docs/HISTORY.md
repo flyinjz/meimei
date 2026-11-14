@@ -1,283 +1,39 @@
------BEGIN I2S ENCRYPTED FILE-----
-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
------END I2S ENCRYPTED FILE-----
+# Development history
+
+Dated notes on what changed and why, newest last. File paths are current
+(the opaque names used before 2026-11-13 have been translated).
+
+- 2026-11-02: repo created, git-crypt plus signing, history squashed to drop co-author lines.
+- 2026-11-03: files renamed to opaque names; this key added; lyric jump animation redone.
+- 2026-11-03: history squashed again so no commit contains original file names (old main kept locally as branch `backup-pre-squash`; delete once confirmed). GPG key uploaded; all commits Verified.
+- 2026-11-03: app renamed to i2s (display name, bundle name i2s.app, user-visible copy, armor marker `I2S ENCRYPTED FILE` — old `MEIMEI` marker still decoded). Internals kept: target/executable `MeimeiPlayer`, bundle id `com.meimei.player`, defaults domain, support folder, repo name.
+- 2026-11-03: Raven Tunnel (WireGuard, Go archive) added as a route; network step precedes account in setup.
+- 2026-11-04: overview back to the boxed layout; search slot/queue removed, user search + starred users; private messages are received and acked but only shown in the title-bar ticker (no reply UI); Downloads and legal windows always frosted glass.
+- 2026-11-04: `//` label prefixes removed app-wide; VPN-only route removed; DNS presets replaced by typed resolvers (DoT); search rebuilt (filter panel over results); Downloads opens at its minimum size (900×580); snapshots render at that size (`-dl-search-panel*.png`).
+- 2026-11-03: Soulseek downloads added (opt-in, Settings → Sources; window ⇧⌘D, title-bar button left of Library). Self-test covers it against a loopback fake network. Snapshot `--open downloads` writes `-setup-<step>.png` and `-dl-<page>.png`.
+<!-- Agents: append dated one-liners here. -->
+
+- 2026-11-04: Account tab replaced by Network; status at the rail foot is a network glyph that opens a log panel (⌘J); Messages tab with send/reply and a notice; search is typed with an own syntax and a key (filter panel removed); Downloads glass made lighter (`.sidebar` material). Snapshots: `-dl-search-key*.png`, `-dl-messages*.png`, `-dl-network.png`, `-dl-log.png`.
+- 2026-11-04 (later): search syntax expanded (numbers, ranges, negation, year/size/length/bits/rate/files/folder/file, reversed sort), autocomplete and syntax-only autocorrect, "?" key button, neutral examples; notice shortened with icons; log fixed at 5½ lines; `TitleBand` (46pt, controls 14pt from the left) used by Downloads, Library, legal and equalizer windows; Downloads glass uses the HUD material and Settings → Appearance "Downloads window dimming" (`downloadsGlassTint`, default 4%).
+- 2026-11-04 (evening): Transfers grouped by user and folder (folds up when finished, folder actions, column header); progress bars on Core Animation; Library, Equalizer, Settings, all sheets and the ⌘K palette use the Downloads glass; the dimming slider is now "Glass window dimming" (key still `downloadsGlassTint`). Main window and mini player keep the user's backdrop.
+- 2026-11-05: progress is a cell meter (no gradients/glow); folder bars segmented per file; Transfers column header aligned to the row edge, stuck numeric text transitions removed; browse request screen shows the engine trace (`browseStarted`, `browseProgress` via `SlskSocket.onPartial`), unreachable users now fail the request. Snapshots `-dl-browse-request/receiving/failed.png`.
+- 2026-11-05 (later): cell meter reverted to a solid line (fluid glide, running segment); per-file folder segments removed; transfer history (`Transfer.Step`, added/requested/queue/connecting/every 10%/finished/failed) shown in a popover from the status text; "Nobody's home." error screen with the wire animation. Snapshots `-dl-history*.png`.
+- 2026-11-07: search/browse performance. `SlskFile` stores name/lowerName/baseKind/isAudio/losslessKind at creation; `SearchGroup` stores id, folder name, year and a `Summary` (recomputed when `files` is set); `SearchFilters.filtered`/`ordered`; `SoulseekStore.results(for:)` caches per search and merges new replies; `BrowseState.loaded(BrowseList)` built off the main thread with lowercased haystacks; `String.has` (memmem) for filter matching; browse filter debounced. Self-test "perf:" line (release: cold 42 ms, cached 0.001 ms, browse filter 2 ms on 240k files). Wire animation on the error screen removed.
+- 2026-11-07 (later): Settings is its own glass window (no sheet, no Done); child windows show only Close; window buttons gained shape, size, icon size, spacing, border, rest strength, coloring (theme/accent/per button), hover, order and per-button icons (`windowControl*` in AppSettingsData), editable in Settings, Customize (element "window buttons", kind `.controls`) and from the buttons' context menu; Downloads activity line centered in the title band; lyrics report one customize outline clipped to the lyrics viewport (`textRole(reportsFrame:)`).
+- 2026-11-08: lyrics lines are separate customize outlines again (per line, sized to the drawn text, clipped to the lyrics view; `LineTextSizeKey`, `PlainLineKey`); window buttons edited in `WindowButtonsSheet`; title-bar activity ticker removed in favor of `RailNotice`; self-test clicks the window buttons in a borderless window.
+- 2026-11-08 (later): window-button look options back inline (Customize, Settings); icon pane small with frosted panes; IconOverridesSheet panes frosted; `Track` copy-on-write (bench medians: filters −33%, genre view −69%, sorts −40…64%, re-sort −54%, pane drag −55%, like −77%; grids avg +0.15 ms, p95 better); port doc lists the new platform pieces. Bench library: 9k tracks generated by python into scratch `bench/library.json`.
+- 2026-11-08 (night): scroll bars hidden app-wide (`.scrollIndicators(.never)` at scene roots, glassWindow/glassSheet, menus, popovers; track table scrollers off); mouse-wheel notches glide (`SmoothWheel`, self-test "wheel glide" compares with AppKit's own distance for AppKit and SwiftUI scroll views); lyrics wheel notches spring to the same offsets.
+- 2026-11-09: new Albums and Artists pages in the main window (`macOS/Views/Library/LibraryPages.swift`); old album/artist grids removed; Design Lab removed. Liked Songs stays the normal playlist page. Snapshot `--open albums|artists` also writes `-wide.png`. Artist profiles are next (from scratch).
+- 2026-11-08: Albums page sections are glass (`pageGlass` in `macOS/Views/Library/LibraryPages.swift`: light lift, no dark veils); the latest-addition cover backdrop is screen-blended so it only tints. `--open albums` `-wide.png` now renders on the artwork backdrop inside the library pane surface. Planned: local account at first launch owning playlists, likes and a last.fm-style listening history (artist stats will read from it). History is local first and backed up to the user's library; later a Plex-like i2s library server (simple setup, power-user features) becomes that backup target. Build the account/history server-ready. Hard rule: we never network on the user's behalf (no relay, cloud, accounts with us or telemetry); the server runs on the user's own hardware and the app connects to it directly. Account decisions: play counts start at zero (old `playCount` not carried over), repeat-one counts every full play, optional Touch ID/password lock, profile/share cards and customizable profiles; later (future, not now), an opt-in last.fm-like live profile service on our domain, the one accepted exception to the no-networking rule. Stats come only from a sealed, Secure Enclave-signed, append-only listen log with time-plausibility rules; readable export is never importable.
+- 2026-11-08 (later): sealed listening history (`macOS/Models/ListenHistory.swift`) replaces stored play counts; `LibraryStore.load` zeroes file counts, `applyListenStats` fills them from the log, `recordPlay(_:at:)` follows sealed listens. Debug builds without a scratch dir use `History-debug/` and Keychain `i2s.history.debug`; headless runs without a scratch dir don't open history. Self-test: "history:" (tampering, forgery, copies, gaps, anchor, 20k perf) and "listen tracking:" (real playback, ~35 s).
+- 2026-11-11: profile page (`macOS/Views/Library/ProfilePage.swift`, `LibrarySource.profile`; the rail's account header opens it, renaming moved there); Albums page sections fully transparent (`pageGlass` = 1px line only, now internal; `PageScroll`/`PageCover` internal; blurred-cover backdrop removed). Glyphs `pencil`, `shield.check` added. DEBUG `ListenSeeder` (`MEIMEI_SEED_LISTENS=n` with a scratch dir and no history keys yet: ~400 days of made-up listens from the scratch library). Snapshot `--open profile` (+ `-wide.png`, 1000×2700). Self-test "profile:" (stats equal after reload for every range, totals add up, library counts equal the history's).
+- 2026-11-12: Windows UI is Qt Quick (user's choice after a trial); logic is one shared Swift core. Core split, first batch: `c/` holds tracks, playlists, smart playlists, library rows, lenient decoding, icon roles and pack tables, metadata tools, duplicate detection, the portable listening history and profile stats; `CoreChecks` + the C interface (version 1: history open/report/listens/append/device, listen rule, profile JSON). Still in `s/` and next to move: themes (Skin/CustomTheme are SwiftUI colors), lyrics parsing, equalizer maths, search syntax, Soulseek (Network.framework, Compression), library store (Combine), settings payloads (AppSettingsData). The core builds alone (`swiftc` library + runner checked on the Mac).
+- 2026-11-12 (night, later): core batch 2. Palettes, themes, theme generator, settings data, customize data, font/icon/lookup options moved to `c/`; Material icon table is `IconPackTables.material` (`Glyph.codes` forwards). C interface 2: theme starters/categories/generate, settings normalize, standard layout, fonts, icons, release-safe history benchmark, decode errors name the field, `_strdup` on Windows. Mac self-test 254/254 (wheel glide passed again: earlier failures were environmental). Next: lyrics parsing, EQ maths, search syntax, library store (Combine-free), customize store export, Soulseek.
+- 2026-11-13: core batch 3. Lyrics parsing, EQ data and maths, library rules (sources, filter, library file, column sort), skin rules (Windows request: resolved skin with RGBA colours), theme list merge, customize state, font face rule moved to `c/`; the Mac draws through them (colours verified identical). History: the file handle stays open and `FileHistorySecrets` overwrites the anchor in place (Mac append 0.41 → 0.26 ms; Windows was ~10 ms on NTFS). swift-crypto pinned to 4.5.2 (what Windows resolved). C interface 3: skin, themes normalize, customize normalize, font face, lyrics, EQ (profiles, normalize, response, parse, export), library handle (tracks, playlists, apply history, view with filter + sort, albums). Self-test 283/283, core 114/114. Search syntax moves with Soulseek. Windows persistence plan: one JSON file per Mac UserDefaults key under %APPDATA%\MeimeiPlayer\defaults, read through the core's normalize functions.
+- 2026-11-13 (later): Windows history tamper checks failed because the open log handle blocked the test's file edits (Windows opens files without write sharing): the log now closes after each append on Windows, `ListenLog.close()` exists and the checks close before tampering. History benchmark reports per-phase append times (`appendPhasesMs`; Mac release: sign 0.08 ms, anchor 0.13 ms, total 0.24 ms). First Mac reference snapshot in `v/` for the Windows session.
+- 2026-11-13 (night): history check-point written every 32 listens and on close (Mac append 0.12 ms; Windows was 8.7 ms in the anchor). Snapshot options `settings:<page>`, `window:<name>`, `sheets`, `buttons`. Full reference set rendered into `v/` and the Windows handbook `Docs/WINDOWS_HANDBOOK.md` written; the rest of the port (core included) handed to the Windows session per the user.
+- 2026-11-13: opaque file names dropped (files renamed to real names in `macOS/`, `Core/`, `CoreCheck/`, `Assets/Fonts`, `Distribution/`, `Tools/`, `Docs/`, `RavenTunnel/`, `RavenTunnelC/`, `Reference/`); contents stay git-crypt encrypted. The local file key was retired and `CLAUDE.md` trimmed; this history moved here.
+- 2026-11-13: Albums page: Most played shelf removed; the album list moved up under Recently added and lost its box (shelf-style heading with count and sort menu); every album's tracklist starts open (clicking a row folds it); tracklist lines stripe with `bgRowAlt` per `tableAlternatingRows`, matching the track table. References `main-albums*.png` updated; handbook §5 notes it for Windows.
+- 2026-11-13 (later): Albums page sort menu is an icon-only pill (the table's group glyph); the latest-addition spread lost its outer line and sits on the page margins like the shelves.
+- 2026-11-13 (evening): Albums page: sort back to text, now a small "Sort  <value> ⌄" line under the Albums heading; latest-addition tracklist unboxed and unscrolled (striped lines, at most eight, "All N tracks ›" opens the album); Recently added titles open the album and artist names the artist page. Back/forward through the library pane (⌘[ / ⌘], mouse side buttons; `LibraryStore.goBack/goForward`) with a sideways spring slide. Sheets are square: the title style comes off once a sheet has attached (removing it earlier stops the sheet attaching). Self-test "navigation history" and "sheet frame".
+- 2026-11-14: git-crypt removed. The source is plain text from this commit on; `.gitattributes`, `.crypt/` and `.git-crypt/` are gone and the README no longer describes encryption. Earlier commits still hold ciphertext.

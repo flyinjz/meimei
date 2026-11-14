@@ -1,78 +1,94 @@
------BEGIN I2S ENCRYPTED FILE-----
-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
-l9U/r4z9ahkqh+CfAg==
------END I2S ENCRYPTED FILE-----
+import SwiftUI
+
+/// An artist's round portrait (their first cover), for the artist page's header.
+struct ArtistAvatar: View {
+    var name: String
+    var path: String?
+    var size: CGFloat
+    var skin: Skin
+
+    var body: some View {
+        Group {
+            if path != nil {
+                ArtworkView(path: path, size: size, skin: skin, placeholder: "person.fill")
+            } else {
+                ZStack {
+                    LinearGradient(colors: [tint, tint.opacity(0.55)], startPoint: .topLeading, endPoint: .bottomTrailing)
+                    Text(initials)
+                        .font(AppFont.ui(size * 0.34, weight: .semibold))
+                        .foregroundStyle(.white.opacity(0.92))
+                }
+            }
+        }
+        .frame(width: size, height: size)
+        .clipShape(Rectangle())
+        .overlay(Rectangle().strokeBorder(Color.white.opacity(0.08), lineWidth: 1))
+    }
+
+    private var initials: String {
+        name.split(separator: " ").prefix(2).compactMap(\.first).map(String.init).joined().uppercased()
+    }
+
+    private var tint: Color {
+        let hash = name.unicodeScalars.reduce(0) { ($0 &* 31 &+ Int($1.value)) & 0xFFFF }
+        return Color(hue: Double(hash % 360) / 360, saturation: 0.45, brightness: 0.6)
+    }
+}
+
+/// The artist page's albums, as a row of covers above their tracks.
+struct ArtistAlbumsStrip: View {
+    var albums: [AlbumGroup]
+    var skin: Skin
+    var onOpen: (AlbumGroup) -> Void
+    var onPlay: (AlbumGroup) -> Void
+
+    var body: some View {
+        ScrollView(.horizontal, showsIndicators: false) {
+            HStack(alignment: .top, spacing: 14) {
+                ForEach(albums) { album in
+                    StripAlbum(album: album, skin: skin, onOpen: { onOpen(album) }, onPlay: { onPlay(album) })
+                }
+            }
+            .padding(.horizontal, 18)
+            .padding(.bottom, 12)
+        }
+    }
+
+    private struct StripAlbum: View {
+        let album: AlbumGroup
+        let skin: Skin
+        let onOpen: () -> Void
+        let onPlay: () -> Void
+        @State private var hovering = false
+
+        var body: some View {
+            VStack(alignment: .leading, spacing: 5) {
+                ArtworkView(path: album.artworkFilePath, size: 108, skin: skin, placeholder: "opticaldisc")
+                    .clipShape(Rectangle())
+                    .overlay(alignment: .bottomTrailing) {
+                        if hovering {
+                            Button(action: onPlay) {
+                                Glyph("play.circle.fill", size: 24)
+                                    .symbolRenderingMode(.palette)
+                                    .foregroundStyle(.white, skin.accent)
+                            }
+                            .buttonStyle(PressDipStyle())
+                            .padding(6)
+                        }
+                    }
+                    .shadow(color: .black.opacity(hovering ? 0.35 : 0.18), radius: hovering ? 8 : 4, y: 2)
+                Text(album.title)
+                    .font(AppFont.ui(11, weight: .semibold))
+                    .foregroundStyle(skin.textPrimary)
+                    .lineLimit(1)
+                Text(album.year.map(String.init) ?? "\(album.trackCount) tracks")
+                    .font(AppFont.ui(10))
+                    .foregroundStyle(skin.textTertiary)
+            }
+            .frame(width: 108)
+            .contentShape(Rectangle())
+            .onTapGesture(perform: onOpen)
+            .onHover { h in withAnimation(.easeOut(duration: 0.12)) { hovering = h } }
+        }
+    }
+}

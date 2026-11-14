@@ -1,150 +1,126 @@
------BEGIN I2S ENCRYPTED FILE-----
-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
-+MI882lofQ==
------END I2S ENCRYPTED FILE-----
+import Foundation
+
+/// What each icon role is called and where it appears, for the icon editor.
+enum IconRoles {
+    static let info: [String: (name: String, usedFor: String)] = [
+        "play.fill": ("Play", "Player bar, headers, palette"),
+        "pause.fill": ("Pause", "Player bar"),
+        "playpause.fill": ("Play / Pause", "Menus and palette"),
+        "backward.fill": ("Previous", "Player bar"),
+        "forward.fill": ("Next", "Player bar"),
+        "shuffle": ("Shuffle", "Player bar, library header"),
+        "repeat": ("Repeat", "Player bar"),
+        "repeat.1": ("Repeat One", "Player bar"),
+        "stop.circle": ("Stop", "Menus"),
+        "play.circle.fill": ("Play (circled)", "Album grid hover"),
+        "speaker.slash.fill": ("Muted", "Volume"),
+        "speaker.wave.1.fill": ("Volume Low", "Volume"),
+        "speaker.wave.2.fill": ("Volume Medium", "Volume, now-playing row"),
+        "speaker.wave.3.fill": ("Volume High", "Volume"),
+        "heart": ("Like", "Now playing, tracks"),
+        "heart.fill": ("Liked", "Now playing, tracks, sidebar"),
+        "star": ("Star user", "Downloads search"),
+        "star.fill": ("Starred user", "Downloads search and rail"),
+        "network": ("Network", "Downloads rail"),
+        "network.online": ("Connected", "Downloads connection status"),
+        "network.offline": ("Disconnected", "Downloads connection status"),
+        "network.connecting": ("Connecting", "Downloads connection status"),
+        "messages": ("Messages", "Downloads rail and messages"),
+        "message.plus": ("New message", "Downloads messages"),
+        "send": ("Send", "Downloads messages"),
+        "console": ("Log", "Downloads log panel"),
+        "help": ("Search syntax", "Downloads search field"),
+        "quote": ("Lyrics included", "Downloads results"),
+        "folder": ("Folder", "Transfers"),
+        "folder.open": ("Open folder", "Transfers"),
+        "transfer.queued": ("Waiting", "Transfers"),
+        "transfer.failed": ("Failed", "Transfers"),
+        "transfer.done": ("Finished", "Transfers"),
+        "transfer.down": ("Downloading", "Transfers"),
+        "transfer.up": ("Uploading", "Transfers"),
+        "notice.unlocked": ("Not private", "Messages notice"),
+        "notice.identity": ("Unverified name", "Messages notice"),
+        "notice.links": ("Links and details", "Messages notice"),
+        "notice.sent": ("Sent message", "Messages notice"),
+        "notice.ephemeral": ("Not kept", "Messages notice"),
+        "notice.responsibility": ("Responsibility", "Messages notice"),
+        "shield.alert": ("Notice", "Downloads messages"),
+        "shield.check": ("Verified", "Profile history check"),
+        "pencil": ("Edit", "Profile name"),
+        "person.blocked": ("Ignore user", "Downloads messages"),
+        "badge.hires": ("Hi-Res", "Format column, now playing"),
+        "badge.lossless": ("Lossless", "Format column"),
+        "music.note": ("Song", "Placeholders, sidebar"),
+        "music.note.list": ("Playlist", "Sidebar, Metadata"),
+        "music.note.house": ("Library", "Title bar"),
+        "music.mic": ("Artist", "Sidebar"),
+        "person.fill": ("Person", "Artist placeholders"),
+        "person.crop.circle": ("Account", "Playlists rail"),
+        "opticaldisc": ("Album", "Sidebar, placeholders"),
+        "square.stack": ("Albums", "Sidebar"),
+        "square.stack.fill": ("Albums (filled)", "Sidebar"),
+        "guitars": ("Genre", "Sidebar"),
+        "quote.bubble": ("Lyrics", "Player bar, lyrics panel"),
+        "waveform": ("Waveform", "Placeholders, Refresh"),
+        "waveform.path.ecg": ("Analyzer", "Equalizer"),
+        "chart.bar": ("Chart", "Library overview"),
+        "chart.bar.fill": ("Chart (filled)", "Spectrum"),
+        "slider.vertical.3": ("Equalizer", "Player bar, status bar"),
+        "slider.horizontal.3": ("Adjust", "Smart playlist rules, Maintenance"),
+        "switch.2": ("Toggle", "Settings"),
+        "magnifyingglass": ("Search", "Title bar, palette, lookups"),
+        "line.3.horizontal.decrease": ("Filter", "Library filter"),
+        "rectangle.3.group": ("Group", "Library header"),
+        "tablecells": ("Table", "Settings"),
+        "list.bullet": ("List", "Up Next, presets"),
+        "list.number": ("Numbered List", "Queue"),
+        "text.alignleft": ("Text", "Settings"),
+        "sidebar.left": ("Sidebar", "Title bar"),
+        "rectangle.leftthird.inset.filled": ("Left Panel", "Settings → Panels"),
+        "rectangle.bottomthird.inset.filled": ("Bottom Panel", "Settings → Panels"),
+        "pip": ("Mini Player", "Player bar"),
+        "paintbrush.pointed": ("Customize", "Title bar"),
+        "paintpalette": ("Theme", "Settings"),
+        "gearshape": ("Settings", "Playlists rail, palette"),
+        "folder.badge.plus": ("Add Folder", "Library, palette"),
+        "plus": ("Add", "Playlists, buttons"),
+        "plus.square.on.square": ("Duplicate", "Equalizer bands"),
+        "doc.on.doc": ("Copy", "Colors, covers"),
+        "trash": ("Delete", "Lists, folders"),
+        "minus.circle": ("Remove", "Lists"),
+        "xmark.circle.fill": ("Clear", "Fields"),
+        "window.close": ("Close", "Window controls"),
+        "window.minimize": ("Minimize", "Window controls"),
+        "window.zoom": ("Full Screen", "Window controls"),
+        "arrow.up.left.and.arrow.down.right": ("Layout", "Settings"),
+        "ellipsis": ("More", "Menus"),
+        "info.circle": ("Info", "Notes, Missing"),
+        "checkmark.circle.fill": ("Done", "Confirmations"),
+        "circle": ("Unchecked", "Lists"),
+        "largecircle.fill.circle": ("Selected", "Lists"),
+        "photo": ("Image", "Covers, Downloads results"),
+        "hand.point.up.left": ("Pointer", "Hints"),
+        "moon.zzz": ("Sleep Timer", "Player bar"),
+        "clock.arrow.circlepath": ("Recently Played", "Sidebar"),
+        "clock.badge.checkmark": ("Recently Added", "Sidebar"),
+        "dot.radiowaves.up.forward": ("Watching", "Library folders"),
+        "power": ("On / Off", "Equalizer"),
+        "arrow.counterclockwise": ("Reset / Rescan", "Scanning, settings"),
+        "arrow.uturn.backward": ("Undo", "Customize, equalizer"),
+        "arrow.uturn.forward": ("Redo", "Customize, equalizer"),
+        "arrow.up.forward": ("Open", "Show in Finder"),
+        "arrow.up.right": ("Open (alt)", "Links"),
+        "arrow.down.forward": ("Down Right", "Sorting"),
+        "downloads": ("Downloads", "Title bar, Downloads window, Sources settings"),
+        "arrow.down.left": ("Down Left", "Sorting"),
+        "chevron.down": ("Chevron Down", "Menus"),
+        "chevron.up": ("Chevron Up", "Menus, order"),
+        "chevron.left": ("Chevron Left", "Back"),
+        "chevron.right": ("Chevron Right", "Disclosure"),
+        "chevron.up.chevron.down": ("Chevrons", "Pop-up menus"),
+        "scope": ("Go to Current", "Palette"),
+    ]
+
+    static func name(_ role: String) -> String { info[role]?.name ?? role }
+    static func usedFor(_ role: String) -> String { info[role]?.usedFor ?? "" }
+}

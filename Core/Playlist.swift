@@ -1,70 +1,85 @@
------BEGIN I2S ENCRYPTED FILE-----
-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
-Mt4KV0UGdYda5u3FBiIfRLd1S4zsbQ==
------END I2S ENCRYPTED FILE-----
+import Foundation
+
+struct Playlist: Identifiable, Hashable, Codable {
+    var id: UUID = UUID()
+    var name: String
+    /// Manual playlists: the tracks, in play order. Unused for smart playlists.
+    var trackIDs: [UUID]
+    /// The built-in "whole library" entry. Kept for compatibility with older
+    /// library files; it never appears as a user playlist.
+    var isLibraryView: Bool = false
+    var isSmart: Bool = false
+    var matchAll: Bool = true
+    var rules: [SmartRule] = []
+    var isBuiltIn: Bool = false
+    /// Smart playlists only: how matches are ordered, and how many to keep.
+    var smartOrder: SmartOrder = .library
+    var smartLimit: Int? = nil
+
+    init(
+        id: UUID = UUID(),
+        name: String,
+        trackIDs: [UUID] = [],
+        isLibraryView: Bool = false,
+        isSmart: Bool = false,
+        matchAll: Bool = true,
+        rules: [SmartRule] = [],
+        isBuiltIn: Bool = false,
+        smartOrder: SmartOrder = .library,
+        smartLimit: Int? = nil
+    ) {
+        self.id = id
+        self.name = name
+        self.trackIDs = trackIDs
+        self.isLibraryView = isLibraryView
+        self.isSmart = isSmart
+        self.matchAll = matchAll
+        self.rules = rules
+        self.isBuiltIn = isBuiltIn
+        self.smartOrder = smartOrder
+        self.smartLimit = smartLimit
+    }
+
+    private enum CodingKeys: String, CodingKey {
+        case id, name, trackIDs, isLibraryView, isSmart, matchAll, rules, isBuiltIn, smartOrder, smartLimit
+    }
+
+    init(from decoder: Decoder) throws {
+        let c = try decoder.container(keyedBy: CodingKeys.self)
+        id = try c.decode(UUID.self, forKey: .id)
+        name = try c.decode(String.self, forKey: .name)
+        trackIDs = try c.decodeIfPresent([UUID].self, forKey: .trackIDs) ?? []
+        isLibraryView = try c.decodeIfPresent(Bool.self, forKey: .isLibraryView) ?? false
+        isSmart = try c.decodeIfPresent(Bool.self, forKey: .isSmart) ?? false
+        matchAll = try c.decodeIfPresent(Bool.self, forKey: .matchAll) ?? true
+        rules = try c.decodeIfPresent([SmartRule].self, forKey: .rules) ?? []
+        isBuiltIn = try c.decodeIfPresent(Bool.self, forKey: .isBuiltIn) ?? false
+        smartOrder = (try? c.decodeIfPresent(SmartOrder.self, forKey: .smartOrder)) ?? .library
+        smartLimit = try c.decodeIfPresent(Int.self, forKey: .smartLimit)
+    }
+
+    func matches(_ track: Track, now: Date = Date()) -> Bool {
+        guard isSmart, !rules.isEmpty else { return false }
+        return matchAll
+            ? rules.allSatisfy { $0.matches(track, now: now) }
+            : rules.contains { $0.matches(track, now: now) }
+    }
+
+    /// Smart playlist contents: matching tracks, ordered and capped.
+    func resolveSmart(from tracks: [Track]) -> [Track] {
+        let now = Date()
+        var result = tracks.filter { matches($0, now: now) }
+        smartOrder.sort(&result)
+        if let smartLimit, smartLimit > 0, result.count > smartLimit {
+            result = Array(result.prefix(smartLimit))
+        }
+        return result
+    }
+}
+
+/// A node in the genre browse list.
+struct GenreNode: Identifiable, Hashable {
+    var id: String { name }
+    let name: String
+    let count: Int
+}

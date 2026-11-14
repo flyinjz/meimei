@@ -1,179 +1,197 @@
------BEGIN I2S ENCRYPTED FILE-----
-AEdJVENSWVBUAIaZXfnUTdqMIb09CuAxuX6hha/uCEs/TgP0BbvhI+GVe8r+lzU+
-EaEf11cIaPE2cnsVloHKsK7bS9hIRNAHji1m34VQWY60sfnXJzI/l2wC+5rUcqDK
-tBn7IlCui5bqjuf2DVdMXwAfNbg7NN/A2miHw8psEHRsfiQn4iQ1RlFT65swnMLu
-aYssyKe9bntLUbyD1iUyH0VGVGYtrRp3YDcq5R89F0DtUWfASb4OaDzCAwihmDMc
-M2XLM0MgJ+0FgzGmEnTYk9VctRGkwPeyz6CAca1ayzgCG0M0P7eVS3eA0MEpKeuZ
-qIiVSxIyBw9gUlEpUKiI3RSNtw5bAh7YYuqn0Y9WNYbh4OaFA2DYJHSMy0EQKxHN
-HaoEcHNVl45ahystjrs2F8/ciniOkuFgr+/cDujJouTbJTgvphpG64mzLI/gsodT
-dKkFAfB7BFxWClS2++A6hD1JIDfmZUPfDQCNT29PymtsZkfMI7oSgKJ0Vo0GU5fi
-uil9tgnMG6HiBScpyz4a+p+6oh3ro5pxYvu6EKPctO/+fUoNAyqLiV9Fu3wPOelb
-GW98se33HmbAcdHrjwknA4tcOd2Igg/Xo2aSri/XGvL0aRSEfScigtCrq5A7Ya3T
-65rx5KRrUBr892CjAdmGjHDNZpW62cH+s+jDlq9surZxV3mxvfZdL1M8CNYAppbo
-PAeIdkZ91MVfyhjPY4xl1CSr9XfPWMUTCCvtSOEJL9px2epnNZ+ybImLh5EtlLbG
-2X67sY2+JMWMGw6ciEFSoHb0Mn9InbfvfEix6SD31Ezd5ujY0C3DJN/3fOKq39nX
-C3ZG8JDvJLhlVDURPo5fGo4u+vSOlUW9Q4bdVELsfsJIzucDgmkZOFLrW6CgxIbo
-0zS4N8VabDYYPlRRkixNAl9kTZNakk0nKqKHvad8cnjAPWEEhHRm4IGFR8LFIcXo
-xPuwutrd98cLNOlkXLJWqPezyF8HsuR+s+7c0heJcAv7nVhBmbG8Lz2eTRbPW0Rm
-OhLhNAnE572nFBQ6OLWSeBIQI+8w6OlMXp5y4+2r0NswbfqF+y+w5Bzfr7zE+RP2
-fmci0sKIeG1mwy5aDB4BCV20H79N2zVjagCutdnM5FUUn6vVQRIraGNbbD7+7rQo
-luweCqGv9OBq+jvLIGA+CUw+fyBMOZ9U1YBoQdOhMFr6prYm2O4lSzmSHbX08DDB
-xUwh6um57zwx7Qd9+cMXod1hqzn9RYMnlDEGCVm1JPoFc710jgzjObwWm7dS4E1X
-xmP17ievfIP56rWn5XcqXFLVMUANb6wDp/hX0cz6ny/zvEECPdpcFMsEbhmKWcin
-iGm8doplNHLQM2XdkUrT5zzTbSoAHy3r+cqfzRkSUud3MfKZbz9Je//QQTv7mw6e
-88k0D6Bq2UkdmNZwO6uz6f/y2/XeuGwOJD1mlK2thE+3yVnya9E/474IBMwzU1Yy
-4O0RKqRNe80beL2+9Sm4hB3zaTW7jyp+uvDHYyh89JhQaeTSEkvlE1iqQ2fyD2CU
-BwpeqY+rVilWK5jdtjK0f1MiPYkNBXb95e9bQyBtJnFjL+CxpxSm7v6TNxFGK8al
-wstRJ0Qc7S1c+0QXugWRWu9zTJcEQHFDMXL7shbrgRyz2cewzLHAleZCwcNO/TpA
-+DFM1bKhgswXseFWXKgIdbOynW+7rE89dbvGjmB88HF7AkrJwJY1SaqlKbPvGLWl
-vAndaOydCSXuvlwnqBCjui8vbrCQJW4eJh/FLZ3xwsyrJoL7KG7hpgc59xgwptYZ
-mYE47mxS4yTBi+qJu0/f5LK1nCYJHjob4RrFiiy3UtyaAljQeekEfeHkw1dwYYfR
-omBr9j4lxdj8kggnoQTqmTH8OmbVOCHLCov+2T8dWSugh+l/+pz0QjyDCZ5dLBou
-+XCHBlx+BTLxFgdOken1NUpIK8gKnSeI9ygG2RC735BWEZpK1lGfXSgZuta2XYEF
-WdyYGe58guSiVV/0IDzNA5nNjpgTCql2++jpqqKb6n+D8QYXl5VTMr6D0eibZU9+
-skEu6Wucr0bJRCWLnlCU9FSoSN9G6/0uoSqmfYwXdyk2BKy+gTsjhL2GVs4qe8Jw
-IfPMzir6J2dyGSHXWyptQD3GMIJd2FPUjG6tQnYarOEUqyj5yFlXBzTwmNV844h8
-Zs4664Cp2a9gyOQCfVyvJ2fdigFHVrdQEw0QZsy6KSnh+FrwKtAyjpgFvmVCsl4w
-QweCHDkl+bGo4Az145HSCypRS1uDIgWTgcMnWcoMcKizvXizjT9p06QzbwS4Avg1
-7o78a1xssr+uNuHhSKOm23/XbnsomsRQhWFYTweE4XVemBOn/qFV0+eljn7OmlLO
-omrlHSmaloMrRXrrAXAty0HdRWa+xOzm8xYbl8DHdwwiCxT6rnjXnJrGVB8DIz3g
-O3/HyICS885RaMLhteKMMrwNAwzpO6NLMbINajNLufsHvdslIR+EGOiBrQbJaUUr
-5ScPDowIZAwWxAishbYIBB2kcAkybkxF/lXlT2aV+73AnXEF40KtY+kwZjYiBWaz
-hHVWtay1RDGWTU7eQL8hcXuZTKAhXLj/iwSH9KaLVN2wHniqJ9OFhK0D0j0/LXLT
-yscQ5XMj2uEXzn8+8DD/iQAsxFC6cHw5WUNO8i8LuZM/twPq3nIzfcUe9kTeZcR+
-u18IMhbJsvGLS5o3UyBD7Jz9ulz4VCLGj6AI6BM2totg/k2/7wZlJNs6en+i/5yF
-4GEcIHkB+XlHWzaHADXwW2gfJVSupM6cyGxdeIe5o7DrqzPPFyCLyU2AhlCqpS8S
-Q/TJ30/kgrJhqL7uouoI6bOZ9dmWeQz25huM1+zys3H+vgQZvw54VcPM55ZuRDn4
-Er1i99+Z5X98oQQU9h3WcuCxqozTjLK4cuG2zdDZX46VsqsKbIqWfwjrGUvhdDtX
-7TbZYg+d+ib5p/4bpdHJ1M9pAr25pSjPjVThJpAc4eObz+u70XPK8YjeMegONakq
-h71fwWIIWtmOiruQcQ0tAUjlGfcHbp+ENpCTDKdZdaJjFHAMo4TXu5OyLYDGbGyJ
-oizaJzcNjUdTLlUKcTSik0C58XhCNsOJcTTAQBOdkA4AiCGNuGI0RLzPC+iIc7HS
-OhUHF+IW7pDARuC6oc4oYwE+u4dJ1uW1JOcKkkMs6D88Y1BeAt6LKG0fh6j0qDGH
-QbX9PjjLoUnDXsxZBQVIKDzIpjAuK69gaMzIOYCrttj13f1P99Y1Q5w4WmyPW+6U
-PpD6vbCYgGNrCqKE9a3wez+4dEMnN+/gWTXB3ykPijeSOkRhHSsSHrAJX4PvkEF/
-s1vpmDGgbAVF8VGdjKeSUwo0hAHnSWy65bRexnDxgGK+52Yj74F63Ru82Mxy8pWK
-ALTckmB0kZ858NxqztvQIunRpoYbHUNWv5AZR8jQ0JvFZoOcdsvKycCrPBIlHlgx
-XqkUrm23wRQJDYVknQxIsY8yirAicv96YYwoe5mO8lnqFnPJOCigzTEBSUcO9KtW
-7fj5TlBMxHxpbEZh7q/das614YRlCEkqnFY2jEPo7pILkpzzn+rPTmC//LImOf2M
-dDnNofWfMZmEcQAJiJXYYE+6CC5zFFvMurOtzpBYDT8dOkTS36kUTq8QUfurmuqW
-4ezXPHXQd5Va3jiryJ3L8vxqCHNoFXw10bkt655x/0fuv6/Hp4dhGF6L+GA3UPjZ
-LVWhNcIjhT9SIefuxCXootc6rFCRzY369KyoZvOAsltEQcD9mKHXBwUWCupgUpxR
-hW2g9Rdzw9QLcrODE6b9fHkXIaybgPBpYUuD9jdguKVB74DsK6KmZqjXs3/d0Wyw
-UEs/YtLhcJJVS5YXPbWzp3gbe4OVvD1ICcJApbDTwGMQh4O0nCmlQ/u5Z1GdjoOV
-91O7M1Z/Fft0AzCcWAFVPyRa+o7y05oG5of8zYe2MbwPWJWjXLyDzNUGbrD6izv7
-c5TK/v/G+SidZ1w3N2xHI2vPLRlUz4v/rqlxMTzq+753Mnrdl0jQq2Y8PKdGHJV9
-4kXdikNHOGmZ1PMgs6o8u+1w2GsiYpjUbEjApTOkRs9jDCnQuXiWoJvLQErhQdTU
-UaJvlqV2yKBTwv0rScHZTNam2qTE0GPiTdVcPD4OgiqnCjjwZc4Eh6Z1TK3l44ja
-HiYHUT1g5cOEk30x1Wc8if0M3Kd5BGZtXDyrqRyk07JhGhsDK3J61rXSxjlafWTK
-7aebHkruXYjn0BQxy5gQ7dOBhHYNw0T8/nNEgNHYVKpyeKW3LkbHCRlWxNwUJj5r
-2O41yyuWX/7wZzDOaXC573D5mXhGGj5l3cacnwrrAnNZrvjYJ84gwRJ4vDJDavyw
-1bkIMdwqIIhhZQTfTZiheQgU5ETX4eBeP9ypDhdqhGQAJ5iMjzfXdZzZ2wkQPUBr
-KIYVdi4y6/h4JhUqro6q6kDrxQvDeimMWhZPvFMw7JGNRe+J0SaBMw79nbjLI6HH
-k80AeTVSsm01wAY3nOc7IFVJvTMkbXBJ1FRHjPoyoEZgRx1/KtcR3qUXszo8VxSr
-mXKPtUeW0VH6OsmxQWlwcF2ZbCqOxuZVawWhKjMemJa+1VjXAjZefQxs1jUEEWPT
-afveFzMjCoppjpMwoPfIIh7aznrLJYLsLgbur1buSC25RsDhrO7zRHMvjGg5blyB
-bTSUDMKaztebHoQOzfsarKw821R0wom/vD3GfGM0gzoaud1GkiJcvsPqRu08SyGo
-G/+WIiwXFq3lKGCP07Q3ZoNiprz1hjxpHIm06kFlpoQobbtfqQKaPIcJVFdAAZ9k
-tpE7BKyVieiVktXVvZZn0iucg5VUumo6F343MVWbxNxwfPg5Vv6vGZd6AStAMtQT
-oSXsbOtBrBwbnh8SK987V9Auf7jYYfeH/eRfhPY8cSJ6Zww3ty5IZ1mxfiL+r0Wx
-ibSopUzIAEkRRiSzx6kMfMHvsYmWB24Ap/3W8yixdkTymiAENSQM5m0BkpdwsM7n
-YWglgQa6qGxLFRfhnTV6rBVKxADHcDr18CHRyPJBEdH+vhRVwCCRSFST5OvGhFpp
-pkRpApE5rAAxfqd0Jy9BCgy5Ky0MVn+vWB9hbhjI+YcgY/cXXb79PfB7j7BbEw7m
-vRi4HV1+HKG8sWl6jOAuRz2m84uKvo2MTk0g0daeIfpjJVe1PI/a9G8BTpw6ziWz
-ktLJOufoR0fZGPGBS/mm14P48n1MHBDskc18fjq4w/IgLc7IUGs/Ejr7O2dLYyfl
-w+8j/MaZK/k2Ta9ePzGZsD5E9wmDagY7DoeqH6tvxq2LB5FxZOfKQ/Sw6kbAMSS6
-OB0oRShuRyeTvVZZQnhWjd9E+U3VA03KqMd9Q3I0C3DgsyMHVc9PuEXbCeWx4Wzd
-YByTWDRvgwS4CpjbOmZz7QvFelY1Lcfc5f5tt+yFy+RIxUraFbSl8BSQvFKRQ747
-MlNjOoeD/95wmXXNnvkcS6yXsZ1c60sg5sBjKpWGsGvMm4z1OjJr3b9wmG9SozXe
-JHa8pVLqkp49BWbqXV6RBbelDh56Fy7lgB4G7ZOSDaeKF82phJ5F6NszasGqYdt4
-h3lBZxwyaupItrUMhTKtMIuz5yZfN7iMQxZjzvunlF+UscoUpX/Twzw7oSup57RA
-GD/4u7nRki2A+yOZAgeK6mtQjN+GO3oq0G8+4IoY3mBICHptqq4PU/dDjQebLC5y
-WBeTkEEkF5+NZK05RO4bbowhm/w7YhgcabTizjI5PyXE+Zz8G3SIuQonW4Ct1wIX
-c9vw4Lbq5waizeT77Eh/CwDtN5KZV+UpydOJfUhXGEIVdzKJdjgOfB8lHBxgRkZJ
-1ibo6RVno3tAJVI9jiRKX9jhAsRCJqEJ7O/GTG7pH/mjHRrBsCl4H7MsaeAX3GQe
-ccsSMcFiOh5GBgOdjQxNjywhF4Zifu7qopBgOZPiflECmeeWF3Dwbj8jM0KpyQdg
-TA19gauee8xwhs+dJluak2Oh4rdZc7a7av6GQYBZ7Kl/BHXMOM2x5I9JVRR2p3tl
-fz+VxtpNmMKZY7cvhJqsv7DzUbaGxF6XmsdF5sxIrvOsfp+ft+Eu0RIAYemWfchF
-O6XrrxYusg098pD4e5nW6H1eCTlS9DadhOOa/W0Kb/ejiCsTdWRM0Y3p3FlHXL1a
-Vb9Kl5tCcK13KIkbA7+I5WMmJbxqrAt7Pyby8YhHVfmGkwhzX3sUD0oZbvXdjASq
-Bp0dnbEEEOMWm2w6l9AU46epnDrR1v+civd9Iv4PpEjJQIHAOULnnIivBh6TmwF/
-IEceJQ9SKnnCVGhHFOEJN6k8s7dpW6BCOimHMRWLfRm2lt1jAL1JhHwUbjLAsLpc
-Ia+AAHCQh3ELr54+avJVY6yajgJHVIeoZWZc/gM0Lbl4VV40c2COtO26ZpzyPty6
-fDe2MOwHNs9g9g5e0H1eEaXo96quOgFuoUyI8nczb/DKWqEdZ7GUeLZLEe6YqsLY
-8s7iUj57RaD2898iDSQOsI5F2O8XGEBYGbvC2KoyT6K9/yYhNg2VUHdUn5Vs6uZj
-ogUIAKoNTu3zEOaTyfAb8yDwgu56pSpZLKyi3VxCFPEjy9LqruU6OgwmXKovP2kS
-ewP6iwYbqmmaDKgeHTlq4Hm46R/CkgjqMwyEELl49LfbI644NkKyt7bcV5nPwFKp
-ZPXQainYUU9ZlAp3nsxprFjdi6MbbPe85cals2Q7bOv+u6aqJKjn0y4N9k5AXkXf
-coBJsZpJct3NbXcL9GY9ytNFeMWtZZkAUEV3caU0lpKKOCM43Gh0mavEG2iGRfgh
-5BHXMhitNu5EWVkzwzdq3wh4QddZJWPERQ9zVH3vJraJpeMkXwnyNg8Ss3DUeZfk
-S+1rgyYRUnKF5s88OnyJF5eJC8ENjoEIxV4eaLMyyt901BjEX3y5EG9N6YD1krhH
-nJ+nOHUTTbU4abbkaNmUFjDoze2x1/149MxH1vhJriwPrgCVnn03ZpvTDfTbkMk7
-UIefnihxF8P9/s1F493LTWPQwz0wUU9qVQDTwzwWL2wGcCTDY2ucnViRVkpWHy3B
-QHck0SYiPUUCsaoB5tgVz5vxqmHgBs/Hvz72k9/sbJ1fgLYfHhoPnouCR8S7nXZe
-IaE4Kct6tQShYP19ppEK9awtZZ27yM0fZ4UVqVZLF0jBgx7hPue7TzVSj+upViOx
-9s+2VSZFzTzr/C4HcsUjPBkFycjNtpzhcM/XFQF9PvGPoEoeWhnJK/jhpv4ixL70
-y8frrz1+EBMQyusOGLMSmwk7o3FW+HC+r0XRwF/nOHuN8nMWal7O2sWx2SB1lSXo
-NEPlj1yf0BHzyA6gegVHDfNmNqgYeM9obf2Y4ic9iChSHCxL+jgSYAkMmUPrPQVp
-5VsM2iSiBaow1/MfMKd2LL/gmHXBjaG1Y2JdDcOC+cIoDI1+fJTMCNN1u4Wb7zBN
-UE3ei4YzXNLcMfxP1c8uDWqsWtXZrC/V8Nfv0dY8t267aJcI2NsjMATd+lvmhRgL
-ApgkOAmuof/ih4y/xkjnxkx9xgIkDeH2uYkgU+3+l2z2+uHOw5MIfNNwxS2PQvbW
-jqnWveU0KEQ7Bbmq7Nne6auYsqP49uhEBdyW6fTCDQtie0Xiq99+bAPYOnZadylR
-thHRw9vDWKt8+Xh6zfVDP8MOJHC8NrrSUIYmTv4qJ6sHgZ+EVjOkO0WJpIBQxN8R
-FVitZi8ADQpRG0hJz2OeziCcz9yUJJ82osLJ5iI9DEkNj7FdPGb2z7Z+W0ptRjSa
-JRcTXaF+XR87ORa9Mu4AWe87LAZAKcZvHhSf6DuihFv12LbJ9FGwf/p51CYJXEcG
-RuVxjFH3XeS4oRnh31BYgJc313oL57unuxG+LhUO+FQLYFK6VBTfIvCXUsjFOArt
-+XjUME1dpvUp6PpgPPXVzCD5qMHdU2L+HRl7UaZGlwEHzHMsfFSC0XdeWD90GFRg
-vLEpvou6UcqurCnm2oMB+Jiasu0qKCEYcf2VcNS7uJ7oPyEj/zMfgsrvPxC+E9NB
-07yFMm55hBdT1Lf/U49ViGXB2Prk46PcsI3fXiPdxHvAwn6Im2CcGIoHfiwRAZYO
-AFU3dch68SgbrPQfbbXWbRrZEsxQuEPInt4odQA2Qk+xGQrwhZp+yNOzaLNIM8Ws
-qJB4t+cHuUMgyfaKF2x14DbT/QTKkAqogmyqTznSpu83zb/gpRh/PExvsDRgqHxL
-yU31ZmaSXby0YtZ2TCOXO1kPqYjqg/8XNX/tZPYo3RJDNjm/HR7kb3zH203eknD+
-a1rbTep8owNWJPKTHgJjMmmsQPv0aBR9wOxsEc3HeK698iStjQnWXnP33OKucbPc
-0uy82cT6ymPaA6qYP1d5lx9I94YDpk5BK5YiE73VA9PxMLs5G5TMjRC+bPlrQaT3
-JVWAizxg+Ls9Vc3zWVLXUWD4S7he7tY9MxDIAyHSPvwjBDFkUZoBE8QId+d3BMXU
-p+WoywbaxGx3/XKaMkjwg/Ha/UVPPKP+s3OWGOqPCE98Ox8ngWfdOOMEodFSrdOa
-LIjPhJt3/8SeiErTYrIcoqNAlnWcfeLGGm9JL8dQmC5+fHxox4R97royaepl3Xsy
-324IE37Kxcbrcytoaymn5bSeKBcIwmO/HKb05ySFcTeRKYWVJwFFL8cMA1IxHcVT
-YesDuK6i+QaSQeJPAaGO/ku44NaBG9aT82FlXuS2TdG50WVyNFZ7wsuyuj+6UY7o
-PRZGH5RfXJpgORbyFq3rTK/nF1DUaqfW6VDMPCz1mlicgEZ4oS0sQREDR6b3H7PM
-zCyeMg3FgHqA5lc9ahg2FCHBYgXlh9q9ikwS7+s+C6PmpFw/YULSpwjT0ED1hF0D
-3Xk3tO59KGlclr6QI/a2QPsoPxv0ZAlZIeMh+awoK3GnytvSgAq9yoH8K/s3zHbl
-CwGZskOemAQeeMbxZQ7ioz53U3AXZ0mvk6N/VN5iRp9Q5/BeqY/CiXY4sicQNhmv
-SsZDMJSFXtrsPoP783NWAvDpmaj2KQoH5aR8R4ba0TtpW8fN8bX9Fc2v3MSLfNuG
-KCrExApzIOUnLPWsURnkDKAqaZvSKEvhtxJ34rDJe8p+PT+IiiV6j9fynBy7nk5A
-ye3bDWyBslD9FhC4vcE8vR9M/NFRcj2neZB7pZUEukQC6MI6AuJMYy0jgLwKXzw4
-S0u05fZEEd2mxtkDFyQEBYKej1X/+/QMhTmgnuRKk+096HOr8FVm8CedZ7GYuvTd
-Qk1nR6yzSP1b3cEMHi90hl19VR51y+OtkDPRNDJnXiXYt4zcWWcNP9gEMwm5pgn6
-EyKa6l4064hFxonk4aODfByPofT41e+ulPgURCqCV3vGmwPbhuWSH2S23YaMGGev
-pQCBIXrn5FKgKSHIyNtlPnKzsZ0WaPOhmoI2y4hh1xbXnjO8GY5M3DC6wr0lsPNA
-eleOMcgB5Qz3IgsUQVz1m/Hm9CL0JsV0MbW+YOgC5wvPIFF/CJqH6FTa1IIDmIsU
-Q/I7rSBClhXXXZCyX3TBNj/nFsBAJs8AWBQwu7BfN+1ZwL6lnMj52cCerQZU4+Zm
-40+OWdRedT/ezln0531EHT7BQFG9ESgznWyRiAl2mz6f5XnpgPWZC1lR2TsIGe82
-1q5w7a9GO/uP0t4BnLR6X7ls/g51fXKCs5QTEUi0+b2fnece8XZ0Od/Jk7oDkTk9
-P6fsgQvuVKERQv/2h8t/eCgW9TrMHWITp6FxvdrmLaygFmsgj1Z/9shqc7sDSLub
-UP4qESTpIdwWahonSa8mnzPDkLuS/Hl0mFw+KjXh6yshY4v5CjSdIZiKMVDLkkrE
-MZBPAxP/py5wDVXJB2oASxj7VcAwnAxbJ4e4bX0TFkoWFaxNS0vUsC2Arw9YTeFu
-gyVHjfHdZl1vQxL0x/9j9iQFf9az891HIi2P+DkqW2oeFyrY9rRA227w5EmJe4Mo
-UEp/HP5uInHdkJsMstJiWE4jdBc+g8JyeimM870RU/l7/kzdKhw9VcDXmQjgQBGC
-aPJXlFNUiNLkOR4rH9n3j/SEmpd8yhbp9eIkKQO5JimAO2KLkwL0Tw3Vdw1G3zl4
-Bs0GxUQ22QcwN+mUPHpv3IQL6kzNkTUl8WM4OTasgGo3IJ1wTi8bK1T4jjYnPao9
-P7fLvTbNcYTsV3WwmqR+OGKTibUahtVNVNL8hg1Xu/r+pOyxdIa5+oqrfPRfWjQU
-KfaO5diSZw+WyABgJJp5J5bPo+H6f+YhfkivdYRr/4QV7eLL3/24Pl39ctbSmOHS
-413KtNK/qQIHQE2v8dLrSTZErQrc8mLV7W2Q3859Z95zslUDSbYMA0M05dcUUH8p
-pt6ZFe8r6/z5wDnnlg8Eo//1YSzbe5c4huODhRmPdNy+jPBiYAMOozCDNzCEzkW6
-KWgpuHICQCAvPG8YYt9XKwqBLKLGWGkRRCFuKs25CeCPOBYvtDPsFXE1q5j2ENeH
-kB9SXgtX9pum4CR6/yla0Ttu0wC2vacW3l8R2qeZ8RoC43qtiqyuOIhmTdWAN4Xq
-rb3fkS714RTBGv9W939qVXr/sGwNRmBZJoPHD5SPEGVYqeIbWbzDbt7HSYsrhfsD
-iWFEFgJPJMVN9q7rSLN2F8WbwArK/eZMoB0KwLZUwKCAseOhPHi3trqvYSLuR7kB
-MYNkrq39a9a45R7pITzgaL7O69EhZ5P2T/EyxiQ/yPcAZi4JtothnD6E4WrpaUz1
-ND/aqTb5HBDVOULGpZarV35jQZ3crWv/Y+SsWNC9C2BJHpkWvwsf6y7nKyPo7RDR
-T+HLNzbtbi3jGqLTH+ApHnVHQDjrOz70JmoMOH+g2hUd+G3eZz2ial6QFKlWhXDb
-DKwquKLSZkzgbjWL+ns2mz/xRy2Qz5XbA3d+BamPPjWh7JHqH6fpTPEUPXlyaDax
-UeRQTBuHDNifehjq7phRE9D4qlGcHSZL5sfXafoliS8gx6/mLwamsPZ6EXr//qVk
-0+IPa/5ehWGhyjZoYopEodAAH9cZ9dv8N2Ar8e1u2Sau8gBtAPKuMty+0QAmBD11
-ULXWDPwt/JHXZNl0zZXfJTL/MtYphOyQihGY0s++FI6EXmTBhjWK6IWcxHCZfbGC
-iI/yjuH5mXCsVHVnjVxkqczCa5fOtOZn28BdIUmUVvon919/P72YlmVd/DYmMHo0
-WhentF7q8NUVcULxqsPO4rWtQtjquZne6EsFdJwx9QCE479Tj4M1XtGc+e1iXn14
-wmn9RcVLzT52LWLmvAQTxg14zjZYv3IiRc4kBKzb4qbMGnr6Ho9Xrf+0F1DxtS9v
-b5qgODEeEcMfvehmBR0zZ7lB6JgDvyLJM0EWtc0CUjHzP2mZqS0rNg3PUfG1/t2m
------END I2S ENCRYPTED FILE-----
+import SwiftUI
+
+/// A free resize of one pane from a corner or an edge, with rules: panes
+/// stay inside the window's grid, keep usable minimum sizes, leave the
+/// library room, and edges snap to the edges of panes in other columns.
+///
+/// Pure geometry over the pane frames captured when the drag began, so it
+/// can be checked without a window.
+struct PaneResize {
+    var pane: PaneID
+    var horizontal: HorizontalEdge?
+    var vertical: VerticalEdge?
+    /// Pane frames when the drag began (visible panes only).
+    var frames: [PaneID: CGRect]
+    var layout: PaneLayout
+    var gap: CGFloat
+
+    static let minWidth: CGFloat = 160
+    static let maxWidth: CGFloat = 560
+    static let libraryMinWidth: CGFloat = 360
+    static let minHeight: CGFloat = 80
+    static let snapDistance: CGFloat = 8
+
+    /// A line an edge snapped to, drawn across the window while dragging.
+    struct Guide: Equatable, Hashable {
+        enum Axis { case x, y }
+        var axis: Axis
+        var position: CGFloat
+    }
+
+    struct Result {
+        var layout: PaneLayout
+        var rect: CGRect
+        var guides: [Guide]
+    }
+
+    /// The edges of `pane` that move something. Outer edges sit on the
+    /// window margin, so only edges shared with a neighbor resize.
+    static func movableEdges(of pane: PaneID, layout: PaneLayout, frames: [PaneID: CGRect])
+        -> (horizontal: [HorizontalEdge], vertical: [VerticalEdge]) {
+        let probe = PaneResize(pane: pane, horizontal: nil, vertical: nil, frames: frames, layout: layout, gap: 0)
+        guard let c = layout.columnIndex(of: pane) else { return ([], []) }
+        let columns = probe.visibleColumns
+        guard let pos = columns.firstIndex(of: c) else { return ([], []) }
+        var h: [HorizontalEdge] = []
+        if pos > 0 { h.append(.leading) }
+        if pos < columns.count - 1 { h.append(.trailing) }
+        let stack = probe.visiblePanes(in: c)
+        var v: [VerticalEdge] = []
+        if let i = stack.firstIndex(of: pane) {
+            if i > 0 { v.append(.top) }
+            if i < stack.count - 1 { v.append(.bottom) }
+        }
+        return (h, v)
+    }
+
+    /// The layout after dragging by `t`; `snapping` off is ⌥ held.
+    func apply(_ t: CGSize, snapping: Bool = true) -> Result {
+        var result = Result(layout: layout, rect: frames[pane] ?? .zero, guides: [])
+        guard let r = frames[pane], let c = layout.columnIndex(of: pane) else { return result }
+        if let horizontal { resizeWidth(c, r, horizontal, t.width, snapping, &result) }
+        if let vertical { resizeHeight(c, r, vertical, t.height, snapping, &result) }
+        return result
+    }
+
+    // MARK: Width
+
+    private func resizeWidth(_ c: Int, _ r: CGRect, _ edge: HorizontalEdge, _ dx: CGFloat, _ snapping: Bool,
+                             _ result: inout Result) {
+        let columns = visibleColumns
+        guard let pos = columns.firstIndex(of: c) else { return }
+        let neighborPos = edge == .trailing ? pos + 1 : pos - 1
+        guard columns.indices.contains(neighborPos) else { return }
+        let neighbor = columns[neighborPos]
+
+        // The fixed column on this boundary changes; the library absorbs it.
+        let resized = isFlexible(c) ? neighbor : c
+        guard let rr = columnRect(resized), let libraryRect = libraryColumnRect else { return }
+        let ownSide = resized == c
+        // The width of the resized column with this pane's edge at `b`, and back.
+        let widthAt = { (b: CGFloat) -> CGFloat in
+            switch (ownSide, edge) {
+            case (true, .trailing): return b - rr.minX
+            case (true, .leading): return rr.maxX - b
+            case (false, .trailing): return rr.maxX - (b + gap)
+            case (false, .leading): return (b - gap) - rr.minX
+            }
+        }
+        let edgeFor = { (w: CGFloat) -> CGFloat in
+            switch (ownSide, edge) {
+            case (true, .trailing): return rr.minX + w
+            case (true, .leading): return rr.maxX - w
+            case (false, .trailing): return rr.maxX - w - gap
+            case (false, .leading): return rr.minX + w + gap
+            }
+        }
+        // A column never takes the library below its minimum.
+        let upper = min(Self.maxWidth, rr.width + max(0, libraryRect.width - Self.libraryMinWidth))
+
+        var b = (edge == .trailing ? r.maxX : r.minX) + dx
+        // Snap to another fixed column's width, so side columns can match.
+        if snapping {
+            for other in columns where other != resized && !isFlexible(other) {
+                guard let o = columnRect(other) else { continue }
+                let target = edgeFor(o.width)
+                if abs(b - target) < Self.snapDistance {
+                    b = target
+                    result.guides.append(Guide(axis: .x, position: target))
+                    break
+                }
+            }
+        }
+        let width = min(upper, max(Self.minWidth, widthAt(b))).rounded()
+        if let i = result.layout.columns.firstIndex(where: { $0.id == layout.columns[resized].id }) {
+            result.layout.columns[i].width = Double(width)
+        }
+        let landed = edgeFor(width)
+        if edge == .trailing {
+            result.rect.size.width = landed - r.minX
+        } else {
+            result.rect.origin.x = landed
+            result.rect.size.width = r.maxX - landed
+        }
+        result.guides.removeAll { $0.axis == .x && abs($0.position - landed) > 0.5 }
+    }
+
+    // MARK: Height
+
+    private func resizeHeight(_ c: Int, _ r: CGRect, _ edge: VerticalEdge, _ dy: CGFloat, _ snapping: Bool,
+                              _ result: inout Result) {
+        let stack = visiblePanes(in: c)
+        guard let i = stack.firstIndex(of: pane) else { return }
+        let j = edge == .bottom ? i + 1 : i - 1
+        guard stack.indices.contains(j), let n = frames[stack[j]] else { return }
+
+        var line = (edge == .bottom ? r.maxY : r.minY) + dy
+        if snapping, let snapped = snapY(line, excluding: c) {
+            line = snapped
+            result.guides.append(Guide(axis: .y, position: snapped))
+        }
+        // The pair's combined height is fixed; trade it between them.
+        let pair = r.height + n.height
+        var mine = edge == .bottom ? line - r.minY : r.maxY - line
+        mine = min(pair - Self.minHeight, max(Self.minHeight, mine)).rounded()
+        // Weights in points: every pane in the column at its current height.
+        var weights: [PaneID: Double] = [:]
+        for p in stack { weights[p] = Double(frames[p]?.height ?? 0) }
+        weights[pane] = Double(mine)
+        weights[stack[j]] = Double(pair - mine)
+        if let k = result.layout.columns.firstIndex(where: { $0.id == layout.columns[c].id }) {
+            result.layout.columns[k].weights.merge(weights) { $1 }
+        }
+        if edge == .bottom {
+            result.rect.size.height = mine
+        } else {
+            result.rect.origin.y = r.maxY - mine
+            result.rect.size.height = mine
+        }
+        // Guides only make sense where the edge actually landed.
+        let landed = edge == .bottom ? result.rect.maxY : result.rect.minY
+        result.guides.removeAll { $0.axis == .y && abs($0.position - landed) > 0.5 }
+    }
+
+    /// The nearest top or bottom edge of a pane in another column.
+    private func snapY(_ y: CGFloat, excluding column: Int) -> CGFloat? {
+        var best: (CGFloat, CGFloat)?
+        for (p, f) in frames where layout.columnIndex(of: p) != column {
+            for candidate in [f.minY, f.maxY] {
+                let d = abs(candidate - y)
+                if d < Self.snapDistance, best == nil || d < best!.0 { best = (d, candidate) }
+            }
+        }
+        return best?.1
+    }
+
+    // MARK: Columns
+
+    var visibleColumns: [Int] {
+        layout.columns.indices.filter { !visiblePanes(in: $0).isEmpty }
+    }
+
+    func visiblePanes(in column: Int) -> [PaneID] {
+        layout.columns[column].panes.filter { frames[$0] != nil }
+    }
+
+    private func columnRect(_ column: Int) -> CGRect? {
+        let rects = visiblePanes(in: column).compactMap { frames[$0] }
+        guard let first = rects.first else { return nil }
+        return rects.reduce(first) { $0.union($1) }
+    }
+
+    private func isFlexible(_ column: Int) -> Bool { layout.columns[column].panes.contains(.library) }
+
+    private var libraryColumnRect: CGRect? {
+        layout.columnIndex(of: .library).flatMap(columnRect)
+    }
+}

@@ -1,55 +1,55 @@
------BEGIN I2S ENCRYPTED FILE-----
-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
------END I2S ENCRYPTED FILE-----
+import SwiftUI
+
+/// A platform skin from a shared palette (`Palette` in the core). Alpha is
+/// always opaque here; the live cover theme is the only one that bleeds.
+extension Skin {
+    init(palette p: Palette) {
+        self.init(
+            id: p.key, name: p.name,
+            bgVoid: Color(hex: p.bgVoid), bgPanel: Color(hex: p.bgPanel),
+            bgRow: Color(hex: p.bgRow), bgRowAlt: Color(hex: p.bgRowAlt),
+            bgRaised: Color(hex: p.bgRaised), hairline: Color(hex: p.hairline),
+            textPrimary: Color(hex: p.textPrimary), textSecondary: Color(hex: p.textSecondary),
+            textTertiary: Color(hex: p.textTertiary), textOnAccent: Color(hex: p.textOnAccent),
+            accent: Color(hex: p.accent), accentDim: Color(hex: p.accentDim), accentGlow: Color(hex: p.accentGlow),
+            lcdOn: Color(hex: p.lcdOn), lcdOff: Color(hex: p.lcdOff), lcdBackground: Color(hex: p.lcdBackground),
+            selection: Color(hex: p.selection), hover: Color(hex: p.hover),
+            allowsBackdropBleed: p.bleed
+        )
+    }
+}
+
+extension Skin {
+    /// Y2K lime/magenta clash on a dead-CRT black — late-90s tracker aesthetic.
+    static let acidStatic = Skin(palette: .acidStatic)
+
+    /// Dusty orange + harbor teal over warm brown — vinyl, rain, a cheap sampler.
+    static let lofiHarbor = Skin(palette: .lofiHarbor)
+
+    /// Steamed matcha and paper — quiet Japanese indie, late afternoon studio.
+    static let matchaHour = Skin(palette: .matchaHour)
+
+    /// Indigo booth, brass riff, a little wine in the glass.
+    static let loopStation = Skin(palette: .loopStation)
+
+    /// Graphite sheets and a single hot accent — the current Apple Music chrome.
+    static let pulseRed = Skin(palette: .pulseRed)
+
+    /// Frosted navy and system blue — iOS music player at night.
+    static let pacificGlass = Skin(palette: .pacificGlass)
+
+    /// Warm dark with a rose spotlight — Now Playing, lights down.
+    static let softSpotlight = Skin(palette: .softSpotlight)
+
+    /// Midnight navy and cigarette mustard. A session, not a costume.
+    static let nightSession = Skin(palette: .nightSession)
+
+    /// Phosphor on cheap CRT glass. Something is listening back.
+    static let phosphor = Skin(palette: .phosphor)
+
+    /// Moss, rain-sky, a clay roof in the distance.
+    static let gardenRain = Skin(palette: .gardenRain)
+
+    /// Placeholder the live cover theme uses before the first artwork lands.
+    static let fromCoverPlaceholder = Skin(palette: .fromCoverPlaceholder)
+}

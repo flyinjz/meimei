@@ -1,184 +1,182 @@
------BEGIN I2S ENCRYPTED FILE-----
-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
------END I2S ENCRYPTED FILE-----
+import Foundation
+
+/// A built-in palette: every theme colour as 24-bit sRGB. The starter
+/// themes are made from these, and each platform's skins are drawn from them,
+/// so the Mac and the Qt app show exactly the same colours.
+struct Palette: Equatable {
+    let key: String
+    let name: String
+    let bgVoid, bgPanel, bgRow, bgRowAlt, bgRaised, hairline: UInt32
+    let textPrimary, textSecondary, textTertiary, textOnAccent: UInt32
+    let accent, accentDim, accentGlow: UInt32
+    let lcdOn, lcdOff, lcdBackground: UInt32
+    let selection, hover: UInt32
+    /// Panels and the table stay translucent so a blurred cover shows through (the live cover theme).
+    let bleed: Bool
+
+    init(_ key: String, _ name: String,
+         void: UInt32, panel: UInt32, row: UInt32, alt: UInt32, raised: UInt32, line: UInt32,
+         text: UInt32, text2: UInt32, text3: UInt32, onAcc: UInt32,
+         acc: UInt32, dim: UInt32, glow: UInt32,
+         lcd: UInt32, lcdOff: UInt32, lcdBg: UInt32,
+         sel: UInt32, hov: UInt32, bleed: Bool = false) {
+        self.key = key; self.name = name
+        bgVoid = void; bgPanel = panel; bgRow = row; bgRowAlt = alt; bgRaised = raised; hairline = line
+        textPrimary = text; textSecondary = text2; textTertiary = text3; textOnAccent = onAcc
+        accent = acc; accentDim = dim; accentGlow = glow
+        lcdOn = lcd; self.lcdOff = lcdOff; lcdBackground = lcdBg
+        selection = sel; hover = hov
+        self.bleed = bleed
+    }
+}
+
+extension Palette {
+    static let voidBlack = Palette(
+        "void", "Void // Amethyst",
+        void: 0x0A0A0D, panel: 0x101014, row: 0x121216, alt: 0x17171C, raised: 0x191920, line: 0x28282F,
+        text: 0xE7E5F0, text2: 0x9C9AAC, text3: 0x63616F, onAcc: 0xF5F3FF,
+        acc: 0x8B6BFF, dim: 0x4E3F8C, glow: 0xB79CFF,
+        lcd: 0xB79CFF, lcdOff: 0x2B2440, lcdBg: 0x090711,
+        sel: 0x4E3F8C, hov: 0x22222A
+    )
+
+    static let terminalAmber = Palette(
+        "amber", "Amber // CRT",
+        void: 0x0B0A08, panel: 0x131109, row: 0x14120A, alt: 0x1A170D, raised: 0x1C1810, line: 0x332B18,
+        text: 0xF3E7C9, text2: 0xB79E6E, text3: 0x6E5F42, onAcc: 0x1A1204,
+        acc: 0xFFB020, dim: 0x7A5518, glow: 0xFFD680,
+        lcd: 0xFFB020, lcdOff: 0x3A2A0E, lcdBg: 0x0A0700,
+        sel: 0x7A5518, hov: 0x241E10
+    )
+
+    static let coldSteelCyan = Palette(
+        "cyan", "Cold Steel // Cyan",
+        void: 0x07090B, panel: 0x0D1114, row: 0x0F1417, alt: 0x131A1E, raised: 0x151C20, line: 0x223037,
+        text: 0xDCEFF2, text2: 0x84A6AE, text3: 0x4E6B71, onAcc: 0x03151A,
+        acc: 0x33D6E8, dim: 0x1B6E78, glow: 0x9CF3FB,
+        lcd: 0x33D6E8, lcdOff: 0x123338, lcdBg: 0x050B0D,
+        sel: 0x1B6E78, hov: 0x1A262C
+    )
+
+    static let bloodChrome = Palette(
+        "blood", "Blood // Chrome",
+        void: 0x0A0808, panel: 0x110D0D, row: 0x130E0E, alt: 0x191212, raised: 0x1B1414, line: 0x2E1F1F,
+        text: 0xF0E4E4, text2: 0xAD8686, text3: 0x6B4B4B, onAcc: 0x1A0505,
+        acc: 0xFF3B4E, dim: 0x7A1E28, glow: 0xFF8C97,
+        lcd: 0xFF5064, lcdOff: 0x3A1418, lcdBg: 0x0A0505,
+        sel: 0x7A1E28, hov: 0x241414
+    )
+
+    /// Y2K lime/magenta clash on a dead-CRT black — late-90s tracker aesthetic.
+    static let acidStatic = Palette(
+        "acid", "Acid Static",
+        void: 0x08080A, panel: 0x0E0E10, row: 0x101012, alt: 0x161618, raised: 0x1A1A1C, line: 0x2C2C18,
+        text: 0xEEFFE4, text2: 0x8AA878, text3: 0x556048, onAcc: 0x0A0C00,
+        acc: 0xC6FF3A, dim: 0x5A7A12, glow: 0xE8FF8C,
+        lcd: 0xC6FF3A, lcdOff: 0x1A2208, lcdBg: 0x050600,
+        sel: 0x5A7A12, hov: 0x1C1C12
+    )
+
+    /// Dusty orange + harbor teal over warm brown — vinyl, rain, a cheap sampler.
+    static let lofiHarbor = Palette(
+        "harbor", "Lofi Harbor",
+        void: 0x120E0C, panel: 0x1A1512, row: 0x1C1714, alt: 0x241E19, raised: 0x261F1A, line: 0x3A322C,
+        text: 0xF0E6D8, text2: 0xB89A82, text3: 0x7A6558, onAcc: 0x1A1008,
+        acc: 0xD4894A, dim: 0x8A5A32, glow: 0xE8B88A,
+        lcd: 0x4A8B86, lcdOff: 0x1A2826, lcdBg: 0x0C0A08,
+        sel: 0x8A5A32, hov: 0x2A221C
+    )
+
+    /// Steamed matcha and paper — quiet Japanese indie, late afternoon studio.
+    static let matchaHour = Palette(
+        "matcha", "Matcha Hour",
+        void: 0x10140F, panel: 0x161C14, row: 0x181E16, alt: 0x1E261C, raised: 0x20281E, line: 0x3A4A34,
+        text: 0xE8EDE0, text2: 0x9AAB88, text3: 0x657056, onAcc: 0x12180C,
+        acc: 0x8FA86B, dim: 0x4A5C38, glow: 0xC4D4A0,
+        lcd: 0xC4B48A, lcdOff: 0x2A2E20, lcdBg: 0x0A0C09,
+        sel: 0x4A5C38, hov: 0x22281E
+    )
+
+    /// Indigo booth, brass riff, a little wine in the glass.
+    static let loopStation = Palette(
+        "loop", "Loop Station",
+        void: 0x0C0A14, panel: 0x14121C, row: 0x16141E, alt: 0x1C1A28, raised: 0x1E1C2A, line: 0x3A3450,
+        text: 0xEDE8F5, text2: 0xA090B8, text3: 0x6A6080, onAcc: 0x120E08,
+        acc: 0xC4A35A, dim: 0x6A5828, glow: 0xE8D090,
+        lcd: 0xC4A35A, lcdOff: 0x2A2410, lcdBg: 0x0A0810,
+        sel: 0x4A3A70, hov: 0x222030
+    )
+
+    /// Graphite sheets and a single hot accent — the current Apple Music chrome.
+    static let pulseRed = Palette(
+        "pulse", "Pulse",
+        void: 0x000000, panel: 0x1C1C1E, row: 0x1C1C1E, alt: 0x2C2C2E, raised: 0x2C2C2E, line: 0x3A3A3C,
+        text: 0xF5F5F7, text2: 0xA1A1A6, text3: 0x6E6E73, onAcc: 0xF5F5F7,
+        acc: 0xFA2D48, dim: 0x8A1828, glow: 0xFF6B80,
+        lcd: 0xFA2D48, lcdOff: 0x3A1018, lcdBg: 0x000000,
+        sel: 0x8A1828, hov: 0x2A2A2C
+    )
+
+    /// Frosted navy and system blue — iOS music player at night.
+    static let pacificGlass = Palette(
+        "pacific", "Pacific Glass",
+        void: 0x070B12, panel: 0x0C121C, row: 0x0E141E, alt: 0x141C28, raised: 0x161E2A, line: 0x2A3A50,
+        text: 0xE8F0FA, text2: 0x8AA0B8, text3: 0x5A7088, onAcc: 0xF5FAFF,
+        acc: 0x0A84FF, dim: 0x0A3A78, glow: 0x64B0FF,
+        lcd: 0x64B0FF, lcdOff: 0x102038, lcdBg: 0x05080C,
+        sel: 0x0A3A78, hov: 0x1A2430
+    )
+
+    /// Warm dark with a rose spotlight — Now Playing, lights down.
+    static let softSpotlight = Palette(
+        "spotlight", "Soft Spotlight",
+        void: 0x121014, panel: 0x1A171C, row: 0x1C191E, alt: 0x242026, raised: 0x262228, line: 0x3A343C,
+        text: 0xF4EEF2, text2: 0xB8A8B0, text3: 0x786870, onAcc: 0x1A1014,
+        acc: 0xE8A0B8, dim: 0x7A4A5A, glow: 0xF4C8D4,
+        lcd: 0xE8A0B8, lcdOff: 0x2A1820, lcdBg: 0x0C0A0C,
+        sel: 0x7A4A5A, hov: 0x282228
+    )
+
+    /// Midnight navy and cigarette mustard. A session, not a costume.
+    static let nightSession = Palette(
+        "night", "Night Session",
+        void: 0x0A0C12, panel: 0x10141C, row: 0x12161E, alt: 0x181C28, raised: 0x1A1E2A, line: 0x2C3448,
+        text: 0xE8E4D8, text2: 0xA8A090, text3: 0x686860, onAcc: 0x12100A,
+        acc: 0xE0B43A, dim: 0x7A6220, glow: 0xF0D878,
+        lcd: 0xE0B43A, lcdOff: 0x2A2410, lcdBg: 0x080A10,
+        sel: 0x3A4868, hov: 0x1C2230
+    )
+
+    /// Phosphor on cheap CRT glass. Something is listening back.
+    static let phosphor = Palette(
+        "phosphor", "Phosphor",
+        void: 0x050806, panel: 0x0A100C, row: 0x0C140E, alt: 0x121A14, raised: 0x141C16, line: 0x1E3A24,
+        text: 0xC8F0CC, text2: 0x6A9A70, text3: 0x3A5A40, onAcc: 0x041006,
+        acc: 0x5CFF78, dim: 0x1A5A28, glow: 0xA0FFB0,
+        lcd: 0x5CFF78, lcdOff: 0x0E2814, lcdBg: 0x030504,
+        sel: 0x1A5A28, hov: 0x101810
+    )
+
+    /// Moss, rain-sky, a clay roof in the distance.
+    static let gardenRain = Palette(
+        "garden", "Garden Rain",
+        void: 0x0E120E, panel: 0x161C16, row: 0x181E18, alt: 0x1E261E, raised: 0x202820, line: 0x3A4A40,
+        text: 0xE8EDE8, text2: 0x9AB0A8, text3: 0x687870, onAcc: 0x1A120C,
+        acc: 0x7BA7C9, dim: 0x3A5A70, glow: 0xB0C8DC,
+        lcd: 0xC4846A, lcdOff: 0x2A1C16, lcdBg: 0x0A0C0A,
+        sel: 0x4A6A58, hov: 0x1C241C
+    )
+
+    /// Placeholder the live cover theme uses before the first artwork lands.
+    static let fromCoverPlaceholder = Palette(
+        "from-cover", "From Cover",
+        void: 0x0A0A0D, panel: 0x101014, row: 0x121216, alt: 0x17171C, raised: 0x191920, line: 0x28282F,
+        text: 0xE7E5F0, text2: 0x9C9AAC, text3: 0x63616F, onAcc: 0xF5F3FF,
+        acc: 0x8B6BFF, dim: 0x4E3F8C, glow: 0xB79CFF,
+        lcd: 0xB79CFF, lcdOff: 0x2B2440, lcdBg: 0x090711,
+        sel: 0x4E3F8C, hov: 0x22222A,
+        bleed: true
+    )
+
+    static let all: [Palette] = [.voidBlack, .terminalAmber, .coldSteelCyan, .bloodChrome, .acidStatic, .lofiHarbor, .matchaHour, .loopStation, .pulseRed, .pacificGlass, .softSpotlight, .nightSession, .phosphor, .gardenRain, .fromCoverPlaceholder]
+}

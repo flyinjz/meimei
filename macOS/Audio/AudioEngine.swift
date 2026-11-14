@@ -1,375 +1,494 @@
------BEGIN I2S ENCRYPTED FILE-----
-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
-CaPINz2IPtKkDzHRktPys8T3Vf+3wBobgAQ=
------END I2S ENCRYPTED FILE-----
+import Foundation
+import AVFoundation
+
+/// The playhead, published ~20×/s. Separate from `AudioEngine` so only the
+/// handful of views that show time redraw on every tick.
+@MainActor
+final class PlaybackClock: ObservableObject {
+    @Published fileprivate(set) var currentTime: TimeInterval = 0
+    @Published fileprivate(set) var duration: TimeInterval = 0
+}
+
+/// Gapless, crossfading playback on AVAudioEngine.
+///
+/// Two player "decks" feed one bus mixer → EQ → main mixer. The active deck
+/// plays the current file; the controller hands over the next file with
+/// `setNext`, and near the end of the current one the idle deck either
+/// starts sample-accurately at the boundary (gapless) or fades in over the
+/// tail (crossfade). Repeat-one is just "next is the same file".
+@MainActor
+final class AudioEngine: ObservableObject {
+
+    @Published private(set) var isPlaying = false
+    @Published var volume: Float = 0.85 {
+        didSet { engine.mainMixerNode.outputVolume = volume }
+    }
+
+    let clock = PlaybackClock()
+    let spectrum = SpectrumFeed()
+
+    /// Seconds of overlap between consecutive tracks. 0 is gapless.
+    var crossfadeDuration: TimeInterval = 0
+
+    /// The engine moved on to the prepared next item by itself; the argument
+    /// is its id. Fires when the next track becomes audible.
+    var onAdvance: ((UUID) -> Void)?
+    /// The current item played to its end with nothing prepared after it.
+    var onEnded: (() -> Void)?
+
+    private(set) var currentID: UUID?
+
+    private let engine = AVAudioEngine()
+    private let bus = AVAudioMixerNode()
+    private let eq = AVAudioUnitEQ(numberOfBands: eqEngineSlots)
+    private let decks = [Deck(), Deck()]
+    private var active: Deck
+    private var idle: Deck { decks[0] === active ? decks[1] : decks[0] }
+
+    private var next: (url: URL, id: UUID)?
+    private var transition: Transition?
+    private var pausedPosition: TimeInterval = 0
+
+    private var displayTimer: Timer?
+    private var fadeTimer: Timer?
+    private var configObserver: NSObjectProtocol?
+    private let analyzer = SpectrumAnalyzer()
+
+    /// How early the idle deck is armed for a gapless start. Long enough to
+    /// open the file; the start itself is sample-scheduled.
+    private let gaplessLead: TimeInterval = 2.0
+
+    private enum Transition {
+        /// Idle deck is scheduled to start exactly when the active one ends.
+        case gapless(incoming: Deck, id: UUID)
+        /// `outgoing` is fading out under the (already active) incoming deck.
+        case crossfade(outgoing: Deck, started: Date, length: TimeInterval)
+    }
+
+    init() {
+        active = decks[0]
+        engine.attach(bus)
+        engine.attach(eq)
+        for deck in decks {
+            engine.attach(deck.node)
+            engine.connect(deck.node, to: bus, fromBus: 0, toBus: bus.nextAvailableInputBus, format: nil)
+        }
+        engine.connect(bus, to: eq, format: nil)
+        engine.connect(eq, to: engine.mainMixerNode, format: nil)
+        engine.mainMixerNode.outputVolume = volume
+
+        for band in eq.bands { band.bypass = true }
+        eq.bypass = true
+
+        // Post-EQ, pre-volume: the analyzer shows what the EQ is doing at any listening level.
+        let analyzer = self.analyzer
+        let feed = spectrum
+        eq.installTap(onBus: 0, bufferSize: 2048, format: eq.outputFormat(forBus: 0)) { buffer, _ in
+            guard let frame = analyzer.process(buffer) else { return }
+            DispatchQueue.main.async { MainActor.assumeIsolated { feed.receive(frame) } }
+        }
+
+        // A route change (headphones, AirPlay, default device) stops the
+        // engine; restart it and carry on from the same spot.
+        configObserver = NotificationCenter.default.addObserver(
+            forName: .AVAudioEngineConfigurationChange, object: engine, queue: .main
+        ) { [weak self] _ in
+            MainActor.assumeIsolated { self?.recoverFromConfigurationChange() }
+        }
+    }
+
+    deinit {
+        if let configObserver { NotificationCenter.default.removeObserver(configObserver) }
+    }
+
+    // MARK: - Public transport
+
+    var currentTime: TimeInterval { isPlaying ? position(of: active) : pausedPosition }
+    var duration: TimeInterval { active.duration }
+
+    /// Loads `url` on the active deck, discarding whatever was playing.
+    func start(url: URL, id: UUID, at time: TimeInterval = 0, autoplay: Bool = true) throws {
+        cancelTransition()
+        for deck in decks { deck.reset() }
+        try active.open(url)
+        currentID = id
+        pausedPosition = min(max(0, time), active.duration)
+        clock.duration = active.duration
+        clock.currentTime = pausedPosition
+        if autoplay {
+            play()
+        } else {
+            isPlaying = false
+            stopDisplayTimer()
+        }
+    }
+
+    /// What should play after the current item, or nil to end there.
+    func setNext(url: URL?, id: UUID?) {
+        let newNext = url.flatMap { u in id.map { (u, $0) } }
+        if newNext?.0 == next?.url && newNext?.1 == next?.id { return }
+        next = newNext
+        if case .gapless = transition { cancelTransition() }
+    }
+
+    func play() {
+        guard active.file != nil else { return }
+        ensureEngineRunning()
+        if !active.node.isPlaying {
+            guard active.schedule(from: pausedPosition, onFinish: segmentFinished) else {
+                // Already at the very end — treat as finished.
+                endOfActive()
+                return
+            }
+            active.node.volume = 1
+            active.node.play()
+        }
+        isPlaying = true
+        startDisplayTimer()
+    }
+
+    func pause() {
+        guard isPlaying else { return }
+        cancelTransition()
+        pausedPosition = position(of: active)
+        active.halt()
+        isPlaying = false
+        stopDisplayTimer()
+        clock.currentTime = pausedPosition
+        spectrum.silence()
+    }
+
+    func stop() {
+        cancelTransition()
+        for deck in decks { deck.reset() }
+        currentID = nil
+        next = nil
+        isPlaying = false
+        pausedPosition = 0
+        stopDisplayTimer()
+        clock.currentTime = 0
+        clock.duration = 0
+        spectrum.silence()
+    }
+
+    func seek(to time: TimeInterval) {
+        guard active.file != nil else { return }
+        cancelTransition()
+        let target = min(max(0, time), max(0, active.duration - 0.05))
+        pausedPosition = target
+        clock.currentTime = target
+        guard isPlaying else { return }
+        active.halt()
+        if active.schedule(from: target, onFinish: segmentFinished) {
+            active.node.play()
+        } else {
+            endOfActive()
+        }
+    }
+
+    // MARK: - Equalizer
+
+    /// Maps the EQ's bands onto the unit's fixed pool of filters. Cuts
+    /// cascade one 12 dB/oct filter per slope step; a soloed band replaces
+    /// the whole curve with a band-pass at its frequency.
+    func applyEqualizer(_ data: EqualizerSettingsData, solo: UUID?) {
+        eq.bypass = !data.enabled
+        var slot = 0
+        func use(_ type: AVAudioUnitEQFilterType, _ frequency: Double, gain: Double = 0, octaves: Double = 1) {
+            guard slot < eq.bands.count else { return }
+            let band = eq.bands[slot]
+            band.filterType = type
+            band.frequency = Float(min(frequency, 20_000))
+            band.gain = Float(gain)
+            band.bandwidth = Float(min(5, max(0.05, octaves)))
+            band.bypass = false
+            slot += 1
+        }
+        if let solo, let band = data.bands.first(where: { $0.id == solo }) {
+            eq.globalGain = 0
+            use(.bandPass, band.frequency, octaves: band.type.hasQ ? band.octaves : 1)
+        } else {
+            eq.globalGain = Float(data.preampGain)
+            for band in data.bands where band.enabled {
+                switch band.type {
+                case .bell: use(.parametric, band.frequency, gain: band.gain, octaves: band.octaves)
+                case .lowShelf: use(.lowShelf, band.frequency, gain: band.gain)
+                case .highShelf: use(.highShelf, band.frequency, gain: band.gain)
+                case .lowCut: for _ in 0..<band.slotCount { use(.highPass, band.frequency) }
+                case .highCut: for _ in 0..<band.slotCount { use(.lowPass, band.frequency) }
+                case .notch: use(.bandStop, band.frequency, octaves: band.octaves)
+                case .bandPass: use(.bandPass, band.frequency, octaves: band.octaves)
+                }
+            }
+        }
+        for band in eq.bands[slot...] { band.bypass = true }
+    }
+
+    // MARK: - Transitions
+
+    private func checkForTransition() {
+        guard isPlaying, transition == nil, let next else { return }
+        let remaining = active.duration - position(of: active)
+        let fade = min(crossfadeDuration, active.duration / 2)
+        if fade >= 0.1 {
+            if remaining <= fade { beginCrossfade(to: next, length: max(0.1, remaining)) }
+        } else if remaining <= gaplessLead {
+            armGapless(next)
+        }
+    }
+
+    private func armGapless(_ item: (url: URL, id: UUID)) {
+        let incoming = idle
+        guard let when = endTime(of: active) else { return }
+        do {
+            try incoming.open(item.url)
+        } catch {
+            NSLog("i2s: couldn't open next track %@: %@", item.url.path, String(describing: error))
+            next = nil
+            return
+        }
+        guard incoming.schedule(from: 0, onFinish: segmentFinished) else { return }
+        incoming.node.volume = 1
+        incoming.node.play(at: when)
+        transition = .gapless(incoming: incoming, id: item.id)
+    }
+
+    /// The node time at which the active deck's scheduled audio runs out.
+    private func endTime(of deck: Deck) -> AVAudioTime? {
+        guard let file = deck.file,
+              let nodeTime = deck.node.lastRenderTime, nodeTime.isSampleTimeValid,
+              let playerTime = deck.node.playerTime(forNodeTime: nodeTime), playerTime.isSampleTimeValid else {
+            return nil
+        }
+        let outRate = playerTime.sampleRate
+        let segmentFrames = Double(file.length - deck.startFrame) * outRate / deck.fileRate
+        let remaining = segmentFrames - Double(playerTime.sampleTime)
+        guard remaining > 0 else { return nil }
+        return AVAudioTime(sampleTime: nodeTime.sampleTime + AVAudioFramePosition(remaining.rounded()), atRate: nodeTime.sampleRate)
+    }
+
+    private func beginCrossfade(to item: (url: URL, id: UUID), length: TimeInterval) {
+        let incoming = idle
+        do {
+            try incoming.open(item.url)
+        } catch {
+            NSLog("i2s: couldn't open next track %@: %@", item.url.path, String(describing: error))
+            next = nil
+            return
+        }
+        guard incoming.schedule(from: 0, onFinish: segmentFinished) else { return }
+        let outgoing = active
+        incoming.node.volume = 0
+        incoming.node.play()
+        becomeActive(incoming, id: item.id)
+        transition = .crossfade(outgoing: outgoing, started: Date(), length: length)
+        startFadeTimer()
+        onAdvance?(item.id)
+    }
+
+    private func stepFade() {
+        guard case .crossfade(let outgoing, let started, let length) = transition else {
+            stopFadeTimer()
+            return
+        }
+        let t = min(1, Date().timeIntervalSince(started) / length)
+        // Equal-power curves keep perceived loudness flat through the overlap.
+        active.node.volume = Float(sin(t * .pi / 2))
+        outgoing.node.volume = Float(cos(t * .pi / 2))
+        if t >= 1 {
+            outgoing.reset()
+            active.node.volume = 1
+            transition = nil
+            stopFadeTimer()
+        }
+    }
+
+    private func completeGapless(incoming: Deck, id: UUID) {
+        let outgoing = active
+        becomeActive(incoming, id: id)
+        transition = nil
+        outgoing.reset()
+        onAdvance?(id)
+    }
+
+    /// Drops an armed gapless start, or snaps a running crossfade to its end
+    /// (the incoming track keeps playing at full volume).
+    private func cancelTransition() {
+        switch transition {
+        case .gapless(let incoming, _):
+            incoming.reset()
+        case .crossfade(let outgoing, _, _):
+            outgoing.reset()
+            active.node.volume = 1
+        case nil:
+            break
+        }
+        transition = nil
+        stopFadeTimer()
+    }
+
+    private func becomeActive(_ deck: Deck, id: UUID) {
+        active = deck
+        currentID = id
+        next = nil
+        pausedPosition = 0
+        clock.duration = deck.duration
+        clock.currentTime = 0
+    }
+
+    // MARK: - Completion
+
+    private func segmentFinished(_ deck: Deck, generation: Int) {
+        guard generation == deck.generation else { return }
+        if case .gapless(let incoming, let id) = transition, deck === active {
+            completeGapless(incoming: incoming, id: id)
+            return
+        }
+        if deck === active, isPlaying {
+            endOfActive()
+        }
+    }
+
+    private func endOfActive() {
+        isPlaying = false
+        pausedPosition = active.duration
+        clock.currentTime = active.duration
+        stopDisplayTimer()
+        spectrum.silence()
+        onEnded?()
+    }
+
+    // MARK: - Position & timers
+
+    private func position(of deck: Deck) -> TimeInterval {
+        let base = Double(deck.startFrame) / deck.fileRate
+        guard deck.node.isPlaying,
+              let nodeTime = deck.node.lastRenderTime, nodeTime.isSampleTimeValid,
+              let playerTime = deck.node.playerTime(forNodeTime: nodeTime), playerTime.isSampleTimeValid,
+              playerTime.sampleTime >= 0 else {
+            return deck === active ? pausedPosition : base
+        }
+        return min(deck.duration, base + Double(playerTime.sampleTime) / playerTime.sampleRate)
+    }
+
+    private func tick() {
+        guard isPlaying else { return }
+        if case .gapless(let incoming, let id) = transition,
+           incoming.node.isPlaying, position(of: incoming) > 0.02 {
+            // The completion callback is late; the next track is already audible.
+            completeGapless(incoming: incoming, id: id)
+        }
+        clock.currentTime = position(of: active)
+        checkForTransition()
+    }
+
+    private func startDisplayTimer() {
+        guard displayTimer == nil else { return }
+        let timer = Timer(timeInterval: 1.0 / 20, repeats: true) { [weak self] _ in
+            MainActor.assumeIsolated { self?.tick() }
+        }
+        // A little slack lets the system batch wakeups; invisible at 20 Hz.
+        timer.tolerance = 0.005
+        RunLoop.main.add(timer, forMode: .common)
+        displayTimer = timer
+    }
+
+    private func stopDisplayTimer() {
+        displayTimer?.invalidate()
+        displayTimer = nil
+    }
+
+    private func startFadeTimer() {
+        stopFadeTimer()
+        let timer = Timer(timeInterval: 1.0 / 60, repeats: true) { [weak self] _ in
+            MainActor.assumeIsolated { self?.stepFade() }
+        }
+        RunLoop.main.add(timer, forMode: .common)
+        fadeTimer = timer
+    }
+
+    private func stopFadeTimer() {
+        fadeTimer?.invalidate()
+        fadeTimer = nil
+    }
+
+    // MARK: - Engine lifecycle
+
+    private func ensureEngineRunning() {
+        guard !engine.isRunning else { return }
+        do {
+            try engine.start()
+        } catch {
+            NSLog("i2s: audio engine failed to start: %@", String(describing: error))
+        }
+    }
+
+    private func recoverFromConfigurationChange() {
+        let wasPlaying = isPlaying
+        let resumeAt = wasPlaying ? position(of: active) : pausedPosition
+        cancelTransition()
+        active.halt()
+        isPlaying = false
+        pausedPosition = resumeAt
+        ensureEngineRunning()
+        if wasPlaying { play() }
+    }
+
+    #if DEBUG
+    /// Self-test access to the rendered output.
+    var outputNode: AVAudioMixerNode { engine.mainMixerNode }
+    #endif
+}
+
+/// One player node and the file it's playing.
+@MainActor
+private final class Deck {
+    let node = AVAudioPlayerNode()
+    private(set) var file: AVAudioFile?
+    /// File frame the currently scheduled segment starts at.
+    private(set) var startFrame: AVAudioFramePosition = 0
+    /// Bumped whenever scheduled audio is discarded, so its late completion
+    /// callback can be recognized and ignored.
+    private(set) var generation = 0
+
+    var fileRate: Double { file?.fileFormat.sampleRate ?? 44_100 }
+    var duration: TimeInterval { file.map { Double($0.length) / fileRate } ?? 0 }
+
+    func open(_ url: URL) throws {
+        halt()
+        file = try AVAudioFile(forReading: url)
+        startFrame = 0
+    }
+
+    /// Schedules from `time` to the end of the file.
+    func schedule(from time: TimeInterval, onFinish: @escaping @MainActor (Deck, Int) -> Void) -> Bool {
+        guard let file else { return false }
+        let frame = min(file.length, AVAudioFramePosition(max(0, time) * fileRate))
+        let count = file.length - frame
+        guard count > 0 else { return false }
+        startFrame = frame
+        generation += 1
+        let generation = self.generation
+        node.scheduleSegment(file, startingFrame: frame, frameCount: AVAudioFrameCount(count), at: nil,
+                             completionCallbackType: .dataPlayedBack) { [weak self] _ in
+            DispatchQueue.main.async {
+                guard let self else { return }
+                MainActor.assumeIsolated { onFinish(self, generation) }
+            }
+        }
+        return true
+    }
+
+    /// Stops and discards scheduled audio, keeping the file open.
+    func halt() {
+        generation += 1
+        node.stop()
+    }
+
+    func reset() {
+        halt()
+        node.volume = 1
+        file = nil
+        startFrame = 0
+    }
+}

@@ -1,272 +1,339 @@
------BEGIN I2S ENCRYPTED FILE-----
-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
-NRl7LA==
------END I2S ENCRYPTED FILE-----
+import Foundation
+
+/// A single audio file in the library, with metadata pulled from tags at import time.
+struct Track: Identifiable, Codable, Hashable {
+    /// The fields, kept in one shared box: copying a track (into a filtered
+    /// list, a table row, an album group) is a single reference, not twenty-odd
+    /// fields and their strings, and two copies of an unchanged track compare
+    /// equal without reading a field. Writing to a copy gives it its own box
+    /// first, so a track still behaves exactly like a plain value.
+    private struct Fields: Codable, Hashable {
+        var id: UUID
+        var filePath: String
+        var title: String
+        var artist: String
+        var album: String
+        var albumArtist: String
+        var genre: String
+        var composer: String
+        var year: Int?
+        var trackNumber: Int?
+        var discNumber: Int?
+        var duration: TimeInterval
+        var sampleRate: Double
+        var bitDepth: Int
+        var channelCount: Int
+        var estimatedBitrateKbps: Int
+        var fileFormat: String
+        var artworkFilePath: String?
+        var dateAdded: Date
+        var playCount: Int
+        var lastPlayedAt: Date?
+        var liked: Bool
+    }
+
+    private final class Storage: @unchecked Sendable {
+        var fields: Fields
+        init(_ fields: Fields) { self.fields = fields }
+    }
+
+    private var storage: Storage
+
+    private mutating func edit(_ change: (inout Fields) -> Void) {
+        if !isKnownUniquelyReferenced(&storage) { storage = Storage(storage.fields) }
+        change(&storage.fields)
+    }
+
+    var id: UUID { storage.fields.id }
+    var filePath: String {
+        get { storage.fields.filePath }
+        set { edit { $0.filePath = newValue } }
+    }
+    var title: String {
+        get { storage.fields.title }
+        set { edit { $0.title = newValue } }
+    }
+    var artist: String {
+        get { storage.fields.artist }
+        set { edit { $0.artist = newValue } }
+    }
+    var album: String {
+        get { storage.fields.album }
+        set { edit { $0.album = newValue } }
+    }
+    var albumArtist: String {
+        get { storage.fields.albumArtist }
+        set { edit { $0.albumArtist = newValue } }
+    }
+    var genre: String {
+        get { storage.fields.genre }
+        set { edit { $0.genre = newValue } }
+    }
+    var composer: String {
+        get { storage.fields.composer }
+        set { edit { $0.composer = newValue } }
+    }
+    var year: Int? {
+        get { storage.fields.year }
+        set { edit { $0.year = newValue } }
+    }
+    var trackNumber: Int? {
+        get { storage.fields.trackNumber }
+        set { edit { $0.trackNumber = newValue } }
+    }
+    var discNumber: Int? {
+        get { storage.fields.discNumber }
+        set { edit { $0.discNumber = newValue } }
+    }
+    var duration: TimeInterval {
+        get { storage.fields.duration }
+        set { edit { $0.duration = newValue } }
+    }
+    var sampleRate: Double {
+        get { storage.fields.sampleRate }
+        set { edit { $0.sampleRate = newValue } }
+    }
+    var bitDepth: Int {
+        get { storage.fields.bitDepth }
+        set { edit { $0.bitDepth = newValue } }
+    }
+    var channelCount: Int {
+        get { storage.fields.channelCount }
+        set { edit { $0.channelCount = newValue } }
+    }
+    var estimatedBitrateKbps: Int {
+        get { storage.fields.estimatedBitrateKbps }
+        set { edit { $0.estimatedBitrateKbps = newValue } }
+    }
+    var fileFormat: String {
+        get { storage.fields.fileFormat }
+        set { edit { $0.fileFormat = newValue } }
+    }
+    var artworkFilePath: String? {
+        get { storage.fields.artworkFilePath }
+        set { edit { $0.artworkFilePath = newValue } }
+    }
+    var dateAdded: Date {
+        get { storage.fields.dateAdded }
+        set { edit { $0.dateAdded = newValue } }
+    }
+    var playCount: Int {
+        get { storage.fields.playCount }
+        set { edit { $0.playCount = newValue } }
+    }
+    var lastPlayedAt: Date? {
+        get { storage.fields.lastPlayedAt }
+        set { edit { $0.lastPlayedAt = newValue } }
+    }
+    var liked: Bool {
+        get { storage.fields.liked }
+        set { edit { $0.liked = newValue } }
+    }
+
+    static func == (lhs: Track, rhs: Track) -> Bool {
+        lhs.storage === rhs.storage || lhs.storage.fields == rhs.storage.fields
+    }
+
+    func hash(into hasher: inout Hasher) { hasher.combine(storage.fields) }
+
+    /// Written exactly as before: the same keys, nil values left out.
+    func encode(to encoder: Encoder) throws { try storage.fields.encode(to: encoder) }
+
+    init(
+        id: UUID = UUID(),
+        filePath: String,
+        title: String,
+        artist: String,
+        album: String,
+        albumArtist: String = "",
+        genre: String = "Unknown",
+        composer: String = "",
+        year: Int? = nil,
+        trackNumber: Int? = nil,
+        discNumber: Int? = nil,
+        duration: TimeInterval,
+        sampleRate: Double,
+        bitDepth: Int,
+        channelCount: Int,
+        estimatedBitrateKbps: Int,
+        fileFormat: String,
+        artworkFilePath: String? = nil,
+        dateAdded: Date = Date(),
+        playCount: Int = 0,
+        lastPlayedAt: Date? = nil,
+        liked: Bool = false
+    ) {
+        storage = Storage(Fields(
+            id: id,
+            filePath: filePath,
+            title: title,
+            artist: artist,
+            album: album,
+            albumArtist: albumArtist.isEmpty ? artist : albumArtist,
+            genre: genre,
+            composer: composer,
+            year: year,
+            trackNumber: trackNumber,
+            discNumber: discNumber,
+            duration: duration,
+            sampleRate: sampleRate,
+            bitDepth: bitDepth,
+            channelCount: channelCount,
+            estimatedBitrateKbps: estimatedBitrateKbps,
+            fileFormat: fileFormat,
+            artworkFilePath: artworkFilePath,
+            dateAdded: dateAdded,
+            playCount: playCount,
+            lastPlayedAt: lastPlayedAt,
+            liked: liked
+        ))
+    }
+
+    private enum CodingKeys: String, CodingKey {
+        case id, filePath, title, artist, album, albumArtist, genre, composer
+        case year, trackNumber, discNumber, duration, sampleRate, bitDepth
+        case channelCount, estimatedBitrateKbps, fileFormat, artworkFilePath, dateAdded
+        case playCount, lastPlayedAt, liked
+    }
+
+    /// Fields added after the first release decode with defaults so older
+    /// library files keep loading. Encoding is synthesized.
+    init(from decoder: Decoder) throws {
+        let c = try decoder.container(keyedBy: CodingKeys.self)
+        storage = Storage(Fields(
+            id: try c.decode(UUID.self, forKey: .id),
+            filePath: try c.decode(String.self, forKey: .filePath),
+            title: try c.decode(String.self, forKey: .title),
+            artist: try c.decode(String.self, forKey: .artist),
+            album: try c.decode(String.self, forKey: .album),
+            albumArtist: try c.decode(String.self, forKey: .albumArtist),
+            genre: try c.decode(String.self, forKey: .genre),
+            composer: try c.decodeIfPresent(String.self, forKey: .composer) ?? "",
+            year: try c.decodeIfPresent(Int.self, forKey: .year),
+            trackNumber: try c.decodeIfPresent(Int.self, forKey: .trackNumber),
+            discNumber: try c.decodeIfPresent(Int.self, forKey: .discNumber),
+            duration: try c.decode(TimeInterval.self, forKey: .duration),
+            sampleRate: try c.decode(Double.self, forKey: .sampleRate),
+            bitDepth: try c.decode(Int.self, forKey: .bitDepth),
+            channelCount: try c.decode(Int.self, forKey: .channelCount),
+            estimatedBitrateKbps: try c.decode(Int.self, forKey: .estimatedBitrateKbps),
+            fileFormat: try c.decode(String.self, forKey: .fileFormat),
+            artworkFilePath: try c.decodeIfPresent(String.self, forKey: .artworkFilePath),
+            dateAdded: try c.decodeIfPresent(Date.self, forKey: .dateAdded) ?? Date(),
+            playCount: try c.decodeIfPresent(Int.self, forKey: .playCount) ?? 0,
+            lastPlayedAt: try c.decodeIfPresent(Date.self, forKey: .lastPlayedAt),
+            liked: try c.decodeIfPresent(Bool.self, forKey: .liked) ?? false
+        ))
+    }
+
+    var url: URL { URL(fileURLWithPath: filePath) }
+
+    /// More than CD resolution in either sample rate or word length.
+    var isHiRes: Bool { sampleRate > 44_100 || bitDepth > 16 }
+
+    var isLossless: Bool {
+        switch fileFormat.uppercased() {
+        case "FLAC", "ALAC", "WAV", "AIFF", "PCM": return true
+        default: return false
+        }
+    }
+
+    /// Who the artist views file this track under.
+    var displayArtist: String {
+        let a = albumArtist.isEmpty ? artist : albumArtist
+        return a.isEmpty ? "Unknown Artist" : a
+    }
+
+    var albumKey: String { "\(albumArtist.lowercased())::\(album.lowercased())" }
+
+    var looseAlbumKey: String {
+        DuplicateIdentity.normalize(albumArtist) + "::" + DuplicateIdentity.normalize(album)
+    }
+
+    /// Same song regardless of file: artist, title, and length to the nearest two seconds.
+    var duplicateSongKey: String {
+        let seconds = Int((duration / 2).rounded()) * 2
+        return DuplicateIdentity.normalize(artist) + "|" + DuplicateIdentity.normalize(title) + "|\(seconds)"
+    }
+
+    var formattedDuration: String { Track.format(seconds: duration) }
+
+    /// "44.1 kHz · 24-bit" for lossless, "320 kbps" for lossy.
+    var qualitySummary: String {
+        let rate = Track.format(sampleRate: sampleRate)
+        if isLossless { return "\(rate) · \(bitDepth)-bit" }
+        if estimatedBitrateKbps > 0 { return "\(estimatedBitrateKbps) kbps · \(rate)" }
+        return rate
+    }
+
+    static func format(seconds: TimeInterval) -> String {
+        guard seconds.isFinite, seconds >= 0 else { return "0:00" }
+        let total = Int(seconds.rounded(.down))
+        let h = total / 3600, m = (total % 3600) / 60, s = total % 60
+        return h > 0 ? String(format: "%d:%02d:%02d", h, m, s) : String(format: "%d:%02d", m, s)
+    }
+
+    static func format(sampleRate: Double) -> String {
+        let khz = sampleRate / 1000
+        return khz.rounded() == khz ? "\(Int(khz)) kHz" : String(format: "%.1f kHz", khz)
+    }
+
+    /// Disc, then track number, then title — the order a record plays in.
+    static func albumOrder(_ lhs: Track, _ rhs: Track) -> Bool {
+        let ld = lhs.discNumber ?? 0, rd = rhs.discNumber ?? 0
+        if ld != rd { return ld < rd }
+        let lt = lhs.trackNumber ?? Int.max, rt = rhs.trackNumber ?? Int.max
+        if lt != rt { return lt < rt }
+        return lhs.title.localizedStandardCompare(rhs.title) == .orderedAscending
+    }
+
+    /// Album artist, album, then album order — the library's natural order.
+    static func libraryOrder(_ lhs: Track, _ rhs: Track) -> Bool {
+        if lhs.albumArtist != rhs.albumArtist {
+            return lhs.albumArtist.localizedStandardCompare(rhs.albumArtist) == .orderedAscending
+        }
+        if lhs.album != rhs.album {
+            return lhs.album.localizedStandardCompare(rhs.album) == .orderedAscending
+        }
+        return albumOrder(lhs, rhs)
+    }
+}
+
+/// One record in the library, derived from its tracks.
+struct AlbumGroup: Identifiable, Hashable {
+    var id: String { key }
+    let key: String
+    let title: String
+    let artist: String
+    let year: Int?
+    let artworkFilePath: String?
+    let trackCount: Int
+    let duration: TimeInterval
+}
+
+extension AlbumGroup {
+    /// One group per album key, from tracks already grouped by album (each in album order), sorted by title.
+    static func groups(byAlbum: [String: [Track]]) -> [AlbumGroup] {
+        byAlbum.values.compactMap { members -> AlbumGroup? in
+            guard let first = members.first else { return nil }
+            return AlbumGroup(
+                key: first.albumKey,
+                title: first.album.isEmpty ? "Unknown Album" : first.album,
+                artist: first.albumArtist,
+                year: members.lazy.compactMap(\.year).first,
+                artworkFilePath: members.first { $0.artworkFilePath != nil }?.artworkFilePath,
+                trackCount: members.count,
+                duration: members.reduce(0) { $0 + $1.duration }
+            )
+        }
+        .sorted { $0.title.localizedStandardCompare($1.title) == .orderedAscending }
+    }
+
+    /// Groups loose tracks by album (for callers without a library store, such as the C interface).
+    static func groups(from tracks: [Track]) -> [AlbumGroup] {
+        var byAlbum: [String: [Track]] = [:]
+        for t in tracks { byAlbum[t.albumKey, default: []].append(t) }
+        for k in byAlbum.keys { byAlbum[k]?.sort(by: Track.albumOrder) }
+        return groups(byAlbum: byAlbum)
+    }
+}

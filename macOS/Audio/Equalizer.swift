@@ -1,200 +1,267 @@
------BEGIN I2S ENCRYPTED FILE-----
-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
------END I2S ENCRYPTED FILE-----
+import Foundation
+
+// MARK: - Store
+
+/// The live equalizer state plus saved profiles, undo history, and the A/B
+/// slot. Every change is persisted and pushed to the engine via `onChange`.
+@MainActor
+final class EqualizerSettings: ObservableObject {
+    @Published var data: EqualizerSettingsData {
+        didSet {
+            guard data != oldValue else { return }
+            saveSoon()
+            onChange?(data, soloBandID)
+        }
+    }
+
+    @Published var customProfiles: [EQProfile] {
+        didSet { DefaultsStore.save(customProfiles, key: Self.profilesKey) }
+    }
+
+    /// The band being auditioned on its own (a band-pass at its frequency).
+    @Published var soloBandID: UUID? {
+        didSet { if soloBandID != oldValue { onChange?(data, soloBandID) } }
+    }
+
+    @Published var selectedBandID: UUID?
+
+    /// The curve parked in the other A/B slot, and which slot is live.
+    @Published private(set) var compareSlot: EqualizerSettingsData?
+    @Published private(set) var showingB = false
+
+    @Published private(set) var undoStack: [EqualizerSettingsData] = []
+    @Published private(set) var redoStack: [EqualizerSettingsData] = []
+
+    var profiles: [EQProfile] { EQProfile.builtIns + customProfiles }
+
+    var activeProfile: EQProfile? { profiles.first { $0.id == data.activeProfileID } }
+    var activeProfileName: String { activeProfile?.name ?? "Custom" }
+
+    var usedSlots: Int { data.bands.reduce(0) { $0 + $1.slotCount } }
+    var canAddBand: Bool { usedSlots < eqEngineSlots }
+
+    var onChange: ((EqualizerSettingsData, UUID?) -> Void)?
+
+    private static let dataKey = "com.meimei.player.equalizer.v1"
+    private static let profilesKey = "com.meimei.player.equalizer.customProfiles.v1"
+    private var saveWork: DispatchWorkItem?
+
+    init() {
+        if let raw = UserDefaults.standard.data(forKey: Self.dataKey) {
+            data = EqualizerSettingsData.load(from: raw)
+        } else {
+            data = EqualizerSettingsData()
+        }
+        customProfiles = DefaultsStore.load([EQProfile].self, key: Self.profilesKey) ?? []
+    }
+
+    /// Drags change the curve dozens of times a second; persist once they settle.
+    private func saveSoon() {
+        saveWork?.cancel()
+        let work = DispatchWorkItem { [weak self] in
+            guard let self else { return }
+            DefaultsStore.save(self.data, key: Self.dataKey)
+        }
+        saveWork = work
+        DispatchQueue.main.asyncAfter(deadline: .now() + 0.4, execute: work)
+    }
+
+    // MARK: Undo
+
+    /// Records the current curve so the next edit can be undone. Call once
+    /// at the start of a gesture, not on every step of it.
+    func checkpoint() {
+        if undoStack.last != data { undoStack.append(data) }
+        if undoStack.count > 200 { undoStack.removeFirst() }
+        redoStack.removeAll()
+    }
+
+    func undo() {
+        guard let previous = undoStack.popLast() else { return }
+        redoStack.append(data)
+        data = previous
+        dropStaleSelection()
+    }
+
+    func redo() {
+        guard let next = redoStack.popLast() else { return }
+        undoStack.append(data)
+        data = next
+        dropStaleSelection()
+    }
+
+    private func dropStaleSelection() {
+        if let id = selectedBandID, !data.bands.contains(where: { $0.id == id }) { selectedBandID = nil }
+        if let id = soloBandID, !data.bands.contains(where: { $0.id == id }) { soloBandID = nil }
+    }
+
+    // MARK: A/B
+
+    /// Swaps the live curve with the other slot. The first switch to B
+    /// starts it as a copy of A.
+    func toggleCompare() {
+        let parked = compareSlot ?? data
+        compareSlot = data
+        showingB.toggle()
+        var next = parked
+        next.enabled = data.enabled
+        data = next
+        dropStaleSelection()
+    }
+
+    /// Copies the live slot over the other one.
+    func copyToOtherSlot() {
+        compareSlot = data
+    }
+
+    // MARK: Edits
+
+    func setEnabled(_ on: Bool) { edit(checkpoint: false, keepProfile: true) { $0.enabled = on } }
+
+    func applyProfile(_ id: UUID) {
+        guard let profile = profiles.first(where: { $0.id == id }) else { return }
+        edit { d in
+            d.bands = profile.bands.map { var b = $0; b.id = UUID(); return b }
+            d.preampGain = profile.preampGain
+        }
+        data.activeProfileID = id
+        selectedBandID = nil
+        soloBandID = nil
+    }
+
+    func updateBand(_ id: UUID, checkpoint: Bool = false, _ body: (inout EQBand) -> Void) {
+        guard let i = data.bands.firstIndex(where: { $0.id == id }) else { return }
+        edit(checkpoint: checkpoint) { d in
+            body(&d.bands[i])
+            d.bands[i] = d.bands[i].clamped(gainLimit: d.gainRange.rawValue)
+        }
+    }
+
+    /// Adds a band, picking a type that suits where it lands: cuts at the
+    /// extremes, bells elsewhere. Returns its id.
+    @discardableResult
+    func addBand(frequency: Double, gain: Double = 0, type: EQFilterType? = nil) -> UUID? {
+        guard canAddBand else { return nil }
+        let kind = type ?? (frequency < 30 ? .lowCut : frequency > 16_000 ? .highCut : .bell)
+        let band = EQBand(type: kind, frequency: frequency, gain: kind.hasGain ? gain : 0, q: kind == .notch ? 4 : 0.71)
+            .clamped(gainLimit: data.gainRange.rawValue)
+        edit { $0.bands.append(band) }
+        selectedBandID = band.id
+        return band.id
+    }
+
+    func removeBand(_ id: UUID) {
+        edit { $0.bands.removeAll { $0.id == id } }
+        dropStaleSelection()
+    }
+
+    func duplicateBand(_ id: UUID) {
+        guard canAddBand, let band = data.bands.first(where: { $0.id == id }) else { return }
+        var copy = band
+        copy.id = UUID()
+        copy.frequency = min(EQBand.frequencyRange.upperBound, band.frequency * 1.5)
+        edit { $0.bands.append(copy) }
+        selectedBandID = copy.id
+    }
+
+    func setPreamp(_ value: Double, checkpoint: Bool = false) {
+        edit(checkpoint: checkpoint, keepProfile: true) { d in
+            d.preampGain = min(24, max(-30, value))
+            d.autoPreamp = false
+        }
+    }
+
+    func setGainRange(_ range: EQGainRange) {
+        edit(keepProfile: true) { d in
+            d.gainRange = range
+            d.bands = d.bands.map { $0.clamped(gainLimit: range.rawValue) }
+        }
+    }
+
+    func setAutoPreamp(_ on: Bool) { edit(keepProfile: true) { $0.autoPreamp = on } }
+
+    func setShowAnalyzer(_ on: Bool) { data.showAnalyzer = on }
+
+    /// Scales every band's gain (−100%…+200%), as a DAW's "depth" control does.
+    func scaleGains(by factor: Double) {
+        edit { d in
+            d.bands = d.bands.map { var b = $0; b.gain *= factor; return b.clamped(gainLimit: d.gainRange.rawValue) }
+        }
+    }
+
+    func invertGains() { scaleGains(by: -1) }
+
+    func resetFlat() {
+        edit { d in
+            d.bands = []
+            d.preampGain = 0
+        }
+        data.activeProfileID = EQProfile.flatID
+        selectedBandID = nil
+        soloBandID = nil
+    }
+
+    /// Applies a batch of changes as one update and recomputes the
+    /// automatic preamp when it's on. Curve edits detach from the profile.
+    private func edit(checkpoint record: Bool = true, keepProfile: Bool = false, _ body: (inout EqualizerSettingsData) -> Void) {
+        if record { checkpoint() }
+        var d = data
+        body(&d)
+        if !keepProfile, d.bands != data.bands || d.preampGain != data.preampGain { d.activeProfileID = nil }
+        if d.autoPreamp { d.preampGain = Self.autoPreamp(for: d) }
+        data = d
+    }
+
+    // MARK: Profiles
+
+    @discardableResult
+    func saveCurrentAsNewProfile(named name: String) -> UUID {
+        let trimmed = name.trimmingCharacters(in: .whitespacesAndNewlines)
+        let profile = EQProfile(name: trimmed.isEmpty ? "Custom" : trimmed, bands: data.bands, preampGain: data.preampGain)
+        customProfiles.append(profile)
+        data.activeProfileID = profile.id
+        return profile.id
+    }
+
+    func overwriteProfile(_ id: UUID) {
+        guard let i = customProfiles.firstIndex(where: { $0.id == id }) else { return }
+        customProfiles[i].bands = data.bands
+        customProfiles[i].preampGain = data.preampGain
+        data.activeProfileID = id
+    }
+
+    func renameProfile(_ id: UUID, to name: String) {
+        let trimmed = name.trimmingCharacters(in: .whitespacesAndNewlines)
+        guard !trimmed.isEmpty, let i = customProfiles.firstIndex(where: { $0.id == id }) else { return }
+        customProfiles[i].name = trimmed
+    }
+
+    func deleteProfile(_ id: UUID) {
+        customProfiles.removeAll { $0.id == id }
+        if data.activeProfileID == id { data.activeProfileID = nil }
+    }
+
+    /// Adds a profile read from a file and applies it.
+    func importProfile(_ profile: EQProfile) {
+        var p = profile
+        p.id = UUID()
+        p.isBuiltIn = false
+        customProfiles.append(p)
+        applyProfile(p.id)
+    }
+
+    /// Makeup gain that cancels the curve's highest point. Overlapping
+    /// bands can boost more than any single band shows, so this measures
+    /// the summed response.
+    static func autoPreamp(for data: EqualizerSettingsData) -> Double {
+        var flat = data
+        flat.preampGain = 0
+        var peak = 0.0
+        for i in 0...160 {
+            let hz = 20 * pow(1000, Double(i) / 160)
+            peak = max(peak, EqualizerResponse.gain(atHz: hz, data: flat))
+        }
+        return min(0, -((peak * 10).rounded(.up) / 10))
+    }
+}
+

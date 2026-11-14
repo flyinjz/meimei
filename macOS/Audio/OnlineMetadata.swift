@@ -1,415 +1,372 @@
------BEGIN I2S ENCRYPTED FILE-----
-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
------END I2S ENCRYPTED FILE-----
+import Foundation
+import AppKit
+
+/// A cover found online.
+struct CoverCandidate: Identifiable, Hashable, Sendable {
+    var id: String
+    var source: OnlineSource
+    var title: String
+    var artist: String
+    var year: Int?
+    var thumbnail: URL
+    var full: URL
+    /// Known size of `full`, when the provider says.
+    var maxPixels: Int?
+}
+
+/// An album's details found online, for filling in or correcting tags.
+struct AlbumMatch: Identifiable, Hashable, Sendable {
+    struct Song: Hashable, Sendable {
+        var disc: Int
+        var number: Int
+        var title: String
+        var artist: String
+    }
+
+    var id: String
+    var source: OnlineSource
+    var title: String
+    var artist: String
+    var year: Int?
+    var genre: String?
+    var trackCount: Int
+    /// Release details shown to tell editions apart (country, format, label).
+    var note: String?
+    var cover: CoverCandidate?
+    /// The provider's id for the tracklist request.
+    var lookupID: String
+}
+
+enum OnlineMetadata {
+    static let session: URLSession = {
+        let config = URLSessionConfiguration.ephemeral
+        config.timeoutIntervalForRequest = 15
+        config.httpCookieStorage = nil
+        config.httpShouldSetCookies = false
+        config.urlCache = nil
+        // MusicBrainz asks every client to identify itself.
+        config.httpAdditionalHeaders = ["User-Agent": "i2s/0.2 ( desktop music player; lookups made on the user's request )",
+                                        "Accept": "application/json"]
+        return URLSession(configuration: config)
+    }()
+
+    // MARK: Covers
+
+    /// Covers from every enabled source, in parallel; a source that fails
+    /// just contributes nothing.
+    static func covers(artist: String, album: String, sources: [OnlineSource]) async -> [CoverCandidate] {
+        await withTaskGroup(of: [CoverCandidate].self) { group in
+            for source in sources {
+                group.addTask { (try? await covers(from: source, artist: artist, album: album)) ?? [] }
+            }
+            var all: [CoverCandidate] = []
+            for await batch in group { all.append(contentsOf: batch) }
+            let order = Dictionary(uniqueKeysWithValues: sources.enumerated().map { ($1, $0) })
+            return all.sorted { (order[$0.source] ?? 0) < (order[$1.source] ?? 0) }
+        }
+    }
+
+    private static func covers(from source: OnlineSource, artist: String, album: String) async throws -> [CoverCandidate] {
+        try await albums(from: source, artist: artist, album: album).compactMap(\.cover)
+            .reduce(into: [CoverCandidate]()) { list, c in if !list.contains(where: { $0.full == c.full }) { list.append(c) } }
+    }
+
+    // MARK: Albums
+
+    static func albums(artist: String, album: String, sources: [OnlineSource]) async -> [AlbumMatch] {
+        await withTaskGroup(of: [AlbumMatch].self) { group in
+            for source in sources {
+                group.addTask { (try? await albums(from: source, artist: artist, album: album)) ?? [] }
+            }
+            var all: [AlbumMatch] = []
+            for await batch in group { all.append(contentsOf: batch) }
+            // Closest names first; ties keep the source order.
+            let wantAlbum = fold(album), wantArtist = fold(artist)
+            func score(_ m: AlbumMatch) -> Int {
+                let t = fold(m.title), a = fold(m.artist)
+                return (t == wantAlbum ? 4 : t.contains(wantAlbum) || wantAlbum.contains(t) ? 2 : 0)
+                    + (a == wantArtist ? 3 : a.contains(wantArtist) || wantArtist.contains(a) ? 1 : 0)
+            }
+            let order = Dictionary(uniqueKeysWithValues: sources.enumerated().map { ($1, $0) })
+            return all.enumerated().sorted { l, r in
+                let (sl, sr) = (score(l.element), score(r.element))
+                if sl != sr { return sl > sr }
+                let (ol, or) = (order[l.element.source] ?? 0, order[r.element.source] ?? 0)
+                return ol != or ? ol < or : l.offset < r.offset
+            }.map(\.element)
+        }
+    }
+
+    private static func albums(from source: OnlineSource, artist: String, album: String) async throws -> [AlbumMatch] {
+        switch source {
+        case .appleMusic: return try await AppleMusicSource.albums(artist: artist, album: album)
+        case .musicBrainz: return try await MusicBrainzSource.albums(artist: artist, album: album)
+        case .deezer: return try await DeezerSource.albums(artist: artist, album: album)
+        }
+    }
+
+    /// The tracklist of a match.
+    static func songs(of match: AlbumMatch) async throws -> [AlbumMatch.Song] {
+        switch match.source {
+        case .appleMusic: return try await AppleMusicSource.songs(match.lookupID)
+        case .musicBrainz: return try await MusicBrainzSource.songs(match.lookupID)
+        case .deezer: return try await DeezerSource.songs(match.lookupID)
+        }
+    }
+
+    /// Downloads an image, checking it really is one.
+    static func image(_ url: URL) async -> Data? {
+        guard let (data, response) = try? await session.data(from: url),
+              let http = response as? HTTPURLResponse, http.statusCode == 200,
+              NSImage(data: data) != nil else { return nil }
+        return data
+    }
+
+    // MARK: Helpers
+
+    static func json(_ url: URL) async throws -> Any {
+        let (data, response) = try await session.data(from: url)
+        guard let http = response as? HTTPURLResponse, (200..<300).contains(http.statusCode) else {
+            throw URLError(.badServerResponse)
+        }
+        return try JSONSerialization.jsonObject(with: data)
+    }
+
+    /// A URL with properly escaped query items ("&" and "+" in names included).
+    static func url(_ base: String, _ params: [String: String]) -> URL? {
+        guard var components = URLComponents(string: base) else { return nil }
+        components.queryItems = params.sorted { $0.key < $1.key }.map { URLQueryItem(name: $0.key, value: $0.value) }
+        components.percentEncodedQuery = components.percentEncodedQuery?.replacingOccurrences(of: "+", with: "%2B")
+        return components.url
+    }
+
+    static func fold(_ s: String) -> String {
+        s.folding(options: [.caseInsensitive, .diacriticInsensitive], locale: nil)
+            .replacingOccurrences(of: "’", with: "'").trimmingCharacters(in: .whitespacesAndNewlines)
+    }
+
+    static func year(_ date: String?) -> Int? { date.flatMap { Int($0.prefix(4)) } }
+}
+
+// MARK: - Apple Music (iTunes Search)
+
+private enum AppleMusicSource {
+    static func albums(artist: String, album: String) async throws -> [AlbumMatch] {
+        guard let url = OnlineMetadata.url("https://itunes.apple.com/search",
+                                           ["term": "\(artist) \(album)", "media": "music", "entity": "album", "limit": "12"]) else { return [] }
+        let rows = (try await OnlineMetadata.json(url) as? [String: Any])?["results"] as? [[String: Any]] ?? []
+        return rows.compactMap { r in
+            guard let id = r["collectionId"] as? Int, let title = r["collectionName"] as? String else { return nil }
+            let artistName = r["artistName"] as? String ?? ""
+            let year = OnlineMetadata.year(r["releaseDate"] as? String)
+            var cover: CoverCandidate?
+            if let art = r["artworkUrl100"] as? String,
+               let thumb = URL(string: art.replacingOccurrences(of: "100x100bb", with: "300x300bb")),
+               let full = URL(string: art.replacingOccurrences(of: "100x100bb", with: "3000x3000bb")) {
+                cover = CoverCandidate(id: "apple:\(id)", source: .appleMusic, title: title, artist: artistName, year: year,
+                                       thumbnail: thumb, full: full, maxPixels: 3000)
+            }
+            let explicit = (r["collectionExplicitness"] as? String) == "explicit" ? "explicit" : nil
+            let note = [r["country"] as? String, explicit].compactMap { $0 }.joined(separator: " · ")
+            return AlbumMatch(id: "apple:\(id)", source: .appleMusic, title: title, artist: artistName, year: year,
+                              genre: r["primaryGenreName"] as? String, trackCount: r["trackCount"] as? Int ?? 0,
+                              note: note.isEmpty ? nil : note, cover: cover, lookupID: String(id))
+        }
+    }
+
+    static func songs(_ id: String) async throws -> [AlbumMatch.Song] {
+        guard let url = OnlineMetadata.url("https://itunes.apple.com/lookup", ["id": id, "entity": "song", "limit": "200"]) else { return [] }
+        let rows = (try await OnlineMetadata.json(url) as? [String: Any])?["results"] as? [[String: Any]] ?? []
+        return rows.compactMap { r in
+            guard (r["wrapperType"] as? String) == "track", let title = r["trackName"] as? String else { return nil }
+            return AlbumMatch.Song(disc: r["discNumber"] as? Int ?? 1, number: r["trackNumber"] as? Int ?? 0,
+                                   title: title, artist: r["artistName"] as? String ?? "")
+        }
+        .sorted { ($0.disc, $0.number) < ($1.disc, $1.number) }
+    }
+}
+
+// MARK: - MusicBrainz + Cover Art Archive
+
+private enum MusicBrainzSource {
+    /// Lucene phrase, with its own quotes and backslashes escaped.
+    private static func phrase(_ s: String) -> String {
+        "\"" + s.replacingOccurrences(of: "\\", with: "\\\\").replacingOccurrences(of: "\"", with: "\\\"") + "\""
+    }
+
+    static func albums(artist: String, album: String) async throws -> [AlbumMatch] {
+        var query = "release:\(phrase(album))"
+        if !artist.isEmpty { query += " AND artist:\(phrase(artist))" }
+        guard let url = OnlineMetadata.url("https://musicbrainz.org/ws/2/release/", ["query": query, "fmt": "json", "limit": "12"]) else { return [] }
+        let rows = (try await OnlineMetadata.json(url) as? [String: Any])?["releases"] as? [[String: Any]] ?? []
+        var seenGroups = Set<String>()
+        return rows.compactMap { r in
+            guard let id = r["id"] as? String, let title = r["title"] as? String else { return nil }
+            let credit = (r["artist-credit"] as? [[String: Any]])?.map { ($0["name"] as? String ?? "") + ($0["joinphrase"] as? String ?? "") }.joined() ?? ""
+            let year = OnlineMetadata.year(r["date"] as? String)
+            let group = (r["release-group"] as? [String: Any])?["id"] as? String
+            let media = (r["media"] as? [[String: Any]])?.compactMap { $0["format"] as? String }.joined(separator: " + ")
+            let label = ((r["label-info"] as? [[String: Any]])?.first?["label"] as? [String: Any])?["name"] as? String
+            let note = [r["country"] as? String, media, label].compactMap { $0 }.filter { !$0.isEmpty }.joined(separator: " · ")
+            // One cover per release group: editions mostly share art.
+            var cover: CoverCandidate?
+            if let group, seenGroups.insert(group).inserted,
+               let thumb = URL(string: "https://coverartarchive.org/release-group/\(group)/front-250"),
+               let full = URL(string: "https://coverartarchive.org/release-group/\(group)/front") {
+                cover = CoverCandidate(id: "mb:\(group)", source: .musicBrainz, title: title, artist: credit, year: year,
+                                       thumbnail: thumb, full: full, maxPixels: nil)
+            }
+            return AlbumMatch(id: "mb:\(id)", source: .musicBrainz, title: title, artist: credit, year: year, genre: nil,
+                              trackCount: r["track-count"] as? Int ?? 0, note: note.isEmpty ? nil : note, cover: cover, lookupID: id)
+        }
+    }
+
+    static func songs(_ id: String) async throws -> [AlbumMatch.Song] {
+        guard let url = OnlineMetadata.url("https://musicbrainz.org/ws/2/release/\(id)", ["inc": "recordings artist-credits", "fmt": "json"]) else { return [] }
+        let media = (try await OnlineMetadata.json(url) as? [String: Any])?["media"] as? [[String: Any]] ?? []
+        return media.flatMap { m -> [AlbumMatch.Song] in
+            let disc = m["position"] as? Int ?? 1
+            return (m["tracks"] as? [[String: Any]] ?? []).compactMap { t in
+                guard let title = t["title"] as? String else { return nil }
+                let credit = (t["artist-credit"] as? [[String: Any]])?.map { ($0["name"] as? String ?? "") + ($0["joinphrase"] as? String ?? "") }.joined() ?? ""
+                return AlbumMatch.Song(disc: disc, number: t["position"] as? Int ?? 0, title: title, artist: credit)
+            }
+        }
+    }
+}
+
+// MARK: - Deezer
+
+private enum DeezerSource {
+    static func albums(artist: String, album: String) async throws -> [AlbumMatch] {
+        // Deezer's album search ignores field syntax; plain words work.
+        let q = "\(artist) \(album)".trimmingCharacters(in: .whitespaces)
+        guard let url = OnlineMetadata.url("https://api.deezer.com/search/album", ["q": q, "limit": "12"]) else { return [] }
+        let rows = (try await OnlineMetadata.json(url) as? [String: Any])?["data"] as? [[String: Any]] ?? []
+        return rows.compactMap { r in
+            guard let id = r["id"] as? Int, let title = r["title"] as? String else { return nil }
+            let artistName = (r["artist"] as? [String: Any])?["name"] as? String ?? ""
+            var cover: CoverCandidate?
+            if let thumb = (r["cover_medium"] as? String).flatMap(URL.init(string:)),
+               let full = (r["cover_xl"] as? String).flatMap(URL.init(string:)) {
+                cover = CoverCandidate(id: "deezer:\(id)", source: .deezer, title: title, artist: artistName, year: nil,
+                                       thumbnail: thumb, full: full, maxPixels: 1000)
+            }
+            let type = (r["record_type"] as? String).map { $0 == "ep" ? "EP" : $0.capitalized }
+            return AlbumMatch(id: "deezer:\(id)", source: .deezer, title: title, artist: artistName, year: nil, genre: nil,
+                              trackCount: r["nb_tracks"] as? Int ?? 0, note: type, cover: cover, lookupID: String(id))
+        }
+    }
+
+    static func songs(_ id: String) async throws -> [AlbumMatch.Song] {
+        guard let url = URL(string: "https://api.deezer.com/album/\(id)/tracks?limit=200") else { return [] }
+        let rows = (try await OnlineMetadata.json(url) as? [String: Any])?["data"] as? [[String: Any]] ?? []
+        return rows.enumerated().compactMap { i, r in
+            guard let title = r["title"] as? String else { return nil }
+            return AlbumMatch.Song(disc: r["disk_number"] as? Int ?? 1, number: r["track_position"] as? Int ?? i + 1,
+                                   title: title, artist: (r["artist"] as? [String: Any])?["name"] as? String ?? "")
+        }
+    }
+}
+
+// MARK: - Lyrics
+
+/// One lookup's result: lyrics, a clean miss, or a source that didn't work.
+enum LyricsFetch: Sendable {
+    case found(String, LyricsSource)
+    case notFound
+    /// Every source that was asked failed (down, timed out); the message says which.
+    case unavailable(String)
+}
+
+enum LyricsLookup {
+    /// Asks each source in order until one has lyrics. When `syncedOnly`,
+    /// plain results don't count and plain-only sources are skipped.
+    static func fetch(_ track: Track, sources: [LyricsSource], syncedOnly: Bool) async -> LyricsFetch {
+        var failures: [String] = []
+        var answered = false
+        for source in sources where !(syncedOnly && source == .lyricsOvh) {
+            switch await attempt(source, track) {
+            case .success(let text?):
+                if syncedOnly, LyricsState.of(text) != .synced { answered = true; continue }
+                return .found(text, source)
+            case .success(nil):
+                answered = true
+            case .failure(let message):
+                failures.append("\(source.label) \(message)")
+            }
+        }
+        if !answered, !failures.isEmpty { return .unavailable(failures.joined(separator: "; ")) }
+        return .notFound
+    }
+
+    private enum Attempt { case success(String?), failure(String) }
+
+    /// One source, retried once if it errors.
+    private static func attempt(_ source: LyricsSource, _ track: Track) async -> Attempt {
+        var last = Attempt.failure("didn't respond")
+        for tryNumber in 0..<2 {
+            if tryNumber > 0 { try? await Task.sleep(nanoseconds: 800_000_000) }
+            do {
+                switch source {
+                case .lrclib: return .success(try await lrclib(track))
+                case .lyricsOvh: return .success(try await lyricsOvh(track))
+                }
+            } catch let error as HTTPStatus {
+                last = .failure("is unavailable (\(error.code))")
+            } catch {
+                last = .failure("didn't respond")
+            }
+        }
+        return last
+    }
+
+    private struct HTTPStatus: Error { var code: Int }
+
+    /// The body for 200, nil for 404 (a clean miss), an error otherwise.
+    private static func get(_ url: URL) async throws -> Data? {
+        let (data, response) = try await OnlineMetadata.session.data(from: url)
+        let code = (response as? HTTPURLResponse)?.statusCode ?? 0
+        if code == 404 { return nil }
+        guard code == 200 else { throw HTTPStatus(code: code) }
+        return data
+    }
+
+    private static func lrclib(_ t: Track) async throws -> String? {
+        var params = ["artist_name": t.artist, "track_name": t.title]
+        if !t.album.isEmpty { params["album_name"] = t.album }
+        if t.duration > 0 { params["duration"] = String(Int(t.duration.rounded())) }
+        if let url = OnlineMetadata.url("https://lrclib.net/api/get", params), let data = try await get(url),
+           let json = try? JSONSerialization.jsonObject(with: data) as? [String: Any], let text = pick(json) {
+            return text
+        }
+        guard let url = OnlineMetadata.url("https://lrclib.net/api/search", ["artist_name": t.artist, "track_name": t.title]),
+              let data = try await get(url),
+              let rows = try? JSONSerialization.jsonObject(with: data) as? [[String: Any]] else { return nil }
+        // Prefer a synced result, then any.
+        return rows.lazy.compactMap { row in (row["syncedLyrics"] as? String).flatMap { $0.contains("[") ? $0 : nil } }.first
+            ?? rows.lazy.compactMap(pick).first
+    }
+
+    private static func pick(_ json: [String: Any]) -> String? {
+        if let synced = json["syncedLyrics"] as? String, synced.contains("[") { return synced }
+        if let plain = json["plainLyrics"] as? String, !plain.isEmpty { return plain }
+        return nil
+    }
+
+    private static func lyricsOvh(_ t: Track) async throws -> String? {
+        let artist = t.artist.addingPercentEncoding(withAllowedCharacters: .urlPathAllowed.subtracting(CharacterSet(charactersIn: "/?#"))) ?? ""
+        let title = t.title.addingPercentEncoding(withAllowedCharacters: .urlPathAllowed.subtracting(CharacterSet(charactersIn: "/?#"))) ?? ""
+        guard !artist.isEmpty, !title.isEmpty, let url = URL(string: "https://api.lyrics.ovh/v1/\(artist)/\(title)"),
+              let data = try await get(url),
+              let json = try? JSONSerialization.jsonObject(with: data) as? [String: Any],
+              var text = json["lyrics"] as? String else { return nil }
+        text = text.replacingOccurrences(of: "\r\n", with: "\n").replacingOccurrences(of: "\r", with: "\n")
+        // Some entries start with a "Paroles de la chanson … par …" credit line.
+        if let first = text.split(separator: "\n", maxSplits: 1).first, first.hasPrefix("Paroles de la chanson") {
+            text = String(text.dropFirst(first.count)).trimmingCharacters(in: .newlines)
+        }
+        let trimmed = text.trimmingCharacters(in: .whitespacesAndNewlines)
+        return trimmed.isEmpty ? nil : trimmed
+    }
+}

@@ -1,319 +1,372 @@
------BEGIN I2S ENCRYPTED FILE-----
-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
-r8rmiMfso52Bj20=
------END I2S ENCRYPTED FILE-----
+import SwiftUI
+import AppKit
+import CoreImage
+
+enum GlassRendering {
+    /// Offscreen `ImageRenderer` can't draw platform views; the debug
+    /// snapshot tool switches to stand-ins while it renders.
+    nonisolated(unsafe) static var forceFallback = false
+}
+
+/// The layout grid: the gap between panes and between panes and the
+/// window edge.
+enum Corners {
+    /// The grid gap design token; set by `CustomizeStore`.
+    nonisolated(unsafe) static var inset: CGFloat = 6
+}
+
+extension View {
+    /// A panel of the control layer (sidebar, rails, bars): dark frosted glass
+    /// of our own making — a translucent fill over the blurred backdrop, a
+    /// 1px border, a faint top highlight — drawn the same on every platform.
+    /// Solid skins get `fallback` instead of the translucent fill.
+    @ViewBuilder
+    func glassSurface<S: InsettableShape>(_ skin: Skin, in shape: S, fallback: Color? = nil, interactive: Bool = false) -> some View {
+        if skin.isGlass {
+            self.background(Color.black.opacity(skin.panelOpacity), in: shape)
+                .overlay(alignment: .top) { Rectangle().fill(Color.white.opacity(0.07)).frame(height: 1).padding(.horizontal, 1) }
+                .overlay(shape.strokeBorder(Color.white.opacity(0.14), lineWidth: skin.borderWidth))
+                .fuiCorners(skin)
+        } else if let fallback {
+            self.background(fallback, in: shape)
+                .overlay(shape.strokeBorder(skin.hairline, lineWidth: skin.borderWidth))
+                .fuiCorners(skin)
+        } else {
+            self
+        }
+    }
+
+    /// The content layer (the library, the EQ graph): denser and darker
+    /// than the control panels, so the panels read as a separate layer.
+    func contentSurface(_ skin: Skin, fallback: Color) -> some View {
+        self.clipShape(Rectangle())
+            .background(skin.isGlass ? Color.black.opacity(min(0.95, skin.contentOpacity ?? skin.panelOpacity + 0.16)) : fallback)
+            .overlay(Rectangle().strokeBorder(skin.isGlass ? Color.white.opacity(0.14) : skin.hairline, lineWidth: skin.borderWidth))
+            .fuiCorners(skin)
+    }
+
+    /// Small L-shaped ticks at the four corners, like registration marks on
+    /// a technical drawing.
+    @ViewBuilder
+    func fuiCorners(_ skin: Skin, length: CGFloat? = nil) -> some View {
+        if skin.showTicks {
+            overlay(FUICorners(color: skin.textPrimary.opacity(0.5), length: length ?? skin.tickLength).allowsHitTesting(false))
+        } else {
+            self
+        }
+    }
+}
+
+private struct FUICorners: View {
+    var color: Color
+    var length: CGFloat
+
+    var body: some View {
+        Canvas { ctx, size in
+            let l = length, w = size.width, h = size.height
+            var p = Path()
+            for (x, y, dx, dy) in [(0.0, 0.0, 1.0, 1.0), (w, 0, -1, 1), (0, h, 1, -1), (w, h, -1, -1)] {
+                p.move(to: CGPoint(x: x + dx * l, y: y + dy * 0.5))
+                p.addLine(to: CGPoint(x: x + dx * 0.5, y: y + dy * 0.5))
+                p.addLine(to: CGPoint(x: x + dx * 0.5, y: y + dy * l))
+            }
+            ctx.stroke(p, with: .color(color), lineWidth: 1)
+        }
+    }
+}
+
+/// What fills the window behind the panes.
+struct WindowBackdrop: View {
+    var style: BackdropStyle
+    var skin: Skin
+    var artwork: NSImage?
+    /// How strongly the theme's base color veils the wallpaper (0…1).
+    var glassTint: Double = 0.5
+    /// How much of the desktop's color the platform blur lets through.
+    var blurMaterial: BlurMaterial = .standard
+
+    enum BlurMaterial { case standard, vivid }
+
+    var body: some View {
+        ZStack {
+            switch style {
+            case .translucent:
+                // What's behind the window, blurred by the platform (on macOS
+                // the window server; Windows/Linux ports swap in their own).
+                if GlassRendering.forceFallback {
+                    skin.bgVoid
+                } else {
+                    PlatformBehindWindowBlur(vivid: blurMaterial == .vivid)
+                    skin.bgVoid.opacity(glassTint)
+                }
+            case .themeColor:
+                skin.bgVoid
+            case .ambient:
+                // A faint measuring grid.
+                skin.bgVoid
+                Canvas { ctx, size in
+                    let step: CGFloat = 24
+                    var grid = Path()
+                    for x in stride(from: 0, through: size.width, by: step) {
+                        grid.move(to: CGPoint(x: x + 0.5, y: 0)); grid.addLine(to: CGPoint(x: x + 0.5, y: size.height))
+                    }
+                    for y in stride(from: 0, through: size.height, by: step) {
+                        grid.move(to: CGPoint(x: 0, y: y + 0.5)); grid.addLine(to: CGPoint(x: size.width, y: y + 0.5))
+                    }
+                    ctx.stroke(grid, with: .color(Color.white.opacity(0.035)), lineWidth: 1)
+                }
+            case .artwork:
+                skin.bgVoid
+                if let artwork, let blurred = BlurredArtwork.image(for: artwork) {
+                    // Blurred once at thumbnail size and scaled up: a live
+                    // full-window blur re-rendered on every frame of every
+                    // animation and resize.
+                    Image(nsImage: blurred)
+                        .resizable()
+                        .interpolation(.medium)
+                        .aspectRatio(contentMode: .fill)
+                        .transition(.opacity)
+                        .id(ObjectIdentifier(artwork))
+                    Color.black.opacity(0.45)
+                }
+            }
+        }
+        .animation(.easeInOut(duration: 0.8), value: artwork.map(ObjectIdentifier.init))
+        .clipped()
+        .ignoresSafeArea()
+        .allowsHitTesting(false)
+    }
+}
+
+// MARK: - Glass windows
+
+/// The frosted glass every secondary window and dialog uses (Downloads,
+/// Library, Equalizer, Settings, sheets): the platform's blur of what's
+/// behind the window, a light veil, and dark translucent panes with
+/// hairlines, whatever the main window's own backdrop and surfaces are.
+enum GlassWindow {
+    /// The rails and side panels.
+    static let railTint = 0.08
+    /// Pages and content.
+    static let pageTint = 0.14
+    /// Sheets sit over the main window's content, so they veil a little more.
+    static let sheetExtra = 0.22
+
+    /// The window-wide veil (Settings → Appearance → Glass window dimming).
+    @MainActor static var tint: Double { AppSession.shared.settings.data.downloadsGlassTint }
+}
+
+extension AppSettings {
+    /// The styled skin with glass surfaces at the glass windows' density.
+    func glassWindowSkin(_ skin: Skin) -> Skin {
+        var s = styled(skin)
+        s.isGlass = true
+        s.allowsBackdropBleed = true
+        s.bgPanel = .clear
+        s.bgRow = .clear
+        s.panelOpacity = GlassWindow.railTint
+        s.contentOpacity = GlassWindow.pageTint
+        return s
+    }
+}
+
+extension View {
+    /// A secondary window's frosted glass: the backdrop, a transparent window,
+    /// and its minimum size.
+    func glassWindow(_ skin: Skin, minSize: NSSize, tint: Double? = nil) -> some View {
+        background {
+            WindowBackdrop(style: .translucent, skin: skin, artwork: nil,
+                           glassTint: tint ?? GlassWindow.tint, blurMaterial: .vivid)
+        }
+        .ignoresSafeArea(.container, edges: .top)
+        .scrollIndicators(.never)
+        .background {
+            // Offscreen snapshots can't draw AppKit views; it would cover the render.
+            if !GlassRendering.forceFallback { WindowChromeGuard(minSize: minSize, transparent: true) }
+        }
+    }
+
+    /// A sheet or dialog in the same glass, over whatever window it's attached to.
+    func glassSheet(_ skin: Skin) -> some View {
+        background {
+            WindowBackdrop(style: .translucent, skin: skin, artwork: nil,
+                           glassTint: min(0.85, GlassWindow.tint + GlassWindow.sheetExtra), blurMaterial: .vivid)
+        }
+        .overlay(Rectangle().strokeBorder(Color.white.opacity(0.11), lineWidth: 1).allowsHitTesting(false))
+        .scrollIndicators(.never)
+        .background { if !GlassRendering.forceFallback { ClearSheetWindow() } }
+        .modifier(ClearPresentationBackground())
+    }
+}
+
+/// Frosted glass over the window's own content (the command palette and
+/// other floating panels inside a window), in the glass windows' material.
+struct InWindowGlass: View {
+    var tint: Double = 0.3
+
+    var body: some View {
+        ZStack {
+            if GlassRendering.forceFallback {
+                Color.black.opacity(0.9)
+            } else {
+                WithinWindowBlur()
+                Color.black.opacity(tint)
+            }
+        }
+        .allowsHitTesting(false)
+    }
+
+    private struct WithinWindowBlur: NSViewRepresentable {
+        func makeNSView(context: Context) -> NSVisualEffectView {
+            let v = NSVisualEffectView()
+            v.material = .hudWindow
+            v.appearance = NSAppearance(named: .darkAqua)
+            v.blendingMode = .withinWindow
+            v.state = .active
+            return v
+        }
+        func updateNSView(_ nsView: NSVisualEffectView, context: Context) {}
+    }
+}
+
+/// Makes the sheet's own window see-through, so the blur shows what's
+/// behind it, and square like the app's windows: a titled sheet gets the
+/// system's rounded frame (macOS 26), so the title style comes off and the
+/// window is kept able to take typing.
+private struct ClearSheetWindow: NSViewRepresentable {
+    func makeNSView(context: Context) -> NSView { View() }
+    func updateNSView(_ nsView: NSView, context: Context) {}
+
+    private final class View: NSView {
+        private var keyObserver: NSObjectProtocol?
+
+        override func viewDidMoveToWindow() {
+            super.viewDidMoveToWindow()
+            guard let window else { return }
+            #if DEBUG
+            if DebugHooks.isHeadless {
+                window.alphaValue = 0
+                window.ignoresMouseEvents = true
+            }
+            #endif
+            window.isOpaque = false
+            window.backgroundColor = .clear
+            Self.squareOnceAttached(window, tries: 60)
+            // SwiftUI can put the title style back when it updates the sheet.
+            if keyObserver == nil {
+                keyObserver = NotificationCenter.default.addObserver(
+                    forName: NSWindow.didBecomeKeyNotification, object: window, queue: .main
+                ) { [weak window] _ in MainActor.assumeIsolated { window.map(Self.square) } }
+            }
+        }
+
+        /// The title style has to stay until the sheet is attached: a sheet
+        /// window without it never attaches. Checked each frame for a second.
+        private static func squareOnceAttached(_ window: NSWindow, tries: Int) {
+            if window.sheetParent != nil { square(window); return }
+            guard tries > 0 else { return }
+            DispatchQueue.main.asyncAfter(deadline: .now() + 0.016) { [weak window] in
+                MainActor.assumeIsolated { window.map { squareOnceAttached($0, tries: tries - 1) } }
+            }
+        }
+
+        private static func square(_ window: NSWindow) {
+            guard window.sheetParent != nil, window.styleMask.contains(.titled) else { return }
+            window.styleMask.remove(.titled)
+            KeyableWindow.enable(window)
+        }
+
+        deinit { keyObserver.map(NotificationCenter.default.removeObserver) }
+    }
+}
+
+private struct ClearPresentationBackground: ViewModifier {
+    func body(content: Content) -> some View {
+        if #available(macOS 13.3, *) {
+            content.presentationBackground(.clear)
+        } else {
+            content
+        }
+    }
+}
+
+/// The backdrop's cover, blurred and desaturated once per image.
+@MainActor
+enum BlurredArtwork {
+    private static var cache: (id: ObjectIdentifier, image: NSImage)?
+    private static let context = CIContext(options: [.useSoftwareRenderer: false])
+
+    static func image(for artwork: NSImage) -> NSImage? {
+        let id = ObjectIdentifier(artwork)
+        if let cache, cache.id == id { return cache.image }
+        guard let cg = artwork.cgImage(forProposedRect: nil, context: nil, hints: nil) else { return nil }
+        // 72 px across; a ~6 px blur here reads like ~70 pt at window size.
+        let scale = 72 / CGFloat(max(cg.width, cg.height))
+        let input = CIImage(cgImage: cg).transformed(by: CGAffineTransform(scaleX: scale, y: scale))
+        let extent = input.extent
+        let output = input.clampedToExtent()
+            .applyingGaussianBlur(sigma: 6)
+            .applyingFilter("CIColorControls", parameters: [kCIInputSaturationKey: 0.9])
+            .cropped(to: extent)
+        guard let out = context.createCGImage(output, from: extent) else { return nil }
+        let image = NSImage(cgImage: out, size: extent.size)
+        cache = (id, image)
+        return image
+    }
+}
+
+/// The one platform-specific piece of the look: a blur of whatever is
+/// behind the window. macOS: `NSVisualEffectView` in behind-window mode.
+private struct PlatformBehindWindowBlur: NSViewRepresentable {
+    /// A lighter material that keeps more of the desktop's color.
+    var vivid = false
+
+    func makeNSView(context: Context) -> NSVisualEffectView {
+        let v = NSVisualEffectView()
+        // The HUD material stays see-through and keeps the desktop's color even
+        // with macOS wallpaper tinting off, which turns window materials gray.
+        v.material = vivid ? .hudWindow : .underWindowBackground
+        if vivid { v.appearance = NSAppearance(named: .darkAqua) }
+        v.blendingMode = .behindWindow
+        v.state = .active
+        return v
+    }
+
+    func updateNSView(_ nsView: NSVisualEffectView, context: Context) {}
+}
+
+/// A draggable divider between panes. Invisible except for an optional
+/// hairline; shows the resize cursor and reports drags in points.
+struct PaneResizeHandle: View {
+    var skin: Skin
+    var showsLine: Bool
+    /// Called with the horizontal drag distance since the drag began.
+    var onDrag: (CGFloat) -> Void
+    var onEnd: () -> Void = {}
+
+    @State private var hovering = false
+
+    var body: some View {
+        ZStack {
+            if showsLine { Hairline(color: skin.hairline, vertical: true) }
+        }
+        // Without a line, the handle is the gap between floating panes.
+        .frame(width: showsLine ? 1 : Corners.inset)
+        .frame(maxHeight: .infinity)
+        .overlay(
+            Color.clear
+                .frame(width: 8)
+                .contentShape(Rectangle())
+                .onHover { inside in
+                    if inside, !hovering { NSCursor.resizeLeftRight.push() }
+                    if !inside, hovering { NSCursor.pop() }
+                    hovering = inside
+                }
+                .gesture(
+                    DragGesture(minimumDistance: 1, coordinateSpace: .global)
+                        .onChanged { onDrag($0.translation.width) }
+                        .onEnded { _ in onEnd() }
+                )
+        )
+    }
+}

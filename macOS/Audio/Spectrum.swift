@@ -1,186 +1,223 @@
------BEGIN I2S ENCRYPTED FILE-----
-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
------END I2S ENCRYPTED FILE-----
+import Foundation
+import AVFoundation
+import Accelerate
+
+/// Latest analyzer output for the visualizer. Deliberately not
+/// `@Published`: the spectrum view polls it from a `TimelineView`, so
+/// incoming audio never invalidates any SwiftUI view.
+@MainActor
+final class SpectrumFeed {
+    private(set) var levels: [Float] = []
+    /// Fine log-spaced spectrum in dBFS for the EQ editor; empty unless
+    /// `SpectrumAnalyzer.wantsDetail` is set.
+    private(set) var detail: [Float] = []
+    /// Highest sample of the last buffer, in dBFS (post-EQ, pre-volume).
+    private(set) var peakDB: Float = -120
+    private(set) var updatedAt = Date.distantPast
+
+    func receive(_ frame: SpectrumAnalyzer.Frame) {
+        levels = frame.bands
+        detail = frame.detail
+        peakDB = frame.peakDB
+        updatedAt = Date()
+    }
+
+    func silence() {
+        levels = levels.map { _ in 0 }
+        detail = detail.map { _ in -120 }
+        peakDB = -120
+        updatedAt = Date()
+    }
+
+    /// Band count the analyzer produces; the view picks it from settings.
+    nonisolated var bandCount: Int {
+        get { SpectrumAnalyzer.bandCount.value }
+        set { SpectrumAnalyzer.bandCount.value = max(4, min(96, newValue)) }
+    }
+}
+
+/// FFT band analysis for the tap thread. Buffers are allocated once; only
+/// the small band array is created per call.
+final class SpectrumAnalyzer: @unchecked Sendable {
+    static let bandCount = LockedValue(32)
+    /// Set while a view shows the detailed spectrum.
+    static let wantsDetail = LockedValue(false)
+    static let detailCount = 192
+
+    struct Frame: Sendable {
+        var bands: [Float]
+        var detail: [Float]
+        var peakDB: Float
+    }
+
+    private let fftSize = 4096
+    private let log2n: vDSP_Length
+    private let setup: FFTSetup
+    private var window: [Float]
+    private var mono: [Float]
+    private var real: [Float]
+    private var imag: [Float]
+    private var power: [Float]
+    private var referencePower: Float = 1
+
+    private var layout: (rate: Double, bands: Int, edges: [Int], tilt: [Float])?
+    private var detailLayout: (rate: Double, edges: [Int], tilt: [Float])?
+
+    /// Displayed range, in dB relative to a full-scale sine.
+    private let floorDB: Float = -78
+    private let ceilingDB: Float = -12
+
+    init() {
+        log2n = vDSP_Length(log2(Double(fftSize)))
+        setup = vDSP_create_fftsetup(log2n, FFTRadix(kFFTRadix2))!
+        window = [Float](repeating: 0, count: fftSize)
+        vDSP_hann_window(&window, vDSP_Length(fftSize), Int32(vDSP_HANN_NORM))
+        mono = [Float](repeating: 0, count: fftSize)
+        real = [Float](repeating: 0, count: fftSize / 2)
+        imag = [Float](repeating: 0, count: fftSize / 2)
+        power = [Float](repeating: 0, count: fftSize / 2)
+        calibrate()
+    }
+
+    deinit {
+        vDSP_destroy_fftsetup(setup)
+    }
+
+    /// Measures the peak bin power of a full-scale sine so levels can be
+    /// reported in dBFS regardless of FFT size or window scaling.
+    private func calibrate() {
+        let bin = Float(fftSize / 8)
+        for i in 0..<fftSize {
+            mono[i] = sin(2 * .pi * bin * Float(i) / Float(fftSize))
+        }
+        transform()
+        referencePower = max(power.max() ?? 1, .leastNonzeroMagnitude)
+    }
+
+    func process(_ buffer: AVAudioPCMBuffer) -> Frame? {
+        guard let channels = buffer.floatChannelData else { return nil }
+        let frames = Int(buffer.frameLength)
+        let channelCount = Int(buffer.format.channelCount)
+        guard frames > 0, channelCount > 0 else { return nil }
+
+        var peak: Float = 0
+        for c in 0..<channelCount {
+            var m: Float = 0
+            vDSP_maxmgv(channels[c], 1, &m, vDSP_Length(frames))
+            peak = max(peak, m)
+        }
+
+        // Most recent `fftSize` frames, channels averaged to mono.
+        let count = min(frames, fftSize)
+        let offset = frames - count
+        mono.withUnsafeMutableBufferPointer { dst in
+            vDSP_vclr(dst.baseAddress!, 1, vDSP_Length(fftSize))
+            var scale = 1 / Float(channelCount)
+            for c in 0..<channelCount {
+                vDSP_vsma(channels[c] + offset, 1, &scale, dst.baseAddress!, 1, dst.baseAddress!, 1, vDSP_Length(count))
+            }
+        }
+        transform()
+
+        let bands = max(4, Self.bandCount.value)
+        let shape = layoutFor(rate: buffer.format.sampleRate, bands: bands)
+        var levels = [Float](repeating: 0, count: bands)
+        for b in 0..<bands {
+            let lo = shape.edges[b], hi = max(shape.edges[b] + 1, shape.edges[b + 1])
+            var peak: Float = 0
+            for k in lo..<min(hi, power.count) where power[k] > peak { peak = power[k] }
+            let db = 10 * log10f(max(peak / referencePower, 1e-12)) + shape.tilt[b]
+            levels[b] = max(0, min(1, (db - floorDB) / (ceilingDB - floorDB)))
+        }
+        return Frame(bands: levels, detail: Self.wantsDetail.value ? detailLevels(rate: buffer.format.sampleRate) : [],
+                     peakDB: 20 * log10f(max(peak, 1e-6)))
+    }
+
+    /// `detailCount` log-spaced points from 20 Hz to 20 kHz, in dBFS with
+    /// a +4.5 dB/octave tilt around 1 kHz (the usual analyzer slope).
+    private func detailLevels(rate: Double) -> [Float] {
+        if detailLayout?.rate != rate {
+            let binHz = rate / Double(fftSize)
+            let n = Self.detailCount
+            var edges: [Int] = []
+            var tilt: [Float] = []
+            for i in 0...n {
+                let hz = 20 * pow(1000, Double(i) / Double(n))
+                edges.append(max(1, min(fftSize / 2 - 1, Int((hz / binHz).rounded()))))
+                tilt.append(Float(4.5 * log2(hz / 1000)))
+            }
+            detailLayout = (rate, edges, tilt)
+        }
+        guard let shape = detailLayout else { return [] }
+        return (0..<Self.detailCount).map { i in
+            let lo = shape.edges[i], hi = max(lo + 1, shape.edges[i + 1])
+            var peak: Float = 0
+            for k in lo..<min(hi, power.count) where power[k] > peak { peak = power[k] }
+            return max(-120, 10 * log10f(max(peak / referencePower, 1e-12)) + shape.tilt[i])
+        }
+    }
+
+    private func transform() {
+        let half = fftSize / 2
+        mono.withUnsafeMutableBufferPointer { m in
+            vDSP_vmul(m.baseAddress!, 1, window, 1, m.baseAddress!, 1, vDSP_Length(fftSize))
+        }
+        real.withUnsafeMutableBufferPointer { re in
+            imag.withUnsafeMutableBufferPointer { im in
+                var split = DSPSplitComplex(realp: re.baseAddress!, imagp: im.baseAddress!)
+                mono.withUnsafeBufferPointer { src in
+                    src.baseAddress!.withMemoryRebound(to: DSPComplex.self, capacity: half) {
+                        vDSP_ctoz($0, 2, &split, 1, vDSP_Length(half))
+                    }
+                }
+                vDSP_fft_zrip(setup, &split, 1, log2n, FFTDirection(FFT_FORWARD))
+                vDSP_zvmags(&split, 1, &power, 1, vDSP_Length(half))
+            }
+        }
+        power[0] = 0 // DC and Nyquist share bin 0 in zrip's packed format.
+    }
+
+    /// Log-spaced band edges from 30 Hz to 16 kHz, plus a +3 dB/octave tilt
+    /// so music's natural treble roll-off doesn't leave the right side flat.
+    private func layoutFor(rate: Double, bands: Int) -> (rate: Double, bands: Int, edges: [Int], tilt: [Float]) {
+        if let layout, layout.rate == rate, layout.bands == bands { return layout }
+        let binHz = rate / Double(fftSize)
+        let lowHz = 30.0, highHz = min(16_000, rate / 2)
+        var edges: [Int] = []
+        var tilt: [Float] = []
+        for i in 0...bands {
+            let hz = lowHz * pow(highHz / lowHz, Double(i) / Double(bands))
+            edges.append(max(1, min(fftSize / 2 - 1, Int((hz / binHz).rounded()))))
+        }
+        // Keep every band at least one bin wide.
+        for i in 1..<edges.count where edges[i] <= edges[i - 1] {
+            edges[i] = min(fftSize / 2, edges[i - 1] + 1)
+        }
+        for i in 0..<bands {
+            let center = lowHz * pow(highHz / lowHz, (Double(i) + 0.5) / Double(bands))
+            tilt.append(Float(3 * log2(center / 1000)))
+        }
+        let result = (rate, bands, edges, tilt)
+        layout = result
+        return result
+    }
+}
+
+/// A tiny lock-protected box for values shared with the audio tap thread.
+final class LockedValue<T>: @unchecked Sendable {
+    private var stored: T
+    private let lock = NSLock()
+
+    init(_ value: T) { stored = value }
+
+    var value: T {
+        get { lock.lock(); defer { lock.unlock() }; return stored }
+        set { lock.lock(); stored = newValue; lock.unlock() }
+    }
+
+    func mutate(_ body: (inout T) -> Void) {
+        lock.lock()
+        body(&stored)
+        lock.unlock()
+    }
+}

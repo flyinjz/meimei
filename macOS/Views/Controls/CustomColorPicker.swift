@@ -1,362 +1,441 @@
------BEGIN I2S ENCRYPTED FILE-----
-AEdJVENSWVBUAH3JUfjwdAUlBPPxzZO9tzNRxckNoEPPzxxAahPrRrfRJe8QIEjQ
-RhKG2DmdSNzg9ZE1PMiWLXikCsEB+iUPo4281NzE8wLD/Bcd6amsgGe+xcppLnqj
-4Oinyy++qilYcTOT+lhL+gXhTFaz4hz8o7r9UDcB5xIvBYIE0SEVBRcVPIxDiZdB
-3PRBk0koLHnBY3ZHogtdBXQFmne0LC+xwtCvS011aEfD04FF2pkbVg2HxgwutZAB
-aAWEdeBw+haQP7Df2cTlhfipAX/9UfUD5CJvHtNBlv6Tq3fXCpsXr3ulRJScXkg/
-W71MNwmo7jpR5Fn5Sn+vXltl2eEcWG+10kwEh+b53I3ELjN1x77wyeBBz7ouO0Pw
-oh/+HEcSJo5W4Mj8059QrXzs3UtAzQZ0h8ebLPAQjbj9te+5HycXtFcQ6HioxlDm
-G3zWSjfV05cgyrp3BJondE2xv5qbRe7tOJxojqhKQSI7ESpkI3ci9PjwnQavsgxW
-4UxTXSIn4jRbqGrpTLFzrRkSxAFrqFiZr5u47pXeeZX1arNln4vrsL16qdhRnTG3
-g7Iu8xZ7YwcVKsutqsXbwPc1xZ/aBR9hb1oHxI7t+0N9bokq8K06yCgNSl3ixM0n
-Q6qWFMdukx2j06949ujkY7XrLMG5YV3X0W3sI8GTxVYfpzqS4Rm9fd4ltZW7btfW
-T2BmXHFBTJLx03AP108adS539pcjuOq5zbi5RcRV2smGIoRs9JwtLn2ngZ9RLp8S
-YWRuAPkIbLozLLluJO2y88sPIW+BS9bMqsbHOO7ttJunUAnHWM7GKJ8k381nDXJG
-fJcBnEemKaYKQBLUa8GSORwkk0XBsjkMNIANymyldgDYmVMYN+x7STk4VrkrICHq
-G4lDUF/oWOw4fWtbEyo075SpK2vDl2oxrptWxcDCn66uQmpPuKlWBuNchYpvSQWn
-uJBWb8qXnhLJb+GwzcjVD6AZW9xwlzdaR4MuFig2XFBU9ZPidxsERFCpSqOn4PSs
-zlkG0pwKGUwYiVZ0H8MiT2/VO3jrArdl/akf6RMPsehsPx8iM0D5Eb9Tbr/nHCa/
-JHpd/El4AgG3M0fP+FFyVLck/W9wIk1yE35DVThFsjJOPJCopvkabEVeWfdnf1j3
-/QlU2beXGoaizV4ao3UNUHo3Gi/ymwFP2Mrz0fxt+AP9VO8VgT11ckRBBFbDuHmu
-0iQKZqjfkT6XDpHyITrNct829sTxnV1Hl0ZKFQ5Ku7vk3aYUgAlHJzw+K0x6KyRs
-g3lfw5COnLQmyFTGEqb0lyp079xheCFrGtJp7sg0AQzW9avx4/xL0fpU58MvwKEQ
-iHdYiiizPKD0MBThVFO5K6tuNB96Db2Io3nAzivzFrHLUlVa+Wis7e2S7y3jCESY
-m2lpWseqzn/yN9shXgXGeN/NbJXI8xGvtAvoCaumZ0g/T0NE2Yp1KoCsDqSDvRrp
-KJcV/OACDT5mS2lwvVNaU4StQshEqw/N3Knd/yA5NKeLpfAXSMPy3Q0n4Q+7lYdP
-MMNhLE/2Ra1ry1d/VPaWDcOZnYgH7wYtaBLbyEwJgq5SggDjvhFVe8hAojOadPhK
-XZYW9Xur5/2W0SQ9qsmpdFvj3PJWarPQsGacUp+L44QAy7TAhW+Sv4onZivOwtqI
-RA02loRQNiULQwAW7KC7gPMtSEFJUCkiyc+ds506fHQy2DLxGY6YDPi1H580HJk1
-bd5pMc4xLONtUkoNAOyFfGDmepfbbqyhgX7hkKECXWscmPxyFJ0SC3HHc6neJ+36
-XM2J+lbtorlsfU+Si4yVH1Pl9uJf8zcR/oo9ai4KZoKVvq50MRcqs5k7WDD6TV8x
-vShY46tFXMZ4Lp7YhHzjE/IlxxQRxrFKED19jJK/MrUzh/D20yVMnZ/w5oXyvLw9
-DCRW7SMqI/JmdyBTwwfb9+7+NDLkH12V8s/uYO0QJudpyhlTHveaHybkahdQFjKO
-OAXDk9SpCGq7/SXIsvj4nJfLX8IXvtrE/VfFlI9PplRWmV7rxpl58CcuNmd4f5WF
-3w6J32ojzGYJIjy6PXgoiaGQYcD/Y0mIshJ6/RVIsIFzjKkDjtLImKRLU0c99gys
-86hfAqBoQB4Lw2TXLua5AOY525CVpwmpwIuVC3o4EFoeoMAo90l1Apm3jXW64l7D
-lI99bgyXhpKJsDrGL8lN1uzdv1H4pGTd67FOCMKCB7vXONyTXzf+hMmHQ0E121DJ
-H2xWGxgstoijs3qf4j39kMbOtoC34llBEXy7A4DeXmdQJzGH41cqezxWh+Qpd/uY
-CopaWkQmuHeCUcYrNcnZ6Ixcg/84wO9hmflcQML5tl1clu+S/Ft728TyES5+TzF6
-vXnaxcQnwKC3g2b+ilTKVVP3gJuv1g2O01rPNaIXwqxRTsQuY8T62IYP/LleIKf1
-tUpT2hQelpPnN7bS5gD2WphDDkZH1dpYRYWLR7J/b6b5Eo8qZRsSSFNOYVPb7jGh
-l9pi6FUK27WqiHD6KW70zzIlsErLT69HBRavEoeEtBJ5T0G4Jv16UpotVqE5BI4q
-Hczd2C27BKbSrHsXDK+W3IJx8zl7u8t9zCsTJRXb9SIkJ7oSiMqRycDCjxI8SkCd
-843Y93g+uvjLn5UCdVP2EmkFWWWh999z51wu1W3KGQMngVJVgrSXHI/qZKGDEH9N
-auIaN/PXKl3T2d6eE7x0a2bsi+9kiDQLNZE5T8/PIYjVf6RX5WCjapolIq52hV72
-Z9RF2RWOKOQm3xk++5hsMoUxmjRkdoNzUEi3Est13Jq2hAm9P8tvdupq7f9tlVZO
-AzsE+yH2AdzECjj3f2ssN1zJ7Y930SMVy4NaFR8/cgwpZ1cXPYGzf4CFYfjayCa7
-XwzGldL7IaMiyNgKxzZrcd4rXXGN6LV3nrq8nPsrtOuYFcf23TQX4eM1/iqdVhnQ
-tn0iqcAca9pOxEG7cuMCpfTm9jmyRv+foNsdrKXYlJ9VEu0Ku+jE9Ww9s8PPrRdt
-HOpIChoPsgq/4koJsgyvV6b+ffoFu/PNq2lBWfgLyAYPVhN1ccJcmjPXeLUmBs1u
-nZr5rkDEyUpKL2+P1wWJ7UX2dX/KfdPvdR8V8390GParSibNAqXY78bt9ewhgQZV
-/ADkeIEmkJpt0ahC6HjCdPrPBhKCZ9nEGD2qwdaZSN914WUq86BIbl4Yb/4ZkkSW
-+MtVbQ+yJga7j3GoBcv5uOwhGQBqmFrYMYyRCvIWpg4n6e2IEwag7kykAtXrZebN
-h97FPMzfY8+kBHUpeYjj+s9P517RMjQMj++By0B1oOz0O1RlPBBXA11o4ehj0wmc
-4o/24dYtyXgleolKXDAN+HIU2t9E5ea3X2yjCA1DcP+rTf+w57BYR7PfOGH35fu7
-mA6vsoUIVXvExiKKWNUmgLZa3DX8b7f3H3DgRbgB6epZIDTrD4VOPg4nbENK/LE2
-E/N7+Gk5SF9OUEXwMbqbBeQO4HUUJ28qGIjLNrjM6ZKRq40zJd9OLbKtDcs2P23r
-M0Eebi/bUr338DU6wmy2Kxmzf6eyZv5q8d8fwHXezrKwSM54fRfrcOWchmYjrplp
-MX2Bs//O9rBxAE49KH/o+vh6btGMoaYcshL9AjEl55xarLLc41dZKW00U71kq+iE
-TzcH1L3C21OvtUZiquRIvbOGoCYK43FYFHS6/mBvndGXTPxZLsi4sk/z+g5xE3vh
-rwepxc5cR1Kmidl9QAwP8qKLQwdxDJx8AmhrqneVORYGNjp2sTCeZMqGAm5ak/Kl
-hO7bHH6dyAZocoR8A+lHrFrkmENse2u0aa4wRVIvOoY0n93Ge8f8NIfU9yB3P6yH
-CCmBsKadTuU1J29O28BwPpsid3Q4jKRfP++g6P95Ds5ZGtPu+acMGBISDVHzLAmC
-MPM2Oa2jEYHX0h8ZcslZA86TKe9WjFxLYPo56n4+Y1LZ60FX19DUZk+rKTBRjkjP
-7Bf/lRV5I1tiUAQ7IsyjkMQbcGj5QQsB91Tm3doeR27G649e36rpgTaK4DKrbgxv
-CbNna7eVhIhuKA2Mpsz0yucU8twtHREOb/kkWcf9xYXTDBwhg3j7OQoXkIgbU2gG
-c5/9gQh3pwOvx53BCSZpQIrPD8eUZmLvLV8/Fphd/8srCz5dINpb5xNaLgJetvpR
-eU0bEp0y+9mReix9YG5FtM9mCDwAB8rzy3WfgdXV8BPP70u1mePw4CtbiZKvL0EI
-w1JXO6n9ibgjX31zx9GeIgvFOSDHxfevavMwo6R21R3iwPWjjAcztU6xB4muQarO
-xzRLyX+Fh8ooE5a3LPKqCwkzPkx+aBL45ZwhZ12H08vjNEzdM2UW/JmF3U3AXFqz
-aUkWdqQNr+IUE0Un+KLxzWrCx+6IIoF4qPWp4TBC3lQ9S/xOcVgtqLt3RcdSX4I+
-Q4OZxs7vFait/E/LhBkNs0wN3EqGmySGPaUAW1jeS1FbPRX2lDPNCMxLBuo5zBXY
-knWQOwK2oZufjPoVvNlBJHxlt9cHsrVl7yG89jd3jPKuUQB6qaDcfEJwh3OkJdm0
-yJhErjxnIENNg7APhKlg11tIdOVg0amIMRtoR4knEiRV5+EQztoY+TCVCRRGg7iF
-9QKkjow5rfyWhDkd0dSI0w8xkqn86KXWFXKgKERfB5Qgq0u7rTwTkP/2mRbXO+92
-eLy5f2lIjBDmTBB26isjZTVrjG3N/0kzMLT8VS07miRoihBTtcOak/E+UxXosuOV
-MMuNValOnyCQbgBoDkOo6Ph2kv9eURhbij79rU+yjz1VHrghCQS0TD40z0gzRGsA
-tuIgUVtcwd9Rzuea+Hn3paYJgLlS3V5TOqFahYcaNzOrXH1L7BB4pk7lilZRqJ4i
-vpw/V5YK5jBrD5ErYCcf+vlqAVms8TTe9bV2qMk1grRfFfSO3merH9aBDckDeXRo
-9fdg18mKVnnG8wsuzBnU24mpxSnupfPAiRYcC6HdHroHIBLLxFWHcSywYn8+Isz1
-vp53KLJqe/M5t6Y7Q4lep6BNwqNbo4wu0hX24X4vdhrKP4AbYCL+9WBP0v7HbvBV
-cqrMJV4LVDutPlgJ/CBjjTDlg/oT5Isdt3L2xiofA6R3UfhGKg3/hToF4aYydODD
-K0lDO8l5ttEPt8x/h5epoJCFzFqLjr8Z6epuzL/JOuerX26LaEur6XlpInDy2c2+
-YnUUIuYWDFx8obnJeKjh819/hmbB+TLRFHAinSRSO3snBrd9sZpqcNXGDygQjjLp
-IZZv1PqL0FJRQgn/WH9fyBjlTClSiG8Rq65Lv1ANR6a653JcMRMaFFk/KVdUD5uM
-oMwPT3oy8YLJXEZy5Ba0G8vwig4MVFnl1u9EFfLhYNLcagggGZvAcJccDIjMr6LS
-Hn1CwSaLXZ6KZGjCkvxfA4CLh1b11lcuCAq/II2dY1AxJq9yXHx8v/5ar6aNImPo
-twmb5T9LnJw0NCQ66HsLQRxA7YdFvLLA5IZF+1ZxDLjJGZL8ACWrnGcjdZk8wrGp
-YE9W3H2WghrhVpNlmRaLnyN1FEAK5H05sAn71C/3GAUwUIYqgu0UyFpbcQZG5eR5
-Od95yVjdAAex9F6SPM29BmbnPTJj2sWBnOc9KjEZLcEMHpb/hkVXd/XYe/lB0wiR
-/e/8HCpHEjw50YAL3nyUYtrmDYSYAwW2GP1/AI1DDLPxvn52Wf2YTDiFsN+xBIRF
-Dmmqw5nT0jM7PIJbYi/X0ubxFSK3NKm8PBygYsPHcIuwSlOEXz+yZQJrmFo9LRjT
-vfNhYDhVxwzZ6/Z/t7FNYv/8QvZPgh58MJMCqu7ZjMlPq+tE3/1RoXLQqhP934LG
-a0Y3rt8EylfoAQmhMwAnewus/eHo7X2yPkP/Rqq5kW9o3bZiSKv/RuQq7JpACe6u
-LVp75qlR/AtAySrLjWuvHDat2mHdNEJBT+kasHJvgJfKgz/EX0ZNrWIqnKh3do/m
-Rkd1GYgeLXLb0K9yCszyADYoV8LYPl0NUY0dOb1GI4Hv749cXfZba5GkE+SF5t4O
-oM1HY7Xc0wliZrAJut8bJ+RqTlImWDfwe2Ps+SJEFM3v2wHn6W+HTysapTyr4V3D
-3S76JOGLOu3hCnvZhcwmNeyh/TOtUQo1WFd6Mwt1BTRaSe7j3PuDMgChiKV7cElW
-jX0ekzaLeHCsOpVDO7abmq5p0/GamtLHWXdaTrPofl5GJlxIqmZVuL80AEp8wvFe
-Vd4XSjxVz+8i0sKTHcpnDhPfRFC1hUi/DKcPwkRtziendq4t7+OkVNJ3txziVKwA
-tnaJU9ZzLuXiWp6hz2Eag8lNhlBnJJOjTOvL7C8W14dJTVv6bb2eJLSVFuUcROOA
-zZ2lE2xBGlkH3i7ihXx4qN0yP4wMIlfdz7qz234tqJMmedHL8EAAHIV+gYuqeogU
-pUCIgRSt06H9uQNH6YhhI+mUvEwGJv+NrnLz4YWNeE2gthL4CiMdB/r209wsAxfT
-ZbBIg1/PMmPOcCsQAYr7bxm/4lHsko3nNvh9FzYLQbW9KMfugebucmugPd0TFLkr
-ZqrJcyOGQ8w9xe9TSkXrBUwfIf/ilzP0xfsiynOT+9X4JYCtZq0pbT3vqzssakhT
-eGsAu9ZMeLZ+4j5ql0H6beDf9N8yDdNtz2vsgJFMIwLXrgbGQlGJvabaV7IlEQuY
-dyYoQA7K/e6aGRKS8GykI4CtwKQ8+lRamm28wp3buCcYX6IB+drNcgEziykeeEHi
-VVBd+0sdKa0omIxwR8KP4tShrkwYt+18fy8voOk9A+ChZgD40B3YwnoCZA4+pHRc
-vPVdStVVnYeqrr1i/GonA7zHL8vfRluH8MbA9/ogy1k+LnIKn3ykh2XSW1Qgw+OF
-dSmIpSW64xV583cE2pGrq2li5UYJ/1teJJigH4i8H/o9GkkeWjRaruH8g//OkMmZ
-3tXIvEuJJG5G/F8AH3sEDzD4GTD8x1A7pVVdnmvyWpyX/v7/KVYaChS+DgCiNiA4
-+2y/JlYvFel8Z1BU2IOBwy1B0atMaVixk6fa5X4p62HuOHFmeRyDw2h+APZPJ+aQ
-J8nZgAcnDr5SU9yUKkIO/rdkKfduTg2M/8ZlYk7B5QU9U1XbkKFfrqUxzNNu1sp0
-lvMz+A5ku3dtFl3icGwxgW0ZM0KFuF5QLfItvp3ocmLMCZcUMlz5fXU9QuMozLWv
-eCiPTwo1MfmzvnFzB/88OGHmt7rwH/EG5SISU0zpsb5s1ZKXaDCFbMOwqqBLAQRw
-eoqzjRPK1lSE7VZNE++SO6ImT89oW7Cq2HB+ZL7tE+8A4JsWMDwJcms7Hs4Pdnu5
-w5R22BnqEINLZY4+yXtvS0UvTJMcebU5eGxB/my8PXmdAepDIDfCq/ci+ouZD+MA
-bvVnOctTzGE+2I6VOoNNxgwvEOiGQqQg8CJg/RXuj6tbF7VXlo7Kit80QI7DtDVw
-PYurK2eBePBfrR4xqttpfSARJrMahSfcbHV0Z2ybSJLrtVyaNCvqjZMfivMifDwh
-CMiX3QMdyTarOnyjd5z8kHTp3HVWnzTJI50u2zlVhE57XLHWFSKrqxbwbvVP8DRp
-6KmiKBgIarif/t2YM2thRv8mVc7J+8lFQHMbxsi149JtAvbS/vAbw234Gke9qM92
-h13Dnwpyadn2vlbv4SmKuGNKByXGzed1itdAI549p7NLTHgaXzwimIWtJaixQ53q
-wegl0M43XDRsG9ZuMyKmtiDbmcdSZRgwlFQByEf+rDxAjZcCjsmR9D6DxzOJ3wlC
-ygBNUeVKgt7QlEf3/sTaQuF4mPnfzK7BApCJaGeg5feoJlbqv6hc4ZmsunxO9yOG
-nf5m/L2MvwC5njo1Hehx+PbwCxH2/hlIWULXPpyD+P8g7IvsGIKyWxH9BNrLMmoO
-NRS3MYgzcwVPDrUnyztYAllRaG3T71EGA+485kdiZSVV6yJ5TYxJHMBczO3JKc/r
-HzBKuT1vGwWNlWYweMEXNFTZJjvUaKv8yhIBH8bA8HN8YppoKgb7rGQU7ks45WJL
-uZeYbsG6C5Yj8J+heoQ0Bo4t25yetNvtwUL/UXkRXmSPlGKDwt0lcuVzDFBBo8UD
-8zLwSg7Xzqmnwy4r++HpVzi1Q5v3CaPlJuiTuSQW3zlW7LwqxxmzVdeinERHdOXx
-2HMJFrfDCXW5YY6wrgYZKQsOIr5H0VnouKlZq6jsf+j/2dBZ5Z+Lufmzdnij/up5
-y+TGH8mzVMJOS0HrV0p1yFYezFMh2hK65w3q1/M8EHmZqlqD6JUpJ3TOFQ5W4Ezs
-29VGLHdrg8F6SU632z1hzLrFfvy1JRE0w01jEpl5F43XcnevyuOHgHBdZEIuvEcI
-/HiUmnAX1OFrJef6FjsiKamUC70cXwVKawis8nRepuaWrbB379imMfAROnWPQ0rL
-+Q1KZ2axMrYXL036BOg9Gk5puz/xdwGklm9fZRqazj7pA2yfixLX7VQuTkFg5MDl
-0BIm+Vp8GSyUETKEUNu2UZNspBPTnH6PvdfbXQFECUlcGZhaHmldi4dquNvnM+vX
-7kcuYBqjbWx2nyrQRkWC++daIzPwSewUs+vknsjzYXayC28fYCF+HGSnclOdhFFr
-5R5G+4DkmREE+NDWACOwkzlc7/bE3pk+wGKVPey/44oubC3pEclz6PSZDeQ0nmJZ
-j600vWCGdTiJXSHlwHpUnjuqVKJ1hNaCL8VSJeMFQS1qNNned72G1F/DEpqs0Zzo
-YMQKF13Z3Zn8d/6ogCbgRwvXqBUrZhSAMGIyN8iMooUJ5wMhyoGY1CaZzvue/Nix
-dsMWRe08vmAg5kv9B8ZOqD+j/9Gxx0JmWTTHIDWhXyiWnyUaQ0xEZqHBy3RvvAG9
-xK1o5iBqPrNjLkac/FqFm/KRhPf3MPyPSFN6ykSZxVgx+b5ikeyUJ85ZMlsmi2pF
-u9i0ephLpP83v4B171fkDazDrif4Yh1JEGLWYW0+8VhiEI97lQG/MTSn8SL9d4UI
-tB8CN+BoNcTcrkdsF/CYGG+wOPsyJaRBd7HPKvw7Jvjw3KiGGLZkJ7/CVgraLD88
-VR6fPnmZWIhNeEVD00OUnLD5vWjcNG/mL4RsyYh23fHShtoRO3WbM8ExG8RlvTM7
-TYnYdjpF8lFVKxnBlnmthJW1pTkqiptmUlR6pUk6t8pv8bO6MkXD4A8uyJUnIWLj
-wjyAFXI1c78zhUaN1+GFs93LHeU5yHCJB54JkRtcJK79JU80VoknL9DiqI3RN5SY
-kAym3mB8D3QAUGEZLbjqNk7iqhzT6gry29O7wKFft1wNcQfW34cJ38G+E23Nz7N7
-UXuJq4OiERpyQT9JbxSa/afLyq3m+4qYkS1fv5l+o5wMcluhylT5WGsonSpNi2Um
-e5yj1RnSjeGak+iUSwZ8qJQU561k5QjvkphFQS9vh4ublGl9EjiCnvW4josrQr7d
-HGLW8JBHCrQBk+ylYAFEgkwYU2EOMMqII/6plNxXS/Rt/7BqtXTe1aTeKYX1C52q
-NbfgGp7NrBKUDyh9Wm1WKIZ0+FMG/reHdlAP/XhlEXg51gCcEttIeV/HhU/+fQeD
-NHivvFEdFCdaI5Wl5Ik2mtP8uilsVPU9y856nh5ReuKdHLMqDR/DxrsjrI6tVuCr
-aT2I34DJ2MVXr42yhJ/x+p82HhI+ZLjRxYrR8FU71tDriViXt/nYM/FNMZHyoaYR
-Wont4GxjNOPZg9Apbo1t5FlLY7Uw4k8CllJndqEUFPOutL4f9tX4B0bHYpgCEexi
-kOsr3UlLH+qw65QZ33Ft2/wyDFY7s4496HwTayz/fqT4rPqTaFwxTzsgojQqgoeX
-3rQx6Oadgo5J130b6iMVZTbGEmo67JG33Gcnzy+2tj0se3/LA3fQXIUlRCXQS+tC
-nIo4n/ZZ37DN5ZvxwVnZxfTVeEPB0NSUjcnZux1m22pwVmbyDJ6wORICmVwH/Pnu
-LBMmjei9HMCDI65DgjagvMKR9QkTzxCkyZsFWHUj9w0JTXqmcF7UcXNf477ik68v
-Y6lek6+qqAAw05/EqboqUrmEs2JWx8OFxXFixROljsfBG9dNyySDVDuSpkiItmsV
-ebpjAleL9E1x2dED/MemwGWK0dWggzSyZq+LoiS33v9UpqP46AJkns/ms5IxwEJx
-s6xQqe9MgCrGaEldS9vb/sK3GUZPjArjDoiL/Aa238Zo8Eg4ikCr3Wnm3WJcMLm9
-Lyhe5O4I1Xc0n6UZqBDwiJmz7uxbJ1ylHO3r8V3qflsVkXxHemAe72D0/sAqKGR3
-KPvR5HDjP/lxrJEvV5ovpg1qQICcndkuUPebHVojZpXR1VKpVOD40BBMXtm2ROek
-+UXCIrHfHx0FXwa5vhkIuWF18m9jrIIkfj6kVFap3g8veCp3regLbtDbhJ7hRIhT
-piSOOqTZ99gH/ElW+qljqUq2cznkSwsPyadbizkQ43RbEgi/fiVQgIP/U1MHUArU
-7TyKjYLpcApbQqcAwpdDPCQwfI/6b6pQvj3sqKmEEZK3ExERzMyKb/SFHv3tI0e/
-igBwX3UPS/zWkAgwKLGoC6rJvH4DT+TZAj3HQaXXqzMslSnDOhwKyaaSzq366goV
-e6ABnuyWmey98sNAZh83fj+N5AAx1cghv1glJeEE7o324ZM9vONX6ja37V0K/iiT
-o7mRv83Ize4U8GmQb0GIq7TFt9XtUFBpcLwnMjQ9omf+r14U29g5diColBBbCk4w
-kY+rTUB25jK7uyFQSSY8psCLI1f/7Rl1TbxDVNQ4VjuQlYwdc++LqnKYNoW8ypHD
-U/fjyGohSJ1KTzRsKsJAD/rmhsrsDnpgdo/2I3Z4nznPBjYS+gOfB6HlMwuWsZL9
-XsYwndDh4mCLLkkzpmX/8Wn0eywQfJoPmozoSUlJBZGaGMYSWkOjya3iGS69eU1E
-Sg3kmTdbvuSWIarh7emxJgRy8Wcv99JccMYHsYSoZO9EQajIzSwNLOZ8AgpKRqAq
-jrNCOAJ2Rh2w3MuHPVunlnN2zCwl589LYSo9w32LbRbtBiggFjkWRbdpNxMO5WU/
-rnvx5v+qMkmhqS/jI5MVrkHOCiijPD6pu89/W58MPHC9YkcXcUGZTmh0o7LL5PK4
-xAliXjb9IMCh2A9z49Whp/kwX0O8uEH9A3rn9w9OQltF5N/LFYadTlZzWxXa4ui2
-oSbELYhKS0/GkTJddDKlXv3ppis+v7FMeNnf0yzVbZAJoYtDu/DbBwzFmChPCFwl
-PrP00DePNkC/egX64oxLWC4AI6bB6z1iWrXLO5f3U/A3vbLMkE1H5k22WDdv0UiV
-Dw1mFAl+rr0sSaQXuF6az6vVZxTI6gw+4Bm7QQMOYhiYHraaQ91nfHj4uJKNhCFH
-+r67UUcTcZQBwpfZgWO2XC8o7RlSbukiGBB6C/soNXJXSXLJleKkRO7B3qJs79ZZ
-RG+i2SRS9HtryQIYDyQEXGl1fIGItxY87Xm6bDC7LjSnxf+GxkJ+qFNkIQqnmsw0
-E4hzTmOKF6SIsun1WiOATL1q7fiqy+9hLiu9YrhY7uzLTl4LwAqznpJAPNmz2XM3
-DxHtLMdIKEDclSTKx5uKf0yw31YW3ct/6I/OjAd+NmcdiU+K4K5fGkGFPmdPJed7
-kN+pqRtgRpvDJ2UF3dwPb6DM7gq8MygrgG1IXUpuGwFNuvafvdI0rxLRXSpcDW/H
-0XIRPICDYhJPfGjGeDrj8g9qmAjfp0I33c7Sa5P7D0vkTCH2DqXWx9qs8i5JOdJq
-RJfTNLXKD7pUG7lIFpzOMvd6xujI/Tn4aknqpZqYR1jvWvthf+dis1M5IPfQzJn8
-Xi83NR1YG/irdTkBuJFVy2IhlIDexomuIRIBg01VTT1bN8RSg2+P+sLQLosnfbc1
-shL33gT9niDCil4qVKpcBHVwO89dlM8xYjU7h1Xd0ptUFGEqlxrwrbrFBhny1y47
-eKsDMO0AoFPLe+b8+uBEdvzDf//oV7idi8NdWEbIpylBLwkEq4hqY/9fQu4DAfYz
-Dm/Gko4JhDHVN1g/AQwWvjXXHPvmEdesbv7hO07DTaCF/WZBmHTvibnMULM42u9d
-dCGKhstZ8tMyXmF33ug5LGnWAw//CA9gMutfdRYgjapkOgEBm+6tgO8V7wqNxK2o
-ScXhbfkkEEp/0t3q3wvfShC9EKLoVZDuQ7XiKOGlxJ5MAUjD/oNPFZ+aKYy8Yqra
-EmqB0JWnCz6b+buILrhf76gXaQEJaHcUnV4UxVUzxAd3vS2aBw1givXrIQCC27Ta
-c+9+QcJymN8PQ6ZGZN3HjT5zzPM6ApM76ZNiAQLlhkkjzCDyCwxAD5pg+BX6mBFB
-xJABfhyDbi0lW+KJJRlB9z+uGaO4nubiHNBR9y5o/6U2rY+cZc26veHw+EtNKLxY
-XmpEy5tvUbUadDROdJ2iv/nnJuW7J1WA4mXRllWDFeRAxVUwJKznGH5KR90YrsGP
-ccnnAoKaQtzgPgfAy5W1IvAEeYohpZcLQysmffU/AF/QlY3BSg6EN3V0UV76dSAg
-ml3edvxDjRRIEqyJWXDpNSdB3hxmP6x1m5lLgXoNvKqlFvGxwK5PH21l3EJxzSEQ
-H+jVBUJ7w+AnnT9p0RLFLSLhr/r615AEeyL/cRTw/aDVov15UB+stR8jZarEJ/Af
-EXweKZ0rDPdTStJy3BG2uLkLQjI4YYl+05h1/uimvlSNwrkdJ9JTgdriCujTSStD
-rZnqnN6AuuTt2b/5eUXvEfWJEvTmOU81brQvmJJ9RciZPBk/DdyhSEsZZkPtyY9o
-yMhlPZeo57BLUzmSdI/2fXXvh2wPls/FR6nlWhaZkW5Wm+9ck6yCye9q4Yr5VOzU
-Wrdvqz6POThrF9FZepd1puTO6bkOYLPS1qLQVm2EKv/27aMgUx2e27+6VUJwHbRH
-K+ZbTvvSwzq9nQBy0jiPTgEGzR5SA01YKxMih7CoBkaGuSl7TsrRb+eWEoTY2g3p
-p2Uj/YIgYS0SQ5opaVM1Xf1vKFCO+g2tyI9dVOTVSVvixPlVQu/qr50zR5+/M2wF
-guwTQlmszJVGxb1k6jcgQ/R+2DwW6yfw/DK/EXxWNshpYVI7pfFQRZZYJvyXSLaU
-gfgnCZsZjTQl/64iucIUz2yrf+cYKGveKZYW4IcYa72IEzyCKQLHxBfCU7cBY1ZB
-/Q0uaMHHfYOdILs26ughBKjicfBXDxwBkMruYNLRhg+saFO1EAz5kyo44gSPqBUs
-MVlP5nf7oEfDszgqNadBvj1eE/JflzL06h77+CAVyvHIkiqaI1o2aFP/ayH308uU
-iXYReA59s5Yooz0BWvsTfu64JF+v+l0OmXvzvIWrK5/tDoT+bd7yHODMPy5CP1vk
-GrjchSbexwVe2S+K78Mpws76wyKssFkkPm5W77sxJn8WwPk35Qr6Vn+7UnOmioEv
-JZJNA979gqZQClZ/MKGnw9uZUw1UWhYt3sSa6NF34X+vaOeiBuPIdbttfmIHgK7f
-CqpVfAi9WQP+PNtJ6IALjkoeKhGzFGy5c5YcMihg82xDQKX153ZJu2+m7PTqPP3D
-i3eP2XzOOBze3WlqynDmx9i/vbAZ6HjVKADelw4Pl6bhStXWqJ4kWMNc3PYV3STd
-HlHCrn79ETiAnrujn1Y2RXWmw7zS7nbWEuN7jEQaT5xrw0MbXtTMUigSGcWH0i/T
-6jjANqXiazQCK27KIzE6w7PTepBk1D4+/sEYCV48+OVMxlxJ+mR9IcXaJKv9Quk/
-jL7caEfCOawUnH2iyaD4ZHhHd78I5WzO1CRYe6+el5sMSixlyMytFJHVP0DB7/3A
-OAUdqz8fo6xS/a7W5LJ8qvDObpCKBCBUL/8WYGzle/vgzQs2XXMsqZlJvfusXpQf
-BS5qJJoV5jl1uWSR9nZZ2lagvAHyglR972sbH5/fks4ui7FIkf3Q6eM66FwxOF6S
-84eTJkzrDLpzN2gMVhJgDsAQ4/bdYQ5saIksfXm0sv86Wu5617AMCFEssxaIs72j
-Fp11h7Y9sB3s0aIkE2sAKYvTYA/sqxRMb+X0F20Lxsw+diA/QdLbzvYto+LX+SHm
-U695t25rcvZzgiCDqBFuCEmGix3yb4K+Mb+bWgs7Z4/BR6WArFWK7KH4/Rx16ws+
-65w5T8M346Jbd4P7hTwzcCXr1QAdW5S8TPLJ/Esx7jG2PVoxroIRvUWaVrhPbsQw
-vTc6M3Xx95fAHWJ5Ym3ty46QTs5jo2MkkYiFtfC6amLTK7Yok/B6RNQylvX0b8lK
-oJ6VX+Ve2QImCO6rolU4NjhujVEMV/LO8Tu9gkKSoGUtV1nmUfs3/0YxcxjDx2TG
-cKSuPGZffKanYAtAFUk+2HAFvV7N0+bxNZK9oi4viNkMeRCNYbpuVUhx+PMY9cYR
-PO9ArN1AMkGTbnIcht4zuKP0J2L9ixMdKfJ1189G2KoqrAhPcussUgCdR7d0NtP7
-XJxPxpr9dQCy5ORFeoB+pOEZOSsuRStcsoWO6n2QvW3rQF9W5wqnEQ2J84mx0p8C
-KZo4RtK1G39BtFoDvn3MBo/i7BdXT3TQ5suvv8tePKJTFacVVOCXCEX/8HrTL/Qv
-sztDNdKhtsqqn/UaKl2XpOVUyoh4fOa9DvUgD09LEAueQYQSFH11bb69tMJuQeoh
-bOdTZgB3RB8RM4QPYH7+uo0niFKHikUXua39stbp+ANSt3Z/L+h+/bSrfYq4n5mf
-rqrmvLET54If3ZJeKOBQcBJeIcR1aVPzBlGkpgMC74HQAKxiH2lDq78ade2C7j11
-7X35wzZZH4FGqWfytFRX+Ui0M7wJLriUb5p+AcZylYRTVwo7qN+w1lHjL6LQS0Z1
-3I7iSLnorU3yIjRIyCbAzxWlnw/RpNwmDjZWheh3idNHGaOVBe0RCsEqL50Ls4Vo
-ECj6434sERrYyaDZNupzGh02UNalRhTeHPqfGacS7caV3VVPvXQcpxPHGC+bMNen
-aqSKCSf1b2XKyTpPpkaMRt+PlGZORpUWog5HSCtY6YdV/Q1JkJvPpb5gFjQ00f9r
-sLoz+0gtL5AN4pta4KUBtCjIkin6OOJOFwto/et3JGS6FOq/pHQbdKOYQ6KMjwwM
-PsV3nCeiGIZput/h5hYtNx4mPSNJq2Ufn2/No9Or9bB+zbtCRyrEESe2Io03Mpq5
-OIpDaLXKI4ve08+bCSv+FboP78YawJ+YFGjWi00TLay/1YZCNZ3Pasn3JVL43NXh
-f8gHz3Ncl1CXB1+ueoor1ZtRotKojSarv4+wa5orS1FJxs+6jcov4doZ6i6P8xwE
-E4u5IbQD4UPo1Y56Wj9QV4jfEvi8jB6V1PXkKxAUa7CfPPV7qHnugQwlApQyJvdQ
-gWZGeSpRjHOvnR9GQQum3n55PSxVlUF5wtNmW8R8CbDejg6sl8q+Kzm7Pp6m6iwe
-f7OoosCvcCynXl+6SoAkU8VXajT3q7sQsLX3QrFUECVdT8wEOpSTg5sCp29XxrJK
-fltKHx3TvZ9ERcFAXPSqGVaPtsqebdmk+JuhS2ilMsSqSl+gOBvYjmlo2wUvSPWg
-941DbVXn8o0Qz8gKf7vppBwLaKHlUY6QPIWMAEbIE/tPz+DFYX1aj/GtuHxaBRWt
-PkLcinynQxj9Msj7BH/zseKjUe/QX01BNPeKyvEHqKlgP0FiH2iYEq3muc3gvO4q
-C+XGjT2iaU0k2yFH1felYAPEM4OX84PdYtygQfRcfHHoWGCG395BjgrjoteNOBxM
-Hws0BQdr45fQhzO+GRa9vak8u0aUvn4FlPcG99oFRt/Ds3XFSuktk+yX+7RXYsFM
-01Jk+1i6OyB/PZKZelYvnd4sag33h4RqiLfqxxG8mTzjqpp+UNob1sglVB6i0Lmp
-3jiASXWRmo6Cg1CmLg1BOfGyShYM3suR5VaNeCU+Qu6tIXVZW9Ari+rsGAO7R+47
-lv2sZaHoavvLSnxgS9jOSotgRc/tl7JVd/zsRFprOQcVRNMyDZP8mxYPb9rZOzxQ
-Lf0Z7tkapl3TjWxCDyIZu7tkyD+jl/3DbYRzWJPAnK4/xY3EOh7Hj6TNxk+/bz10
-g0c4CwGuimey7V+HAbZqgX6A7OjkPuVTPE6oxWzVyNe0PF+HTUfH9OdCdoghyvaY
-3TsbnLz9ucEh099FtTsh5A700YtXxzzolJ8HSH7XlhDR4U3+6/gDLwu+qaxHQSez
-MSDjPy1Z0QQl6xLKtsFXfAFq3JGvqIiLsVwL8mGv4rO9tWLd1E69TsZgiqA5Ld4l
-rm8KkehL2pdoG0L6qKiCmT8aM7CX0nJKL0joSAs0rOz4v0I913H9KxIOd1kjLCqF
-JkzP3wW0imVe4n0clP5oTg37uckV019EFEBMZjCG14DVeARiKyYrPYJF+DXmt49w
-4opKmhxDSDrSL1S30Q+QYoynxsQTk+M7sQBzbbOchV2Jm8e+mvILG4NcYr0pYeJd
-QleWXMFKhZ6Ksa0tyyjWWUFTw5yoQbCDnHxrSnSAV5xr03CYiNjAI58D3LQlTE2s
-RwQyx/k4em/34d1/21s4de1ppctGLFEliNC+aXReDiFH43nETeOHbwq8hpXWk4OQ
-92TBcqDr7c2z5jIyzUajPW8gKR8NjlPjwyhbN7ICQ9/fugceEZ9EDp7TkBr+yIMM
-NmOjm3lVp1V0v5u/KNvF2Z1uL3mvqhaBEJqhi9OmY0AXR808YDGRHJiIQgPx+1tc
-LKmHOFqKU1d+GwQeHhaCJ7IO6zu93o7aMYKlJz1OJNNiKZVS/Ww8z7ZYreeuIZ43
-FQX17b3z1r3X3JcdZh9+oW2Uv7LCNicuEuKJmp4Kv5TiiQpIfe+uOQ6jNbtJe0nU
-NK66fGWSQA6afsGwstqkP5ruATa5tgOqJPlVMMEheTLWUpiDMGXjhQYq7b11QowL
-fY1UufTN6waJIoxDrT/aZZ6ef1+KSWX3myV334wgkj+qynz67mOn9mi8eHcfwnkI
-3TRdZyeCh5PNAjAfEALXFu9lP3MDldYIuThICTkOLRyIOI584Pj7EuZa6SOW1NAa
-tApisWLdKBr9Cs+VFnUey8JdUbzaQqZnZYCTE1HaM7ooGUb5fmau2G4Sd9J1PJKf
-zNnNs9YwgvII9d5Pv01gOar6va60ttaSsimmzTDXfTInJZXYNqUkVUGzxQpuRb8B
-IziuoXte9AywjMDzv3+ZqbcSMD+KI0EJD6IykJcReu1R+zV38Kn1T8Og7H7S9hfy
-+ae1C0DpjvOlzD/TipJ6/lM1Sq4+Z5Ib5D8biQ7XNfR6yFnAyd7+pFZCaxia/Xys
-fyJoRktRtg83uMNzS2aBD1hRDFKryPtWvG+g1hC61CxZwRr6fJZH125JkWuph0E/
-aiaf1WH2jLvKlA58m7t+w8gPpPtss52M2ddU8aq3sZGvtDWeu7XG+Kc+ss+V+XaK
-C8qzpaZZy+YdFOBPSzJznK+goRTMKYt5orEZWH/OF72lUrN54l+BBFNyDmN9YIhB
-Vu3Q46+xtJTDEwbGIsVO+TnyJ66IKjElZrxAeP5VAv5zt+SBffTSp0aiYTi1yPtd
-mDKedPxebyGUfKSTxknyROcipFYd+6w/UFw5ixnF5ZRZG1+NjwwZE+HdBPgECb6E
-GDQrlHxeKQ0LkMNxAhlRgZ9GFNPcdrbrS/RrZcyJybWur4Usp9z+QF9uYJheiEn8
-ZpBU2Bf6J20Jb5GXUFZiF9+w1X5/kckLGev3ks9YJcN3yqs6GoC7XrLeRLe/YT/c
-5H7gCUOVjGe4jLbZZ3nFw717PW+2rIX8j4RheoLpm/ASKIHSd3Sn+HV17LbYRHIR
-UTQuSoyJZ0lIoSKuakNdQUVNyCUiup/rM4VaMD8X+cZpWNpGfVLFGwuED6ug9SAb
-NNLEWF7vwaLr4OOzblUSW2qxpkkdz70mY79/3AX2gtybJt6OW/oSBxyPHWKfKCd/
-PsAblZEbCWXXP0svhy9TSjCw9eHpBotxUOn4yS7P6zhXgYAPFfXAnKk85+J654DF
-3XvIzZ5CyN5KGvvWrib6fpzdA0wxjm9RdORUidXvjY/giOX8Rpi3nYe/Nox2YyBr
-+KWobISse3QmBjGp5VuTASYTdVcCuBpU49Nm/DQvVVFg/x/mnSrNzZVwdLcWpFua
-D4ftpAFvAu53EK/n4J1I+/pZcUEfjNngxMcUs6ozMlspgV/xz37ROLQZ+UQjfcwo
-bAmmUMz7ulevhfyx62aMznv1lCwekrxaPICHb2nZRrwirim92Zbktx2Qz4aysDcp
-67YaMlXgy/xzLheGNeeTsR9wXsxvJahCzaMsoughszvdkZCBnxBm6k3C0JXXtOg8
-Q4K3XHmbAmShSNmP+VjCH7KhfH0q465XuMlrEzgipef84Q6xVeOes1TH46ua+O1q
-9Oi63vzYADzSPEsNkhJUUeaPupzNBUZv+yk6wXTTjckYg2Ex6Ojl+Y4M/kcL69SD
-CbGRsKrQ4H1eyrGlNyn5NRdDBdPr7dfKd9aHHy4f/IjHDjzeNpxgbJJuW0xvOeDg
-wTBbZM4TFId6SgdEwzF2Inf7KTvIRleNweBiVmrlJUrggWkpRjIQFqDHE4PkJjuJ
-g9/ARDKD1vDVzretCyeeS3avHdLZ33VqTc05xXdljLhjqQTAjEXm5itQikaJhQVz
-/JeQV6rBh5ZvGdDdJiTu/PaqrmDZdZv3E8dQkApODe8Eo0gShd2njuxa69nRrK7C
-KIAXe8whxCjLnZ1hpNbCEwd4k2KRzo8bG1ULqLJ30JpSzfsaQmpm4YnEdxdE7iXI
-3TutRsQRIfFZR5rWnvbi1idWo34lYVMDGifdzCrbhrkso5V/55QRokw+hdDxm2yZ
-T6XswTd5/vsitK06CIm+J49ZnmrqoTnISxqmBVP6ELitCqZNXr7D48bIX2JENKkm
-LHUTD90Ri85rJ/zV4Zcj7nM0uAUla3TYl5PObikTThmcgO+v2ChLuXRQ9T/lAvSV
-3gmSucN8ndkmGYBdhKHAadvTYOic5u5SFUSj3EaYQp1AvkdAbesGAxy41ztbkEZh
-BAVOOMJeynWZ6miOU8tRU/UgstSJcVpZ+kSLz88pr79yXNYD91GKjewiFeXKTNHB
-SYYxULPKePidPxROa6Rb4zj9aytDhUhcJ7n1lcdk1bcqNG0FAYvECBBKsj3ut5RF
-lfDAF+7fmoye3shb4X8Y0MfuHrfnx5uTfg5Lzg3rgZo3/K4Kzvs23tdQwOaAOZVk
-GaWZv15cPdz9/6J/pnlTCQ1Z06SXY0yJjj1QuxruPihnj7LUJpc7Q9oJj0XuuWH8
-4FtExUaqRh42JZL4bCF2/fSXq9cRLiKdiQKGu8cuW6vy/QDjC9lLprnHRttTD75+
-gho7Ms7RJ7WzM7vZ3ohicb39XrA16ncvSUhJ2DWz2nfCA8qcxPUuDr3CKb1jHk5V
-Rw9xj/gsSjXfwWrqiRa8VF/qRsHMOwrci4yOgOvEB5G/p4CUWJpSkY3WD4g3k/GE
-V/1LKJ5dpDkb8Dsx7XxS43Eqp+bNhV30cDWKTCrerfKSghyjhnNW8OalYRl5zHs8
-fyEzfaOKQRpWyhZ76jD9+kOLgwi2/1ANxdO1zX5k5ANmV0WBnc/1aBrrLTJQGNqi
-9dMIVbgUqH8r8URATYr2jUQ1Yyf6pt1QEOrzz9dwbDxjMb91a4KxhTUPzqLlvm/2
-gA93D1Hfan8jJiOH+bvWBeZsgzf2ZZ9LcGg4mdPUD3RoohhQ9lgXH3fc4IidNZx6
-yByGPpryjBoMU7bgHqzR5KvDfVrhMupsaDA8DTbHYtixxNQ0ZT8/JXlvyIEkXnCs
-XNDa7dcpRzf1wHZspKF9j+JBXMjReBInPQPuTjUW//bd0racJDt7ehPuyxrWyfAc
-TsQhssTGLP2oA9Z5xfoKO93tFaQBncOSlxQgyE59jHgmuyqpCAWx6aakv8TufdBS
-x7nH10DBlN+182ZmN8wau2PNm3VFoEpc0jHhYoJ7HE/cEuc/VMVEQ6GPj2mFiwAF
-NP39O6my2gS7d7PKnlqJYzhFa2if83wBW8HE6mQcEl6jDjDEKRCxEqh5Q3qtY8/0
-t45spS09ioZqnc+GW1dGN18aul0msBJ2xhInjN/lVLIdPACMf0ubhDE8UTbDFELv
-dGZowMWW12dtxRoc/IkT5H8xiZZsfGFE7TM3F466I/CONQLMX41NDijyfwVwtQgP
-e1qJvqwVBLcqftgmkU3ISl/setR6hK2ONnXON5mMVXGdQue+GQcHrqiIvVF99eOI
-6bOyTsS0UClPEajyJJtY13ErMGbLzc1gt8tsjvNNrxIdULnwXrc1iI0e9ODw9y4S
-T3MQ3NOjoBhiRxe1T41ofh6vj/wramVpDwEUIXewKn9y8/uG3tr+5PybmKzx8r07
-xel0DaxvxAF7WfAXQNvicNVIloFVfNlb/nb1IwmCOX8YEfyLCqtUtoyzw61QTL5G
-CnUtoDeppktCTKXo/zc+VWoUw6IMp0fPiajvGAwq22/7o17o/BPs4BxkLr8QZ5/Q
-YrbmYRW+W1xnzllNnt0qeJoyV9b8TOAjRG+KMSKclwIKKDaITA8gJlhqCK1sptw8
-SzG9y+iaPTLftud9jqiCjhBraq5G9ifLLQEE93v0o8NA662/2KfHdcVmyoVIty6e
-gsPkEPzyg1OEj0obLEwuFPIN53GeILbldHdv9oVg2b08YDFBO9F1e1s0aHr1KSSG
-CwIaWfWeozI5lTkAmJ5r+wbKgRwrLuD9jGrWwNKckBhM2IgNWkpd1ZaMXNxqXQ1g
-zTPZL+erHyMO9nd7KLx8CjU8K2nf86zA4/kfnIEemnoy+VZDYeJqcnuTaL1B5kGL
-NtosP8HhC+sPM8alHaWKXIfbofDB16/pDZvfoi94FHT6d5woD0Z1qg5t0QRFJHzd
-zysph4/pLNu+zPmiiUxWUKgKLz/Y3JacWwX0U5ly+/HQJzOr80YP+dQ2y2e9kgyz
-lgK9Y8aRAwr+mWQdohMN0TYMnEb9Fxe5hs2PcR9pjP8gbM5Jp2Y8Qn0YXnx9ptuz
-KQ5SHjAsP5s1pEazKlshQJuVnoUmTHJTBEC2kSvOs8cW1Bu4Lci2xGZF5pP+zcH/
-IDobZeaKlm7Udkz8tdwJWdqwRKfUizbM+/lCe6LYcl5tQj3S2LfSJatUJ9Zzv/Gn
-DAkYQImmrmnj0TArWIhbYUZaNTEgemX1PwEuS5B7K8xqOWOLQNdTIpMJOlqxKqb/
-JDLs2xC2HaRdd08Ghnv/rhq/RBT0KQ1WKmiLT1Amkyb7m4XAOZiFMpKBxZykPoRL
-srHq691TjP+fGzuENc/tN4CToC6ZNAF5BH4Yn4mq3CYogvEF3TY8SC5KtDRVY1gn
-7CRYVkBTrfi/R0ImKFJ1PFvhFMFOZQZkwVeo1f1by2zB2xbVHG4YwHKVbf5/qdnZ
-mreV5o2vrSvhBgXnCWf3Nv2bFRtWS0kYrGY6hd6BerFbKR+wllbyBomHNAV/jJ7y
-6K2xB+Gs+y73N6WYdO9/uoGsGcvur/DHq5Am4Y6PVLAzQYzF2E9cGiMIWS7ctwTS
-VL6wKrfACQde3FtQM1JN0Cx9fk0XNuo3w53opjAV/lQBr9YYEpKbXdrN5VF2rXN7
-g9KL6V9phrfiUTRC0QO6wG//bMcemhc6Earcbt4HJat3yDDqQU5IBIUz/1lEaINj
-JVqdTfrmF5BMGTwPm6C13BoTZ6Ur+z87zS1LPxqA+bsECrEvvSqM8RwEXQ2i5tWy
-ElXIniGtfuvRNbctvXFWxquUgW14vCqf8vfvMKNSsBEjT3Yvuc4jvLkHpTD5hpA1
-QBTDROSTqpQ6qUBQ37NQfEjSeiLBScOVJk3V7UvpIwjoc96YhH0j4ZV6D9iD9Gm2
-PKM6+Mz1nb0WESvERiEvR4EC8FBRtBDs5vev3bahasI7G6VRr79dlirMbXO2rscH
-+/hOnz3H5kMvo1Pw89V2bVIpCg0MSr116fKK5Gf/nM5/Oq4O4JwUdVetZtJax5oA
-maqddTG1mdoJCQqcKJfDTCjKnovdnr5ZclLhswyivDem+Ereg+eI6At5eg4XI1Fo
-JKcfur0E6blufrko3rE12ifx9CITO0Zd/oWP0Da4wv0JU+Rw9GxTCwbM0KKjScZt
-MOQkkeYG5DI5Se0A3lia3pJ6dMjoXqgNbYfI9hLs+IkxjUpwKbwJqHoFLaH60irr
-Y8oqoRblKHInfhtxltga+374wXZm8VgsvmrhwXBEYSC685zOB4PTSGNFpm/ayYQI
-AZLIzI8LSIjLjEhnPc3aesQRHArjPUh5KUHf2FYS1j/V+GcAPRVZxm+TwgSSHOgz
-26LVz30BIzLOaOPgEr2IDTaYuW86yFsbie5BOOezhleywkxgZA6S0zKx8mOzcl+B
-EE13zuqYpbWD2Bry43tlBB236kZjexJDu3Okso5knf2jdMhwcd0GjsCiW4bB1zaM
-3CO8ZUKctsn9KQq7J1cm/1mhkG25C+4OPotM6+bB0Tv7WiYIGzhXjqmCU2Z0aY26
-0INsiAj1qUMb5digweNyhdL9lVQ+O2IbjQR/xNAFrvlZKjE1LmJKfqDqncvTUa5S
-5qfdLQ6NbG1FqRqFU7TCCEZw8ttZwF0ZJJVI7HIvDe5y1sawgQ5Gfy5uoR1oichw
-sLZ6qMFWLmo3lZmP5EqQgby5LGK3+3JqxVNZpyWwDKmyt2XVTkE7P3M72/wEjj33
-1aVphu8cNN16CWX5s/Oogj8IMwq8BSD/ew9SdQuG203X1TU4i6ktuiYiqH7Kwq1N
-JbMm/Ou8tATVyfDzu0PWT4+b/O8I+qeI+3p7tfmckwVosnNsgEAHG2C38jCCBWME
-XwlWlkZdJs7qaysfU/CaKtJ+lgJudD0rsNQm1jU1XZ5J42r84y6mLXJ+3FSkLHf1
-mLoj2kqbyWpvP7rYWW13KDeOTSXV4xjF8JMGtn6K+OKrvflkzemxm4sIoBYfFcFm
-CDOV9mqBc3UPYqtAtZ/g/pARZF7TT0BMfeqyASNY5KN4nYx4+5+wlDng1e/e8+OW
-eVMZtL618qvMdcHq1S51DhcITugUwT5lLJQb4GpxUO3zr4gEUC9WuUFxTW/JxagD
-NCeeFpD3hqfwj52l/OaUPZwPM0makYjFtafvz4s=
------END I2S ENCRYPTED FILE-----
+import SwiftUI
+import AppKit
+
+// MARK: - Saved colors
+
+/// Up to 32 colors the user keeps, shared by every picker in the app.
+@MainActor
+final class SavedColors: ObservableObject {
+    static let shared = SavedColors()
+    static let capacity = 32
+
+    @Published private(set) var colors: [UInt32] {
+        didSet { DefaultsStore.save(colors, key: Self.key) }
+    }
+
+    private static let key = "com.meimei.player.savedColors.v1"
+
+    private init() {
+        colors = DefaultsStore.load([UInt32].self, key: Self.key) ?? []
+    }
+
+    var isFull: Bool { colors.count >= Self.capacity }
+
+    /// Saves `hex` at the front (or moves it there); false when full.
+    @discardableResult
+    func save(_ hex: UInt32) -> Bool {
+        if let i = colors.firstIndex(of: hex) {
+            colors.remove(at: i)
+        } else if isFull {
+            return false
+        }
+        colors.insert(hex, at: 0)
+        return true
+    }
+
+    func remove(_ hex: UInt32) { colors.removeAll { $0 == hex } }
+}
+
+// MARK: - Rows
+
+/// One theme color: swatch, name, and hex, expanding into the picker.
+struct ColorFieldRow: View {
+    var label: String
+    @Binding var hex: UInt32
+    var skin: Skin
+
+    @State private var isExpanded = false
+
+    var body: some View {
+        VStack(spacing: 0) {
+            Button {
+                withAnimation(.easeOut(duration: 0.15)) { isExpanded.toggle() }
+            } label: {
+                HStack(spacing: 10) {
+                    ColorChip(hex: hex, skin: skin, size: CGSize(width: 30, height: 20))
+                    Text(label)
+                        .font(AppFont.ui(12))
+                        .foregroundStyle(skin.textPrimary)
+                    Spacer()
+                    Text("#" + hex.hexString)
+                        .font(AppFont.ui(10.5))
+                        .foregroundStyle(skin.textTertiary)
+                    Glyph("chevron.down", size: 8)
+                        .foregroundStyle(skin.textTertiary)
+                        .rotationEffect(.degrees(isExpanded ? 180 : 0))
+                }
+                .padding(.vertical, 6)
+                .contentShape(Rectangle())
+            }
+            .buttonStyle(.plain)
+
+            if isExpanded {
+                CustomColorPickerPanel(hex: $hex, skin: skin)
+                    .padding(.bottom, 8)
+                    .transition(.opacity)
+            }
+        }
+    }
+}
+
+/// An optional color: a well showing the color (or "none") and its hex,
+/// a clear button, and the picker inline below when opened.
+struct ColorWell: View {
+    @Binding var value: UInt32?
+    var skin: Skin
+    /// What no color means here ("none", "theme").
+    var noneLabel = "none"
+    /// Shown in the picker before a color is set.
+    var placeholder: UInt32 = 0xFFFFFF
+
+    @State private var open = false
+
+    var body: some View {
+        VStack(alignment: .leading, spacing: 6) {
+            HStack(spacing: 6) {
+                Button { withAnimation(.easeOut(duration: 0.15)) { open.toggle() } } label: {
+                    HStack(spacing: 8) {
+                        if let value {
+                            ColorChip(hex: value, skin: skin, size: CGSize(width: 18, height: 18))
+                            Text("#" + value.hexString).foregroundStyle(skin.textPrimary)
+                        } else {
+                            NoneChip(skin: skin).frame(width: 18, height: 18)
+                            Text(noneLabel).foregroundStyle(skin.textTertiary)
+                        }
+                        Spacer(minLength: 4)
+                        Glyph("chevron.down", size: 8)
+                            .foregroundStyle(skin.textTertiary)
+                            .rotationEffect(.degrees(open ? 180 : 0))
+                    }
+                    .font(AppFont.ui(11))
+                    .padding(.horizontal, 6)
+                    .frame(height: 28)
+                    .background(skin.textPrimary.opacity(open ? 0.07 : 0.04))
+                    .overlay(Rectangle().strokeBorder(open ? skin.accent.opacity(0.8) : skin.textPrimary.opacity(0.16), lineWidth: 1))
+                    .contentShape(Rectangle())
+                }
+                .buttonStyle(.plain)
+                if value != nil {
+                    IconButton(icon: "window.close", size: 28, help: "Back to \(noneLabel)", skin: skin) {
+                        withAnimation(.easeOut(duration: 0.15)) { value = nil }
+                    }
+                }
+            }
+            if open {
+                CustomColorPickerPanel(hex: Binding(get: { value ?? placeholder }, set: { value = $0 }), skin: skin)
+                    .transition(.opacity)
+            }
+        }
+    }
+}
+
+// MARK: - Panel
+
+/// Saturation/brightness field, hue strip, hex entry, RGB channels, and
+/// the saved colors.
+struct CustomColorPickerPanel: View {
+    @Binding var hex: UInt32
+    var skin: Skin
+
+    @ObservedObject private var saved = SavedColors.shared
+    @State private var hue: Double = 0
+    @State private var saturation: Double = 0
+    @State private var brightness: Double = 0
+    @State private var hexText: String = ""
+    @State private var didInit = false
+    @FocusState private var editingHex: Bool
+
+    private var hueBinding: Binding<Double> {
+        Binding(get: { hue }, set: { hue = $0; pushHSBToHex() })
+    }
+    private var saturationBinding: Binding<Double> {
+        Binding(get: { saturation }, set: { saturation = $0; pushHSBToHex() })
+    }
+    private var brightnessBinding: Binding<Double> {
+        Binding(get: { brightness }, set: { brightness = $0; pushHSBToHex() })
+    }
+
+    var body: some View {
+        VStack(alignment: .leading, spacing: 10) {
+            SaturationBrightnessField(hue: hue, saturation: saturationBinding, brightness: brightnessBinding, skin: skin)
+                .frame(height: 120)
+
+            HueSlider(hue: hueBinding, skin: skin)
+                .frame(height: 12)
+
+            HStack(spacing: 6) {
+                ColorChip(hex: hex, skin: skin, size: CGSize(width: 28, height: 24))
+                HStack(spacing: 2) {
+                    Text("#").foregroundStyle(skin.textTertiary)
+                    TextField("", text: $hexText)
+                        .textFieldStyle(.plain)
+                        .foregroundStyle(skin.textPrimary)
+                        .focused($editingHex)
+                        .onSubmit(commitHexText)
+                        .onChange(of: hexText) { text in
+                            // Six digits apply as you type; anything else waits for Return.
+                            if editingHex, let parsed = UInt32(hexColorString: text), text.filter(\.isHexDigit).count == 6 {
+                                hex = parsed
+                                syncFromHex(keepText: true)
+                            }
+                        }
+                }
+                .font(AppFont.ui(11.5))
+                .padding(.horizontal, 7)
+                .frame(height: 24)
+                .background(Rectangle().fill(Color(white: 0, opacity: 0.35)))
+                .overlay(Rectangle().strokeBorder(editingHex ? skin.accent.opacity(0.8) : skin.textPrimary.opacity(0.16), lineWidth: 1))
+                IconButton(icon: "doc.on.doc", size: 24, help: "Copy hex", skin: skin) {
+                    NSPasteboard.general.clearContents()
+                    NSPasteboard.general.setString("#" + hex.hexString, forType: .string)
+                }
+                IconButton(icon: "plus", size: 24, help: saved.isFull ? "Saved colors are full (32)" : "Save this color", skin: skin) {
+                    withAnimation(.easeOut(duration: 0.15)) { _ = saved.save(hex) }
+                }
+                .disabled(saved.isFull && !saved.colors.contains(hex))
+            }
+
+            rgbRow
+
+            savedGrid
+        }
+        .padding(10)
+        .background(Rectangle().fill(Color(white: 0, opacity: 0.35)))
+        .overlay(Rectangle().strokeBorder(skin.textPrimary.opacity(0.14), lineWidth: 1))
+        .onAppear {
+            guard !didInit else { return }
+            syncFromHex()
+            didInit = true
+        }
+        .onChange(of: hex) { _ in
+            if !editingHex, Color(hue: hue, saturation: saturation, brightness: brightness).toHex() != hex { syncFromHex() }
+        }
+    }
+
+    // MARK: Saved
+
+    private var savedGrid: some View {
+        VStack(alignment: .leading, spacing: 5) {
+            HStack {
+                Text("saved")
+                Spacer()
+                Text("\(saved.colors.count)/\(SavedColors.capacity)")
+            }
+            .font(AppFont.ui(10))
+            .foregroundStyle(skin.textTertiary)
+            if saved.colors.isEmpty {
+                Text("+ saves the current color here, for every picker.")
+                    .font(AppFont.ui(10))
+                    .foregroundStyle(skin.textTertiary)
+            } else {
+                LazyVGrid(columns: Array(repeating: GridItem(.flexible(minimum: 14), spacing: 4), count: 8), spacing: 4) {
+                    ForEach(saved.colors, id: \.self) { color in
+                        Button {
+                            hex = color
+                            syncFromHex()
+                        } label: {
+                            Color(hex: color)
+                                .aspectRatio(1, contentMode: .fit)
+                                .overlay(Rectangle().strokeBorder(color == hex ? skin.accent : skin.textPrimary.opacity(0.2),
+                                                                  lineWidth: color == hex ? 2 : 1))
+                        }
+                        .buttonStyle(PressDipStyle())
+                        .help("#" + color.hexString + " · right-click to remove")
+                        .appContextMenu {
+                            MenuContent(title: "#" + color.hexString, entries: [
+                                .action("Remove", glyph: "trash", destructive: true) {
+                                    withAnimation(.easeOut(duration: 0.15)) { saved.remove(color) }
+                                },
+                            ])
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+    // MARK: RGB
+
+    private var redChannel: Double { Double((hex >> 16) & 0xFF) }
+    private var greenChannel: Double { Double((hex >> 8) & 0xFF) }
+    private var blueChannel: Double { Double(hex & 0xFF) }
+
+    private var rgbRow: some View {
+        VStack(spacing: 5) {
+            rgbSlider(label: "r", value: redChannel) { setRGB(r: $0, g: greenChannel, b: blueChannel) }
+            rgbSlider(label: "g", value: greenChannel) { setRGB(r: redChannel, g: $0, b: blueChannel) }
+            rgbSlider(label: "b", value: blueChannel) { setRGB(r: redChannel, g: greenChannel, b: $0) }
+        }
+    }
+
+    private func rgbSlider(label: String, value: Double, onChange: @escaping (Double) -> Void) -> some View {
+        HStack(spacing: 6) {
+            Text(label)
+                .font(AppFont.ui(10))
+                .foregroundStyle(skin.textTertiary)
+                .frame(width: 10)
+            RGBByteSlider(value: Binding(get: { value }, set: onChange), skin: skin)
+                .frame(height: 10)
+            Text("\(Int(value.rounded()))")
+                .font(AppFont.ui(10))
+                .foregroundStyle(skin.textSecondary)
+                .frame(width: 24, alignment: .trailing)
+        }
+    }
+
+    private func setRGB(r: Double, g: Double, b: Double) {
+        let rr = UInt32(min(255, max(0, r.rounded())))
+        let gg = UInt32(min(255, max(0, g.rounded())))
+        let bb = UInt32(min(255, max(0, b.rounded())))
+        hex = (rr << 16) | (gg << 8) | bb
+        syncFromHex()
+    }
+
+    private func pushHSBToHex() {
+        let newHex = Color(hue: hue, saturation: saturation, brightness: brightness).toHex()
+        hex = newHex
+        hexText = newHex.hexString
+    }
+
+    private func syncFromHex(keepText: Bool = false) {
+        let ns = NSColor(Color(hex: hex)).usingColorSpace(.sRGB) ?? NSColor(Color(hex: hex))
+        var h: CGFloat = 0, s: CGFloat = 0, b: CGFloat = 0, a: CGFloat = 0
+        ns.getHue(&h, saturation: &s, brightness: &b, alpha: &a)
+        // Grays have no hue; keep the strip where it was.
+        if s > 0.001 { hue = Double(h) }
+        saturation = Double(s)
+        brightness = Double(b)
+        if !keepText { hexText = hex.hexString }
+    }
+
+    private func commitHexText() {
+        guard let parsed = UInt32(hexColorString: hexText) else {
+            hexText = hex.hexString
+            return
+        }
+        hex = parsed
+        syncFromHex()
+    }
+}
+
+// MARK: - Pieces
+
+/// A color square with a 1px frame.
+struct ColorChip: View {
+    var hex: UInt32
+    var skin: Skin
+    var size: CGSize
+
+    var body: some View {
+        Rectangle()
+            .fill(Color(hex: hex))
+            .frame(width: size.width, height: size.height)
+            .overlay(Rectangle().strokeBorder(skin.textPrimary.opacity(0.22), lineWidth: 1))
+    }
+}
+
+/// "No color": an empty square struck through.
+private struct NoneChip: View {
+    var skin: Skin
+
+    var body: some View {
+        Canvas { ctx, size in
+            var p = Path()
+            p.move(to: CGPoint(x: 2, y: size.height - 2))
+            p.addLine(to: CGPoint(x: size.width - 2, y: 2))
+            ctx.stroke(p, with: .color(skin.textTertiary), lineWidth: 1)
+        }
+        .overlay(Rectangle().strokeBorder(skin.textPrimary.opacity(0.22), lineWidth: 1))
+    }
+}
+
+/// A square thumb: white with a dark ring, legible on any color.
+private struct SquareThumb: View {
+    var size: CGFloat
+    var body: some View {
+        Rectangle()
+            .strokeBorder(Color.white, lineWidth: 2)
+            .background(Rectangle().strokeBorder(Color.black.opacity(0.6), lineWidth: 1).padding(-1))
+            .frame(width: size, height: size)
+    }
+}
+
+/// A 0–255 channel slider.
+private struct RGBByteSlider: View {
+    @Binding var value: Double
+    var skin: Skin
+
+    var body: some View {
+        GeometryReader { geo in
+            let fraction = min(1, max(0, value / 255))
+            ZStack(alignment: .leading) {
+                Rectangle().fill(skin.textPrimary.opacity(0.08))
+                Rectangle().fill(skin.textPrimary.opacity(0.45))
+                    .frame(width: geo.size.width * fraction)
+                Rectangle().fill(skin.textPrimary)
+                    .frame(width: 2, height: geo.size.height + 4)
+                    .position(x: max(1, min(geo.size.width - 1, geo.size.width * fraction)), y: geo.size.height / 2)
+            }
+            .contentShape(Rectangle())
+            .gesture(DragGesture(minimumDistance: 0).onChanged { drag in
+                let x = min(max(0, drag.location.x), geo.size.width)
+                value = geo.size.width > 0 ? Double(x / geo.size.width) * 255 : 0
+            })
+        }
+    }
+}
+
+/// Saturation (x) by brightness (y) for a fixed hue.
+private struct SaturationBrightnessField: View {
+    var hue: Double
+    @Binding var saturation: Double
+    @Binding var brightness: Double
+    var skin: Skin
+
+    var body: some View {
+        GeometryReader { geo in
+            ZStack(alignment: .topLeading) {
+                Rectangle().fill(Color(hue: hue, saturation: 1, brightness: 1))
+                Rectangle().fill(LinearGradient(colors: [.white, .white.opacity(0)], startPoint: .leading, endPoint: .trailing))
+                Rectangle().fill(LinearGradient(colors: [.black.opacity(0), .black], startPoint: .top, endPoint: .bottom))
+                Rectangle().strokeBorder(skin.textPrimary.opacity(0.14), lineWidth: 1)
+                SquareThumb(size: 12)
+                    .position(x: saturation * geo.size.width, y: (1 - brightness) * geo.size.height)
+            }
+            .contentShape(Rectangle())
+            .gesture(DragGesture(minimumDistance: 0).onChanged { drag in
+                let x = min(max(0, drag.location.x), geo.size.width)
+                let y = min(max(0, drag.location.y), geo.size.height)
+                saturation = geo.size.width > 0 ? x / geo.size.width : 0
+                brightness = geo.size.height > 0 ? 1.0 - Double(y / geo.size.height) : 0
+            })
+        }
+    }
+}
+
+/// The full hue spectrum with a square thumb.
+private struct HueSlider: View {
+    @Binding var hue: Double
+    var skin: Skin
+
+    private let hueColors: [Color] = stride(from: 0.0, through: 1.0, by: 1.0 / 12).map {
+        Color(hue: $0, saturation: 1, brightness: 1)
+    }
+
+    var body: some View {
+        GeometryReader { geo in
+            ZStack(alignment: .leading) {
+                Rectangle()
+                    .fill(LinearGradient(colors: hueColors, startPoint: .leading, endPoint: .trailing))
+                    .overlay(Rectangle().strokeBorder(skin.textPrimary.opacity(0.14), lineWidth: 1))
+                SquareThumb(size: geo.size.height + 4)
+                    .position(x: hue * geo.size.width, y: geo.size.height / 2)
+            }
+            .contentShape(Rectangle())
+            .gesture(DragGesture(minimumDistance: 0).onChanged { drag in
+                let x = min(max(0, drag.location.x), geo.size.width)
+                hue = geo.size.width > 0 ? x / geo.size.width : 0
+            })
+        }
+    }
+}

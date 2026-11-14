@@ -1,294 +1,312 @@
------BEGIN I2S ENCRYPTED FILE-----
-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
-2DaBxZErloQmngQywAsWjL9QFhQCIw==
------END I2S ENCRYPTED FILE-----
+#if DEBUG
+import Foundation
+import Network
+
+/// A tiny Soulseek server and one peer ("alice"), on loopback only, for the
+/// self-test: sign-in (and a taken name), search, a download from alice, and
+/// alice browsing our shares. Speaks the same wire format as the real network.
+final class FakeSlskNetwork {
+    let queue = DispatchQueue(label: "i2s.fake-soulseek")
+    private var serverListener: NWListener?
+    private var peerListener: NWListener?
+    private(set) var serverPort: UInt16 = 0
+    private(set) var peerPort: UInt16 = 0
+    private var clients: [String: SlskSocket] = [:]
+    private var waitPorts: [String: UInt16] = [:]
+    private var keep: [SlskSocket] = []
+
+    let aliceFile: SlskFile
+    let aliceBytes: Data
+    /// Filled when alice browses the client's shares.
+    private(set) var browsedFolders: [SlskFolder]?
+
+    init() {
+        var bytes = Data(count: 300_000)
+        for i in 0..<bytes.count { bytes[i] = UInt8(truncatingIfNeeded: i &* 31 &+ 7) }
+        aliceBytes = bytes
+        aliceFile = SlskFile(path: "Music\\Test Album\\01 Test Song.flac", size: UInt64(bytes.count), ext: "flac",
+                             duration: 200, sampleRate: 44_100, bitDepth: 16)
+    }
+
+    func start() async -> Bool {
+        await withCheckedContinuation { c in
+            queue.async { [self] in
+                var pending = 2
+                func done() { pending -= 1; if pending == 0 { c.resume(returning: serverPort > 0 && peerPort > 0) } }
+                serverListener = listen { [weak self] s in self?.acceptServer(s) } ready: { [weak self] p in self?.serverPort = p; done() }
+                peerListener = listen { [weak self] s in self?.acceptPeer(s) } ready: { [weak self] p in self?.peerPort = p; done() }
+            }
+        }
+    }
+
+    func stop() {
+        queue.async { [self] in
+            serverListener?.cancel(); peerListener?.cancel()
+            (Array(clients.values) + keep).forEach { $0.close() }
+        }
+    }
+
+    private func listen(_ accept: @escaping (NWConnection) -> Void, ready: @escaping (UInt16) -> Void) -> NWListener? {
+        let params = NWParameters.tcp
+        params.requiredLocalEndpoint = .hostPort(host: "127.0.0.1", port: .any)
+        guard let l = try? NWListener(using: params) else { ready(0); return nil }
+        l.newConnectionHandler = accept
+        l.stateUpdateHandler = { state in
+            switch state {
+            case .ready: ready(l.port?.rawValue ?? 0)
+            case .failed: ready(0)
+            default: break
+            }
+        }
+        l.start(queue: queue)
+        return l
+    }
+
+    // MARK: Server
+
+    private func acceptServer(_ conn: NWConnection) {
+        let s = SlskSocket(conn, framing: .server, queue: queue)
+        s.onMessage = { [weak self, weak s] code, r in
+            guard let self, let s else { return }
+            self.serverMessage(s, code, &r)
+        }
+        keep.append(s)
+        s.start()
+    }
+
+    /// Private message ids the client acknowledged.
+    private(set) var acked: [UInt32] = []
+    /// Private messages the client sent: (to, text).
+    private(set) var delivered: [(String, String)] = []
+
+    private func serverMessage(_ s: SlskSocket, _ code: UInt32, _ r: inout SlskReader) {
+        switch SlskServerCode(rawValue: code) {
+        case .login?:
+            guard let user = try? r.str(), let password = try? r.str() else { return }
+            if user == "taken" && password != "right" {
+                s.send(SlskWriter.frame(code: 1) { w in w.bool(false); w.str("INVALIDPASS") })
+                return
+            }
+            s.user = user
+            clients[user] = s
+            s.send(SlskWriter.frame(code: 1) { w in
+                w.bool(true); w.str("Welcome to the test server"); w.u32(0x7F00_0001); w.str(""); w.bool(false)
+            })
+        case .setWaitPort?:
+            if let p = try? r.u32() { waitPorts[s.user] = UInt16(truncatingIfNeeded: p) }
+        case .getPeerAddress?:
+            guard let user = try? r.str() else { return }
+            let port = user == "alice" ? peerPort : (waitPorts[user] ?? 0)
+            s.send(SlskWriter.frame(code: 3) { w in w.str(user); w.u32(0x7F00_0001); w.u32(UInt32(port)) })
+        case .fileSearch?:
+            guard let tok = try? r.u32(), let query = try? r.str() else { return }
+            aliceAnswers(search: query, token: tok, from: s.user)
+        case .userSearch?:
+            // Forwarded only to the named user; alice is the only one here.
+            guard let target = try? r.str(), let tok = try? r.u32(), let query = try? r.str(), target == "alice" else { return }
+            aliceAnswers(search: query, token: tok, from: s.user)
+            // A private message from alice, as the server relays it.
+            s.send(SlskWriter.frame(code: SlskServerCode.messageUser.rawValue) { w in
+                w.u32(41); w.u32(UInt32(Date().timeIntervalSince1970)); w.str("alice"); w.str("hello from alice"); w.bool(true)
+            })
+        case .messageAcked?:
+            if let id = try? r.u32() { acked.append(id) }
+        case .messageUser?:
+            // From a client: str user, str text. Alice answers.
+            guard let target = try? r.str(), let text = try? r.str() else { return }
+            delivered.append((target, text))
+            guard target == "alice" else { return }
+            s.send(SlskWriter.frame(code: SlskServerCode.messageUser.rawValue) { w in
+                w.u32(42); w.u32(UInt32(Date().timeIntervalSince1970)); w.str("alice"); w.str("got: " + text); w.bool(true)
+            })
+        default:
+            break
+        }
+    }
+
+    // MARK: Alice
+
+    /// Alice dials the searcher and sends one result, as a real peer would.
+    private func aliceAnswers(search query: String, token tok: UInt32, from user: String) {
+        guard query.lowercased().contains("test"), let port = waitPorts[user] else { return }
+        let s = SlskSocket(host: "127.0.0.1", port: port, framing: .peer, queue: queue)
+        let file = aliceFile
+        s.onReady = { [weak s] in
+            s?.send(SlskOut.peerInit(user: "alice", type: "P"))
+            let reply = SlskSearchReply(username: "alice", token: tok, files: [file], freeSlot: true, speed: 900_000, queue: 0)
+            s?.send(SlskOut.searchReply(reply.encode()))
+            s?.send(SlskOut.sharedFileListRequest())
+        }
+        s.user = user
+        // Like a real peer, alice takes any message on any connection with this user.
+        s.onMessage = { [weak self, weak s] code, r in
+            guard let self, let s else { return }
+            if code == SlskPeerCode.sharedFileListResponse.rawValue {
+                self.browsedFolders = try? SlskShareList.decode(r.rest())
+            } else {
+                self.aliceMessage(s, code, &r)
+            }
+        }
+        keep.append(s)
+        s.start()
+    }
+
+    private func acceptPeer(_ conn: NWConnection) {
+        let s = SlskSocket(conn, framing: .peerInit, queue: queue)
+        s.onInit = { [weak self, weak s] code, r in
+            guard let self, let s, code == SlskInitCode.peerInit.rawValue, let user = try? r.str() else { return }
+            s.user = user
+            s.framing = .peer
+            s.onMessage = { [weak self, weak s] code, r in
+                guard let self, let s else { return }
+                self.aliceMessage(s, code, &r)
+            }
+        }
+        keep.append(s)
+        s.start()
+    }
+
+    private var offered: [UInt32: String] = [:]
+
+    private func aliceMessage(_ s: SlskSocket, _ code: UInt32, _ r: inout SlskReader) {
+        switch SlskPeerCode(rawValue: code) {
+        case .queueUpload?:
+            guard let path = try? r.str() else { return }
+            guard path == aliceFile.path else { s.send(SlskOut.uploadDenied(path, reason: "File not shared.")); return }
+            let tok = UInt32.random(in: 1...1_000_000)
+            offered[tok] = s.user
+            s.send(SlskOut.transferRequest(upload: tok, path: path, size: aliceFile.size))
+        case .transferResponse?:
+            guard let tok = try? r.u32(), let ok = try? r.bool(), ok, let user = offered[tok], let port = waitPorts[user] else { return }
+            sendFile(token: tok, toPort: port)
+        default:
+            break
+        }
+    }
+
+    private func sendFile(token tok: UInt32, toPort port: UInt16) {
+        let s = SlskSocket(host: "127.0.0.1", port: port, framing: .raw, queue: queue)
+        let bytes = aliceBytes
+        var header = Data()
+        s.onReady = { [weak s] in
+            s?.send(SlskOut.peerInit(user: "alice", type: "F"))
+            var w = SlskWriter(); w.u32(tok)
+            s?.send(w.data)
+        }
+        s.onRaw = { [weak s] chunk in
+            guard let s else { return }
+            header.append(chunk)
+            guard header.count >= 8 else { return }
+            var r = SlskReader(header.prefix(8))
+            let offset = Int((try? r.u64()) ?? 0)
+            header = Data(count: 0)
+            s.onRaw = nil
+            s.send(bytes.subdata(in: offset..<bytes.count))
+        }
+        keep.append(s)
+        s.start()
+    }
+}
+/// A minimal SOCKS5 proxy on loopback (no auth, or username/password), relaying
+/// bytes both ways. Records which targets it was asked for.
+final class FakeSocks5 {
+    let queue = DispatchQueue(label: "i2s.fake-socks")
+    private var listener: NWListener?
+    private(set) var port: UInt16 = 0
+    private(set) var targets: [String] = []
+    var requireAuth: (user: String, password: String)?
+    private var keep: [NWConnection] = []
+
+    func start() async -> Bool {
+        await withCheckedContinuation { c in
+            queue.async { [self] in
+                let params = NWParameters.tcp
+                params.requiredLocalEndpoint = .hostPort(host: "127.0.0.1", port: .any)
+                guard let l = try? NWListener(using: params) else { c.resume(returning: false); return }
+                l.newConnectionHandler = { [weak self] conn in self?.accept(conn) }
+                l.stateUpdateHandler = { state in
+                    if case .ready = state { self.port = l.port?.rawValue ?? 0; c.resume(returning: true) }
+                    if case .failed = state { c.resume(returning: false) }
+                }
+                l.start(queue: queue)
+                listener = l
+            }
+        }
+    }
+
+    func stop() { queue.async { [self] in listener?.cancel(); keep.forEach { $0.cancel() } } }
+
+    private func read(_ c: NWConnection, _ n: Int, _ then: @escaping (Data) -> Void) {
+        c.receive(minimumIncompleteLength: n, maximumLength: n) { d, _, _, _ in then(d ?? Data()) }
+    }
+
+    private func accept(_ client: NWConnection) {
+        keep.append(client)
+        client.start(queue: queue)
+        read(client, 2) { head in
+            let n = Int(head.count == 2 ? head[1] : 0)
+            self.read(client, n) { methods in
+                if let auth = self.requireAuth {
+                    guard methods.contains(2) else { client.send(content: Data([5, 0xFF]), completion: .idempotent); return }
+                    client.send(content: Data([5, 2]), completion: .idempotent)
+                    self.read(client, 2) { h in
+                        self.read(client, Int(h.count == 2 ? h[1] : 0)) { user in
+                            self.read(client, 1) { pl in
+                                self.read(client, Int(pl.first ?? 0)) { pass in
+                                    let ok = String(decoding: user, as: UTF8.self) == auth.user && String(decoding: pass, as: UTF8.self) == auth.password
+                                    client.send(content: Data([1, ok ? 0 : 1]), completion: .idempotent)
+                                    if ok { self.request(client) }
+                                }
+                            }
+                        }
+                    }
+                } else {
+                    client.send(content: Data([5, 0]), completion: .idempotent)
+                    self.request(client)
+                }
+            }
+        }
+    }
+
+    private func request(_ client: NWConnection) {
+        read(client, 4) { head in
+            guard head.count == 4 else { return }
+            let resolve = { (host: String) in
+                self.read(client, 2) { p in
+                    let port = UInt16(p[p.startIndex]) << 8 | UInt16(p[p.startIndex + 1])
+                    self.targets.append("\(host):\(port)")
+                    self.relay(client, host: host, port: port)
+                }
+            }
+            switch head[3] {
+            case 1: self.read(client, 4) { a in resolve(a.map(String.init).joined(separator: ".")) }
+            case 3: self.read(client, 1) { l in self.read(client, Int(l.first ?? 0)) { n in resolve(String(decoding: n, as: UTF8.self)) } }
+            default: client.cancel()
+            }
+        }
+    }
+
+    private func relay(_ client: NWConnection, host: String, port: UInt16) {
+        let upstream = NWConnection(host: NWEndpoint.Host(host == "localhost" ? "127.0.0.1" : host),
+                                    port: NWEndpoint.Port(rawValue: port)!, using: .tcp)
+        keep.append(upstream)
+        upstream.stateUpdateHandler = { state in
+            if case .ready = state {
+                client.send(content: Data([5, 0, 0, 1, 127, 0, 0, 1, 0, 0]), completion: .idempotent)
+                self.pipe(client, upstream)
+                self.pipe(upstream, client)
+            }
+            if case .failed = state { client.send(content: Data([5, 5, 0, 1, 0, 0, 0, 0, 0, 0]), completion: .idempotent) }
+        }
+        upstream.start(queue: queue)
+    }
+
+    private func pipe(_ from: NWConnection, _ to: NWConnection) {
+        from.receive(minimumIncompleteLength: 1, maximumLength: 64 << 10) { d, _, done, err in
+            if let d, !d.isEmpty { to.send(content: d, completion: .idempotent) }
+            if done || err != nil { to.cancel(); return }
+            self.pipe(from, to)
+        }
+    }
+}
+#endif

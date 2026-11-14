@@ -1,416 +1,460 @@
------BEGIN I2S ENCRYPTED FILE-----
-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
-PtKFQyUlfZKpwjPcvP2ak/Kf
------END I2S ENCRYPTED FILE-----
+import SwiftUI
+import AppKit
+
+/// First-run Soulseek configuration, in the Downloads window's own layout: a
+/// rail of steps, and the step on the right.
+/// Registration happens here; the server creates an account the first time an
+/// unused username signs in. Nothing connects before the account step.
+struct SoulseekSetupView: View {
+    @ObservedObject var store: SoulseekStore
+    var skin: Skin
+    var onFinish: () -> Void
+    /// Off only for offscreen snapshots, whose renderer can't draw scroll views.
+    var scrolls = true
+
+    enum Step: Int, CaseIterable {
+        case overview, network, account, location, sharing, review
+        var label: String {
+            switch self {
+            case .overview: return "overview"
+            case .network: return "network"
+            case .account: return "account"
+            case .location: return "location"
+            case .sharing: return "sharing"
+            case .review: return "review"
+            }
+        }
+        var title: String { label.capitalized }
+    }
+
+    enum SharingChoice { case downloads, downloadsAndLibrary, nothing }
+
+    @State var step: Step = .overview
+    @State private var reached: Step = .overview
+    @State private var registering = true
+    @State private var username = ""
+    @State private var password = ""
+    @State private var confirm = ""
+    @State private var error: String?
+    @State private var working = false
+    @State private var sharing: SharingChoice = .downloads
+
+    var body: some View {
+        HStack(spacing: Corners.inset) {
+            rail
+                .frame(width: 196)
+                .frostedPane(skin, tint: 0.08)
+            VStack(spacing: 0) {
+                scrolling {
+                    VStack(alignment: .leading, spacing: 14) {
+                        content
+                    }
+                    .padding(24)
+                    .frame(maxWidth: 680, alignment: .leading)
+                    .frame(maxWidth: .infinity, alignment: .leading)
+                }
+                footer
+            }
+            .frame(maxWidth: .infinity, maxHeight: .infinity)
+            .clipShape(Rectangle()).frostedPane(skin, tint: 0.14)
+        }
+        .onAppear {
+            username = store.settings.username
+            registering = store.settings.username.isEmpty
+            if step.rawValue > reached.rawValue { reached = step }
+        }
+    }
+
+    @ViewBuilder
+    private func scrolling<C: View>(@ViewBuilder _ content: () -> C) -> some View {
+        if scrolls { ScrollView { content() } } else { content().frame(maxHeight: .infinity, alignment: .top) }
+    }
+
+    // MARK: Rail
+
+    private var rail: some View {
+        VStack(alignment: .leading, spacing: 2) {
+            Text("setup")
+                .font(TypeScale.caption).foregroundStyle(skin.textTertiary)
+                .padding(.leading, 8).padding(.top, 4).padding(.bottom, 8)
+            ForEach(Step.allCases, id: \.self) { s in
+                StepRow(number: s.rawValue + 1, title: s.title, current: s == step,
+                        done: s.rawValue < reached.rawValue || (s == .account && isSignedIn),
+                        enabled: s.rawValue <= reached.rawValue && !working, skin: skin) { step = s }
+            }
+            Spacer()
+        }
+        .padding(10)
+    }
+
+    // MARK: Footer
+
+    private var footer: some View {
+        HStack(spacing: 10) {
+            Text(String(format: "%02d / %02d", step.rawValue + 1, Step.allCases.count))
+                .font(TypeScale.caption).foregroundStyle(skin.textTertiary)
+            if working { CapsuleProgress(fraction: nil, skin: skin).frame(width: 90, height: 2) }
+            Spacer()
+            if step != .overview {
+                Button("Back") { step = Step(rawValue: step.rawValue - 1)!; error = nil }
+                    .buttonStyle(PillButtonStyle(skin: skin))
+                    .disabled(working)
+            }
+            Button(primaryTitle, action: primary)
+                .buttonStyle(PillButtonStyle(skin: skin, prominent: true))
+                .disabled(!canContinue || working)
+                .keyboardShortcut(.defaultAction)
+        }
+        .padding(.horizontal, 24)
+        .padding(.vertical, 16)
+    }
+
+    private var isSignedIn: Bool { store.status == .online && !store.settings.username.isEmpty && store.settings.username == username }
+
+    private var primaryTitle: String {
+        switch step {
+        case .account: return isSignedIn ? "Continue" : (registering ? "Register" : "Sign In")
+        case .review: return "Finish"
+        default: return "Continue"
+        }
+    }
+
+    private var canContinue: Bool {
+        guard step == .account, !isSignedIn else { return true }
+        let name = username.trimmingCharacters(in: .whitespaces)
+        return !name.isEmpty && !password.isEmpty && (!registering || password == confirm)
+    }
+
+    private func advance() {
+        error = nil
+        guard let next = Step(rawValue: step.rawValue + 1) else { return }
+        step = next
+        if next.rawValue > reached.rawValue { reached = next }
+    }
+
+    private func primary() {
+        switch step {
+        case .overview:
+            store.settings.enabled = true
+            advance()
+        case .network:
+            advance()
+        case .account:
+            if isSignedIn { advance(); return }
+            working = true
+            error = nil
+            Task { @MainActor in
+                let reason = await store.signIn(username: username, password: password, creating: registering)
+                working = false
+                if let reason { error = reason } else { password = ""; confirm = ""; advance() }
+            }
+        case .location:
+            try? FileManager.default.createDirectory(atPath: store.settings.downloadFolder, withIntermediateDirectories: true)
+            advance()
+        case .sharing:
+            store.settings.shareDownloads = sharing != .nothing
+            store.settings.shareLibrary = sharing == .downloadsAndLibrary
+            store.rebuildShares()
+            advance()
+        case .review:
+            store.settings.setupComplete = true
+            onFinish()
+        }
+    }
+
+    // MARK: Steps
+
+    @ViewBuilder
+    private var content: some View {
+        switch step {
+        case .overview: overview
+        case .network: network
+        case .account: account
+        case .location: location
+        case .sharing: sharingStep
+        case .review: review
+        }
+    }
+
+    private var overview: some View { SoulseekOverview(store: store, skin: skin) }
+
+    private var network: some View {
+        Group {
+            LibraryHeader(title: "Network",
+                          subtitle: "How Raven reaches Soulseek. Set this before signing in; no connection is made until the account step.",
+                          skin: skin)
+            NetworkForm(store: store, skin: skin)
+        }
+    }
+
+    private var account: some View {
+        Group {
+            LibraryHeader(title: "Account", subtitle: "Register a new account or sign in with an existing one.", skin: skin)
+            if !isSignedIn {
+                ChoiceChips(options: [("Register", nil), ("Sign In", nil)], selected: registering ? 0 : 1, skin: skin) {
+                    registering = $0 == 0
+                    error = nil
+                }
+                .disabled(working)
+            }
+            LibrarySection(title: "credentials", skin: skin) {
+                if isSignedIn {
+                    HStack(spacing: 10) {
+                        Glyph("person.crop.circle", size: 14).foregroundStyle(skin.textSecondary)
+                        VStack(alignment: .leading, spacing: 2) {
+                            Text(store.settings.username).font(TypeScale.strong)
+                            Text("Signed in to \(store.serverAddress)").font(TypeScale.caption).foregroundStyle(skin.textTertiary)
+                        }
+                        Spacer()
+                        Button("Sign Out") { signOut() }
+                            .help("Disconnects and forgets the saved password. Sign in with another account or register a new one.")
+                            .buttonStyle(PillButtonStyle(skin: skin, compact: true))
+                    }
+                    .padding(.vertical, 4)
+                } else {
+                    // Equal columns: two to sign in, three to register.
+                    Grid(horizontalSpacing: 12, verticalSpacing: 10) {
+                        GridRow {
+                            FormField(title: "Username", text: $username, placeholder: "", skin: skin)
+                            SecureFormField(title: "Password", text: $password, skin: skin)
+                            if registering { SecureFormField(title: "Confirm password", text: $confirm, skin: skin) }
+                        }
+                    }
+                    .padding(.vertical, 4)
+                    if registering && !confirm.isEmpty && confirm != password {
+                        Text("Passwords do not match.").font(TypeScale.caption).foregroundStyle(skin.accent)
+                    }
+                }
+                if let error {
+                    Text(error).font(TypeScale.strong).foregroundStyle(skin.accent)
+                        .fixedSize(horizontal: false, vertical: true)
+                        .padding(.top, 6)
+                }
+            }
+            LibrarySection(title: "session", skin: skin) {
+                SessionLog(lines: store.sessionLog, skin: skin)
+            }
+            LibrarySection(title: "details", skin: skin) {
+                SpecRow(label: "route", value: store.routeLabel, skin: skin)
+                SpecRow(label: "registration", value: "Created by the server on first sign-in with an unused username", skin: skin)
+                SpecRow(label: "recovery", value: "Passwords cannot be reset", skin: skin)
+                SpecRow(label: "storage", value: "macOS Keychain", skin: skin)
+            }
+        }
+    }
+
+    /// Ends the session and forgets the saved password, back to the form.
+    private func signOut() {
+        store.signOut()
+        username = ""
+        password = ""
+        confirm = ""
+        error = nil
+        registering = false
+    }
+
+    private var location: some View {
+        Group {
+            LibraryHeader(title: "Location", subtitle: "Completed downloads are saved to this folder.", skin: skin)
+            LibrarySection(title: "download folder", skin: skin) {
+                HStack(spacing: 12) {
+                    Glyph("downloads", size: 13).foregroundStyle(skin.textSecondary)
+                    Text((store.settings.downloadFolder as NSString).abbreviatingWithTildeInPath)
+                        .font(TypeScale.body).lineLimit(1).truncationMode(.middle)
+                    Spacer()
+                    Button("Change…") { if let url = SharingPage.chooseFolder() { store.settings.downloadFolder = url.path } }
+                        .buttonStyle(PillButtonStyle(skin: skin, compact: true))
+                }
+                .padding(.vertical, 2)
+            }
+            LibrarySection(title: "organization", skin: skin) {
+                SettingsToggleRow(title: "Preserve remote folder structure",
+                                  subtitle: "Each download is saved inside the folder name used by the uploader.",
+                                  isOn: $store.settings.keepFolders, skin: skin)
+                SpecRow(label: "partial files", value: "Hidden .part files until complete; resumed on retry", skin: skin)
+            }
+        }
+    }
+
+    private var sharingStep: some View {
+        Group {
+            LibraryHeader(title: "Sharing",
+                          subtitle: "Many users upload only to peers who share files. Sharing the download folder is the common configuration.",
+                          skin: skin)
+            VStack(spacing: 6) {
+                option(.downloads, "Download folder", "Completed downloads are shared.", tag: "recommended")
+                option(.downloadsAndLibrary, "Download folder and library", "Includes every folder in the i2s library.", tag: nil)
+                option(.nothing, "None", "Some users will decline your download requests.", tag: nil)
+            }
+            LibrarySection(title: "details", skin: skin) {
+                SpecRow(label: "visibility", value: "Shared files can be browsed and downloaded by any Soulseek user", skin: skin)
+                SpecRow(label: "partial files", value: "Never shared", skin: skin)
+                SpecRow(label: "upload slots", value: "\(store.settings.uploadSlots) simultaneous", skin: skin)
+            }
+        }
+    }
+
+    private func option(_ choice: SharingChoice, _ head: String, _ detail: String, tag: String?) -> some View {
+        let selected = sharing == choice
+        return Button { withAnimation(.easeOut(duration: 0.15)) { sharing = choice } } label: {
+            HStack(spacing: 12) {
+                Glyph(selected ? "checkmark.circle.fill" : "circle", size: 11)
+                    .foregroundStyle(selected ? skin.accent : skin.textTertiary)
+                VStack(alignment: .leading, spacing: 2) {
+                    HStack(spacing: 8) {
+                        Text(head).font(TypeScale.strong).foregroundStyle(skin.textPrimary)
+                        if let tag { LibraryTag(text: tag, skin: skin) }
+                    }
+                    Text(detail).font(TypeScale.caption).foregroundStyle(skin.textTertiary)
+                }
+                Spacer()
+            }
+            .padding(12)
+            .background(Rectangle().fill(selected ? skin.accent.opacity(0.1) : skin.textPrimary.opacity(0.03)))
+            .overlay(Rectangle().strokeBorder(selected ? skin.accent.opacity(0.7) : skin.textPrimary.opacity(0.12), lineWidth: 1))
+            .contentShape(Rectangle())
+        }
+        .buttonStyle(.plain)
+    }
+
+    private var review: some View {
+        Group {
+            LibraryHeader(title: "Review", subtitle: "These settings can be changed later under Account and Sharing.", skin: skin)
+            LibrarySection(title: "configuration", skin: skin) {
+                SpecRow(label: "account", value: store.settings.username, tag: store.status.label,
+                        tagAccent: store.status == .online, skin: skin)
+                SpecRow(label: "location", value: (store.settings.downloadFolder as NSString).abbreviatingWithTildeInPath, skin: skin)
+                SpecRow(label: "sharing", value: store.settings.sharesNothing ? "None"
+                        : (store.indexingShares ? "Indexing" : "\(store.sharedFiles) files in \(store.sharedFolders) folders"), skin: skin)
+                SpecRow(label: "listening port", value: "TCP \(store.listeningPort.map(String.init) ?? "\(store.settings.listenPort)")",
+                        tag: store.listeningPort == nil ? "not listening" : "listening", tagAccent: store.listeningPort != nil, skin: skin)
+            }
+        }
+    }
+}
+
+// MARK: - Parts
+
+private struct StepRow: View {
+    var number: Int
+    var title: String
+    var current: Bool
+    var done: Bool
+    var enabled: Bool
+    var skin: Skin
+    var action: () -> Void
+    @State private var hovering = false
+
+    var body: some View {
+        Button(action: action) {
+            HStack(spacing: 10) {
+                Text(String(format: "%02d", number))
+                    .font(AppFont.ui(10.5, weight: .medium))
+                    .foregroundStyle(current ? skin.accent : skin.textTertiary)
+                Text(title)
+                    .font(AppFont.ui(12, weight: current ? .semibold : .regular))
+                    .foregroundStyle(current ? skin.textPrimary : enabled ? skin.textSecondary : skin.textTertiary)
+                Spacer()
+                if done && !current {
+                    Glyph("checkmark.circle.fill", size: 9).foregroundStyle(skin.textTertiary)
+                }
+            }
+            .padding(.horizontal, 8)
+            .padding(.vertical, 6)
+            .background(Rectangle().fill(current ? skin.selection.opacity(0.55) : hovering && enabled ? skin.hover : .clear))
+            .contentShape(Rectangle())
+        }
+        .buttonStyle(.plain)
+        .disabled(!enabled)
+        .onHover { hovering = $0 }
+    }
+}
+
+/// A label / value line, like a specification sheet.
+struct SpecRow: View {
+    var label: String
+    var value: String
+    var tag: String? = nil
+    var tagAccent = false
+    var skin: Skin
+
+    var body: some View {
+        HStack(alignment: .firstTextBaseline, spacing: 12) {
+            Text(label).font(TypeScale.caption).foregroundStyle(skin.textTertiary).frame(width: 110, alignment: .leading)
+            Text(value).font(TypeScale.body).foregroundStyle(skin.textSecondary)
+                .fixedSize(horizontal: false, vertical: true)
+            Spacer(minLength: 8)
+            if let tag { LibraryTag(text: tag, skin: skin, accent: tagAccent) }
+        }
+        .padding(.vertical, 4)
+    }
+}
+
+/// The connection's recent events as plain terminal lines, newest last.
+struct SessionLog: View {
+    var lines: [SoulseekStore.LogLine]
+    var skin: Skin
+
+    private static let time: DateFormatter = {
+        let f = DateFormatter()
+        f.dateFormat = "HH:mm:ss"
+        return f
+    }()
+
+    var body: some View {
+        Grid(alignment: .leading, horizontalSpacing: 14, verticalSpacing: 4) {
+            if lines.isEmpty {
+                Text("Idle").font(TypeScale.caption).foregroundStyle(skin.textTertiary)
+            }
+            ForEach(lines.filter { $0.topic == .server }.suffix(10)) { line in
+                let parts = Self.split(line.text)
+                GridRow(alignment: .firstTextBaseline) {
+                    Text(Self.time.string(from: line.time)).font(TypeScale.caption).foregroundStyle(skin.textTertiary)
+                    Text(parts.event).font(TypeScale.strong).foregroundStyle(color(line.kind))
+                    Text(parts.detail).font(TypeScale.body).foregroundStyle(skin.textSecondary).lineLimit(2)
+                        .frame(maxWidth: .infinity, alignment: .leading)
+                }
+            }
+        }
+        .frame(maxWidth: .infinity, minHeight: 60, alignment: .topLeading)
+        .padding(.vertical, 2)
+    }
+
+    /// "connect  host:port  via default" → ("connect", "host:port, via default").
+    static func split(_ text: String, joiner: String = ", ") -> (event: String, detail: String) {
+        let pieces = text.components(separatedBy: "  ").map { $0.trimmingCharacters(in: .whitespaces) }.filter { !$0.isEmpty }
+        guard let first = pieces.first else { return ("", "") }
+        return (first, pieces.dropFirst().joined(separator: joiner))
+    }
+
+    private func color(_ kind: SoulseekStore.LogLine.Kind) -> Color {
+        switch kind {
+        case .info: return skin.textSecondary
+        case .ok: return skin.textPrimary
+        case .error: return skin.accent
+        }
+    }
+}
+
+/// `FormField` for passwords.
+struct SecureFormField: View {
+    var title: String
+    @Binding var text: String
+    var skin: Skin
+    @FocusState private var focused: Bool
+
+    var body: some View {
+        VStack(alignment: .leading, spacing: 5) {
+            Text(title).font(AppFont.ui(10.5)).foregroundStyle(skin.textTertiary)
+            SecureField("", text: $text)
+                .textFieldStyle(.plain)
+                .font(AppFont.ui(12.5))
+                .foregroundStyle(skin.textPrimary)
+                .focused($focused)
+                .padding(.horizontal, 10)
+                .frame(height: 30)
+                .background(Rectangle().fill(skin.textPrimary.opacity(focused ? 0.07 : 0.045)))
+                .overlay(Rectangle().strokeBorder(focused ? skin.accent.opacity(0.8) : skin.textPrimary.opacity(0.12), lineWidth: 1))
+        }
+    }
+}

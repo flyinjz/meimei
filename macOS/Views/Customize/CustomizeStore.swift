@@ -1,294 +1,387 @@
------BEGIN I2S ENCRYPTED FILE-----
-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
------END I2S ENCRYPTED FILE-----
+import SwiftUI
+
+// MARK: - Drawing the shared customize data
+
+extension TextWeight {
+    var font: Font.Weight {
+        switch self {
+        case .light: return .light
+        case .regular: return .medium
+        case .bold: return .bold
+        }
+    }
+}
+
+extension TextAlign {
+    var alignment: Alignment { self == .leading ? .leading : self == .center ? .center : .trailing }
+    var text: TextAlignment { self == .leading ? .leading : self == .center ? .center : .trailing }
+}
+
+extension GrayTone {
+    /// A gray at `white`, nudged toward the tone.
+    func gray(_ white: Double) -> Color {
+        let c = rgb(white)
+        return self == .neutral ? Color(white: white) : Color(red: c.red, green: c.green, blue: c.blue)
+    }
+}
+
+// MARK: - Cursor
+
+/// Hover and selection in customize mode, kept apart from the styles so
+/// moving the pointer re-renders only the overlay.
+@MainActor
+final class CustomizeCursor: ObservableObject {
+    @Published var hovered: CustomElement?
+    /// In selection order; the last is the primary (shown in the inspector).
+    @Published var selection: [CustomElement] = []
+
+    var primary: CustomElement? { selection.last }
+
+    /// The selected elements an edit applies to: those of the primary's kind.
+    var targets: [CustomElement] {
+        guard let primary else { return [] }
+        return selection.filter { $0.kind == primary.kind }
+    }
+
+    func select(_ element: CustomElement?, extending: Bool = false) {
+        guard let element else {
+            if !extending { selection = [] }
+            return
+        }
+        if extending {
+            if let i = selection.firstIndex(of: element) { selection.remove(at: i) } else { selection.append(element) }
+        } else {
+            selection = [element]
+        }
+    }
+}
+
+// MARK: - Drafts
+
+/// A layout being dragged in customize mode. Only the main window's panes
+/// observe it, so a resize doesn't re-render every styled view per frame;
+/// the store gets the result once, on release.
+@MainActor
+final class LayoutDraft: ObservableObject {
+    @Published var layout: PaneLayout?
+}
+
+/// Whether the inspector should get out of the way of a drag near it.
+@MainActor
+final class InspectorFade: ObservableObject {
+    @Published var faded = false
+    /// The inspector's frame in the customize layer (not published).
+    var frame: CGRect = .null
+}
+
+// MARK: - Store
+
+/// The customize mode's state: on/off, the user's layout, design tokens,
+/// element styles, workspaces, and undo history, persisted as one blob.
+@MainActor
+final class CustomizeStore: ObservableObject {
+    @Published var isActive = false {
+        didSet { if !isActive { cursor.hovered = nil; cursor.selection = []; peekOriginal = false } }
+    }
+    let cursor = CustomizeCursor()
+    let draft = LayoutDraft()
+    let inspectorFade = InspectorFade()
+
+    /// While true (⌥ held), everything renders as originally designed.
+    @Published var peekOriginal = false {
+        didSet { applyTokens() }
+    }
+
+    @Published private(set) var styles: [CustomElement: ElementStyle] = [:] { didSet { changed() } }
+    @Published private(set) var storedLayout = PaneLayout.standard { didSet { changed() } }
+    @Published private(set) var storedTokens = DesignTokens() { didSet { applyTokens(); changed() } }
+    @Published private(set) var workspaces: [Workspace] = [] { didSet { changed() } }
+    @Published private(set) var activeWorkspaceID: UUID?
+
+    @Published private(set) var undoStack: [Snapshot] = []
+    @Published private(set) var redoStack: [Snapshot] = []
+    @Published private(set) var clipboard: (kind: CustomElement.Kind, style: ElementStyle)?
+
+    struct Snapshot: Equatable {
+        var styles: [CustomElement: ElementStyle]
+        var layout: PaneLayout
+        var tokens: DesignTokens
+    }
+
+    private static let key = "com.meimei.player.customize.v2"
+    private static let legacyStylesKey = "com.meimei.player.customStyles.v1"
+    private var saveWork: DispatchWorkItem?
+    private var loading = true
+    private var lastEdit: (key: String, at: Date)?
+
+    init() {
+        if let saved = DefaultsStore.load(CustomizeState.self, key: Self.key) {
+            styles = saved.styles
+            storedLayout = saved.layout
+            storedTokens = saved.tokens
+            workspaces = saved.workspaces
+            activeWorkspaceID = saved.activeWorkspaceID
+        } else if let legacy = DefaultsStore.load([CustomElement: ElementStyle].self, key: Self.legacyStylesKey) {
+            styles = legacy
+        }
+        storedLayout.normalize()
+        loading = false
+        applyTokens()
+    }
+
+    // MARK: Reading
+
+    var layout: PaneLayout { peekOriginal ? .standard : storedLayout }
+    var tokens: DesignTokens { peekOriginal ? DesignTokens() : storedTokens }
+
+    /// What an element renders with (nothing while peeking at the original).
+    func style(_ element: CustomElement) -> ElementStyle {
+        peekOriginal ? ElementStyle() : (styles[element] ?? ElementStyle())
+    }
+
+    /// What the inspector edits.
+    func storedStyle(_ element: CustomElement) -> ElementStyle { styles[element] ?? ElementStyle() }
+
+    // MARK: Undo
+
+    private var snapshot: Snapshot { Snapshot(styles: styles, layout: storedLayout, tokens: storedTokens) }
+
+    /// Records the current state so the next change can be undone.
+    func checkpoint() {
+        if undoStack.last != snapshot { undoStack.append(snapshot) }
+        if undoStack.count > 300 { undoStack.removeFirst() }
+        redoStack.removeAll()
+    }
+
+    /// Checkpoints unless the same kind of change happened a moment ago, so
+    /// a drag or a scroll is one undo step.
+    private func checkpoint(coalescing key: String?) {
+        guard let key else { checkpoint(); return }
+        if lastEdit?.key != key || Date().timeIntervalSince(lastEdit?.at ?? .distantPast) > 0.8 { checkpoint() }
+        lastEdit = (key, Date())
+    }
+
+    func undo() {
+        guard let previous = undoStack.popLast() else { return }
+        redoStack.append(snapshot)
+        restore(previous)
+    }
+
+    func redo() {
+        guard let next = redoStack.popLast() else { return }
+        undoStack.append(snapshot)
+        restore(next)
+    }
+
+    private func restore(_ s: Snapshot) {
+        withAnimation(.spring(response: 0.4, dampingFraction: 0.85)) {
+            styles = s.styles
+            storedLayout = s.layout
+            storedTokens = s.tokens
+        }
+    }
+
+    // MARK: Styles
+
+    /// Changes elements' styles; only those of the first element's kind.
+    func edit(_ elements: [CustomElement], coalesce: String? = nil, _ body: (inout ElementStyle) -> Void) {
+        guard let first = elements.first else { return }
+        checkpoint(coalescing: coalesce.map { elements.map(\.rawValue).joined(separator: ",") + "." + $0 })
+        for element in elements where element.kind == first.kind {
+            var s = styles[element] ?? ElementStyle()
+            body(&s)
+            styles[element] = s.isEmpty ? nil : s
+        }
+    }
+
+    func edit(_ element: CustomElement, coalesce: String? = nil, _ body: (inout ElementStyle) -> Void) {
+        edit([element], coalesce: coalesce, body)
+    }
+
+    func reset(_ elements: [CustomElement]) {
+        guard elements.contains(where: { styles[$0] != nil }) else { return }
+        checkpoint()
+        withAnimation(.easeOut(duration: 0.2)) { for e in elements { styles[e] = nil } }
+    }
+
+    func copyStyle(_ element: CustomElement) { clipboard = (element.kind, storedStyle(element)) }
+
+    /// Pastes the copied style onto elements of the same kind, keeping
+    /// whatever else they already have.
+    func pasteStyle(into elements: [CustomElement]) {
+        guard let clipboard else { return }
+        let targets = elements.filter { $0.kind == clipboard.kind }
+        guard !targets.isEmpty else { return }
+        checkpoint()
+        withAnimation(.easeOut(duration: 0.2)) {
+            for e in targets {
+                let s = storedStyle(e).merging(clipboard.style, kind: e.kind)
+                styles[e] = s.isEmpty ? nil : s
+            }
+        }
+    }
+
+    // MARK: Tokens
+
+    func editTokens(coalesce: String? = nil, _ body: (inout DesignTokens) -> Void) {
+        checkpoint(coalescing: coalesce.map { "tokens." + $0 })
+        var t = storedTokens
+        body(&t)
+        storedTokens = t
+    }
+
+    /// Pushes the tokens the type and grid read outside SwiftUI's graph.
+    private func applyTokens() {
+        let t = tokens
+        AppFont.textScale = CGFloat(t.textScale)
+        Corners.inset = CGFloat(t.gap)
+    }
+
+    // MARK: Layout
+
+    func move(_ pane: PaneID, to target: DropTarget) {
+        checkpoint()
+        withAnimation(.spring(response: 0.45, dampingFraction: 0.82)) { storedLayout.move(pane, to: target) }
+    }
+
+    func setHidden(_ pane: PaneID, _ hidden: Bool) {
+        guard pane != .library else { return }
+        checkpoint()
+        withAnimation(.spring(response: 0.4, dampingFraction: 0.85)) {
+            if hidden { storedLayout.hidden.insert(pane) } else { storedLayout.hidden.remove(pane) }
+        }
+    }
+
+    /// Saves a dragged layout as one undo step.
+    func commitLayout(_ layout: PaneLayout) {
+        guard layout != storedLayout else { return }
+        checkpoint()
+        storedLayout = layout
+    }
+
+    func setColumnWidth(_ column: Int, _ width: Double) {
+        guard storedLayout.columns.indices.contains(column) else { return }
+        checkpoint(coalescing: "width.\(column)")
+        storedLayout.columns[column].width = width
+    }
+
+    func setWeights(column: Int, _ weights: [PaneID: Double]) {
+        guard storedLayout.columns.indices.contains(column) else { return }
+        checkpoint(coalescing: "weights.\(column)")
+        storedLayout.columns[column].weights.merge(weights) { $1 }
+    }
+
+    func resetLayout() {
+        checkpoint()
+        withAnimation(.spring(response: 0.45, dampingFraction: 0.82)) { storedLayout = .standard }
+    }
+
+    func resetAll() {
+        checkpoint()
+        withAnimation(.spring(response: 0.45, dampingFraction: 0.85)) {
+            styles = [:]
+            storedLayout = .standard
+            storedTokens = DesignTokens()
+        }
+    }
+
+    // MARK: Workspaces
+
+    @discardableResult
+    func saveWorkspace(named name: String) -> UUID {
+        let trimmed = name.trimmingCharacters(in: .whitespaces)
+        let ws = Workspace(name: trimmed.isEmpty ? "Workspace \(workspaces.count + 1)" : trimmed,
+                           layout: storedLayout, tokens: storedTokens, styles: styles)
+        workspaces.append(ws)
+        activeWorkspaceID = ws.id
+        return ws.id
+    }
+
+    func updateWorkspace(_ id: UUID) {
+        guard let i = workspaces.firstIndex(where: { $0.id == id }) else { return }
+        workspaces[i].layout = storedLayout
+        workspaces[i].tokens = storedTokens
+        workspaces[i].styles = styles
+        activeWorkspaceID = id
+    }
+
+    func applyWorkspace(_ id: UUID) {
+        guard let ws = workspaces.first(where: { $0.id == id }) else { return }
+        checkpoint()
+        withAnimation(.spring(response: 0.5, dampingFraction: 0.85)) {
+            styles = ws.styles
+            storedLayout = ws.layout
+            storedTokens = ws.tokens
+        }
+        activeWorkspaceID = id
+    }
+
+    func applyWorkspace(number n: Int) {
+        guard workspaces.indices.contains(n - 1) else { return }
+        applyWorkspace(workspaces[n - 1].id)
+    }
+
+    func renameWorkspace(_ id: UUID, to name: String) {
+        let trimmed = name.trimmingCharacters(in: .whitespaces)
+        guard !trimmed.isEmpty, let i = workspaces.firstIndex(where: { $0.id == id }) else { return }
+        workspaces[i].name = trimmed
+    }
+
+    func deleteWorkspace(_ id: UUID) {
+        workspaces.removeAll { $0.id == id }
+        if activeWorkspaceID == id { activeWorkspaceID = nil }
+    }
+
+    func moveWorkspace(at index: Int, by step: Int) {
+        let to = index + step
+        guard workspaces.indices.contains(index), workspaces.indices.contains(to) else { return }
+        workspaces.swapAt(index, to)
+    }
+
+    // MARK: Interchange
+
+    struct Export: Codable {
+        var format = "meimei-style"
+        var version = 2
+        var styles: [CustomElement: ElementStyle]
+        var layout: PaneLayout?
+        var tokens: DesignTokens?
+    }
+
+    func exportData() -> Data? {
+        let encoder = JSONEncoder()
+        encoder.outputFormatting = [.prettyPrinted, .sortedKeys]
+        return try? encoder.encode(Export(styles: styles, layout: storedLayout, tokens: storedTokens))
+    }
+
+    @discardableResult
+    func importData(_ data: Data) -> Bool {
+        guard let export = try? JSONDecoder().decode(Export.self, from: data), export.format == "meimei-style" else { return false }
+        checkpoint()
+        withAnimation(.spring(response: 0.5, dampingFraction: 0.85)) {
+            styles = export.styles
+            if var layout = export.layout { layout.normalize(); storedLayout = layout }
+            if let tokens = export.tokens { storedTokens = tokens }
+        }
+        return true
+    }
+
+    // MARK: Saving
+
+    private func changed() {
+        guard !loading else { return }
+        if let id = activeWorkspaceID, let ws = workspaces.first(where: { $0.id == id }),
+           ws.layout != storedLayout || ws.tokens != storedTokens || ws.styles != styles {
+            // Edits after applying a workspace leave it; the inspector shows "unsaved".
+            activeWorkspaceID = nil
+        }
+        saveWork?.cancel()
+        let work = DispatchWorkItem { [weak self] in
+            guard let self else { return }
+            DefaultsStore.save(CustomizeState(styles: self.styles, layout: self.storedLayout, tokens: self.storedTokens,
+                                     workspaces: self.workspaces, activeWorkspaceID: self.activeWorkspaceID), key: Self.key)
+        }
+        saveWork = work
+        DispatchQueue.main.asyncAfter(deadline: .now() + 0.4, execute: work)
+    }
+}

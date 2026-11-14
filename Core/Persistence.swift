@@ -1,83 +1,101 @@
------BEGIN I2S ENCRYPTED FILE-----
-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
------END I2S ENCRYPTED FILE-----
+import Foundation
+
+/// Settings-style payloads that decode leniently: any key missing from the
+/// stored JSON (an older build) or holding a value this build can't read
+/// (a removed enum case) falls back to the type's default, so a stale
+/// preference can never wipe out the rest of the user's customization.
+protocol LenientDecodable: Codable {
+    init()
+}
+
+extension LenientDecodable {
+    static func decodeLeniently(from data: Data) -> Self {
+        guard let stored = try? JSONSerialization.jsonObject(with: data) as? [String: Any],
+              let defaultsData = try? JSONEncoder().encode(Self()),
+              var merged = try? JSONSerialization.jsonObject(with: defaultsData) as? [String: Any] else {
+            return Self()
+        }
+        let template = merged
+        for (key, value) in stored where template[key] != nil {
+            merged[key] = value
+        }
+        if let decoded = decode(merged) { return decoded }
+
+        // Something in the stored payload is unreadable; keep every key
+        // that survives on its own and drop the rest.
+        var salvaged = template
+        for (key, value) in stored where template[key] != nil {
+            var candidate = salvaged
+            candidate[key] = value
+            if decode(candidate) != nil { salvaged = candidate }
+        }
+        return decode(salvaged) ?? Self()
+    }
+
+    private static func decode(_ object: [String: Any]) -> Self? {
+        guard let data = try? JSONSerialization.data(withJSONObject: object) else { return nil }
+        return try? JSONDecoder().decode(Self.self, from: data)
+    }
+}
+
+/// A `Codable` value stored as one JSON blob under a UserDefaults key.
+enum DefaultsStore {
+    static func load<T: Decodable>(_ type: T.Type, key: String) -> T? {
+        guard let data = UserDefaults.standard.data(forKey: key) else { return nil }
+        return try? JSONDecoder().decode(T.self, from: data)
+    }
+
+    static func loadLenient<T: LenientDecodable>(_ type: T.Type, key: String) -> T {
+        guard let data = UserDefaults.standard.data(forKey: key) else { return T() }
+        return T.decodeLeniently(from: data)
+    }
+
+    static func save<T: Encodable>(_ value: T, key: String) {
+        guard let data = try? JSONEncoder().encode(value) else { return }
+        UserDefaults.standard.set(data, forKey: key)
+    }
+}
+
+/// Coalesces bursts of saves (a drag across a slider, liking twenty tracks)
+/// into one write, and keeps encoding + disk I/O off the main thread.
+final class CoalescingFileWriter: @unchecked Sendable {
+    private let url: URL
+    private let delay: TimeInterval
+    private let queue: DispatchQueue
+    private var pending: DispatchWorkItem?
+    private let lock = NSLock()
+
+    init(url: URL, delay: TimeInterval = 0.4, label: String) {
+        self.url = url
+        self.delay = delay
+        self.queue = DispatchQueue(label: label, qos: .utility)
+    }
+
+    /// Schedules `encode` to run on the writer's queue. Only the most
+    /// recent request inside the delay window actually runs.
+    func schedule(_ encode: @escaping @Sendable () throws -> Data) {
+        let item = DispatchWorkItem { [url] in
+            do {
+                try encode().write(to: url, options: .atomic)
+            } catch {
+                NSLog("i2s: failed to write %@: %@", url.lastPathComponent, String(describing: error))
+            }
+        }
+        lock.lock()
+        pending?.cancel()
+        pending = item
+        lock.unlock()
+        queue.asyncAfter(deadline: .now() + delay, execute: item)
+    }
+
+    /// Runs any pending write immediately and waits for it — used on quit.
+    func flush() {
+        lock.lock()
+        let item = pending
+        pending = nil
+        lock.unlock()
+        guard let item, !item.isCancelled else { return }
+        item.cancel()
+        queue.sync { item.perform() }
+    }
+}

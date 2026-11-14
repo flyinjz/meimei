@@ -1,5 +1,1 @@
------BEGIN I2S ENCRYPTED FILE-----
-AEdJVENSWVBUADViM9wLk5MCI3lnuSeksFGP/ar2lpJyEefQFYaKRvvrSlrqgW2e
-QXnAdSmB2vRND0E5nEfXZk42yLilI/k2imlXL3s5hjAc0F5obVsudCRrH0qHlaWF
-vsTLO8pjvA==
------END I2S ENCRYPTED FILE-----
+// Placeholder so SwiftPM builds the C module; the code lives in the Go archive.

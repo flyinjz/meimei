@@ -1,516 +1,511 @@
------BEGIN I2S ENCRYPTED FILE-----
-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
-JTFZgD4boLHQXYeYZ0mIOGMO6rfe8w==
------END I2S ENCRYPTED FILE-----
+import SwiftUI
+
+// MARK: - Account name
+
+/// The name the profile and the rail show: the one set in the profile, else
+/// the Mac user's full name.
+enum AccountName {
+    @MainActor static func display(_ settings: AppSettings) -> String {
+        let custom = settings.data.localAccountName.trimmingCharacters(in: .whitespacesAndNewlines)
+        if !custom.isEmpty { return custom }
+        let full = NSFullUserName()
+        return full.isEmpty ? "Listener" : full
+    }
+}
+
+/// The profile's stats, worked out again only when the listens, the library
+/// or the range change.
+@MainActor
+final class ProfileModel {
+    static let shared = ProfileModel()
+    private var key: (count: Int, last: UUID?, tracks: Int, range: ProfileRange)?
+    private var cached: ProfileStats?
+
+    func stats(_ history: ListenHistory, _ library: LibraryStore, range: ProfileRange) -> ProfileStats {
+        let k = (history.listens.count, history.listens.last?.id, library.tracks.count, range)
+        if let cached, let key, key.count == k.0, key.last == k.1, key.tracks == k.2, key.range == k.3 { return cached }
+        let s = ProfileStats(listens: history.listens, library: library.tracks, albums: library.albumGroups, range: range)
+        key = k
+        cached = s
+        return s
+    }
+}
+
+// MARK: - Page
+
+/// The listener's profile: who, since when, and everything the listening
+/// history says about them, for a chosen period. Sections are transparent,
+/// separated by lines only.
+struct ProfilePage: View {
+    @ObservedObject var library: LibraryStore
+    @ObservedObject var history: ListenHistory
+    @ObservedObject var settings: AppSettings
+    var skin: Skin
+    @State var range: ProfileRange = .month
+    @State private var renaming = false
+    @State private var nameDraft = ""
+
+    var body: some View {
+        let stats = ProfileModel.shared.stats(history, library, range: range)
+        GeometryReader { geo in
+            let width = max(0, geo.size.width - 44)
+            let columns = width >= 980 ? 3 : width >= 620 ? 2 : 1
+            PageScroll {
+                VStack(alignment: .leading, spacing: 18) {
+                    header(stats, wide: width >= 620)
+                    if stats.totalListens == 0 {
+                        emptyState
+                    } else {
+                        totals(stats, columns: width >= 820 ? 6 : width >= 420 ? 3 : 2)
+                        timeline(stats)
+                        // Six list sections pair up in two columns and fill rows of three.
+                        rows(columns, [
+                            AnyView(rankList("Top artists", stats.topArtists, kind: .artist)),
+                            AnyView(rankList("Top albums", stats.topAlbums, kind: .album)),
+                            AnyView(rankList("Top tracks", stats.topTracks, kind: .track)),
+                            AnyView(recent(stats)),
+                            AnyView(discoveries(stats)),
+                            AnyView(records(stats)),
+                        ])
+                        rows(columns >= 2 ? (width >= 980 ? 4 : 2) : 1, [
+                            AnyView(clock(stats)),
+                            AnyView(weekdays(stats)),
+                            AnyView(shares("Genres", stats.genres, empty: "No genre tags on these tracks.")),
+                            AnyView(shares("Decades", stats.decades, empty: "No release years on these tracks.")),
+                        ])
+                    }
+                }
+                .padding(22)
+            }
+        }
+        .background(skin.surface(skin.bgRow))
+    }
+
+    // MARK: Header
+
+    private func header(_ s: ProfileStats, wide: Bool) -> some View {
+        let name = AccountName.display(settings)
+        return VStack(alignment: .leading, spacing: 16) {
+            HStack(alignment: .center, spacing: 18) {
+                Text(String(name.prefix(1)).uppercased())
+                    .font(AppFont.ui(30, weight: .semibold))
+                    .foregroundStyle(skin.textPrimary)
+                    .frame(width: 76, height: 76)
+                    .overlay(Rectangle().strokeBorder(skin.textPrimary.opacity(0.18), lineWidth: 1))
+                VStack(alignment: .leading, spacing: 4) {
+                    if renaming {
+                        HStack(spacing: 8) {
+                            TextField("Your name", text: $nameDraft)
+                                .textFieldStyle(.plain)
+                                .font(AppFont.ui(24, weight: .semibold))
+                                .foregroundStyle(skin.textPrimary)
+                                .frame(maxWidth: 320)
+                                .onSubmit(saveName)
+                            Button("Save", action: saveName).buttonStyle(PillButtonStyle(skin: skin, prominent: true, compact: true))
+                            Button("Cancel") { renaming = false }.buttonStyle(PillButtonStyle(skin: skin, compact: true))
+                        }
+                    } else {
+                        HStack(alignment: .firstTextBaseline, spacing: 10) {
+                            Text(name).font(AppFont.ui(26, weight: .semibold)).foregroundStyle(skin.textPrimary).lineLimit(1)
+                            Button {
+                                nameDraft = settings.data.localAccountName
+                                renaming = true
+                            } label: {
+                                Glyph("pencil", size: 11).foregroundStyle(skin.textTertiary).frame(width: 22, height: 22).contentShape(Rectangle())
+                            }
+                            .buttonStyle(.plain)
+                            .help("Change your name")
+                        }
+                    }
+                    Text(summary(s)).font(AppFont.ui(12)).foregroundStyle(skin.textSecondary).lineLimit(1)
+                    integrity.padding(.top, 2)
+                }
+                Spacer(minLength: 0)
+            }
+            HStack(alignment: .center, spacing: 12) {
+                ChoiceChips(options: ProfileRange.allCases.map { ($0.title, nil) }, selected: range.rawValue, skin: skin) { i in
+                    range = ProfileRange(rawValue: i) ?? .month
+                }
+                Spacer(minLength: 0)
+                if wide, let d = range.days {
+                    Text("Compared with the \(d == 365 ? "12 months" : "\(d) days") before")
+                        .font(AppFont.ui(11)).foregroundStyle(skin.textTertiary).lineLimit(1)
+                }
+            }
+        }
+        .padding(20)
+        .frame(maxWidth: .infinity, alignment: .leading)
+        .pageGlass(skin)
+    }
+
+    private func summary(_ s: ProfileStats) -> String {
+        guard let since = s.since else { return "No listens yet" }
+        return "Listening since \(ProfileStats.shortDate.string(from: since)) · \(Fmt.count(s.totalListens)) listen\(s.totalListens == 1 ? "" : "s") · \(Fmt.duration(s.totalSeconds))"
+    }
+
+    private var integrity: some View {
+        let r = history.report
+        let unverified = r.rejected + r.implausible
+        let ok = unverified == 0 && r.gaps == 0
+        return HStack(spacing: 6) {
+            Glyph(ok ? "shield.check" : "shield.alert", size: 10)
+            Text(ok ? "History verified on this Mac"
+                 : unverified > 0 ? "\(unverified) listen\(unverified == 1 ? "" : "s") couldn't be verified and aren't counted"
+                 : "Some history is missing")
+        }
+        .font(AppFont.ui(10.5))
+        .foregroundStyle(skin.textTertiary)
+        .help("Listens are sealed and signed on this Mac as they happen. Anything changed outside i2s fails the check and is left out.")
+    }
+
+    private func saveName() {
+        settings.data.localAccountName = nameDraft.trimmingCharacters(in: .whitespacesAndNewlines)
+        renaming = false
+    }
+
+    private var emptyState: some View {
+        VStack(alignment: .leading, spacing: 6) {
+            Text("Your stats start with your first listen").font(AppFont.ui(15, weight: .semibold)).foregroundStyle(skin.textPrimary)
+            Text("A track counts once you've heard half of it, or four minutes of it. Muted playback doesn't count.")
+                .font(AppFont.ui(12)).foregroundStyle(skin.textSecondary)
+        }
+        .padding(20)
+        .frame(maxWidth: .infinity, alignment: .leading)
+        .pageGlass(skin)
+    }
+
+    // MARK: Totals
+
+    private func totals(_ s: ProfileStats, columns: Int) -> some View {
+        let p = s.previous
+        let cells: [(String, String, String?)] = [
+            ("Listens", Fmt.count(s.listens), p.map { Fmt.change(Double(s.listens), Double($0.listens)) }),
+            ("Listening time", Fmt.duration(s.seconds), p.map { Fmt.change(s.seconds, $0.seconds) }),
+            ("Artists", Fmt.count(s.artists), p.map { Fmt.change(Double(s.artists), Double($0.artists)) }),
+            ("Albums", Fmt.count(s.albums), p.map { Fmt.change(Double(s.albums), Double($0.albums)) }),
+            ("Tracks", Fmt.count(s.tracks), p.map { Fmt.change(Double(s.tracks), Double($0.tracks)) }),
+            ("Per day", String(format: s.dailyAverage < 10 ? "%.1f" : "%.0f", s.dailyAverage), nil),
+        ]
+        let rowsOfCells = stride(from: 0, to: cells.count, by: columns).map { Array(cells[$0..<min($0 + columns, cells.count)]) }
+        return VStack(spacing: 0) {
+            ForEach(Array(rowsOfCells.enumerated()), id: \.offset) { r, row in
+                HStack(spacing: 0) {
+                    ForEach(Array(row.enumerated()), id: \.offset) { i, cell in
+                        VStack(alignment: .leading, spacing: 3) {
+                            Text(cell.0).font(AppFont.ui(11)).foregroundStyle(skin.textTertiary).lineLimit(1)
+                            Text(cell.1).font(AppFont.ui(22, weight: .semibold)).foregroundStyle(skin.textPrimary).lineLimit(1).minimumScaleFactor(0.7)
+                            Text(cell.2 ?? (cell.0 == "Per day" ? "listens on average" : " "))
+                                .font(AppFont.ui(10.5)).foregroundStyle(skin.textTertiary).lineLimit(1)
+                        }
+                        .padding(.horizontal, 16).padding(.vertical, 13)
+                        .frame(maxWidth: .infinity, alignment: .leading)
+                        .overlay(alignment: .leading) { if i > 0 { line.frame(width: 1) } }
+                    }
+                }
+                .overlay(alignment: .top) { if r > 0 { line.frame(height: 1) } }
+            }
+        }
+        .pageGlass(skin)
+    }
+
+    private var line: some View { Rectangle().fill(skin.isGlass ? Color.white.opacity(0.13) : skin.hairline) }
+
+    // MARK: Timeline
+
+    private func timeline(_ s: ProfileStats) -> some View {
+        let peak = max(1, s.timeline.map(\.count).max() ?? 1)
+        let labelEvery = max(1, Int((Double(s.timeline.count) / 10).rounded(.up)))
+        return section("Listening over time", detail: s.timelineUnit) {
+            VStack(spacing: 6) {
+                HStack(alignment: .bottom, spacing: s.timeline.count > 60 ? 1 : 3) {
+                    ForEach(s.timeline) { b in
+                        Rectangle()
+                            .fill(b.isCurrent ? skin.accent : skin.textPrimary.opacity(b.count == 0 ? 0.06 : 0.24))
+                            .frame(height: max(2, 120 * CGFloat(b.count) / CGFloat(peak)))
+                            .frame(maxWidth: .infinity)
+                            .help(b.help)
+                    }
+                }
+                .frame(height: 120, alignment: .bottom)
+                .overlay(alignment: .top) {
+                    HStack {
+                        Spacer()
+                        Text("\(peak)").font(AppFont.ui(10)).foregroundStyle(skin.textTertiary)
+                    }
+                    .offset(y: -14)
+                }
+                HStack(spacing: s.timeline.count > 60 ? 1 : 3) {
+                    ForEach(s.timeline) { b in
+                        Text(b.id % labelEvery == 0 ? b.label : "")
+                            .font(AppFont.ui(9.5)).foregroundStyle(skin.textTertiary)
+                            .lineLimit(1).fixedSize()
+                            .frame(maxWidth: .infinity, alignment: .leading)
+                    }
+                }
+                .frame(height: 12)
+                .clipped()
+            }
+            .padding(.top, 10)
+        }
+    }
+
+    // MARK: Top lists
+
+    private enum RankKind { case artist, album, track }
+
+    private func rankList(_ title: String, _ ranks: [ProfileStats.Rank], kind: RankKind) -> some View {
+        let peak = max(1, ranks.first?.count ?? 1)
+        return section(title, detail: nil) {
+            if ranks.isEmpty {
+                quiet("Nothing in this period.")
+            } else {
+                VStack(spacing: 2) {
+                    ForEach(Array(ranks.enumerated()), id: \.element.id) { i, r in
+                        RankRow(rank: r, number: i + 1, share: Double(r.count) / Double(peak), skin: skin) {
+                            switch kind {
+                            case .artist: library.source = .artist(r.target)
+                            case .album, .track:
+                                if library.albumGroup(for: r.target) != nil { library.albumKey = r.target }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+    // MARK: Patterns
+
+    private func clock(_ s: ProfileStats) -> some View {
+        let peak = max(1, s.hours.max() ?? 1)
+        let top = s.hours.indices.max { s.hours[$0] < s.hours[$1] } ?? 0
+        return section("Time of day", detail: s.listens > 0 ? "most at \(Fmt.hour(top))" : nil) {
+            VStack(spacing: 5) {
+                HStack(alignment: .bottom, spacing: 2) {
+                    ForEach(0..<24, id: \.self) { h in
+                        Rectangle()
+                            .fill(h == top && s.hours[h] > 0 ? skin.accent : skin.textPrimary.opacity(s.hours[h] == 0 ? 0.06 : 0.24))
+                            .frame(height: max(2, 90 * CGFloat(s.hours[h]) / CGFloat(peak)))
+                            .frame(maxWidth: .infinity)
+                            .help("\(Fmt.hour(h)): \(s.hours[h]) listens")
+                    }
+                }
+                .frame(height: 90, alignment: .bottom)
+                HStack(spacing: 0) {
+                    ForEach([0, 6, 12, 18], id: \.self) { h in
+                        Text(Fmt.hour(h)).font(AppFont.ui(9.5)).foregroundStyle(skin.textTertiary).frame(maxWidth: .infinity, alignment: .leading)
+                    }
+                }
+            }
+            .padding(.top, 6)
+        }
+    }
+
+    private func weekdays(_ s: ProfileStats) -> some View {
+        let names = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
+        let peak = max(1, s.weekdays.max() ?? 1)
+        let total = max(1, s.weekdays.reduce(0, +))
+        return section("Days of the week", detail: nil) {
+            VStack(spacing: 5) {
+                ForEach(0..<7, id: \.self) { i in
+                    ShareRow(name: names[i], value: "\(Int((Double(s.weekdays[i]) / Double(total) * 100).rounded()))%",
+                             share: Double(s.weekdays[i]) / Double(peak), skin: skin)
+                }
+            }
+        }
+    }
+
+    private func shares(_ title: String, _ items: [ProfileStats.Share], empty: String) -> some View {
+        let peak = max(1, items.map(\.count).max() ?? 1)
+        let total = max(1, items.reduce(0) { $0 + $1.count })
+        return section(title, detail: nil) {
+            if items.isEmpty {
+                quiet(empty)
+            } else {
+                VStack(spacing: 5) {
+                    ForEach(items) { item in
+                        ShareRow(name: item.name, value: "\(Int((Double(item.count) / Double(total) * 100).rounded()))%",
+                                 share: Double(item.count) / Double(peak), skin: skin)
+                    }
+                }
+            }
+        }
+    }
+
+    // MARK: Recent, discoveries, records
+
+    private func recent(_ s: ProfileStats) -> some View {
+        let covers = Dictionary(library.albumGroups.map { ($0.key, $0.artworkFilePath) }, uniquingKeysWith: { a, _ in a })
+        return section("Recent listens", detail: nil) {
+            VStack(spacing: 0) {
+                ForEach(s.recent) { l in
+                    HStack(spacing: 10) {
+                        ArtworkView(path: covers[ProfileStats.albumKey(l)] ?? nil, size: 32, skin: skin, placeholder: "opticaldisc")
+                            .frame(width: 32, height: 32)
+                            .clipShape(Rectangle())
+                            .overlay(Rectangle().strokeBorder(skin.textPrimary.opacity(0.1), lineWidth: 1))
+                        VStack(alignment: .leading, spacing: 3) {
+                            Text(l.title).font(AppFont.ui(12)).foregroundStyle(skin.textPrimary).lineLimit(1)
+                            Text(l.artist).font(AppFont.ui(10.5)).foregroundStyle(skin.textTertiary).lineLimit(1)
+                        }
+                        Spacer(minLength: 8)
+                        Text(Fmt.ago(l.endedAt)).font(AppFont.ui(10.5)).foregroundStyle(skin.textTertiary).lineLimit(1).fixedSize()
+                    }
+                    .padding(.vertical, 4)
+                }
+            }
+        }
+    }
+
+    private func discoveries(_ s: ProfileStats) -> some View {
+        section("New artists", detail: range == .all ? nil : "first heard in this period") {
+            if range == .all {
+                quiet("Every artist you've heard is new to all time. Pick a period to see who you found in it.")
+            } else if s.discoveries.isEmpty {
+                quiet("No artists heard for the first time in this period.")
+            } else {
+                VStack(alignment: .leading, spacing: 2) {
+                    Text("\(s.discoveries.count == 10 ? "10+" : "\(s.discoveries.count)") new")
+                        .font(AppFont.ui(22, weight: .semibold)).foregroundStyle(skin.textPrimary)
+                        .padding(.bottom, 6)
+                    ForEach(Array(s.discoveries.prefix(6).enumerated()), id: \.element.id) { i, r in
+                        RankRow(rank: r, number: i + 1, share: nil, skin: skin) { library.source = .artist(r.target) }
+                    }
+                }
+            }
+        }
+    }
+
+    private func records(_ s: ProfileStats) -> some View {
+        let coverage = s.libraryTracks == 0 ? 0 : Double(s.heardTracks) / Double(s.libraryTracks)
+        return section("Records", detail: nil) {
+            VStack(alignment: .leading, spacing: 0) {
+                fact("Current streak", Fmt.days(s.currentStreak))
+                fact("Longest streak", Fmt.days(s.longestStreak))
+                if let b = s.busiestDay {
+                    fact("Busiest day", "\(ProfileStats.shortDate.string(from: b.date)) · \(b.count) listens")
+                }
+                fact("Library heard", "\(Int((coverage * 100).rounded()))% of \(Fmt.count(s.libraryTracks)) tracks")
+                ForEach(s.milestones) { m in
+                    fact(m.number == 1 ? "First listen" : Fmt.ordinal(m.number) + " listen", "\(m.listen.title) · \(ProfileStats.shortDate.string(from: m.listen.endedAt))")
+                }
+                if let next = s.nextMilestone {
+                    fact("Next milestone", "\(Fmt.count(next - s.totalListens)) to go to \(Fmt.count(next))")
+                }
+            }
+        }
+    }
+
+    private func fact(_ label: String, _ value: String) -> some View {
+        HStack(alignment: .firstTextBaseline, spacing: 10) {
+            Text(label).font(AppFont.ui(11)).foregroundStyle(skin.textTertiary).lineLimit(1).fixedSize()
+            Spacer(minLength: 8)
+            Text(value).font(AppFont.ui(12)).foregroundStyle(skin.textPrimary).lineLimit(1).truncationMode(.middle)
+        }
+        .frame(height: 28)
+        .overlay(alignment: .bottom) { Rectangle().fill(skin.textPrimary.opacity(0.07)).frame(height: 1) }
+    }
+
+    // MARK: Pieces
+
+    private func section<Content: View>(_ title: String, detail: String?, @ViewBuilder content: () -> Content) -> some View {
+        VStack(alignment: .leading, spacing: 8) {
+            HStack(alignment: .firstTextBaseline, spacing: 8) {
+                Text(title).font(AppFont.ui(15, weight: .semibold)).foregroundStyle(skin.textPrimary).lineLimit(1)
+                if let detail { Text(detail).font(AppFont.ui(11)).foregroundStyle(skin.textTertiary).lineLimit(1) }
+                Spacer(minLength: 0)
+            }
+            content()
+        }
+        .padding(16)
+        .frame(maxWidth: .infinity, maxHeight: .infinity, alignment: .topLeading)
+        .pageGlass(skin)
+    }
+
+    private func quiet(_ text: String) -> some View {
+        Text(text).font(AppFont.ui(12)).foregroundStyle(skin.textTertiary).fixedSize(horizontal: false, vertical: true)
+    }
+
+    /// Sections side by side, `columns` to a row, each row as tall as its tallest.
+    private func rows(_ columns: Int, _ views: [AnyView]) -> some View {
+        let groups = stride(from: 0, to: views.count, by: columns).map { Array(views[$0..<min($0 + columns, views.count)]) }
+        return VStack(spacing: 14) {
+            ForEach(Array(groups.enumerated()), id: \.offset) { _, group in
+                HStack(alignment: .top, spacing: 14) {
+                    ForEach(Array(group.enumerated()), id: \.offset) { _, v in v }
+                    if group.count < columns {
+                        ForEach(0..<(columns - group.count), id: \.self) { _ in Color.clear.frame(maxWidth: .infinity) }
+                    }
+                }
+                .fixedSize(horizontal: false, vertical: true)
+            }
+        }
+    }
+}
+
+/// A ranked line: number, cover, what it is, how many listens, and a thin
+/// line for its share of the top entry.
+private struct RankRow: View {
+    var rank: ProfileStats.Rank
+    var number: Int
+    var share: Double?
+    var skin: Skin
+    var onOpen: () -> Void
+    @State private var hovering = false
+
+    var body: some View {
+        HStack(spacing: 10) {
+            Text("\(number)").font(AppFont.ui(11)).foregroundStyle(skin.textTertiary).frame(width: 16, alignment: .trailing)
+            ArtworkView(path: rank.cover, size: 32, skin: skin, placeholder: "opticaldisc")
+                .frame(width: 32, height: 32)
+                .clipShape(Rectangle())
+                .overlay(Rectangle().strokeBorder(skin.textPrimary.opacity(0.1), lineWidth: 1))
+            VStack(alignment: .leading, spacing: 3) {
+                HStack(alignment: .firstTextBaseline, spacing: 8) {
+                    Text(rank.title).font(AppFont.ui(12, weight: .medium)).foregroundStyle(skin.textPrimary).lineLimit(1)
+                    Spacer(minLength: 6)
+                    Text(Fmt.count(rank.count)).font(AppFont.ui(11)).foregroundStyle(skin.textSecondary)
+                }
+                Text(rank.subtitle).font(AppFont.ui(10.5)).foregroundStyle(skin.textTertiary).lineLimit(1)
+                if let share {
+                    GeometryReader { g in
+                        Rectangle().fill(skin.textPrimary.opacity(0.32)).frame(width: max(2, g.size.width * share), height: 2)
+                    }
+                    .frame(height: 2)
+                }
+            }
+        }
+        .padding(.vertical, 4)
+        .padding(.horizontal, 4)
+        .background(Rectangle().fill(skin.textPrimary.opacity(hovering ? 0.05 : 0)))
+        .contentShape(Rectangle())
+        .onHover { hovering = $0 }
+        .onTapGesture(perform: onOpen)
+        .help("\(rank.count) listen\(rank.count == 1 ? "" : "s"), \(Fmt.duration(rank.seconds))")
+    }
+}
+
+/// A name, its share of the whole, and a line for its share of the largest.
+private struct ShareRow: View {
+    var name: String
+    var value: String
+    var share: Double
+    var skin: Skin
+
+    var body: some View {
+        VStack(alignment: .leading, spacing: 3) {
+            HStack(spacing: 8) {
+                Text(name).font(AppFont.ui(11.5)).foregroundStyle(skin.textPrimary).lineLimit(1)
+                Spacer(minLength: 6)
+                Text(value).font(AppFont.ui(10.5)).foregroundStyle(skin.textTertiary)
+            }
+            GeometryReader { g in
+                ZStack(alignment: .leading) {
+                    Rectangle().fill(skin.textPrimary.opacity(0.07))
+                    Rectangle().fill(skin.textPrimary.opacity(0.32)).frame(width: max(2, g.size.width * share))
+                }
+            }
+            .frame(height: 2)
+        }
+    }
+}
